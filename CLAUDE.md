@@ -71,6 +71,19 @@ model_state.json is missing. Setup steps for Campbell are in DEPLOY.md.
 Repo should be public (free unlimited Actions minutes); if private, drop the
 cron to hourly to stay within the free minute cap.
 
+## Ratings cross-check and fair odds
+
+data/external_ratings.json is a read-only FIFA ranking snapshot (rank +
+points, as of 2026-06-11), NOT a model input. tournament.py attaches
+fifa_rank/fifa_points plus the model's own model_rank to each team in
+predictions.json (payload.external holds source/as_of). The dashboard team
+panel shows model rank vs FIFA rank; report.py prints a full cross-check
+table. FIFA's next update is 2026-07-20, so the snapshot is correct through
+the group stage; refresh it after that date by editing the file (or re-run
+the pot/whereig extraction). The dashboard also shows fair decimal odds per
+scheduled match, computed client-side as 1/probability (win/draw/loss and
+advance), labelled back-only-above with a not-advice caveat.
+
 ## Squad news and suspensions
 
 data/adjustments.json holds per-team Elo adjustments:
@@ -89,6 +102,8 @@ return. Conservative by design; doubtful players are mostly excluded.
   the first Action run pushed a deploy and the .vercel.app site loads once
   he has done this; the Vercel auto-deploy-on-bot-push assumption is sound
   but unverified end to end until then.
+- Refresh data/external_ratings.json (FIFA cross-check snapshot) after FIFA's
+  2026-07-20 ranking update; until then the 2026-06-11 snapshot is current.
 - Verify FIFA's third-place combination table against the constraint-matching
   approximation in tournament.py before the group stage ends (24 to 27 June);
   affects only pre-bracket projections, the real bracket takes over once set.

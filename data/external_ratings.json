@@ -1,0 +1,200 @@
+{
+ "source": "FIFA/Coca-Cola Men's World Ranking",
+ "as_of": "2026-06-11",
+ "next_fifa_update": "2026-07-20",
+ "note": "Read-only cross-check. NOT an input to the model's predictions.",
+ "teams": {
+  "Argentina": {
+   "rank": 1,
+   "points": 1877.27
+  },
+  "Spain": {
+   "rank": 2,
+   "points": 1874.71
+  },
+  "France": {
+   "rank": 3,
+   "points": 1870.7
+  },
+  "England": {
+   "rank": 4,
+   "points": 1828.02
+  },
+  "Portugal": {
+   "rank": 5,
+   "points": 1767.85
+  },
+  "Brazil": {
+   "rank": 6,
+   "points": 1765.86
+  },
+  "Morocco": {
+   "rank": 7,
+   "points": 1755.1
+  },
+  "Netherlands": {
+   "rank": 8,
+   "points": 1753.57
+  },
+  "Belgium": {
+   "rank": 9,
+   "points": 1742.24
+  },
+  "Germany": {
+   "rank": 10,
+   "points": 1735.77
+  },
+  "Croatia": {
+   "rank": 11,
+   "points": 1714.87
+  },
+  "Colombia": {
+   "rank": 13,
+   "points": 1698.35
+  },
+  "Mexico": {
+   "rank": 14,
+   "points": 1687.48
+  },
+  "Senegal": {
+   "rank": 15,
+   "points": 1684.07
+  },
+  "Uruguay": {
+   "rank": 16,
+   "points": 1673.07
+  },
+  "United States": {
+   "rank": 17,
+   "points": 1671.23
+  },
+  "Japan": {
+   "rank": 18,
+   "points": 1661.58
+  },
+  "Switzerland": {
+   "rank": 19,
+   "points": 1650.06
+  },
+  "Iran": {
+   "rank": 20,
+   "points": 1619.58
+  },
+  "Turkey": {
+   "rank": 22,
+   "points": 1605.73
+  },
+  "Ecuador": {
+   "rank": 23,
+   "points": 1598.52
+  },
+  "Austria": {
+   "rank": 24,
+   "points": 1597.4
+  },
+  "South Korea": {
+   "rank": 25,
+   "points": 1591.63
+  },
+  "Australia": {
+   "rank": 27,
+   "points": 1579.34
+  },
+  "Algeria": {
+   "rank": 28,
+   "points": 1571.03
+  },
+  "Egypt": {
+   "rank": 29,
+   "points": 1562.37
+  },
+  "Canada": {
+   "rank": 30,
+   "points": 1559.48
+  },
+  "Norway": {
+   "rank": 31,
+   "points": 1557.44
+  },
+  "Ivory Coast": {
+   "rank": 33,
+   "points": 1540.87
+  },
+  "Panama": {
+   "rank": 34,
+   "points": 1539.16
+  },
+  "Sweden": {
+   "rank": 38,
+   "points": 1509.79
+  },
+  "Czech Republic": {
+   "rank": 40,
+   "points": 1505.74
+  },
+  "Paraguay": {
+   "rank": 41,
+   "points": 1505.35
+  },
+  "Scotland": {
+   "rank": 42,
+   "points": 1503.34
+  },
+  "Tunisia": {
+   "rank": 45,
+   "points": 1476.41
+  },
+  "DR Congo": {
+   "rank": 46,
+   "points": 1474.43
+  },
+  "Uzbekistan": {
+   "rank": 50,
+   "points": 1458.73
+  },
+  "Qatar": {
+   "rank": 56,
+   "points": 1450.31
+  },
+  "Iraq": {
+   "rank": 57,
+   "points": 1446.28
+  },
+  "South Africa": {
+   "rank": 60,
+   "points": 1428.38
+  },
+  "Saudi Arabia": {
+   "rank": 61,
+   "points": 1423.88
+  },
+  "Jordan": {
+   "rank": 63,
+   "points": 1387.74
+  },
+  "Bosnia and Herzegovina": {
+   "rank": 64,
+   "points": 1387.22
+  },
+  "Cape Verde": {
+   "rank": 67,
+   "points": 1371.11
+  },
+  "Ghana": {
+   "rank": 73,
+   "points": 1346.88
+  },
+  "Curaçao": {
+   "rank": 82,
+   "points": 1294.77
+  },
+  "Haiti": {
+   "rank": 83,
+   "points": 1293.1
+  },
+  "New Zealand": {
+   "rank": 85,
+   "points": 1275.58
+  }
+ }
+}

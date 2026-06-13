@@ -1,6 +1,6 @@
 # World Cup 2026: match predictions
 
-Generated Sat 13 Jun 2026, 1:45pm AEST. Results included through 2026-06-12. 4 of 104 matches played. 10,000 tournament simulations.
+Generated Sat 13 Jun 2026, 2:27pm AEST. Results included through 2026-06-12. 4 of 104 matches played. 10,000 tournament simulations.
 
 Every probability below is a model estimate built only from match results and public squad news, not from betting odds or published predictions. A favourite can be 75% to win while its most likely exact score sits near 12 to 15%; goals spread across many scorelines, so read the two numbers separately.
 
@@ -28,6 +28,61 @@ Refresh after new results with: `python3 update.py` (regenerates this document).
 | Japan | F | 1986 | 92% | 25% | 11% | 4% | **1.4%** |
 
 Model record so far: 2/4 correct results, 1/4 exact scorelines.
+
+## Ratings cross-check (model vs FIFA)
+
+A read-only comparison of the model's own rating order against the FIFA/Coca-Cola Men's World Ranking ranking (as of 2026-06-11). The FIFA ranking is not an input to the model; this is a sanity check. A positive 'vs FIFA' means the model rates the team higher than FIFA does.
+
+| Model # | Team | Model rating | FIFA # | FIFA pts | vs FIFA |
+| - | - | - | - | - | - |
+| 1 | Spain | 2205 | 2 | 1874.71 | +1 |
+| 2 | Argentina | 2198 | 1 | 1877.27 | -1 |
+| 3 | France | 2128 | 3 | 1870.7 | +0 |
+| 4 | England | 2097 | 4 | 1828.02 | +0 |
+| 5 | Colombia | 2070 | 13 | 1698.35 | +8 |
+| 6 | Portugal | 2058 | 5 | 1767.85 | -1 |
+| 7 | Ecuador | 2053 | 23 | 1598.52 | +16 |
+| 8 | Brazil | 2043 | 6 | 1765.86 | -2 |
+| 9 | Morocco | 2018 | 7 | 1755.1 | -2 |
+| 10 | Mexico | 2009 | 14 | 1687.48 | +4 |
+| 11 | Turkey | 2003 | 22 | 1605.73 | +11 |
+| 12 | Norway | 1998 | 31 | 1557.44 | +19 |
+| 13 | Germany | 1997 | 10 | 1735.77 | -3 |
+| 14 | Belgium | 1988 | 9 | 1742.24 | -5 |
+| 15 | Japan | 1986 | 18 | 1661.58 | +3 |
+| 16 | Switzerland | 1962 | 19 | 1650.06 | +3 |
+| 17 | Netherlands | 1956 | 8 | 1753.57 | -9 |
+| 18 | Uruguay | 1956 | 16 | 1673.07 | -2 |
+| 19 | Croatia | 1955 | 11 | 1714.87 | -8 |
+| 20 | Algeria | 1934 | 28 | 1571.03 | +8 |
+| 21 | Senegal | 1917 | 15 | 1684.07 | -6 |
+| 22 | Iran | 1909 | 20 | 1619.58 | -2 |
+| 23 | South Korea | 1909 | 25 | 1591.63 | +2 |
+| 24 | Austria | 1901 | 24 | 1597.4 | +0 |
+| 25 | Australia | 1885 | 27 | 1579.34 | +2 |
+| 26 | United States | 1884 | 17 | 1671.23 | -9 |
+| 27 | Canada | 1876 | 30 | 1559.48 | +3 |
+| 28 | Ivory Coast | 1876 | 33 | 1540.87 | +5 |
+| 29 | Paraguay | 1868 | 41 | 1505.35 | +12 |
+| 30 | Panama | 1851 | 34 | 1539.16 | +4 |
+| 31 | Egypt | 1848 | 29 | 1562.37 | -2 |
+| 32 | Scotland | 1836 | 42 | 1503.34 | +10 |
+| 33 | Uzbekistan | 1816 | 50 | 1458.73 | +17 |
+| 34 | DR Congo | 1785 | 46 | 1474.43 | +12 |
+| 35 | Czech Republic | 1784 | 40 | 1505.74 | +5 |
+| 36 | Jordan | 1771 | 63 | 1387.74 | +27 |
+| 37 | Sweden | 1769 | 38 | 1509.79 | +1 |
+| 38 | Iraq | 1741 | 57 | 1446.28 | +19 |
+| 39 | Tunisia | 1740 | 45 | 1476.41 | +6 |
+| 40 | Haiti | 1717 | 83 | 1293.1 | +43 |
+| 41 | New Zealand | 1711 | 85 | 1275.58 | +44 |
+| 42 | Bosnia and Herzegovina | 1696 | 64 | 1387.22 | +22 |
+| 43 | Saudi Arabia | 1686 | 61 | 1423.88 | +18 |
+| 44 | South Africa | 1659 | 60 | 1428.38 | +16 |
+| 45 | Cape Verde | 1655 | 67 | 1371.11 | +22 |
+| 46 | Curaçao | 1613 | 82 | 1294.77 | +36 |
+| 47 | Ghana | 1613 | 73 | 1346.88 | +26 |
+| 48 | Qatar | 1527 | 56 | 1450.31 | +8 |
 
 ## Group stage
 

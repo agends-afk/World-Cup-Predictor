@@ -121,6 +121,27 @@ def main():
         add(f"Model record so far: {hits}/{len(played)} correct results, "
             f"{mhits}/{len(played)} exact scorelines.")
 
+    # ------------------------------------------------- ratings cross-check
+    ext = data.get("external") or {}
+    if any(t.get("fifa_rank") for t in teams.values()):
+        add("")
+        add("## Ratings cross-check (model vs FIFA)")
+        add("")
+        add(f"A read-only comparison of the model's own rating order against "
+            f"the {ext.get('source', 'FIFA')} ranking (as of "
+            f"{ext.get('as_of', 'n/a')}). The FIFA ranking is not an input to "
+            f"the model; this is a sanity check. A positive 'vs FIFA' means "
+            f"the model rates the team higher than FIFA does.")
+        add("")
+        add("| Model # | Team | Model rating | FIFA # | FIFA pts | vs FIFA |")
+        add("| - | - | - | - | - | - |")
+        for name, i in sorted(teams.items(),
+                              key=lambda kv: kv[1].get("model_rank", 999)):
+            fr, fp = i.get("fifa_rank"), i.get("fifa_points")
+            diff = f"{fr - i['model_rank']:+d}" if fr and i.get("model_rank") else "n/a"
+            add(f"| {i.get('model_rank', '')} | {name} | {i['rating']:.0f} | "
+                f"{fr if fr else 'n/a'} | {fp if fp else 'n/a'} | {diff} |")
+
     # ------------------------------------------------------------- groups
     add("")
     add("## Group stage")

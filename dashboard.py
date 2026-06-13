@@ -63,6 +63,13 @@ select:focus { outline: none; border-color: #2DD4BF; }
 .fixture .score { color: #2DD4BF; font-weight: 500; }
 .call { font-size: 13px; margin-top: 2px; }
 .call b { color: #F2F2F2; font-weight: 500; }
+.odds { font-size: 12px; color: #52525B; margin-top: 3px; }
+.odds b { color: #A1A1AA; font-weight: 500; }
+.xcheck { font-size: 12.5px; color: #A1A1AA; margin: 6px 0 14px;
+  padding: 9px 13px; background: #0A0A0A; border: 1px solid #27272A; }
+.xcheck b { color: #2DD4BF; }
+.xcheck .muted { color: #52525B; font-size: 11.5px; display: block;
+  margin-top: 3px; }
 .venue { color: #52525B; font-size: 12px; }
 .chip { display: inline-block; font-size: 10px; text-transform: uppercase;
   letter-spacing: 0.12em; padding: 1px 7px; border: 1px solid #27272A;
@@ -95,6 +102,7 @@ function esc(s) {
     .replace(/>/g, '&gt;');
 }
 function pct(x, dp) { return (x * 100).toFixed(dp || 0) + '%'; }
+function fairOdds(p) { return p > 0 ? (1 / p).toFixed(2) : 'n/a'; }
 
 function aest(iso, dateOnly) {
   if (!iso) return dateOnly ? esc(dateOnly) + ' (time tbc)' : 'time tbc';
@@ -176,6 +184,12 @@ function renderTeamPanel() {
     'Group ' + esc(i.group) + ' | rating ' + Math.round(i.rating) +
     (i.adjust ? ' (includes squad adjustment ' + i.adjust + ')' : '') +
     '</span></h2>';
+  h += '<div class="xcheck">Model rank <b>#' + (i.model_rank || '?') +
+    '</b> of 48 (rating ' + Math.round(i.rating) + ')' +
+    (i.fifa_rank ? ' &nbsp; FIFA rank <b>#' + i.fifa_rank + '</b>' +
+      (i.fifa_points ? ' (' + i.fifa_points + ' pts)' : '') : '') +
+    '<span class="muted">FIFA ranking shown for reference only; it is not ' +
+    'used by the model.</span></div>';
   h += '<div class="tiles">';
   [['Last 32', i.p_r32], ['Last 16', i.p_r16], ['Quarterfinal', i.p_qf],
    ['Semifinal', i.p_sf], ['Final', i.p_final], ['Champion', i.p_champion]]
@@ -249,12 +263,27 @@ function matchRow(m) {
     if (m.low_stakes) tags += '<span class="chip">low stakes</span>';
     if (m.projected) tags += '<span class="chip">projected</span>';
   }
+  let oddsLine = '';
+  if (m.status !== 'played' && m.prediction) {
+    const p = m.prediction;
+    let parts = esc(m.team1) + ' <b>' + fairOdds(p.p_win) + '</b> / draw <b>' +
+      fairOdds(p.p_draw) + '</b> / ' + esc(m.team2) + ' <b>' +
+      fairOdds(p.p_loss) + '</b>';
+    if (p.p_advance !== undefined) {
+      const fav = p.p_advance >= 0.5 ? m.team1 : m.team2;
+      const fp = p.p_advance >= 0.5 ? p.p_advance : 1 - p.p_advance;
+      parts += '; ' + esc(fav) + ' to advance <b>' + fairOdds(fp) + '</b>';
+    }
+    oddsLine = '<div class="odds">Fair odds, back only above: ' + parts +
+      '</div>';
+  }
   return '<div class="mrow"><span class="when">' +
     aest(m.kickoff_utc, m.date) + '<br><span class="venue">' +
     stageName(m.stage) + (m.group ? ' ' + esc(m.group) : '') + ' | ' +
     esc(m.city) + '</span></span><span><span class="fixture">' + fixture +
     '</span>' + tags + '<div class="call">' +
-    (m.prediction ? callLine(m) : 'awaiting teams') + '</div></span></div>';
+    (m.prediction ? callLine(m) : 'awaiting teams') + '</div>' + oddsLine +
+    '</span></div>';
 }
 
 function renderUpcoming() {
@@ -405,9 +434,12 @@ def main():
   <footer class="foot">
     This site updates automatically as new results come in. Probabilities
     are model estimates from public match data, not guarantees; exact
-    scorelines rarely exceed 15 to 20% even for heavy favourites. Built
-    from match results only, with no betting odds or published predictions
-    used.
+    scorelines rarely exceed 15 to 20% even for heavy favourites. Fair odds
+    are 1 divided by the model probability and exclude any bookmaker margin,
+    so a wager only carries positive expected value at a price above the one
+    shown; this is information, not betting advice. FIFA rankings are a
+    read-only reference and play no part in the model, which is built from
+    match results only.
   </footer>
 </div>
 <script>

@@ -609,6 +609,24 @@ def generate(state, n_runs):
                 "pos_probs": [round(c / n_runs, 4) for c in pos],
             }
 
+    # Read-only cross-check: attach the external FIFA ranking and the model's
+    # own rank (by rating). Neither feeds back into the predictions.
+    external = {}
+    ext_path = os.path.join(DATA, "external_ratings.json")
+    if os.path.exists(ext_path):
+        with open(ext_path, encoding="utf-8") as f:
+            ext = json.load(f)
+        external = {k: ext[k] for k in
+                    ("source", "as_of", "next_fifa_update", "note") if k in ext}
+        for t, info in teams_out.items():
+            ev = ext.get("teams", {}).get(t)
+            if ev:
+                info["fifa_rank"] = ev.get("rank")
+                info["fifa_points"] = ev.get("points")
+    for rank, (t, _info) in enumerate(
+            sorted(teams_out.items(), key=lambda kv: -kv[1]["rating"]), start=1):
+        teams_out[t]["model_rank"] = rank
+
     ko_pairings = {}
     for no, counter in collect["pairings"].items():
         ko_pairings[str(no)] = [
@@ -633,6 +651,7 @@ def generate(state, n_runs):
         "ko_pairings": ko_pairings,
         "groups": fixtures["groups"],
         "backtest": backtest,
+        "external": external,
     }
     # Fingerprint the meaningful content (everything except the wall-clock
     # timestamp), so a refresh that found no new data produces an identical

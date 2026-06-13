@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-13T13:45:39+10:00",
- "generated_aest": "Sat 13 Jun 2026, 1:45pm AEST",
+ "generated": "2026-06-13T14:27:20+10:00",
+ "generated_aest": "Sat 13 Jun 2026, 2:27pm AEST",
  "data_through": "2026-06-12",
  "sim_runs": 10000,
  "params": {
@@ -27,7 +27,10 @@
     0.0789,
     0.5908,
     0.3167
-   ]
+   ],
+   "fifa_rank": 40,
+   "fifa_points": 1505.74,
+   "model_rank": 35
   },
   "Mexico": {
    "group": "A",
@@ -47,7 +50,10 @@
     0.2142,
     0.0365,
     0.0011
-   ]
+   ],
+   "fifa_rank": 14,
+   "fifa_points": 1687.48,
+   "model_rank": 10
   },
   "South Africa": {
    "group": "A",
@@ -67,7 +73,10 @@
     0.063,
     0.2697,
     0.6641
-   ]
+   ],
+   "fifa_rank": 60,
+   "fifa_points": 1428.38,
+   "model_rank": 44
   },
   "South Korea": {
    "group": "A",
@@ -87,7 +96,10 @@
     0.6439,
     0.103,
     0.0181
-   ]
+   ],
+   "fifa_rank": 25,
+   "fifa_points": 1591.63,
+   "model_rank": 23
   },
   "Bosnia and Herzegovina": {
    "group": "B",
@@ -107,7 +119,10 @@
     0.2256,
     0.5195,
     0.1833
-   ]
+   ],
+   "fifa_rank": 64,
+   "fifa_points": 1387.22,
+   "model_rank": 42
   },
   "Canada": {
    "group": "B",
@@ -127,7 +142,10 @@
     0.4365,
     0.1611,
     0.0244
-   ]
+   ],
+   "fifa_rank": 30,
+   "fifa_points": 1559.48,
+   "model_rank": 27
   },
   "Qatar": {
    "group": "B",
@@ -147,7 +165,10 @@
     0.0419,
     0.1774,
     0.7726
-   ]
+   ],
+   "fifa_rank": 56,
+   "fifa_points": 1450.31,
+   "model_rank": 48
   },
   "Switzerland": {
    "group": "B",
@@ -167,7 +188,10 @@
     0.296,
     0.142,
     0.0197
-   ]
+   ],
+   "fifa_rank": 19,
+   "fifa_points": 1650.06,
+   "model_rank": 16
   },
   "Brazil": {
    "group": "C",
@@ -187,7 +211,10 @@
     0.3398,
     0.1439,
     0.0417
-   ]
+   ],
+   "fifa_rank": 6,
+   "fifa_points": 1765.86,
+   "model_rank": 8
   },
   "Haiti": {
    "group": "C",
@@ -207,7 +234,10 @@
     0.0853,
     0.2666,
     0.6232
-   ]
+   ],
+   "fifa_rank": 83,
+   "fifa_points": 1293.1,
+   "model_rank": 40
   },
   "Morocco": {
    "group": "C",
@@ -227,7 +257,10 @@
     0.3684,
     0.1722,
     0.0538
-   ]
+   ],
+   "fifa_rank": 7,
+   "fifa_points": 1755.1,
+   "model_rank": 9
   },
   "Scotland": {
    "group": "C",
@@ -247,7 +280,10 @@
     0.2065,
     0.4173,
     0.2813
-   ]
+   ],
+   "fifa_rank": 42,
+   "fifa_points": 1503.34,
+   "model_rank": 32
   },
   "Australia": {
    "group": "D",
@@ -267,7 +303,10 @@
     0.2309,
     0.3591,
     0.2978
-   ]
+   ],
+   "fifa_rank": 27,
+   "fifa_points": 1579.34,
+   "model_rank": 25
   },
   "Paraguay": {
    "group": "D",
@@ -287,7 +326,10 @@
     0.1015,
     0.2987,
     0.5821
-   ]
+   ],
+   "fifa_rank": 41,
+   "fifa_points": 1505.35,
+   "model_rank": 29
   },
   "Turkey": {
    "group": "D",
@@ -307,7 +349,10 @@
     0.357,
     0.2226,
     0.1086
-   ]
+   ],
+   "fifa_rank": 22,
+   "fifa_points": 1605.73,
+   "model_rank": 11
   },
   "United States": {
    "group": "D",
@@ -327,7 +372,10 @@
     0.3106,
     0.1196,
     0.0115
-   ]
+   ],
+   "fifa_rank": 17,
+   "fifa_points": 1671.23,
+   "model_rank": 26
   },
   "Curaçao": {
    "group": "E",
@@ -347,7 +395,10 @@
     0.0289,
     0.1444,
     0.8199
-   ]
+   ],
+   "fifa_rank": 82,
+   "fifa_points": 1294.77,
+   "model_rank": 46
   },
   "Ecuador": {
    "group": "E",
@@ -367,7 +418,10 @@
     0.3174,
     0.1409,
     0.0204
-   ]
+   ],
+   "fifa_rank": 23,
+   "fifa_points": 1598.52,
+   "model_rank": 7
   },
   "Germany": {
    "group": "E",
@@ -387,7 +441,10 @@
     0.386,
     0.2297,
     0.0339
-   ]
+   ],
+   "fifa_rank": 10,
+   "fifa_points": 1735.77,
+   "model_rank": 13
   },
   "Ivory Coast": {
    "group": "E",
@@ -407,7 +464,10 @@
     0.2677,
     0.485,
     0.1258
-   ]
+   ],
+   "fifa_rank": 33,
+   "fifa_points": 1540.87,
+   "model_rank": 28
   },
   "Japan": {
    "group": "F",
@@ -427,7 +487,10 @@
     0.321,
     0.1465,
     0.0569
-   ]
+   ],
+   "fifa_rank": 18,
+   "fifa_points": 1661.58,
+   "model_rank": 15
   },
   "Netherlands": {
    "group": "F",
@@ -447,7 +510,10 @@
     0.3507,
     0.1828,
     0.0811
-   ]
+   ],
+   "fifa_rank": 8,
+   "fifa_points": 1753.57,
+   "model_rank": 17
   },
   "Sweden": {
    "group": "F",
@@ -467,7 +533,10 @@
     0.1789,
     0.3524,
     0.3935
-   ]
+   ],
+   "fifa_rank": 38,
+   "fifa_points": 1509.79,
+   "model_rank": 37
   },
   "Tunisia": {
    "group": "F",
@@ -487,7 +556,10 @@
     0.1494,
     0.3183,
     0.4685
-   ]
+   ],
+   "fifa_rank": 45,
+   "fifa_points": 1476.41,
+   "model_rank": 39
   },
   "Belgium": {
    "group": "G",
@@ -507,7 +579,10 @@
     0.2835,
     0.1527,
     0.0583
-   ]
+   ],
+   "fifa_rank": 9,
+   "fifa_points": 1742.24,
+   "model_rank": 14
   },
   "Egypt": {
    "group": "G",
@@ -527,7 +602,10 @@
     0.2673,
     0.3347,
     0.2249
-   ]
+   ],
+   "fifa_rank": 29,
+   "fifa_points": 1562.37,
+   "model_rank": 31
   },
   "Iran": {
    "group": "G",
@@ -547,7 +625,10 @@
     0.3319,
     0.2645,
     0.1266
-   ]
+   ],
+   "fifa_rank": 20,
+   "fifa_points": 1619.58,
+   "model_rank": 22
   },
   "New Zealand": {
    "group": "G",
@@ -567,7 +648,10 @@
     0.1173,
     0.2481,
     0.5902
-   ]
+   ],
+   "fifa_rank": 85,
+   "fifa_points": 1275.58,
+   "model_rank": 41
   },
   "Cape Verde": {
    "group": "H",
@@ -587,7 +671,10 @@
     0.085,
     0.3799,
     0.5295
-   ]
+   ],
+   "fifa_rank": 67,
+   "fifa_points": 1371.11,
+   "model_rank": 45
   },
   "Saudi Arabia": {
    "group": "H",
@@ -607,7 +694,10 @@
     0.1182,
     0.4478,
     0.4264
-   ]
+   ],
+   "fifa_rank": 61,
+   "fifa_points": 1423.88,
+   "model_rank": 43
   },
   "Spain": {
    "group": "H",
@@ -627,7 +717,10 @@
     0.1493,
     0.0137,
     0.0009
-   ]
+   ],
+   "fifa_rank": 2,
+   "fifa_points": 1874.71,
+   "model_rank": 1
   },
   "Uruguay": {
    "group": "H",
@@ -647,7 +740,10 @@
     0.6475,
     0.1586,
     0.0432
-   ]
+   ],
+   "fifa_rank": 16,
+   "fifa_points": 1673.07,
+   "model_rank": 18
   },
   "France": {
    "group": "I",
@@ -667,7 +763,10 @@
     0.2541,
     0.1099,
     0.0268
-   ]
+   ],
+   "fifa_rank": 3,
+   "fifa_points": 1870.7,
+   "model_rank": 3
   },
   "Iraq": {
    "group": "I",
@@ -687,7 +786,10 @@
     0.0806,
     0.2221,
     0.679
-   ]
+   ],
+   "fifa_rank": 57,
+   "fifa_points": 1446.28,
+   "model_rank": 38
   },
   "Norway": {
    "group": "I",
@@ -707,7 +809,10 @@
     0.3886,
     0.2698,
     0.0918
-   ]
+   ],
+   "fifa_rank": 31,
+   "fifa_points": 1557.44,
+   "model_rank": 12
   },
   "Senegal": {
    "group": "I",
@@ -727,7 +832,10 @@
     0.2767,
     0.3982,
     0.2024
-   ]
+   ],
+   "fifa_rank": 15,
+   "fifa_points": 1684.07,
+   "model_rank": 21
   },
   "Algeria": {
    "group": "J",
@@ -747,7 +855,10 @@
     0.3879,
     0.3254,
     0.175
-   ]
+   ],
+   "fifa_rank": 28,
+   "fifa_points": 1571.03,
+   "model_rank": 20
   },
   "Argentina": {
    "group": "J",
@@ -767,7 +878,10 @@
     0.164,
     0.0451,
     0.0077
-   ]
+   ],
+   "fifa_rank": 1,
+   "fifa_points": 1877.27,
+   "model_rank": 2
   },
   "Austria": {
    "group": "J",
@@ -787,7 +901,10 @@
     0.3227,
     0.3565,
     0.2357
-   ]
+   ],
+   "fifa_rank": 24,
+   "fifa_points": 1597.4,
+   "model_rank": 24
   },
   "Jordan": {
    "group": "J",
@@ -807,7 +924,10 @@
     0.1254,
     0.273,
     0.5816
-   ]
+   ],
+   "fifa_rank": 63,
+   "fifa_points": 1387.74,
+   "model_rank": 36
   },
   "Colombia": {
    "group": "K",
@@ -827,7 +947,10 @@
     0.3565,
     0.132,
     0.0423
-   ]
+   ],
+   "fifa_rank": 13,
+   "fifa_points": 1698.35,
+   "model_rank": 5
   },
   "DR Congo": {
    "group": "K",
@@ -847,7 +970,10 @@
     0.1185,
     0.3424,
     0.5018
-   ]
+   ],
+   "fifa_rank": 46,
+   "fifa_points": 1474.43,
+   "model_rank": 34
   },
   "Portugal": {
    "group": "K",
@@ -867,7 +993,10 @@
     0.3721,
     0.1403,
     0.0483
-   ]
+   ],
+   "fifa_rank": 5,
+   "fifa_points": 1767.85,
+   "model_rank": 6
   },
   "Uzbekistan": {
    "group": "K",
@@ -887,7 +1016,10 @@
     0.1529,
     0.3853,
     0.4076
-   ]
+   ],
+   "fifa_rank": 50,
+   "fifa_points": 1458.73,
+   "model_rank": 33
   },
   "Croatia": {
    "group": "L",
@@ -907,7 +1039,10 @@
     0.4305,
     0.2738,
     0.0537
-   ]
+   ],
+   "fifa_rank": 11,
+   "fifa_points": 1714.87,
+   "model_rank": 19
   },
   "England": {
    "group": "L",
@@ -927,7 +1062,10 @@
     0.2526,
     0.0876,
     0.0107
-   ]
+   ],
+   "fifa_rank": 4,
+   "fifa_points": 1828.02,
+   "model_rank": 4
   },
   "Ghana": {
    "group": "L",
@@ -947,7 +1085,10 @@
     0.0401,
     0.1612,
     0.7905
-   ]
+   ],
+   "fifa_rank": 73,
+   "fifa_points": 1346.88,
+   "model_rank": 47
   },
   "Panama": {
    "group": "L",
@@ -967,7 +1108,10 @@
     0.2768,
     0.4774,
     0.1451
-   ]
+   ],
+   "fifa_rank": 34,
+   "fifa_points": 1539.16,
+   "model_rank": 30
   }
  },
  "matches": [
@@ -6879,5 +7023,11 @@
   },
   "note": "Knockout outcome labels use the recorded score, which includes extra time, so a few 90-minute draws count against the model."
  },
- "content_hash": "04d0bc481b66d26240b215494580fab0df7a8f82"
+ "external": {
+  "source": "FIFA/Coca-Cola Men's World Ranking",
+  "as_of": "2026-06-11",
+  "next_fifa_update": "2026-07-20",
+  "note": "Read-only cross-check. NOT an input to the model's predictions."
+ },
+ "content_hash": "815e92627a81a09084352cb1f31c927837148009"
 }
