@@ -158,7 +158,8 @@ function callLine(m) {
   }
   let s = lead + ' (' + pct(p.p_win) + ' / ' + pct(p.p_draw) + ' / ' +
     pct(p.p_loss) + ' for ' + esc(m.team1) + '), likely ' +
-    esc(p.modal_score) + ' (' + pct(p.modal_p) + ')';
+    esc(p.modal_score) + ' (' + pct(p.modal_p) + ', fair ' +
+    fairOdds(p.modal_p) + ')';
   if (p.p_advance !== undefined && m.status !== 'played') {
     const fav = p.p_advance >= 0.5 ? m.team1 : m.team2;
     const fp = p.p_advance >= 0.5 ? p.p_advance : 1 - p.p_advance;
