@@ -1,0 +1,14 @@
+# Large, re-downloadable historical dataset (full rebuild fetches it again).
+# The small cached model state (data/model_state.json) is committed instead.
+data/results.csv
+
+# Python and macOS noise
+__pycache__/
+*.pyc
+.DS_Store
+
+# Local-only editor/preview config
+.claude/
+
+# Temp files written during a refresh
+*.tmp

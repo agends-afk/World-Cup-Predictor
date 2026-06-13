@@ -1,0 +1,8 @@
+{
+  "framework": null,
+  "buildCommand": "echo No build step. Serving prebuilt static files from output/.",
+  "outputDirectory": "output",
+  "rewrites": [
+    { "source": "/", "destination": "/dashboard.html" }
+  ]
+}

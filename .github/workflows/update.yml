@@ -1,0 +1,56 @@
+name: Update predictions
+
+# Re-runs the model on a schedule and on demand. Commits the refreshed
+# output only when the prediction content actually changed, so Vercel
+# redeploys on real updates and stays quiet otherwise.
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # every 30 minutes (times are UTC; GitHub may delay a few minutes)
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "fast = apply new results to cached ratings; full = rebuild the model from scratch"
+        type: choice
+        options: [fast, full]
+        default: fast
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-predictions
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run update
+        run: |
+          if [ "${{ github.event.inputs.mode }}" = "full" ]; then
+            python3 update.py full
+          else
+            python3 update.py
+          fi
+
+      - name: Commit and push only if predictions changed
+        run: |
+          git config user.name "wc-predictor-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          NEW=$(python3 -c "import json; print(json.load(open('output/predictions.json')).get('content_hash',''))")
+          OLD=$(git show HEAD:output/predictions.json 2>/dev/null | python3 -c "import json,sys; print(json.load(sys.stdin).get('content_hash',''))" 2>/dev/null || echo "")
+          if [ -n "$OLD" ] && [ "$NEW" = "$OLD" ]; then
+            echo "No meaningful change (hash $NEW). Nothing to deploy."
+            exit 0
+          fi
+          THROUGH=$(python3 -c "import json; print(json.load(open('output/predictions.json'))['data_through'])")
+          git add -A
+          git commit -m "Auto-update predictions (results through ${THROUGH})"
+          git push

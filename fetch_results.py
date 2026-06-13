@@ -1,0 +1,373 @@
+"""Live data layer: builds and refreshes the 2026 fixture state.
+
+Sources (both public):
+- The martj42 international results dataset (full history, refreshed on
+  download) at raw.githubusercontent.com.
+- The English Wikipedia article "2026 FIFA World Cup", whose 104 footballbox
+  blocks carry every fixture, official match numbers, bracket placeholders,
+  venues and live scores.
+
+Outputs:
+- data/results.csv          refreshed historical dataset
+- data/fixtures.json        canonical fixture state (created once, then updated)
+- data/live_results.csv     played 2026 matches in dataset schema for the Elo pass
+
+Run directly to refresh: python3 fetch_results.py
+"""
+
+import csv
+import html as html_mod
+import json
+import os
+import re
+import subprocess
+import sys
+import urllib.request
+from datetime import datetime, timedelta
+
+from names import canon
+
+DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data")
+WIKI_URL = "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup"
+DATASET_URL = "https://raw.githubusercontent.com/martj42/international_results/master/results.csv"
+USER_AGENT = "WorldCupPredictor/1.0 (personal research project)"
+
+MEXICO_CITIES = {"Mexico City", "Zapopan", "Guadalajara", "Guadalupe", "Monterrey"}
+CANADA_CITIES = {"Toronto", "Vancouver"}
+HOSTS = {"Mexico": "Mexico", "Canada": "Canada", "United States": "United States"}
+
+STAGE_HEADINGS = [
+    ("round of 32", "r32"), ("round of 16", "r16"), ("quarter", "qf"),
+    ("semi", "sf"), ("third place", "third"), ("bronze", "third"),
+    ("final", "final"),
+]
+
+
+def fetch_url(url):
+    """Fetch a URL, urllib first, curl as fallback. Returns text or None."""
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+        with urllib.request.urlopen(req, timeout=60) as resp:
+            return resp.read().decode("utf-8", errors="replace")
+    except Exception:
+        pass
+    try:
+        out = subprocess.run(
+            ["curl", "-sL", "-A", USER_AGENT, url],
+            capture_output=True, timeout=120)
+        if out.returncode == 0 and out.stdout:
+            return out.stdout.decode("utf-8", errors="replace")
+    except Exception:
+        pass
+    return None
+
+
+def refresh_dataset():
+    """Re-download the historical dataset; keep the old file on failure."""
+    text = fetch_url(DATASET_URL)
+    path = os.path.join(DATA_DIR, "results.csv")
+    if text and text.startswith("date,home_team"):
+        tmp = path + ".tmp"
+        with open(tmp, "w", encoding="utf-8") as f:
+            f.write(text)
+        os.replace(tmp, path)
+        return True
+    return False
+
+
+def _strip(s):
+    s = re.sub(r"<[^>]+>", " ", s)
+    s = html_mod.unescape(s)
+    s = s.replace(" ", " ")
+    return re.sub(r"\s+", " ", s).strip()
+
+
+def kickoff_utc(date_iso, ftime):
+    """Kickoff in UTC from the article's local time, e.g. '1:00 p.m. UTC−6'.
+
+    Returns an ISO string like '2026-06-11T19:00:00Z', or None if the time
+    is absent or unparseable.
+    """
+    if not date_iso or not ftime:
+        return None
+    m = re.search(
+        r"(\d{1,2}):(\d{2})\s*(?:([ap])\.?\s?m\.?)?\s*UTC\s*"
+        r"([+−-])\s*(\d{1,2})(?::(\d{2}))?", ftime, re.I)
+    if not m:
+        return None
+    h, minute = int(m.group(1)), int(m.group(2))
+    ampm = m.group(3)
+    if ampm:
+        if ampm.lower() == "p" and h != 12:
+            h += 12
+        if ampm.lower() == "a" and h == 12:
+            h = 0
+    sign = 1 if m.group(4) == "+" else -1
+    offset = timedelta(hours=int(m.group(5)), minutes=int(m.group(6) or 0))
+    local = datetime.fromisoformat(date_iso) + timedelta(hours=h, minutes=minute)
+    utc = local - sign * offset
+    return utc.strftime("%Y-%m-%dT%H:%M:00Z")
+
+
+def parse_wiki(html):
+    """Parse all footballbox blocks plus their governing section headings."""
+    headings = []
+    for m in re.finditer(r"<h([234])[^>]*>(.*?)</h\1>", html, re.S):
+        headings.append((m.start(), _strip(m.group(2))))
+
+    starts = [m.start() for m in re.finditer(
+        r'<div itemscope[^>]*class="footballbox"', html)]
+    boxes = []
+    for i, st in enumerate(starts):
+        end = starts[i + 1] if i + 1 < len(starts) else st + 12000
+        chunk = html[st:end]
+        heading = ""
+        for pos, text in headings:
+            if pos < st:
+                heading = text
+            else:
+                break
+
+        def grab(pattern):
+            m = re.search(pattern, chunk, re.S)
+            return _strip(m.group(1)) if m else ""
+
+        date_iso = ""
+        fdate = grab(r'class="fdate"[^>]*>(.*?)</div>')
+        m = re.search(r"(\d{4}-\d{2}-\d{2})", fdate)
+        if m:
+            date_iso = m.group(1)
+        ftime = grab(r'class="ftime"[^>]*>(.*?)</div>')
+        team1 = grab(r'class="fhome"[^>]*>(.*?)</th>')
+        team2 = grab(r'class="faway"[^>]*>(.*?)</th>')
+        score_text = grab(r'class="fscore"[^>]*>(.*?)</th>')
+        loc = grab(r'itemprop="location"[^>]*>(.*?)</div>')
+
+        score1 = score2 = None
+        sm = re.search(r"(\d+)\s*[–-]\s*(\d+)", score_text)
+        match_no = None
+        nm = re.search(r"Match\s+(\d+)", score_text)
+        if nm:
+            match_no = int(nm.group(1))
+        elif sm:
+            score1, score2 = int(sm.group(1)), int(sm.group(2))
+        aet = "a.e.t" in score_text or "a.e.t" in chunk[:3000]
+        pens = None
+        pm = re.search(r"[Pp]enalties.{0,400}?(\d+)\s*[–-]\s*(\d+)", chunk, re.S)
+        if pm:
+            pens = (int(pm.group(1)), int(pm.group(2)))
+
+        stadium, city = "", ""
+        if "," in loc:
+            stadium, city = [p.strip() for p in loc.rsplit(",", 1)]
+        else:
+            city = loc
+        boxes.append({
+            "order": i, "heading": heading, "date": date_iso,
+            "team1": team1, "team2": team2, "score_text": score_text,
+            "score1": score1, "score2": score2, "match_no": match_no,
+            "aet": aet, "pens": pens, "stadium": stadium, "city": city,
+            "kickoff_utc": kickoff_utc(date_iso, ftime),
+        })
+    return boxes
+
+
+def classify(box):
+    """Stage and group for a parsed box, from its section heading."""
+    h = box["heading"].lower()
+    gm = re.match(r"group\s+([a-l])\b", h)
+    if gm:
+        return "group", gm.group(1).upper()
+    for key, stage in STAGE_HEADINGS:
+        if key in h:
+            return stage, None
+    return None, None
+
+
+def city_country(city):
+    if city in MEXICO_CITIES:
+        return "Mexico"
+    if city in CANADA_CITIES:
+        return "Canada"
+    return "United States"
+
+
+def is_placeholder(name):
+    """True for bracket placeholders like 'Winner Group A' or 'Third Group C/E/F'."""
+    n = name.lower()
+    return (not n) or any(t in n for t in
+                          ("winner", "runner", "third", "3rd", "loser", "match "))
+
+
+def build_state(boxes):
+    """Construct the canonical fixture list from parsed boxes."""
+    matches = []
+    for b in boxes:
+        stage, group = classify(b)
+        if stage is None:
+            continue
+        team1, team2 = canon(b["team1"]), canon(b["team2"])
+        slot1 = slot2 = None
+        if is_placeholder(b["team1"]):
+            slot1, team1 = b["team1"], None
+        if is_placeholder(b["team2"]):
+            slot2, team2 = b["team2"], None
+        played = b["score1"] is not None
+        matches.append({
+            "match": b["match_no"],
+            "stage": stage, "group": group,
+            "date": b["date"], "city": b["city"], "stadium": b["stadium"],
+            "country": city_country(b["city"]),
+            "team1": team1, "team2": team2,
+            "slot1": slot1, "slot2": slot2,
+            "score1": b["score1"], "score2": b["score2"],
+            "aet": b["aet"],
+            "pens": list(b["pens"]) if b["pens"] else None,
+            "status": "played" if played else "scheduled",
+            "order": b["order"],
+            "kickoff_utc": b["kickoff_utc"],
+        })
+    # Assign any missing official match numbers (played boxes lose theirs to
+    # the score cell): fill with the unused numbers in page order.
+    used = {m["match"] for m in matches if m["match"]}
+    free = [n for n in range(1, len(matches) + 1) if n not in used]
+    for m in matches:
+        if m["match"] is None and free:
+            m["match"] = free.pop(0)
+    matches.sort(key=lambda m: m["match"])
+    return matches
+
+
+def derive_groups(matches):
+    groups = {}
+    for m in matches:
+        if m["stage"] == "group" and m["group"] and m["team1"] and m["team2"]:
+            g = groups.setdefault(m["group"], set())
+            g.add(m["team1"])
+            g.add(m["team2"])
+    return {k: sorted(v) for k, v in sorted(groups.items())}
+
+
+def validate(matches, groups):
+    """Structural checks; returns a list of problem strings (empty = good)."""
+    problems = []
+    if len(matches) != 104:
+        problems.append(f"expected 104 matches, got {len(matches)}")
+    counts = {}
+    for m in matches:
+        counts[m["stage"]] = counts.get(m["stage"], 0) + 1
+    for stage, want in (("group", 72), ("r32", 16), ("r16", 8), ("qf", 4),
+                        ("sf", 2), ("third", 1), ("final", 1)):
+        if counts.get(stage, 0) != want:
+            problems.append(f"stage {stage}: {counts.get(stage, 0)} != {want}")
+    if len(groups) != 12:
+        problems.append(f"expected 12 groups, got {len(groups)}")
+    for g, teams in groups.items():
+        if len(teams) != 4:
+            problems.append(f"group {g} has {len(teams)} teams: {teams}")
+    appearances = {}
+    for m in matches:
+        if m["stage"] == "group":
+            for t in (m["team1"], m["team2"]):
+                if t:
+                    appearances[t] = appearances.get(t, 0) + 1
+    bad = {t: n for t, n in appearances.items() if n != 3}
+    if bad:
+        problems.append(f"teams without exactly 3 group matches: {bad}")
+    for m in matches:
+        if not m["date"] or not ("2026-06-11" <= m["date"] <= "2026-07-19"):
+            problems.append(f"match {m['match']} bad date: {m['date']}")
+    return problems
+
+
+def merge_into_fixtures(matches, groups, path):
+    """Create fixtures.json on first run; afterwards update scores, statuses
+    and knockout team resolution while keeping numbering stable."""
+    if os.path.exists(path):
+        with open(path, encoding="utf-8") as f:
+            fx = json.load(f)
+        by_no = {m["match"]: m for m in fx["matches"]}
+        for new in matches:
+            old = by_no.get(new["match"])
+            if old is None:
+                continue
+            for key in ("team1", "team2"):
+                if new[key] and not old.get(key):
+                    old[key] = new[key]
+            if new.get("kickoff_utc"):
+                old["kickoff_utc"] = new["kickoff_utc"]
+            if new["status"] == "played":
+                for key in ("score1", "score2", "aet", "pens", "status"):
+                    old[key] = new[key]
+        fx["groups"] = groups or fx.get("groups", {})
+    else:
+        fx = {"source": WIKI_URL, "groups": groups, "matches": matches}
+    # Keep enriched team objects (name/confederation/qualified_via) if present;
+    # only fall back to the flat name list when no such list exists yet.
+    existing = fx.get("teams")
+    if not (isinstance(existing, list) and existing and isinstance(existing[0], dict)):
+        fx["teams"] = sorted({t for g in fx["groups"].values() for t in g})
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(fx, f, indent=1, ensure_ascii=False)
+    return fx
+
+
+def write_live_results(fx, path):
+    """Played 2026 matches in dataset schema, host team listed at home."""
+    rows = []
+    for m in fx["matches"]:
+        if m["status"] != "played" or m["score1"] is None:
+            continue
+        t1, t2, s1, s2 = m["team1"], m["team2"], m["score1"], m["score2"]
+        host = HOSTS.get(t1) == m["country"]
+        host2 = HOSTS.get(t2) == m["country"]
+        if host2 and not host:
+            t1, t2, s1, s2 = t2, t1, s2, s1
+            host = True
+        rows.append({
+            "date": m["date"], "home_team": t1, "away_team": t2,
+            "home_score": s1, "away_score": s2,
+            "tournament": "FIFA World Cup", "city": m["city"],
+            "country": m["country"], "neutral": "FALSE" if host else "TRUE",
+        })
+    with open(path, "w", encoding="utf-8", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=["date", "home_team", "away_team",
+                                          "home_score", "away_score",
+                                          "tournament", "city", "country",
+                                          "neutral"])
+        w.writeheader()
+        w.writerows(rows)
+    return len(rows)
+
+
+def update_all(verbose=True, dataset=True):
+    """Refresh fixture state. dataset=False (fast mode) skips the full
+    historical dataset download; live scores still come from the article."""
+    summary = {"dataset_refreshed": refresh_dataset() if dataset else "skipped",
+               "warnings": []}
+    page = fetch_url(WIKI_URL)
+    fixtures_path = os.path.join(DATA_DIR, "fixtures.json")
+    if page is None:
+        summary["warnings"].append("Wikipedia fetch failed; using cached fixtures")
+        with open(fixtures_path, encoding="utf-8") as f:
+            fx = json.load(f)
+    else:
+        boxes = parse_wiki(page)
+        matches = build_state(boxes)
+        groups = derive_groups(matches)
+        problems = validate(matches, groups)
+        if problems and not os.path.exists(fixtures_path):
+            raise RuntimeError("fixture validation failed: " + "; ".join(problems))
+        if problems:
+            summary["warnings"].extend(problems)
+        fx = merge_into_fixtures(matches, groups, fixtures_path)
+    n_played = write_live_results(fx, os.path.join(DATA_DIR, "live_results.csv"))
+    summary["matches_played"] = n_played
+    if verbose:
+        print(f"dataset refreshed: {summary['dataset_refreshed']}, "
+              f"played matches: {n_played}, warnings: {summary['warnings']}")
+    return fx, summary
+
+
+if __name__ == "__main__":
+    update_all(dataset="fast" not in sys.argv)

@@ -1,0 +1,595 @@
+{
+ "summary": {
+  "n_matches": 64,
+  "outcome_accuracy": 0.5,
+  "outcome_accuracy_static": 0.5312,
+  "group_stage_accuracy": 0.52,
+  "modal_score_hit_rate": 0.0938,
+  "mean_brier": 0.6364,
+  "mean_log_loss": 1.1023,
+  "params": {
+   "alpha_wc": 0.1927,
+   "beta": 0.7939,
+   "rho": -0.07
+  },
+  "note": "Knockout outcome labels use the recorded score, which includes extra time, so a few 90-minute draws count against the model."
+ },
+ "matches": [
+  {
+   "date": "2022-11-20",
+   "match": "Qatar v Ecuador",
+   "actual": "0-2",
+   "pick": "L",
+   "p_pick": 0.362,
+   "modal": "1-1",
+   "stage": "group"
+  },
+  {
+   "date": "2022-11-21",
+   "match": "Senegal v Netherlands",
+   "actual": "0-2",
+   "pick": "L",
+   "p_pick": 0.686,
+   "modal": "0-2",
+   "stage": "group"
+  },
+  {
+   "date": "2022-11-21",
+   "match": "England v Iran",
+   "actual": "6-2",
+   "pick": "W",
+   "p_pick": 0.463,
+   "modal": "1-1",
+   "stage": "group"
+  },
+  {
+   "date": "2022-11-21",
+   "match": "United States v Wales",
+   "actual": "1-1",
+   "pick": "W",
+   "p_pick": 0.432,
+   "modal": "1-1",
+   "stage": "group"
+  },
+  {
+   "date": "2022-11-22",
+   "match": "Argentina v Saudi Arabia",
+   "actual": "1-2",
+   "pick": "W",
+   "p_pick": 0.863,
+   "modal": "2-0",
+   "stage": "group"
+  },
+  {
+   "date": "2022-11-22",
+   "match": "Mexico v Poland",
+   "actual": "0-0",
+   "pick": "W",
+   "p_pick": 0.387,
+   "modal": "1-1",
+   "stage": "group"
+  },
+  {
+   "date": "2022-11-22",
+   "match": "Denmark v Tunisia",
+   "actual": "0-0",
+   "pick": "W",
+   "p_pick": 0.593,
+   "modal": "1-0",
+   "stage": "group"
+  },
+  {
+   "date": "2022-11-22",
+   "match": "France v Australia",
+   "actual": "4-1",
+   "pick": "W",
+   "p_pick": 0.606,
+   "modal": "1-0",
+   "stage": "group"
+  },
+  {
+   "date": "2022-11-23",
+   "match": "Germany v Japan",
+   "actual": "1-2",
+   "pick": "W",
+   "p_pick": 0.513,
+   "modal": "1-1",
+   "stage": "group"
+  },
+  {
+   "date": "2022-11-23",
+   "match": "Spain v Costa Rica",
+   "actual": "7-0",
+   "pick": "W",
+   "p_pick": 0.638,
+   "modal": "2-0",
+   "stage": "group"
+  },
+  {
+   "date": "2022-11-23",
+   "match": "Morocco v Croatia",
+   "actual": "0-0",
+   "pick": "L",
+   "p_pick": 0.491,
+   "modal": "1-1",
+   "stage": "group"
+  },
+  {
+   "date": "2022-11-23",
+   "match": "Belgium v Canada",
+   "actual": "1-0",
+   "pick": "W",
+   "p_pick": 0.546,
+   "modal": "1-1",
+   "stage": "group"
+  },
+  {
+   "date": "2022-11-24",
+   "match": "Switzerland v Cameroon",
+   "actual": "1-0",
+   "pick": "W",
+   "p_pick": 0.651,
+   "modal": "2-0",
+   "stage": "group"
+  },
+  {
+   "date": "2022-11-24",
+   "match": "Brazil v Serbia",
+   "actual": "2-0",
+   "pick": "W",
+   "p_pick": 0.703,
+   "modal": "2-0",
+   "stage": "group"
+  },
+  {
+   "date": "2022-11-24",
+   "match": "Uruguay v South Korea",
+   "actual": "0-0",
+   "pick": "W",
+   "p_pick": 0.506,
+   "modal": "1-1",
+   "stage": "group"
+  },
+  {
+   "date": "2022-11-24",
+   "match": "Portugal v Ghana",
+   "actual": "3-2",
+   "pick": "W",
+   "p_pick": 0.79,
+   "modal": "2-0",
+   "stage": "group"
+  },
+  {
+   "date": "2022-11-25",
+   "match": "Qatar v Senegal",
+   "actual": "1-3",
+   "pick": "W",
+   "p_pick": 0.39,
+   "modal": "1-1",
+   "stage": "group"
+  },
+  {
+   "date": "2022-11-25",
+   "match": "Netherlands v Ecuador",
+   "actual": "1-1",
+   "pick": "W",
+   "p_pick": 0.535,
+   "modal": "1-1",
+   "stage": "group"
+  },
+  {
+   "date": "2022-11-25",
+   "match": "Wales v Iran",
+   "actual": "0-2",
+   "pick": "W",
+   "p_pick": 0.374,
+   "modal": "1-1",
+   "stage": "group"
+  },
+  {
+   "date": "2022-11-25",
+   "match": "England v United States",
+   "actual": "0-0",
+   "pick": "W",
+   "p_pick": 0.538,
+   "modal": "1-1",
+   "stage": "group"
+  },
+  {
+   "date": "2022-11-26",
+   "match": "Poland v Saudi Arabia",
+   "actual": "2-0",
+   "pick": "W",
+   "p_pick": 0.401,
+   "modal": "1-1",
+   "stage": "group"
+  },
+  {
+   "date": "2022-11-26",
+   "match": "Argentina v Mexico",
+   "actual": "2-0",
+   "pick": "W",
+   "p_pick": 0.629,
+   "modal": "1-0",
+   "stage": "group"
+  },
+  {
+   "date": "2022-11-26",
+   "match": "Tunisia v Australia",
+   "actual": "0-1",
+   "pick": "W",
+   "p_pick": 0.403,
+   "modal": "1-1",
+   "stage": "group"
+  },
+  {
+   "date": "2022-11-26",
+   "match": "France v Denmark",
+   "actual": "2-1",
+   "pick": "W",
+   "p_pick": 0.462,
+   "modal": "1-1",
+   "stage": "group"
+  },
+  {
+   "date": "2022-11-27",
+   "match": "Japan v Costa Rica",
+   "actual": "0-1",
+   "pick": "W",
+   "p_pick": 0.504,
+   "modal": "1-1",
+   "stage": "group"
+  },
+  {
+   "date": "2022-11-27",
+   "match": "Spain v Germany",
+   "actual": "1-1",
+   "pick": "W",
+   "p_pick": 0.582,
+   "modal": "1-0",
+   "stage": "group"
+  },
+  {
+   "date": "2022-11-27",
+   "match": "Belgium v Morocco",
+   "actual": "0-2",
+   "pick": "W",
+   "p_pick": 0.602,
+   "modal": "1-0",
+   "stage": "group"
+  },
+  {
+   "date": "2022-11-27",
+   "match": "Croatia v Canada",
+   "actual": "4-1",
+   "pick": "W",
+   "p_pick": 0.465,
+   "modal": "1-1",
+   "stage": "group"
+  },
+  {
+   "date": "2022-11-28",
+   "match": "Cameroon v Serbia",
+   "actual": "3-3",
+   "pick": "L",
+   "p_pick": 0.654,
+   "modal": "0-2",
+   "stage": "group"
+  },
+  {
+   "date": "2022-11-28",
+   "match": "Brazil v Switzerland",
+   "actual": "1-0",
+   "pick": "W",
+   "p_pick": 0.715,
+   "modal": "2-0",
+   "stage": "group"
+  },
+  {
+   "date": "2022-11-28",
+   "match": "South Korea v Ghana",
+   "actual": "2-3",
+   "pick": "W",
+   "p_pick": 0.633,
+   "modal": "2-0",
+   "stage": "group"
+  },
+  {
+   "date": "2022-11-28",
+   "match": "Portugal v Uruguay",
+   "actual": "2-0",
+   "pick": "W",
+   "p_pick": 0.434,
+   "modal": "1-1",
+   "stage": "group"
+  },
+  {
+   "date": "2022-11-29",
+   "match": "Ecuador v Senegal",
+   "actual": "1-2",
+   "pick": "W",
+   "p_pick": 0.494,
+   "modal": "1-1",
+   "stage": "group"
+  },
+  {
+   "date": "2022-11-29",
+   "match": "Qatar v Netherlands",
+   "actual": "0-2",
+   "pick": "L",
+   "p_pick": 0.765,
+   "modal": "0-2",
+   "stage": "group"
+  },
+  {
+   "date": "2022-11-29",
+   "match": "Wales v England",
+   "actual": "0-3",
+   "pick": "L",
+   "p_pick": 0.663,
+   "modal": "0-2",
+   "stage": "group"
+  },
+  {
+   "date": "2022-11-29",
+   "match": "Iran v United States",
+   "actual": "0-1",
+   "pick": "L",
+   "p_pick": 0.369,
+   "modal": "1-1",
+   "stage": "group"
+  },
+  {
+   "date": "2022-11-30",
+   "match": "Poland v Argentina",
+   "actual": "0-2",
+   "pick": "L",
+   "p_pick": 0.618,
+   "modal": "0-1",
+   "stage": "group"
+  },
+  {
+   "date": "2022-11-30",
+   "match": "Saudi Arabia v Mexico",
+   "actual": "1-2",
+   "pick": "L",
+   "p_pick": 0.465,
+   "modal": "1-1",
+   "stage": "group"
+  },
+  {
+   "date": "2022-11-30",
+   "match": "Australia v Denmark",
+   "actual": "1-0",
+   "pick": "L",
+   "p_pick": 0.482,
+   "modal": "1-1",
+   "stage": "group"
+  },
+  {
+   "date": "2022-11-30",
+   "match": "Tunisia v France",
+   "actual": "1-0",
+   "pick": "L",
+   "p_pick": 0.742,
+   "modal": "0-2",
+   "stage": "group"
+  },
+  {
+   "date": "2022-12-01",
+   "match": "Japan v Spain",
+   "actual": "2-1",
+   "pick": "L",
+   "p_pick": 0.639,
+   "modal": "0-2",
+   "stage": "group"
+  },
+  {
+   "date": "2022-12-01",
+   "match": "Costa Rica v Germany",
+   "actual": "2-4",
+   "pick": "L",
+   "p_pick": 0.466,
+   "modal": "1-1",
+   "stage": "group"
+  },
+  {
+   "date": "2022-12-01",
+   "match": "Croatia v Belgium",
+   "actual": "0-0",
+   "pick": "W",
+   "p_pick": 0.407,
+   "modal": "1-1",
+   "stage": "group"
+  },
+  {
+   "date": "2022-12-01",
+   "match": "Canada v Morocco",
+   "actual": "1-2",
+   "pick": "L",
+   "p_pick": 0.561,
+   "modal": "0-1",
+   "stage": "group"
+  },
+  {
+   "date": "2022-12-02",
+   "match": "Serbia v Switzerland",
+   "actual": "2-3",
+   "pick": "L",
+   "p_pick": 0.409,
+   "modal": "1-1",
+   "stage": "group"
+  },
+  {
+   "date": "2022-12-02",
+   "match": "Cameroon v Brazil",
+   "actual": "1-0",
+   "pick": "L",
+   "p_pick": 0.93,
+   "modal": "0-3",
+   "stage": "group"
+  },
+  {
+   "date": "2022-12-02",
+   "match": "Ghana v Uruguay",
+   "actual": "0-2",
+   "pick": "L",
+   "p_pick": 0.594,
+   "modal": "0-1",
+   "stage": "group"
+  },
+  {
+   "date": "2022-12-02",
+   "match": "South Korea v Portugal",
+   "actual": "2-1",
+   "pick": "L",
+   "p_pick": 0.704,
+   "modal": "0-2",
+   "stage": "group"
+  },
+  {
+   "date": "2022-12-03",
+   "match": "Netherlands v United States",
+   "actual": "3-1",
+   "pick": "W",
+   "p_pick": 0.551,
+   "modal": "1-1",
+   "stage": "group"
+  },
+  {
+   "date": "2022-12-03",
+   "match": "Argentina v Australia",
+   "actual": "2-1",
+   "pick": "W",
+   "p_pick": 0.674,
+   "modal": "2-0",
+   "stage": "group"
+  },
+  {
+   "date": "2022-12-04",
+   "match": "France v Poland",
+   "actual": "3-1",
+   "pick": "W",
+   "p_pick": 0.526,
+   "modal": "1-1",
+   "stage": "knockout"
+  },
+  {
+   "date": "2022-12-04",
+   "match": "England v Senegal",
+   "actual": "3-0",
+   "pick": "W",
+   "p_pick": 0.505,
+   "modal": "1-1",
+   "stage": "knockout"
+  },
+  {
+   "date": "2022-12-05",
+   "match": "Japan v Croatia",
+   "actual": "1-1",
+   "pick": "L",
+   "p_pick": 0.417,
+   "modal": "1-1",
+   "stage": "knockout"
+  },
+  {
+   "date": "2022-12-05",
+   "match": "Brazil v South Korea",
+   "actual": "4-1",
+   "pick": "W",
+   "p_pick": 0.694,
+   "modal": "2-0",
+   "stage": "knockout"
+  },
+  {
+   "date": "2022-12-06",
+   "match": "Morocco v Spain",
+   "actual": "0-0",
+   "pick": "L",
+   "p_pick": 0.407,
+   "modal": "1-1",
+   "stage": "knockout"
+  },
+  {
+   "date": "2022-12-06",
+   "match": "Portugal v Switzerland",
+   "actual": "6-1",
+   "pick": "W",
+   "p_pick": 0.42,
+   "modal": "1-1",
+   "stage": "knockout"
+  },
+  {
+   "date": "2022-12-09",
+   "match": "Croatia v Brazil",
+   "actual": "1-1",
+   "pick": "L",
+   "p_pick": 0.607,
+   "modal": "0-1",
+   "stage": "knockout"
+  },
+  {
+   "date": "2022-12-09",
+   "match": "Netherlands v Argentina",
+   "actual": "2-2",
+   "pick": "L",
+   "p_pick": 0.401,
+   "modal": "1-1",
+   "stage": "knockout"
+  },
+  {
+   "date": "2022-12-10",
+   "match": "Morocco v Portugal",
+   "actual": "1-0",
+   "pick": "L",
+   "p_pick": 0.487,
+   "modal": "1-1",
+   "stage": "knockout"
+  },
+  {
+   "date": "2022-12-10",
+   "match": "England v France",
+   "actual": "1-2",
+   "pick": "W",
+   "p_pick": 0.38,
+   "modal": "1-1",
+   "stage": "knockout"
+  },
+  {
+   "date": "2022-12-13",
+   "match": "Argentina v Croatia",
+   "actual": "3-0",
+   "pick": "W",
+   "p_pick": 0.541,
+   "modal": "1-1",
+   "stage": "knockout"
+  },
+  {
+   "date": "2022-12-14",
+   "match": "France v Morocco",
+   "actual": "2-0",
+   "pick": "W",
+   "p_pick": 0.424,
+   "modal": "1-1",
+   "stage": "knockout"
+  },
+  {
+   "date": "2022-12-17",
+   "match": "Croatia v Morocco",
+   "actual": "2-1",
+   "pick": "L",
+   "p_pick": 0.386,
+   "modal": "1-1",
+   "stage": "knockout"
+  },
+  {
+   "date": "2022-12-18",
+   "match": "Argentina v France",
+   "actual": "3-3",
+   "pick": "W",
+   "p_pick": 0.408,
+   "modal": "1-1",
+   "stage": "knockout"
+  }
+ ]
+}
