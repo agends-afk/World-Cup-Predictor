@@ -393,14 +393,14 @@
    "team2": "Paraguay",
    "slot1": null,
    "slot2": null,
-   "score1": 4,
+   "score1": 1,
    "score2": 1,
    "aet": false,
    "pens": null,
    "status": "played",
    "notes": "",
    "order": 18,
-   "kickoff_utc": "2026-06-13T01:00:00Z"
+   "kickoff_utc": "2026-06-13T19:00:00Z"
   },
   {
    "match": 5,
@@ -477,14 +477,14 @@
    "team2": "Switzerland",
    "slot1": null,
    "slot2": null,
-   "score1": null,
-   "score2": null,
+   "score1": 4,
+   "score2": 1,
    "aet": false,
    "pens": null,
-   "status": "scheduled",
+   "status": "played",
    "notes": "",
    "order": 7,
-   "kickoff_utc": "2026-06-13T19:00:00Z"
+   "kickoff_utc": "2026-06-13T01:00:00Z"
   },
   {
    "match": 9,
