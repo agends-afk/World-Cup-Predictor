@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-14T00:35:18+10:00",
- "generated_aest": "Sun 14 Jun 2026, 12:35am AEST",
+ "generated": "2026-06-14T03:52:44+10:00",
+ "generated_aest": "Sun 14 Jun 2026, 3:52am AEST",
  "data_through": "2026-06-12",
  "sim_runs": 10000,
  "params": {
@@ -1677,35 +1677,35 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 0.536,
-    "lam_b": 2.825,
-    "p_win": 0.0394,
-    "p_draw": 0.1245,
-    "p_loss": 0.8361,
+    "lam_a": 0.533,
+    "lam_b": 2.84,
+    "p_win": 0.0386,
+    "p_draw": 0.123,
+    "p_loss": 0.8384,
     "top_scores": [
      {
       "score": "0-2",
-      "p": 0.1385
+      "p": 0.1382
      },
      {
       "score": "0-3",
-      "p": 0.1304
+      "p": 0.1309
      },
      {
       "score": "0-4",
-      "p": 0.0921
+      "p": 0.0929
      },
      {
       "score": "0-1",
-      "p": 0.0912
+      "p": 0.0906
      },
      {
       "score": "1-2",
-      "p": 0.0742
+      "p": 0.0737
      }
     ],
     "modal_score": "0-2",
-    "modal_p": 0.1385
+    "modal_p": 0.1382
    },
    "prediction_base": {
     "lam_a": 0.533,
@@ -1741,20 +1741,20 @@
    "lineup": {
     "team1": null,
     "team2": {
-     "elo": -2.7,
-     "delta_ovr": -0.36,
-     "status": "projected",
-     "xi_mean": 79,
+     "elo": 0.0,
+     "delta_ovr": 0.09,
+     "status": "confirmed",
+     "xi_mean": 79.5,
      "baseline_mean": 79.4,
      "coverage": 1.0,
      "missing": [
       {
-       "name": "Denis Zakaria",
-       "ovr": 79
-      },
-      {
        "name": "Noah Okafor",
        "ovr": 78
+      },
+      {
+       "name": "Silvan Widmer",
+       "ovr": 74
       },
       {
        "name": "Zeki Amdouni",
@@ -8390,5 +8390,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "80d9fb680a1b2673704045c8f46beac54c507a63"
+ "content_hash": "180c6921dc19ed551cd38b17f4c5f538d26db37b"
 }
