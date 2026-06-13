@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-13T23:42:52+10:00",
- "generated_aest": "Sat 13 Jun 2026, 11:42pm AEST",
+ "generated": "2026-06-14T00:35:18+10:00",
+ "generated_aest": "Sun 14 Jun 2026, 12:35am AEST",
  "data_through": "2026-06-12",
  "sim_runs": 10000,
  "params": {
@@ -3818,6 +3818,37 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
+    "lam_a": 1.64,
+    "lam_b": 0.924,
+    "p_win": 0.5269,
+    "p_draw": 0.2764,
+    "p_loss": 0.1966,
+    "top_scores": [
+     {
+      "score": "1-1",
+      "p": 0.1319
+     },
+     {
+      "score": "1-0",
+      "p": 0.1111
+     },
+     {
+      "score": "2-0",
+      "p": 0.1036
+     },
+     {
+      "score": "2-1",
+      "p": 0.0957
+     },
+     {
+      "score": "0-0",
+      "p": 0.0922
+     }
+    ],
+    "modal_score": "1-1",
+    "modal_p": 0.1319
+   },
+   "prediction_base": {
     "lam_a": 1.596,
     "lam_b": 0.949,
     "p_win": 0.5096,
@@ -3847,6 +3878,35 @@
     ],
     "modal_score": "1-1",
     "modal_p": 0.1343
+   },
+   "lineup": {
+    "team1": null,
+    "team2": {
+     "elo": -14.0,
+     "delta_ovr": -1.87,
+     "status": "projected",
+     "xi_mean": 72.2,
+     "baseline_mean": 74.1,
+     "coverage": 0.82,
+     "missing": [
+      {
+       "name": "Kaku",
+       "ovr": 79
+      },
+      {
+       "name": "Ramón Sosa",
+       "ovr": 75
+      },
+      {
+       "name": "Gabriel Ávalos",
+       "ovr": 74
+      },
+      {
+       "name": "Gustavo Velázquez",
+       "ovr": 73
+      }
+     ]
+    }
    }
   },
   {
@@ -8330,5 +8390,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "94a53bf69dce768208d2af9fc5483825f4f115b3"
+ "content_hash": "80d9fb680a1b2673704045c8f46beac54c507a63"
 }

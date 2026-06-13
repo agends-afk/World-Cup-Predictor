@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-13T13:42:00Z",
+ "fetched_utc": "2026-06-13T14:35:00Z",
  "matches": {
   "8": {
    "team1": {
@@ -782,6 +782,24 @@
      "Brandon Borrello",
      "Martin Boyle",
      "Ante Suto"
+    ]
+   }
+  },
+  "31": {
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Orlando Gill",
+     "Junior Alonso",
+     "Omar Alderete",
+     "Gustavo Gomez",
+     "Juan Jose Caceres",
+     "Miguel Almiron",
+     "Andres Cubas",
+     "Damian Bobadilla",
+     "Diego Gomez",
+     "Julio Enciso",
+     "Antonio Sanabria"
     ]
    }
   }
