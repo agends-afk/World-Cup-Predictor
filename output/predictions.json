@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-13T18:39:02+10:00",
- "generated_aest": "Sat 13 Jun 2026, 6:39pm AEST",
+ "generated": "2026-06-13T23:42:52+10:00",
+ "generated_aest": "Sat 13 Jun 2026, 11:42pm AEST",
  "data_through": "2026-06-12",
  "sim_runs": 10000,
  "params": {
@@ -3865,6 +3865,37 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
+    "lam_a": 1.435,
+    "lam_b": 1.056,
+    "p_win": 0.4412,
+    "p_draw": 0.2974,
+    "p_loss": 0.2614,
+    "top_scores": [
+     {
+      "score": "1-1",
+      "p": 0.1418
+     },
+     {
+      "score": "1-0",
+      "p": 0.1026
+     },
+     {
+      "score": "0-0",
+      "p": 0.0992
+     },
+     {
+      "score": "2-1",
+      "p": 0.09
+     },
+     {
+      "score": "2-0",
+      "p": 0.0853
+     }
+    ],
+    "modal_score": "1-1",
+    "modal_p": 0.1418
+   },
+   "prediction_base": {
     "lam_a": 1.49,
     "lam_b": 1.016,
     "p_win": 0.4655,
@@ -3894,6 +3925,31 @@
     ],
     "modal_score": "1-1",
     "modal_p": 0.1396
+   },
+   "lineup": {
+    "team1": {
+     "elo": -19.8,
+     "delta_ovr": -2.64,
+     "status": "projected",
+     "xi_mean": 74.4,
+     "baseline_mean": 77,
+     "coverage": 1.0,
+     "missing": [
+      {
+       "name": "Matt Turner",
+       "ovr": 74
+      },
+      {
+       "name": "Mark McKenzie",
+       "ovr": 74
+      },
+      {
+       "name": "Ricardo Pepi",
+       "ovr": 73
+      }
+     ]
+    },
+    "team2": null
    }
   },
   {
@@ -8274,5 +8330,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "4ab685b6385edb9d15125dc1f98ee874a0466833"
+ "content_hash": "94a53bf69dce768208d2af9fc5483825f4f115b3"
 }

@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-13T08:38:00Z",
+ "fetched_utc": "2026-06-13T13:42:00Z",
  "matches": {
   "8": {
    "team1": {
@@ -681,6 +681,24 @@
     ]
    }
   },
+  "26": {
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Nikola Vasilj",
+     "Sead Kolasinac",
+     "Nikola Katic",
+     "Tarik Muharemovic",
+     "Amar Dedic",
+     "Amar Memic",
+     "Benjamin Tahirovic",
+     "Ivan Basic",
+     "Esmir Bajraktarevic",
+     "Jovo Lukic",
+     "Ermedin Demirovic"
+    ]
+   }
+  },
   "27": {
    "team1": {
     "status": "projected",
@@ -734,14 +752,30 @@
    }
   },
   "32": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Matt Freese",
+     "Antonee Robinson",
+     "Chris Richards",
+     "Tim Ream",
+     "Alex Freeman",
+     "Malik Tillman",
+     "Tyler Adams",
+     "Christian Pulisic",
+     "Weston McKennie",
+     "Sergino Dest",
+     "Folarin Balogun"
+    ]
+   },
    "team2": {
     "status": "projected",
     "xi": [
      "Mathew Ryan",
      "Jordan Bos",
-     "Milos Degenek",
      "Cameron Burgess",
      "Alessandro Circati",
+     "Milos Degenek",
      "Fran Karacic",
      "Jackson Irvine",
      "Conor Metcalfe",
