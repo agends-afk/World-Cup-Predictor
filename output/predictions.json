@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-14T07:18:36+10:00",
- "generated_aest": "Sun 14 Jun 2026, 7:18am AEST",
+ "generated": "2026-06-14T09:44:06+10:00",
+ "generated_aest": "Sun 14 Jun 2026, 9:44am AEST",
  "data_through": "2026-06-13",
  "sim_runs": 10000,
  "params": {
@@ -1351,35 +1351,35 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 0.996,
-    "lam_b": 1.521,
-    "p_win": 0.2317,
-    "p_draw": 0.2896,
-    "p_loss": 0.4787,
+    "lam_a": 1.014,
+    "lam_b": 1.494,
+    "p_win": 0.2408,
+    "p_draw": 0.2923,
+    "p_loss": 0.467,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1381
+      "p": 0.1394
      },
      {
       "score": "0-1",
-      "p": 0.1069
+      "p": 0.1056
      },
      {
       "score": "0-0",
-      "p": 0.0966
-     },
-     {
-      "score": "0-2",
-      "p": 0.0934
+      "p": 0.0975
      },
      {
       "score": "1-2",
-      "p": 0.093
+      "p": 0.0921
+     },
+     {
+      "score": "0-2",
+      "p": 0.0909
      }
     ],
     "modal_score": "1-1",
-    "modal_p": 0.1381
+    "modal_p": 0.1394
    },
    "prediction_base": {
     "lam_a": 0.98,
@@ -1415,20 +1415,16 @@
    "lineup": {
     "team1": null,
     "team2": {
-     "elo": -8.2,
-     "delta_ovr": -1.09,
-     "status": "projected",
-     "xi_mean": 76.1,
+     "elo": -17.7,
+     "delta_ovr": -1.18,
+     "status": "confirmed",
+     "xi_mean": 76,
      "baseline_mean": 77.2,
      "coverage": 1.0,
      "missing": [
       {
        "name": "Kieran Tierney",
        "ovr": 79
-      },
-      {
-       "name": "Lawrence Shankland",
-       "ovr": 75
       },
       {
        "name": "Ross Stewart",
@@ -8406,5 +8402,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "706dd854a73714fe504a68ee4ebd2343ddfdc0eb"
+ "content_hash": "5eb7656bc244b2143111f4a979e9506fcc3919b1"
 }
