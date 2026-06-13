@@ -255,7 +255,7 @@ def main():
     add("4. **Lineups.** When a starting XI is published (projected ahead of "
         "kickoff, confirmed about an hour before), that match's odds are "
         "adjusted for the players missing from it versus the team's strongest "
-        "available XI, weighed by EA Sports FC 26 ratings (25 Elo per rating "
+        "available XI, weighed by EA Sports FC 26 ratings (15 Elo per rating "
         "point of shortfall, capped, confirmed lineups at full weight and "
         "projected at half). The live dashboard shows the shift and who is "
         "out per match; this report carries the full-strength model. Lineup "

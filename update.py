@@ -39,10 +39,13 @@ def main():
             print("No cached model state found; doing a full rebuild this run.")
         full = True
 
-    # Slow-moving snapshots: EA player ratings and the 26-man squads. Refresh
-    # on a full run or when missing; otherwise reuse the committed files.
-    if full or not have("ea_ratings.json"):
+    # EA player ratings are a STATIC committed snapshot (they barely move and
+    # the pull is slow). Never fetched on routine or full runs; only self-heal
+    # if the committed file is missing. Refresh by hand with fetch_ratings.py.
+    if not have("ea_ratings.json"):
         run("fetch_ratings.py", optional=True)
+    # The 26-man squads are fixed for the tournament; refresh on a full run or
+    # if missing, then reuse the committed file.
     if full or not have("squads.json"):
         run("fetch_squads.py", optional=True)
 

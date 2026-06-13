@@ -25,8 +25,14 @@ import unicodedata
 BASE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(BASE, "data")
 
-K_ELO_PER_OVR = 25.0       # Elo points per rating point of XI shortfall
-CAP_ELO = 120.0            # most a single match adjustment can move a team
+# Elo per rating point of XI shortfall. Anchored below the between-team slope
+# of Elo on squad rating measured in this dataset (~22.5 Elo/OVR), which is an
+# upper bound: a within-team absence shifts only a few positions and a strong
+# squad cushions it, so the marginal effect is smaller. EA ratings are also
+# subjective and lean kind to ageing players, so a conservative coefficient is
+# warranted. Set to about two-thirds of the empirical slope.
+K_ELO_PER_OVR = 15.0
+CAP_ELO = 120.0            # backstop; does not bind for realistic shortfalls
 WEIGHT = {"confirmed": 1.0, "projected": 0.5}
 MIN_COVERAGE = 0.8         # need >=80% of the named XI matched to EA
 BASELINE_XI = 11

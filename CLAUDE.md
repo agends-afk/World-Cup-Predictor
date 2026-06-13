@@ -106,7 +106,7 @@ tournament sim, since future XIs are unknowable). Pipeline:
 - availability.py: matches lineup names to EA players (accent-stripped, last
   name + first initial; data/player_aliases.json for misses), builds a
   position-valid strongest XI baseline (4-3-3 by EA position, excluding the
-  adjustments.json "out" list), and returns per-team Elo = 25 x (named XI mean
+  adjustments.json "out" list), and returns per-team Elo = 15 x (named XI mean
   OVR - baseline mean OVR), capped at 120, confirmed full weight / projected
   half. Abstains below 80% XI coverage.
 - tournament.py displayed_predictions stores prediction (lineup-adjusted),
@@ -114,8 +114,14 @@ tournament sim, since future XIs are unknowable). Pipeline:
   status...}} when active. A lineup supersedes the manual per_match suspension
   (no double count). The dashboard shows the before/after and who is out; a
   played match keeps the frozen lineup-adjusted call.
-Calibration note: 25 Elo/OVR is a judgment (no historical lineup feed to
-backtest against); tunable in availability.py (K_ELO_PER_OVR, CAP_ELO).
+Calibration note: K=15 Elo/OVR, set deliberately below the measured
+between-team slope of Elo on squad rating (~22.5 Elo/OVR, an upper bound for
+within-team availability effects) and conservative for EA subjectivity and
+its lean toward ageing players. No historical lineup feed to backtest
+against; tunable in availability.py (K_ELO_PER_OVR, CAP_ELO). EA ratings only
+size this per-match adjustment; they never touch base Elo, the goal model or
+the simulation, and the adjustment is a difference so a uniform ratings-level
+bias cancels.
 
 ## Squad news and suspensions
 
