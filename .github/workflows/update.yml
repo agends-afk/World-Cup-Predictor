@@ -6,7 +6,9 @@ name: Update predictions
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # every 30 minutes (times are UTC; GitHub may delay a few minutes)
+    # Every 15 minutes, offset off the hour to dodge GitHub's peak-delay
+    # window, so confirmed lineups (posted ~1 hour before kickoff) are caught.
+    - cron: "7,22,37,52 * * * *"
   workflow_dispatch:
     inputs:
       mode:

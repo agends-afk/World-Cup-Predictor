@@ -65,6 +65,8 @@ select:focus { outline: none; border-color: #2DD4BF; }
 .call b { color: #F2F2F2; font-weight: 500; }
 .odds { font-size: 12px; color: #52525B; margin-top: 3px; }
 .odds b { color: #A1A1AA; font-weight: 500; }
+.lineupadj { font-size: 12.5px; color: #2DD4BF; margin-top: 4px;
+  padding-left: 10px; border-left: 2px solid #2DD4BF; }
 .xcheck { font-size: 12.5px; color: #A1A1AA; margin: 6px 0 14px;
   padding: 9px 13px; background: #0A0A0A; border: 1px solid #27272A; }
 .xcheck b { color: #2DD4BF; }
@@ -240,6 +242,36 @@ function renderTeamPanel() {
   el.innerHTML = h;
 }
 
+function lineupActive(m) {
+  if (!m.lineup || !m.prediction_base || !m.prediction) return false;
+  return Math.abs(m.prediction.p_win - m.prediction_base.p_win) >= 0.01 ||
+    Math.abs(m.prediction.p_loss - m.prediction_base.p_loss) >= 0.01;
+}
+
+function lineupLine(m) {
+  if (!lineupActive(m)) return '';
+  const lu = m.lineup, b = m.prediction_base, p = m.prediction;
+  let status = 'projected';
+  ['team1', 'team2'].forEach(function (s) {
+    if (lu[s] && lu[s].status === 'confirmed') status = 'confirmed';
+  });
+  let parts = [];
+  ['team1', 'team2'].forEach(function (s) {
+    if (lu[s] && lu[s].missing && lu[s].missing.length) {
+      const who = lu[s].missing.slice(0, 3).map(function (x) {
+        return esc(x.name) + ' (' + x.ovr + ')';
+      }).join(', ');
+      parts.push(esc(m[s]) + ' missing ' + who);
+    }
+  });
+  const shift = (m.status === 'played')
+    ? ' Prediction was lineup-adjusted.'
+    : ' ' + esc(m.team1) + ' win probability ' + pct(b.p_win) + ' to ' +
+      pct(p.p_win) + '.';
+  return '<div class="lineupadj">Lineup (' + status + '): ' +
+    parts.join('; ') + '.' + shift + '</div>';
+}
+
 function matchRow(m) {
   let fixture, tags = '';
   if (m.status === 'played') {
@@ -277,13 +309,16 @@ function matchRow(m) {
     oddsLine = '<div class="odds">Fair odds, back only above: ' + parts +
       '</div>';
   }
+  if (lineupActive(m)) {
+    tags += '<span class="chip live">lineup-adjusted</span>';
+  }
   return '<div class="mrow"><span class="when">' +
     aest(m.kickoff_utc, m.date) + '<br><span class="venue">' +
     stageName(m.stage) + (m.group ? ' ' + esc(m.group) : '') + ' | ' +
     esc(m.city) + '</span></span><span><span class="fixture">' + fixture +
     '</span>' + tags + '<div class="call">' +
     (m.prediction ? callLine(m) : 'awaiting teams') + '</div>' + oddsLine +
-    '</span></div>';
+    lineupLine(m) + '</span></div>';
 }
 
 function renderUpcoming() {
@@ -432,14 +467,16 @@ def main():
     <div id="results"></div>
   </div>
   <footer class="foot">
-    This site updates automatically as new results come in. Probabilities
-    are model estimates from public match data, not guarantees; exact
-    scorelines rarely exceed 15 to 20% even for heavy favourites. Fair odds
-    are 1 divided by the model probability and exclude any bookmaker margin,
-    so a wager only carries positive expected value at a price above the one
-    shown; this is information, not betting advice. FIFA rankings are a
-    read-only reference and play no part in the model, which is built from
-    match results only.
+    This site updates automatically as new results and team lineups come in.
+    Probabilities are model estimates from public data, not guarantees;
+    exact scorelines rarely exceed 15 to 20% even for heavy favourites.
+    Where a starting lineup is known, a match's odds are adjusted for the
+    players missing from it, weighed by EA Sports FC 26 ratings, and the
+    line shows the shift. Fair odds are 1 divided by the model probability
+    and exclude any bookmaker margin, so a wager only carries positive
+    expected value above the price shown; this is information, not betting
+    advice. FIFA rankings are a read-only reference and are not used in the
+    predictions.
   </footer>
 </div>
 <script>

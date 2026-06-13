@@ -252,8 +252,17 @@ def main():
         f"locked to real scores and ratings update after every match, so "
         f"the model sharpens as the tournament goes. Pre-match predictions "
         f"are frozen once a match is played.")
+    add("4. **Lineups.** When a starting XI is published (projected ahead of "
+        "kickoff, confirmed about an hour before), that match's odds are "
+        "adjusted for the players missing from it versus the team's strongest "
+        "available XI, weighed by EA Sports FC 26 ratings (25 Elo per rating "
+        "point of shortfall, capped, confirmed lineups at full weight and "
+        "projected at half). The live dashboard shows the shift and who is "
+        "out per match; this report carries the full-strength model. Lineup "
+        "data is not used in the tournament simulation, since future XIs are "
+        "unknowable.")
     if bt:
-        add(f"4. **Validation.** Trained only on pre-2022 data, the engine "
+        add(f"5. **Validation.** Trained only on pre-2022 data, the engine "
             f"called {pct(bt.get('outcome_accuracy_static', 0))} of Qatar "
             f"2022 results (random baseline 33%) and "
             f"{pct(bt.get('modal_score_hit_rate', 0))} of exact scores, "

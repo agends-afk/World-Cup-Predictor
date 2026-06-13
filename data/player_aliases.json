@@ -1,0 +1,4 @@
+{
+ "_format": "Optional overrides for lineup names the matcher misses. Shape: {\"Team\": {\"Name as RotoWire writes it\": \"Name as EA lists it\"}}. Add entries only when a player repeatedly fails to match.",
+ "teams": {}
+}

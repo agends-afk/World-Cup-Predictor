@@ -55,8 +55,10 @@ feeds the method section of the document.
 
 Public site is a static deploy of output/ on Vercel (vercel.json: no build,
 serves output/, root rewrites to dashboard.html). .github/workflows/update.yml
-runs update.py every 30 min and on manual dispatch (mode fast|full), then
-commits and pushes ONLY when output/predictions.json content_hash changed,
+runs update.py every 15 min (cron 7,22,37,52 past, offset to dodge GitHub's
+top-of-hour delay so confirmed lineups ~1h pre-kickoff are caught) and on
+manual dispatch (mode fast|full), then commits and pushes ONLY when
+output/predictions.json content_hash changed,
 so Vercel redeploys on real changes only. content_hash (set in tournament.py)
 covers data_through, params, teams, matches, ko_pairings, groups; it excludes
 the generated_* timestamps, and the sim uses a fixed seed, so reruns with no
@@ -84,6 +86,37 @@ the pot/whereig extraction). The dashboard also shows fair decimal odds per
 scheduled match, computed client-side as 1/probability (win/draw/loss and
 advance), labelled back-only-above with a not-advice caveat.
 
+## Lineup availability engine
+
+Live missing-player adjustment, wired into per-match predictions (not the
+tournament sim, since future XIs are unknowable). Pipeline:
+- fetch_ratings.py: EA Sports FC 26 overall ratings from drop-api.ea.com
+  (curl-fetchable JSON, ~17.5k players paged by 100), filtered to the 48 WC
+  nations into data/ea_ratings.json. Slow (~80s, 175 requests); run on the
+  full path or when the file is missing, not every tick. EA does not license
+  the Qatari league, so Qatar has ~no rated players and the engine abstains.
+- fetch_squads.py: official 26-man squads from the Wikipedia squads page into
+  data/squads.json. Anchors the baseline to real squad members so retired or
+  unselected same-nationality players (e.g. Suarez for Uruguay) do not inflate
+  it or show as falsely missing. Day-to-day players (e.g. Davies) ARE in the
+  squad, so their per-match absence is priced.
+- fetch_lineups.py: RotoWire WOC feed (curl-fetchable), per-match XIs with
+  confirmed/projected status, mapped to match numbers by team pair, into
+  data/lineups.json. Fetched every refresh.
+- availability.py: matches lineup names to EA players (accent-stripped, last
+  name + first initial; data/player_aliases.json for misses), builds a
+  position-valid strongest XI baseline (4-3-3 by EA position, excluding the
+  adjustments.json "out" list), and returns per-team Elo = 25 x (named XI mean
+  OVR - baseline mean OVR), capped at 120, confirmed full weight / projected
+  half. Abstains below 80% XI coverage.
+- tournament.py displayed_predictions stores prediction (lineup-adjusted),
+  prediction_base (full strength), and lineup {team1,team2: {elo, missing,
+  status...}} when active. A lineup supersedes the manual per_match suspension
+  (no double count). The dashboard shows the before/after and who is out; a
+  played match keeps the frozen lineup-adjusted call.
+Calibration note: 25 Elo/OVR is a judgment (no historical lineup feed to
+backtest against); tunable in availability.py (K_ELO_PER_OVR, CAP_ELO).
+
 ## Squad news and suspensions
 
 data/adjustments.json holds per-team Elo adjustments:
@@ -102,6 +135,10 @@ return. Conservative by design; doubtful players are mostly excluded.
   the first Action run pushed a deploy and the .vercel.app site loads once
   he has done this; the Vercel auto-deploy-on-bot-push assumption is sound
   but unverified end to end until then.
+- Lineup engine: data/player_aliases.json is empty; add entries for any
+  recurring unmatched lineup names (e.g. a player EA lists under a variant).
+  Refresh data/ea_ratings.json and data/squads.json via a full run after EA
+  rating updates or squad changes; both are committed snapshots.
 - Refresh data/external_ratings.json (FIFA cross-check snapshot) after FIFA's
   2026-07-20 ranking update; until then the 2026-06-11 snapshot is current.
 - Verify FIFA's third-place combination table against the constraint-matching

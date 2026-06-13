@@ -18,6 +18,7 @@ import sys
 from collections import Counter
 from datetime import date as date_cls, datetime, timedelta
 
+import availability
 import model
 
 BASE = os.path.dirname(os.path.abspath(__file__))
@@ -431,12 +432,23 @@ def outcome_of(m):
     return "draw"
 
 
+def _match_specific_elo(team, match_no, adjustments, stakes, lineup_adj):
+    """Per-match rating delta. A live lineup supersedes the manual suspension
+    and rotation estimates (the named XI already reflects them), so the two
+    are never stacked."""
+    if lineup_adj:
+        return lineup_adj["elo"]
+    per = adjustments.get(team, {}).get("per_match", {}).get(str(match_no), 0)
+    return per + stakes.get((match_no, team), 0.0)
+
+
 def displayed_predictions(fixtures, ratings, pre_ratings, adjustments, params,
-                          stakes, collect, n_runs, old_by_match):
+                          stakes, collect, n_runs, old_by_match, avail):
     out = []
     for m in fixtures["matches"]:
+        no = m["match"]
         entry = {
-            "match": m["match"], "stage": m["stage"], "group": m["group"],
+            "match": no, "stage": m["stage"], "group": m["group"],
             "date": m["date"], "city": m["city"], "stadium": m.get("stadium", ""),
             "country": m["country"], "kickoff_utc": m.get("kickoff_utc"),
             "team1": m["team1"], "team2": m["team2"],
@@ -444,18 +456,30 @@ def displayed_predictions(fixtures, ratings, pre_ratings, adjustments, params,
             "status": m["status"], "projected": False,
         }
         knockout = m["stage"] != "group"
+        lu = avail.get(str(no), {})
+        la, lb = lu.get("team1"), lu.get("team2")
         if m["status"] == "played":
-            old = old_by_match.get(m["match"], {})
+            old = old_by_match.get(no, {})
             if old.get("prediction"):
                 entry["prediction"] = old["prediction"]
                 entry["retrospective"] = old.get("retrospective", False)
+                for k in ("prediction_base", "lineup"):
+                    if old.get(k):
+                        entry[k] = old[k]
             else:
-                ra = effective(pre_ratings, {}, m["team1"])
-                rb = effective(pre_ratings, {}, m["team2"])
+                aa = host_adv(m["team1"], m["country"])
+                ab = host_adv(m["team2"], m["country"])
+                b1 = effective(pre_ratings, {}, m["team1"])
+                b2 = effective(pre_ratings, {}, m["team2"])
+                base = model.predict_match(b1, b2, aa, ab, params, knockout)
+                ms1 = la["elo"] if la else 0.0
+                ms2 = lb["elo"] if lb else 0.0
                 entry["prediction"] = model.predict_match(
-                    ra, rb, host_adv(m["team1"], m["country"]),
-                    host_adv(m["team2"], m["country"]), params, knockout)
+                    b1 + ms1, b2 + ms2, aa, ab, params, knockout)
                 entry["retrospective"] = True
+                if la or lb:
+                    entry["prediction_base"] = base
+                    entry["lineup"] = {"team1": la, "team2": lb}
             entry["actual"] = {
                 "score1": m["score1"], "score2": m["score2"],
                 "aet": m.get("aet", False), "pens": m.get("pens"),
@@ -464,7 +488,7 @@ def displayed_predictions(fixtures, ratings, pre_ratings, adjustments, params,
         else:
             t1, t2 = m["team1"], m["team2"]
             if knockout and (not t1 or not t2):
-                top = collect["pairings"][m["match"]].most_common(1)
+                top = collect["pairings"][no].most_common(1)
                 if top:
                     (a, b), cnt = top[0]
                     t1, t2 = a, b
@@ -472,13 +496,18 @@ def displayed_predictions(fixtures, ratings, pre_ratings, adjustments, params,
                     entry["p_pairing"] = round(cnt / n_runs, 3)
                     entry["team1"], entry["team2"] = t1, t2
             if t1 and t2:
-                ra, aa = team_rating(t1, m["country"], ratings, adjustments,
-                                     stakes, m["match"])
-                rb, ab = team_rating(t2, m["country"], ratings, adjustments,
-                                     stakes, m["match"])
-                entry["prediction"] = model.predict_match(ra, rb, aa, ab,
-                                                          params, knockout)
-                if (m["match"], t1) in stakes or (m["match"], t2) in stakes:
+                aa, ab = host_adv(t1, m["country"]), host_adv(t2, m["country"])
+                b1 = effective(ratings, adjustments, t1)
+                b2 = effective(ratings, adjustments, t2)
+                base = model.predict_match(b1, b2, aa, ab, params, knockout)
+                ms1 = _match_specific_elo(t1, no, adjustments, stakes, la)
+                ms2 = _match_specific_elo(t2, no, adjustments, stakes, lb)
+                entry["prediction"] = model.predict_match(
+                    b1 + ms1, b2 + ms2, aa, ab, params, knockout)
+                if la or lb:
+                    entry["prediction_base"] = base
+                    entry["lineup"] = {"team1": la, "team2": lb}
+                if (no, t1) in stakes or (no, t2) in stakes:
                     entry["low_stakes"] = True
         out.append(entry)
     return out
@@ -586,8 +615,14 @@ def generate(state, n_runs):
         print(f"low-stakes round 3 adjustments: {len(stakes)}")
         collect = simulate(fixtures, ratings, adjustments, params, stakes, n_runs)
 
+    try:
+        avail = availability.compute_all()
+    except Exception as exc:   # never let lineup data break the pipeline
+        print(f"availability: skipped ({exc})")
+        avail = {}
     matches = displayed_predictions(fixtures, ratings, pre_ratings, adjustments,
-                                    params, stakes, collect, n_runs, old_by_match)
+                                    params, stakes, collect, n_runs,
+                                    old_by_match, avail)
 
     teams_out = {}
     for g, members in fixtures["groups"].items():

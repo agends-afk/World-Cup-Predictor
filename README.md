@@ -3,13 +3,15 @@
 Predicts every match of the 2026 FIFA World Cup: win, draw or loss
 probabilities, the most likely scoreline with its own probability, and
 tournament odds (reaching each round, winning the title) from 10,000
-simulations. Two outputs: an interactive **dashboard** (selectable teams,
-upcoming fixtures, results, all times in AEST, one-click refresh) and a
-companion document, **PREDICTIONS.md**, with all 104 matches and the full
-method.
+simulations. When a starting lineup is published, a match's odds adjust for
+the players missing from it, weighed by EA Sports FC 26 ratings, with the
+shift shown on each affected match. Two outputs: an interactive **dashboard**
+(selectable teams, upcoming fixtures, results, fair odds, all times in AEST,
+one-click refresh) and a companion document, **PREDICTIONS.md**, with all
+104 matches and the full method.
 
-Built entirely from public raw data. No betting odds or published
-predictions are used anywhere.
+Built from public raw data. No betting odds or published predictions are
+used anywhere.
 
 ## Online (public site)
 
