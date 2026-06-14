@@ -227,14 +227,20 @@ def build_state(boxes):
             "order": b["order"],
             "kickoff_utc": b["kickoff_utc"],
         })
-    # Assign any missing official match numbers (played boxes lose theirs to
-    # the score cell): fill with the unused numbers in page order.
+    # A played box loses its "Match N" label (the cell shows the score), so
+    # those boxes arrive unnumbered. Assign the unused numbers in CHRONOLOGICAL
+    # order, because FIFA numbers matches by schedule; the old page-order fill
+    # was wrong whenever played matches were not contiguous on the page. This
+    # only matters for a from-scratch build: a refresh re-attaches results by
+    # (date, city) in merge_into_fixtures, not by this number.
     used = {m["match"] for m in matches if m["match"]}
     free = [n for n in range(1, len(matches) + 1) if n not in used]
-    for m in matches:
-        if m["match"] is None and free:
-            m["match"] = free.pop(0)
-    matches.sort(key=lambda m: m["match"])
+    unnumbered = sorted((m for m in matches if m["match"] is None),
+                        key=lambda m: (m["date"], m.get("kickoff_utc") or "",
+                                       m["order"]))
+    for m, n in zip(unnumbered, free):
+        m["match"] = n
+    matches.sort(key=lambda m: m["match"] if m["match"] else 9999)
     return matches
 
 
@@ -281,15 +287,49 @@ def validate(matches, groups):
 
 
 def merge_into_fixtures(matches, groups, path):
-    """Create fixtures.json on first run; afterwards update scores, statuses
-    and knockout team resolution while keeping numbering stable."""
-    if os.path.exists(path):
+    """Update an existing fixtures.json with new scores and resolved knockout
+    teams. Each parsed box is matched to its fixture by (date, city), a key
+    that is stable and unique per match, rather than by the match number a
+    played box loses to its score cell. Before writing any result, the parsed
+    teams must agree with the fixture's teams, so a result can never be
+    attached to the wrong match.
+
+    Returns (fixtures, problems)."""
+    problems = []
+    if not os.path.exists(path):
+        # First-ever build: trust the freshly numbered list.
+        fx = {"source": WIKI_URL, "groups": groups, "matches": matches}
+    else:
         with open(path, encoding="utf-8") as f:
             fx = json.load(f)
-        by_no = {m["match"]: m for m in fx["matches"]}
+        by_key = {}
+        for m in fx["matches"]:
+            by_key.setdefault((m["date"], m["city"]), []).append(m)
         for new in matches:
-            old = by_no.get(new["match"])
+            cands = by_key.get((new["date"], new["city"]), [])
+            old = None
+            if len(cands) == 1:
+                old = cands[0]
+            elif len(cands) > 1:
+                want = {new.get("team1"), new.get("team2")} - {None}
+                old = next((c for c in cands
+                            if want and {c.get("team1"), c.get("team2")} == want),
+                           None)
             if old is None:
+                if new["status"] == "played":
+                    problems.append(
+                        f"no unique fixture at {new['date']} {new['city']} for "
+                        f"{new.get('team1')} v {new.get('team2')}; result withheld")
+                continue
+            # Identity check: when both sides are known (group, or a resolved
+            # knockout), the parsed teams must match the fixture's teams.
+            if (new.get("team1") and new.get("team2")
+                    and old.get("team1") and old.get("team2")
+                    and {new["team1"], new["team2"]} != {old["team1"], old["team2"]}):
+                problems.append(
+                    f"M{old['match']} team mismatch at {new['date']} "
+                    f"{new['city']}: source {new['team1']}/{new['team2']} vs "
+                    f"fixture {old['team1']}/{old['team2']}; result withheld")
                 continue
             for key in ("team1", "team2"):
                 if new[key] and not old.get(key):
@@ -300,8 +340,6 @@ def merge_into_fixtures(matches, groups, path):
                 for key in ("score1", "score2", "aet", "pens", "status"):
                     old[key] = new[key]
         fx["groups"] = groups or fx.get("groups", {})
-    else:
-        fx = {"source": WIKI_URL, "groups": groups, "matches": matches}
     # Keep enriched team objects (name/confederation/qualified_via) if present;
     # only fall back to the flat name list when no such list exists yet.
     existing = fx.get("teams")
@@ -309,7 +347,41 @@ def merge_into_fixtures(matches, groups, path):
         fx["teams"] = sorted({t for g in fx["groups"].values() for t in g})
     with open(path, "w", encoding="utf-8") as f:
         json.dump(fx, f, indent=1, ensure_ascii=False)
-    return fx
+    return fx, problems
+
+
+def verify_results(fx, matches):
+    """Independent cross-check run before publishing: every played fixture
+    must correspond to a parsed source box at the same (date, city) on both
+    teams and score. Returns a list of problems (empty means verified)."""
+    box_by_key = {}
+    for b in matches:
+        box_by_key.setdefault((b["date"], b["city"]), []).append(b)
+    problems = []
+    for m in fx["matches"]:
+        if m["status"] != "played" or m.get("score1") is None:
+            continue
+        boxes = box_by_key.get((m["date"], m["city"]), [])
+        src = None
+        for b in boxes:
+            if (b.get("team1") and b.get("team2") and m.get("team1")
+                    and {b["team1"], b["team2"]} == {m["team1"], m["team2"]}):
+                src = b
+                break
+        if src is None and len(boxes) == 1 and boxes[0]["score1"] is not None:
+            src = boxes[0]
+        if src is None:
+            problems.append(f"M{m['match']} {m['team1']} v {m['team2']}: no "
+                            f"matching source box at {m['date']} {m['city']}")
+            continue
+        if src["team1"] == m["team1"]:
+            ok = src["score1"] == m["score1"] and src["score2"] == m["score2"]
+        else:
+            ok = src["score1"] == m["score2"] and src["score2"] == m["score1"]
+        if not ok:
+            problems.append(f"M{m['match']} {m['team1']} v {m['team2']}: score "
+                            f"{m['score1']}-{m['score2']} disagrees with source")
+    return problems
 
 
 def write_live_results(fx, path):
@@ -360,12 +432,26 @@ def update_all(verbose=True, dataset=True):
             raise RuntimeError("fixture validation failed: " + "; ".join(problems))
         if problems:
             summary["warnings"].extend(problems)
-        fx = merge_into_fixtures(matches, groups, fixtures_path)
+        fx, merge_problems = merge_into_fixtures(matches, groups, fixtures_path)
+        summary["warnings"].extend(merge_problems)
+        # Verification gate: confirm every published result matches its source
+        # box on teams and score before the dashboard is built from it.
+        verify_problems = verify_results(fx, matches)
+        summary["warnings"].extend(verify_problems)
+        summary["verified"] = not (merge_problems or verify_problems)
+        if verify_problems:
+            summary["verify_problems"] = verify_problems
     n_played = write_live_results(fx, os.path.join(DATA_DIR, "live_results.csv"))
     summary["matches_played"] = n_played
     if verbose:
+        v = summary.get("verified", True)
         print(f"dataset refreshed: {summary['dataset_refreshed']}, "
-              f"played matches: {n_played}, warnings: {summary['warnings']}")
+              f"played matches: {n_played}")
+        print("VERIFICATION: " + ("PASS" if v else
+              f"FAILED, {len(summary.get('verify_problems', []))} result(s) "
+              f"withheld"))
+        for w in summary["warnings"]:
+            print("  warning:", w)
     return fx, summary
 
 

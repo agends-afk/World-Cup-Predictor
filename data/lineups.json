@@ -1,31 +1,31 @@
 {
- "fetched_utc": "2026-06-13T08:38:00Z",
+ "fetched_utc": "2026-06-14T00:22:00Z",
  "matches": {
   "8": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Mahmud Ibrahim Abunada",
      "Homam Ahmed",
-     "Boualem Khoukhi",
      "Pedro Miguel",
+     "Boualem Khoukhi",
      "Ayoub Al Oui",
-     "Ahmed Fathy",
-     "Karim Boudiaf",
+     "Gueye Seydinaissa Laye",
      "Jassem Gaber",
+     "Assim Madibo",
      "Akram Afif",
      "Edmilson Junior",
-     "Almoez Ali"
+     "Yusuf Abdurisag"
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Gregor Kobel",
-     "Ricardo Rodriguez",
-     "Nico Elvedi",
      "Manuel Akanji",
-     "Silvan Widmer",
+     "Denis Zakaria",
+     "Nico Elvedi",
+     "Ricardo Rodriguez",
      "Remo Freuler",
      "Granit Xhaka",
      "Michel Aebischer",
@@ -37,23 +37,23 @@
   },
   "7": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Alisson",
-     "Alex Sandro",
-     "Marquinhos",
+     "Roger Ibanez",
      "Gabriel",
-     "Danilo",
+     "Marquinhos",
+     "Douglas",
      "Casemiro",
      "Bruno Guimaraes",
      "Vinicius Junior",
      "Raphinha",
      "Lucas Paqueta",
-     "Matheus Cunha"
+     "Igor Thiago"
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Bono",
      "Noussair Mazraoui",
@@ -71,34 +71,34 @@
   },
   "5": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Johnny Placide",
      "Martin Experience",
-     "Ricardo Ade",
      "Hannes Delcroix",
+     "Ricardo Ade",
      "Carlens Arcus",
      "Ruben Providence",
-     "Danley Jean Jacques",
      "Jean-Ricner Bellegarde",
-     "Josue Casimir",
-     "Duckens Nazon",
+     "Danley Jean Jacques",
+     "Louicius Deedson",
+     "Frantzdy Pierrot",
      "Wilson Isidor"
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Angus Gunn",
      "Andrew Robertson",
      "Grant Hanley",
      "Jack Hendry",
      "Aaron Hickey",
-     "Lewis Ferguson",
-     "Ryan Christie",
      "John McGinn",
      "Scott McTominay",
+     "Lewis Ferguson",
      "Ben Gannon Doak",
+     "Lawrence Shankland",
      "Che Adams"
     ]
    }
@@ -130,7 +130,7 @@
      "Zeki Celik",
      "Orkun Kokcu",
      "Hakan Calhanoglu",
-     "Ferdi Kadioglu",
+     "Yunus Akgun",
      "Arda Guler",
      "Baris Yilmaz",
      "Kerem Akturkoglu"
@@ -681,6 +681,24 @@
     ]
    }
   },
+  "26": {
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Nikola Vasilj",
+     "Sead Kolasinac",
+     "Nikola Katic",
+     "Tarik Muharemovic",
+     "Amar Dedic",
+     "Amar Memic",
+     "Benjamin Tahirovic",
+     "Ivan Basic",
+     "Esmir Bajraktarevic",
+     "Jovo Lukic",
+     "Ermedin Demirovic"
+    ]
+   }
+  },
   "27": {
    "team1": {
     "status": "projected",
@@ -734,20 +752,54 @@
    }
   },
   "32": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Matt Freese",
+     "Antonee Robinson",
+     "Chris Richards",
+     "Tim Ream",
+     "Alex Freeman",
+     "Malik Tillman",
+     "Tyler Adams",
+     "Christian Pulisic",
+     "Weston McKennie",
+     "Sergino Dest",
+     "Folarin Balogun"
+    ]
+   },
    "team2": {
     "status": "projected",
     "xi": [
      "Mathew Ryan",
      "Jordan Bos",
-     "Milos Degenek",
      "Cameron Burgess",
      "Alessandro Circati",
+     "Milos Degenek",
      "Fran Karacic",
      "Jackson Irvine",
      "Conor Metcalfe",
      "Brandon Borrello",
      "Martin Boyle",
      "Ante Suto"
+    ]
+   }
+  },
+  "31": {
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Orlando Gill",
+     "Junior Alonso",
+     "Omar Alderete",
+     "Gustavo Gomez",
+     "Juan Jose Caceres",
+     "Miguel Almiron",
+     "Andres Cubas",
+     "Damian Bobadilla",
+     "Diego Gomez",
+     "Julio Enciso",
+     "Antonio Sanabria"
     ]
    }
   }

@@ -22,6 +22,16 @@ data/adjustments.json before the refresh (see below).
 1. fetch_results.py fast: re-parses the official schedule, live scores and
    kickoff times from the Wikipedia 2026 FIFA World Cup article (no
    dataset download), updates data/fixtures.json and data/live_results.csv.
+   Results are attached to fixtures by (date, city), which is stable and
+   unique per match, NOT by match number: a played box shows its score in
+   place of "Match N", so the number is unreliable for played matches (this
+   caused a score swap between matches before it was fixed). merge_into_fixtures
+   refuses to write a result unless the parsed teams match the fixture's teams,
+   and verify_results re-checks every published result against its source box
+   on teams and score, printing VERIFICATION: PASS/FAILED. A result that fails
+   is withheld (the match stays "scheduled") rather than attached to the wrong
+   fixture, so a swap cannot reach the dashboard. build_state also numbers
+   played boxes chronologically (only used on a from-scratch rebuild).
 2. tournament.py: loads data/model_state.json (cached ratings plus goal
    model parameters), applies ONLY unseen results to the ratings with the
    same update rule as the full pass, re-runs 10,000 simulations, writes
