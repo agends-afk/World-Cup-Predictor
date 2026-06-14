@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-15T03:54:16+10:00",
- "generated_aest": "Mon 15 Jun 2026, 3:54am AEST",
+ "generated": "2026-06-15T04:42:28+10:00",
+ "generated_aest": "Mon 15 Jun 2026, 4:42am AEST",
  "data_through": "2026-06-14",
  "sim_runs": 10000,
  "params": {
@@ -1970,35 +1970,35 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.152,
-    "lam_b": 1.315,
-    "p_win": 0.3088,
-    "p_draw": 0.3045,
-    "p_loss": 0.3867,
+    "lam_a": 1.177,
+    "lam_b": 1.287,
+    "p_win": 0.3209,
+    "p_draw": 0.3054,
+    "p_loss": 0.3737,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1452
+      "p": 0.1457
      },
      {
       "score": "0-0",
-      "p": 0.1016
+      "p": 0.1019
      },
      {
       "score": "0-1",
-      "p": 0.0949
-     },
-     {
-      "score": "1-2",
-      "p": 0.0845
+      "p": 0.0928
      },
      {
       "score": "1-0",
-      "p": 0.081
+      "p": 0.0834
+     },
+     {
+      "score": "1-2",
+      "p": 0.083
      }
     ],
     "modal_score": "1-1",
-    "modal_p": 0.1452
+    "modal_p": 0.1457
    },
    "prediction_base": {
     "lam_a": 1.162,
@@ -2033,12 +2033,12 @@
    },
    "lineup": {
     "team1": {
-     "elo": -7.0,
-     "delta_ovr": -0.93,
-     "status": "projected",
-     "xi_mean": 81.8,
+     "elo": -21.8,
+     "delta_ovr": -1.45,
+     "status": "confirmed",
+     "xi_mean": 81.3,
      "baseline_mean": 82.7,
-     "coverage": 0.91,
+     "coverage": 1.0,
      "missing": [
       {
        "name": "Nathan Aké",
@@ -2059,20 +2059,24 @@
      ]
     },
     "team2": {
-     "elo": -2.7,
-     "delta_ovr": -0.36,
-     "status": "projected",
-     "xi_mean": 76.6,
+     "elo": -28.6,
+     "delta_ovr": -1.91,
+     "status": "confirmed",
+     "xi_mean": 75.1,
      "baseline_mean": 77,
      "coverage": 1.0,
      "missing": [
+      {
+       "name": "Takehiro Tomiyasu",
+       "ovr": 78
+      },
       {
        "name": "Yukinari Sugawara",
        "ovr": 77
       },
       {
-       "name": "Daizen Maeda",
-       "ovr": 74
+       "name": "Ko Itakura",
+       "ovr": 76
       }
      ]
     }
@@ -8490,5 +8494,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "dab2e00f37bde29884664fac913d9b812b7e498c"
+ "content_hash": "587f6d1d448d92750e19079e250d3ec40ff6e931"
 }
