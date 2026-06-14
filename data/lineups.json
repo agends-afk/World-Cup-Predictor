@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-14T07:19:00Z",
+ "fetched_utc": "2026-06-14T15:21:00Z",
  "matches": {
   "6": {
    "team1": {
@@ -192,14 +192,14 @@
     "status": "projected",
     "xi": [
      "Mostafa Shobeir",
-     "Ahmed El Fotouh",
      "Yasser Ibrahim",
+     "Hamdy Fathy",
      "Mohamed Abdelmonem",
-     "Mohamed Hany",
+     "Ahmed El Fotouh",
      "Mohanad Lasheen",
      "Marwan Ateya",
+     "Mohamed Hany",
      "Trezeguet",
-     "Emam Ashour",
      "Mohamed Salah",
      "Omar Marmoush"
     ]
@@ -226,16 +226,16 @@
     "status": "projected",
     "xi": [
      "Fernando Muslera",
-     "Mathias Olivera",
+     "Matias Vina",
      "Sebastian Caceres",
-     "Santi Bueno",
+     "Mathias Olivera",
      "Guillermo Varela",
      "Maxi Araujo",
-     "Manuel Ugarte",
      "Rodrigo Bentancur",
+     "Manuel Ugarte",
      "Federico Valverde",
-     "Federico Vinas",
-     "Darwin Nunez"
+     "Darwin Nunez",
+     "Federico Vinas"
     ]
    }
   },

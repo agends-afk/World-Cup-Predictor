@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-14T17:19:59+10:00",
- "generated_aest": "Sun 14 Jun 2026, 5:19pm AEST",
+ "generated": "2026-06-15T01:21:39+10:00",
+ "generated_aest": "Mon 15 Jun 2026, 1:21am AEST",
  "data_through": "2026-06-13",
  "sim_runs": 10000,
  "params": {
@@ -2193,35 +2193,35 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 0.754,
-    "lam_b": 2.009,
-    "p_win": 0.1183,
-    "p_draw": 0.2265,
-    "p_loss": 0.6553,
+    "lam_a": 0.752,
+    "lam_b": 2.015,
+    "p_win": 0.1173,
+    "p_draw": 0.2256,
+    "p_loss": 0.657,
     "top_scores": [
      {
       "score": "0-2",
-      "p": 0.1273
+      "p": 0.1276
      },
      {
       "score": "0-1",
-      "p": 0.1144
+      "p": 0.1143
      },
      {
       "score": "1-1",
-      "p": 0.108
+      "p": 0.1076
      },
      {
       "score": "1-2",
-      "p": 0.096
+      "p": 0.0959
      },
      {
       "score": "0-3",
-      "p": 0.0853
+      "p": 0.0857
      }
     ],
     "modal_score": "0-2",
-    "modal_p": 0.1273
+    "modal_p": 0.1276
    },
    "prediction_base": {
     "lam_a": 0.733,
@@ -2257,16 +2257,20 @@
    "lineup": {
     "team1": null,
     "team2": {
-     "elo": -14.5,
-     "delta_ovr": -1.93,
+     "elo": -13.0,
+     "delta_ovr": -1.73,
      "status": "projected",
-     "xi_mean": 78.8,
+     "xi_mean": 79,
      "baseline_mean": 80.7,
-     "coverage": 0.91,
+     "coverage": 0.82,
      "missing": [
       {
        "name": "José María Giménez",
        "ovr": 83
+      },
+      {
+       "name": "Santiago Bueno",
+       "ovr": 77
       },
       {
        "name": "Jonathan Rodríguez",
@@ -8478,5 +8482,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "a3973d087a4284900bfdce1e925cc31be6754f35"
+ "content_hash": "a880d74a131cac9a829d4f32cb9f176813453e8a"
 }
