@@ -27,7 +27,7 @@ Refresh after new results with: `python3 update.py` (regenerates this document).
 | United States | D | 1884 | 98% | 30% | 12% | 6% | **1.9%** |
 | Norway | I | 1998 | 84% | 24% | 12% | 4% | **1.2%** |
 
-Model record so far: 3/6 correct results, 2/6 exact scorelines.
+Model record so far: 4/8 correct results, 2/8 exact scorelines.
 
 ## Ratings cross-check (model vs FIFA)
 
@@ -45,28 +45,28 @@ A read-only comparison of the model's own rating order against the FIFA/Coca-Col
 | 8 | Brazil | 2036 | 6 | 1765.86 | -2 |
 | 9 | Morocco | 2025 | 7 | 1755.1 | -2 |
 | 10 | Mexico | 2009 | 14 | 1687.48 | +4 |
-| 11 | Turkey | 2003 | 22 | 1605.73 | +11 |
-| 12 | Norway | 1998 | 31 | 1557.44 | +19 |
-| 13 | Germany | 1997 | 10 | 1735.77 | -3 |
-| 14 | Belgium | 1988 | 9 | 1742.24 | -5 |
-| 15 | Japan | 1986 | 18 | 1661.58 | +3 |
+| 11 | Norway | 1998 | 31 | 1557.44 | +20 |
+| 12 | Germany | 1997 | 10 | 1735.77 | -2 |
+| 13 | Belgium | 1988 | 9 | 1742.24 | -4 |
+| 14 | Japan | 1986 | 18 | 1661.58 | +4 |
+| 15 | Australia | 1957 | 27 | 1579.34 | +12 |
 | 16 | Netherlands | 1956 | 8 | 1753.57 | -8 |
 | 17 | Uruguay | 1956 | 16 | 1673.07 | -1 |
 | 18 | Croatia | 1955 | 11 | 1714.87 | -7 |
 | 19 | Algeria | 1934 | 28 | 1571.03 | +9 |
-| 20 | Switzerland | 1930 | 19 | 1650.06 | -1 |
-| 21 | Senegal | 1917 | 15 | 1684.07 | -6 |
-| 22 | Iran | 1909 | 20 | 1619.58 | -2 |
-| 23 | South Korea | 1909 | 25 | 1591.63 | +2 |
-| 24 | Austria | 1901 | 24 | 1597.4 | +0 |
-| 25 | Australia | 1885 | 27 | 1579.34 | +2 |
+| 20 | Turkey | 1931 | 22 | 1605.73 | +2 |
+| 21 | Switzerland | 1930 | 19 | 1650.06 | -2 |
+| 22 | Senegal | 1917 | 15 | 1684.07 | -7 |
+| 23 | Iran | 1909 | 20 | 1619.58 | -3 |
+| 24 | South Korea | 1909 | 25 | 1591.63 | +1 |
+| 25 | Austria | 1901 | 24 | 1597.4 | -1 |
 | 26 | United States | 1884 | 17 | 1671.23 | -9 |
 | 27 | Canada | 1876 | 30 | 1559.48 | +3 |
 | 28 | Ivory Coast | 1876 | 33 | 1540.87 | +5 |
 | 29 | Paraguay | 1868 | 41 | 1505.35 | +12 |
-| 30 | Panama | 1851 | 34 | 1539.16 | +4 |
-| 31 | Egypt | 1848 | 29 | 1562.37 | -2 |
-| 32 | Scotland | 1836 | 42 | 1503.34 | +10 |
+| 30 | Scotland | 1859 | 42 | 1503.34 | +12 |
+| 31 | Panama | 1851 | 34 | 1539.16 | +3 |
+| 32 | Egypt | 1848 | 29 | 1562.37 | -3 |
 | 33 | Uzbekistan | 1816 | 50 | 1458.73 | +17 |
 | 34 | DR Congo | 1785 | 46 | 1474.43 | +12 |
 | 35 | Czech Republic | 1784 | 40 | 1505.74 | +5 |
@@ -74,9 +74,9 @@ A read-only comparison of the model's own rating order against the FIFA/Coca-Col
 | 37 | Sweden | 1769 | 38 | 1509.79 | +1 |
 | 38 | Iraq | 1741 | 57 | 1446.28 | +19 |
 | 39 | Tunisia | 1740 | 45 | 1476.41 | +6 |
-| 40 | Haiti | 1717 | 83 | 1293.1 | +43 |
-| 41 | New Zealand | 1711 | 85 | 1275.58 | +44 |
-| 42 | Bosnia and Herzegovina | 1696 | 64 | 1387.22 | +22 |
+| 40 | New Zealand | 1711 | 85 | 1275.58 | +45 |
+| 41 | Bosnia and Herzegovina | 1696 | 64 | 1387.22 | +23 |
+| 42 | Haiti | 1694 | 83 | 1293.1 | +41 |
 | 43 | Saudi Arabia | 1686 | 61 | 1423.88 | +18 |
 | 44 | South Africa | 1659 | 60 | 1428.38 | +16 |
 | 45 | Cape Verde | 1655 | 67 | 1371.11 | +22 |
@@ -124,8 +124,8 @@ A read-only comparison of the model's own rating order against the FIFA/Coca-Col
 | - | - | - | - |
 | Brazil | 1 | 5.4 | 93% |
 | Morocco | 1 | 5.3 | 93% |
-| Scotland | 0 | 3.2 | 58% |
-| Haiti | 0 | 1.9 | 26% |
+| Scotland | 3 | 4.6 | 84% |
+| Haiti | 0 | 0.8 | 8% |
 
 - M5, Sat 13 Jun, Foxborough: Haiti v Scotland. **Scotland win 47%** (win 24% / draw 29% / loss 47% for Haiti); most likely score 0-1 (11%)
 - M7, Sat 13 Jun, East Rutherford: Brazil v Morocco. **Played: Brazil 1-1 Morocco.** Model said Brazil win 38% (win 38% / draw 31% / loss 32% for Brazil); most likely score 1-1 (15%); result miss, score hit
@@ -266,7 +266,7 @@ A read-only comparison of the model's own rating order against the FIFA/Coca-Col
 
 | Team | Pts now | Expected pts | Reach last 32 |
 | - | - | - | - |
-| England | 0 | 6.7 | 98% |
+| England | 0 | 6.8 | 98% |
 | Croatia | 0 | 5.0 | 88% |
 | Panama | 0 | 3.8 | 71% |
 | Ghana | 0 | 1.2 | 12% |
