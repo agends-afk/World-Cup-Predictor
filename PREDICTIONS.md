@@ -1,6 +1,6 @@
 # World Cup 2026: match predictions
 
-Generated Mon 15 Jun 2026, 1:21am AEST. Results included through 2026-06-13. 8 of 104 matches played. 10,000 tournament simulations.
+Generated Mon 15 Jun 2026, 1:59am AEST. Results included through 2026-06-13. 8 of 104 matches played. 10,000 tournament simulations.
 
 Every probability below is a model estimate built only from match results and public squad news, not from betting odds or published predictions. A favourite can be 75% to win while its most likely exact score sits near 12 to 15%; goals spread across many scorelines, so read the two numbers separately.
 
@@ -160,7 +160,7 @@ A read-only comparison of the model's own rating order against the FIFA/Coca-Col
 | Curaçao | 0 | 1.1 | 11% |
 
 - M9, Sun 14 Jun, Philadelphia: Ivory Coast v Ecuador. **Ecuador win 56%** (win 17% / draw 27% / loss 56% for Ivory Coast); most likely score 1-1 (13%)
-- M10, Sun 14 Jun, Houston: Germany v Curaçao. **Germany win 77%** (win 77% / draw 16% / loss 6% for Germany); most likely score 2-0 (14%)
+- M10, Sun 14 Jun, Houston: Germany v Curaçao. **Germany win 76%** (win 76% / draw 17% / loss 7% for Germany); most likely score 2-0 (14%)
 - M33, Sat 20 Jun, Toronto: Germany v Ivory Coast. **Germany win 49%** (win 49% / draw 29% / loss 22% for Germany); most likely score 1-1 (14%)
 - M34, Sat 20 Jun, Kansas City: Ecuador v Curaçao. **Ecuador win 84%** (win 84% / draw 12% / loss 4% for Ecuador); most likely score 2-0 (14%)
 - M55, Thu 25 Jun, Philadelphia: Curaçao v Ivory Coast. **Ivory Coast win 66%** (win 11% / draw 22% / loss 66% for Curaçao); most likely score 0-2 (13%)
