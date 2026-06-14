@@ -1,8 +1,8 @@
 {
- "generated": "2026-06-14T17:33:19+10:00",
- "generated_aest": "Sun 14 Jun 2026, 5:33pm AEST",
+ "generated": "2026-06-14T17:38:50+10:00",
+ "generated_aest": "Sun 14 Jun 2026, 5:38pm AEST",
  "data_through": "2026-06-13",
- "sim_runs": 3000,
+ "sim_runs": 10000,
  "params": {
   "alpha_wc": 0.2076,
   "beta": 0.7692,
@@ -14,19 +14,19 @@
    "rating": 1784.4,
    "adjust": 0,
    "adjust_note": "",
-   "p_r32": 0.4667,
-   "p_r16": 0.1367,
+   "p_r32": 0.4524,
+   "p_r16": 0.1381,
    "p_qf": 0.038,
-   "p_sf": 0.0047,
-   "p_final": 0.0007,
-   "p_champion": 0.0,
-   "p_third_q": 0.3757,
-   "exp_points": 2.25,
+   "p_sf": 0.0054,
+   "p_final": 0.0011,
+   "p_champion": 0.0001,
+   "p_third_q": 0.3613,
+   "exp_points": 2.24,
    "pos_probs": [
-    0.0147,
-    0.0763,
-    0.5987,
-    0.3103
+    0.0112,
+    0.0799,
+    0.5845,
+    0.3244
    ],
    "fifa_rank": 40,
    "fifa_points": 1505.74,
@@ -37,19 +37,19 @@
    "rating": 2009.0,
    "adjust": 0,
    "adjust_note": "One player sent off v South Africa, suspended for match 28 v South Korea",
-   "p_r32": 0.997,
-   "p_r16": 0.7697,
-   "p_qf": 0.4743,
-   "p_sf": 0.2393,
-   "p_final": 0.0997,
-   "p_champion": 0.0453,
-   "p_third_q": 0.0307,
-   "exp_points": 7.38,
+   "p_r32": 0.9982,
+   "p_r16": 0.7568,
+   "p_qf": 0.4622,
+   "p_sf": 0.2292,
+   "p_final": 0.0936,
+   "p_champion": 0.0352,
+   "p_third_q": 0.0343,
+   "exp_points": 7.4,
    "pos_probs": [
-    0.743,
-    0.2233,
-    0.032,
-    0.0017
+    0.7482,
+    0.2157,
+    0.0356,
+    0.0005
    ],
    "fifa_rank": 14,
    "fifa_points": 1687.48,
@@ -60,19 +60,19 @@
    "rating": 1659.3,
    "adjust": 0,
    "adjust_note": "Two players sent off v Mexico, suspended for match 25 v Czech Republic",
-   "p_r32": 0.198,
-   "p_r16": 0.042,
-   "p_qf": 0.006,
-   "p_sf": 0.0003,
-   "p_final": 0.0003,
+   "p_r32": 0.1956,
+   "p_r16": 0.0406,
+   "p_qf": 0.0068,
+   "p_sf": 0.0006,
+   "p_final": 0.0001,
    "p_champion": 0.0,
-   "p_third_q": 0.13,
-   "exp_points": 1.5,
+   "p_third_q": 0.1298,
+   "exp_points": 1.52,
    "pos_probs": [
-    0.0023,
-    0.0657,
-    0.2603,
-    0.6717
+    0.0034,
+    0.0624,
+    0.2749,
+    0.6593
    ],
    "fifa_rank": 60,
    "fifa_points": 1428.38,
@@ -83,19 +83,19 @@
    "rating": 1909.1,
    "adjust": 0,
    "adjust_note": "",
-   "p_r32": 0.9683,
-   "p_r16": 0.5683,
-   "p_qf": 0.2227,
-   "p_sf": 0.0777,
-   "p_final": 0.0233,
-   "p_champion": 0.006,
-   "p_third_q": 0.0937,
-   "exp_points": 5.9,
+   "p_r32": 0.9652,
+   "p_r16": 0.5619,
+   "p_qf": 0.2246,
+   "p_sf": 0.0776,
+   "p_final": 0.0226,
+   "p_champion": 0.0058,
+   "p_third_q": 0.086,
+   "exp_points": 5.91,
    "pos_probs": [
-    0.24,
-    0.6347,
-    0.109,
-    0.0163
+    0.2372,
+    0.642,
+    0.105,
+    0.0158
    ],
    "fifa_rank": 25,
    "fifa_points": 1591.63,
@@ -106,19 +106,19 @@
    "rating": 1696.3,
    "adjust": 0,
    "adjust_note": "",
-   "p_r32": 0.649,
-   "p_r16": 0.1437,
-   "p_qf": 0.0237,
-   "p_sf": 0.0017,
-   "p_final": 0.0,
+   "p_r32": 0.6456,
+   "p_r16": 0.1371,
+   "p_qf": 0.0244,
+   "p_sf": 0.0024,
+   "p_final": 0.0004,
    "p_champion": 0.0,
-   "p_third_q": 0.2623,
-   "exp_points": 3.46,
+   "p_third_q": 0.2604,
+   "exp_points": 3.44,
    "pos_probs": [
-    0.1213,
-    0.2653,
-    0.353,
-    0.2603
+    0.1113,
+    0.2739,
+    0.3625,
+    0.2523
    ],
    "fifa_rank": 64,
    "fifa_points": 1387.22,
@@ -129,19 +129,19 @@
    "rating": 1876.4,
    "adjust": -10,
    "adjust_note": "Davies (captain) day-to-day with hamstring after prior ACL (left in baseline so the lineup engine prices his absence per match); Flores (ACL, fringe) out for the tournament",
-   "p_r32": 0.935,
-   "p_r16": 0.5203,
-   "p_qf": 0.213,
-   "p_sf": 0.053,
-   "p_final": 0.0153,
-   "p_champion": 0.003,
-   "p_third_q": 0.1047,
+   "p_r32": 0.9297,
+   "p_r16": 0.5094,
+   "p_qf": 0.2198,
+   "p_sf": 0.0561,
+   "p_final": 0.0164,
+   "p_champion": 0.0048,
+   "p_third_q": 0.1036,
    "exp_points": 5.1,
    "pos_probs": [
-    0.5277,
-    0.3027,
-    0.131,
-    0.0387
+    0.5288,
+    0.2973,
+    0.1335,
+    0.0404
    ],
    "fifa_rank": 30,
    "fifa_points": 1559.48,
@@ -152,19 +152,19 @@
    "rating": 1558.7,
    "adjust": 0,
    "adjust_note": "",
-   "p_r32": 0.2893,
-   "p_r16": 0.0277,
-   "p_qf": 0.0037,
-   "p_sf": 0.0,
+   "p_r32": 0.2818,
+   "p_r16": 0.0276,
+   "p_qf": 0.0024,
+   "p_sf": 0.0001,
    "p_final": 0.0,
    "p_champion": 0.0,
-   "p_third_q": 0.158,
-   "exp_points": 2.19,
+   "p_third_q": 0.1492,
+   "exp_points": 2.17,
    "pos_probs": [
-    0.0313,
-    0.1,
-    0.248,
-    0.6207
+    0.0271,
+    0.1055,
+    0.2413,
+    0.6261
    ],
    "fifa_rank": 56,
    "fifa_points": 1450.31,
@@ -175,19 +175,19 @@
    "rating": 1929.8,
    "adjust": 0,
    "adjust_note": "",
-   "p_r32": 0.7993,
-   "p_r16": 0.4113,
-   "p_qf": 0.172,
-   "p_sf": 0.0563,
-   "p_final": 0.0193,
-   "p_champion": 0.0063,
-   "p_third_q": 0.1477,
-   "exp_points": 4.28,
+   "p_r32": 0.815,
+   "p_r16": 0.4302,
+   "p_qf": 0.1799,
+   "p_sf": 0.0606,
+   "p_final": 0.0194,
+   "p_champion": 0.0061,
+   "p_third_q": 0.1589,
+   "exp_points": 4.33,
    "pos_probs": [
-    0.3197,
-    0.332,
-    0.268,
-    0.0803
+    0.3328,
+    0.3233,
+    0.2627,
+    0.0812
    ],
    "fifa_rank": 19,
    "fifa_points": 1650.06,
@@ -198,19 +198,19 @@
    "rating": 2035.5,
    "adjust": -45,
    "adjust_note": "Rodrygo (ACL, key), Estevao (hamstring, likely starter) and Eder Militao (hamstring, depth) all ruled out; Neymar short-term calf strain excluded from adjustment",
-   "p_r32": 0.934,
-   "p_r16": 0.5827,
-   "p_qf": 0.3393,
-   "p_sf": 0.1693,
-   "p_final": 0.0737,
-   "p_champion": 0.0333,
-   "p_third_q": 0.122,
-   "exp_points": 5.39,
+   "p_r32": 0.9352,
+   "p_r16": 0.5816,
+   "p_qf": 0.344,
+   "p_sf": 0.1758,
+   "p_final": 0.0765,
+   "p_champion": 0.0348,
+   "p_third_q": 0.1536,
+   "exp_points": 5.38,
    "pos_probs": [
-    0.4407,
-    0.3713,
-    0.1437,
-    0.0443
+    0.417,
+    0.3646,
+    0.1787,
+    0.0397
    ],
    "fifa_rank": 6,
    "fifa_points": 1765.86,
@@ -221,19 +221,19 @@
    "rating": 1693.7,
    "adjust": 0,
    "adjust_note": "",
-   "p_r32": 0.261,
-   "p_r16": 0.0377,
-   "p_qf": 0.0053,
-   "p_sf": 0.0003,
+   "p_r32": 0.0845,
+   "p_r16": 0.0117,
+   "p_qf": 0.0025,
+   "p_sf": 0.0001,
    "p_final": 0.0,
    "p_champion": 0.0,
-   "p_third_q": 0.1507,
-   "exp_points": 1.86,
+   "p_third_q": 0.0619,
+   "exp_points": 0.81,
    "pos_probs": [
-    0.0353,
-    0.075,
-    0.251,
-    0.6387
+    0.0051,
+    0.0175,
+    0.0895,
+    0.8879
    ],
    "fifa_rank": 83,
    "fifa_points": 1293.1,
@@ -244,19 +244,19 @@
    "rating": 2025.0,
    "adjust": 0,
    "adjust_note": "",
-   "p_r32": 0.9277,
-   "p_r16": 0.5583,
-   "p_qf": 0.3373,
-   "p_sf": 0.1633,
-   "p_final": 0.0743,
-   "p_champion": 0.0287,
-   "p_third_q": 0.137,
-   "exp_points": 5.29,
+   "p_r32": 0.9291,
+   "p_r16": 0.5555,
+   "p_qf": 0.3189,
+   "p_sf": 0.1617,
+   "p_final": 0.0671,
+   "p_champion": 0.0272,
+   "p_third_q": 0.1711,
+   "exp_points": 5.3,
    "pos_probs": [
-    0.4103,
-    0.3803,
-    0.1627,
-    0.0467
+    0.395,
+    0.363,
+    0.2006,
+    0.0414
    ],
    "fifa_rank": 7,
    "fifa_points": 1755.1,
@@ -267,19 +267,19 @@
    "rating": 1858.8,
    "adjust": -20,
    "adjust_note": "Gilmour (knee, midfield starter) ruled out",
-   "p_r32": 0.5843,
-   "p_r16": 0.184,
-   "p_qf": 0.0633,
-   "p_sf": 0.02,
-   "p_final": 0.003,
-   "p_champion": 0.0003,
-   "p_third_q": 0.2973,
-   "exp_points": 3.25,
+   "p_r32": 0.8439,
+   "p_r16": 0.2904,
+   "p_qf": 0.1008,
+   "p_sf": 0.0295,
+   "p_final": 0.0072,
+   "p_champion": 0.0018,
+   "p_third_q": 0.4061,
+   "exp_points": 4.61,
    "pos_probs": [
-    0.1137,
-    0.1733,
-    0.4427,
-    0.2703
+    0.1829,
+    0.2549,
+    0.5312,
+    0.031
    ],
    "fifa_rank": 42,
    "fifa_points": 1503.34,
@@ -290,19 +290,19 @@
    "rating": 1957.3,
    "adjust": -15,
    "adjust_note": "Miller (Achilles, wing-back starter) ruled out; O'Neill doubtful",
-   "p_r32": 0.5787,
-   "p_r16": 0.2537,
-   "p_qf": 0.0873,
-   "p_sf": 0.0273,
-   "p_final": 0.0067,
-   "p_champion": 0.0033,
-   "p_third_q": 0.253,
-   "exp_points": 3.33,
+   "p_r32": 0.9694,
+   "p_r16": 0.5697,
+   "p_qf": 0.2409,
+   "p_sf": 0.0854,
+   "p_final": 0.0332,
+   "p_champion": 0.0102,
+   "p_third_q": 0.1162,
+   "exp_points": 5.93,
    "pos_probs": [
-    0.109,
-    0.2167,
-    0.3797,
-    0.2947
+    0.4028,
+    0.4504,
+    0.128,
+    0.0188
    ],
    "fifa_rank": 27,
    "fifa_points": 1579.34,
@@ -313,19 +313,19 @@
    "rating": 1867.9,
    "adjust": 0,
    "adjust_note": "",
-   "p_r32": 0.3163,
-   "p_r16": 0.117,
-   "p_qf": 0.0313,
-   "p_sf": 0.0117,
-   "p_final": 0.0033,
-   "p_champion": 0.0,
-   "p_third_q": 0.188,
-   "exp_points": 2.22,
+   "p_r32": 0.2828,
+   "p_r16": 0.0965,
+   "p_qf": 0.0258,
+   "p_sf": 0.0084,
+   "p_final": 0.0014,
+   "p_champion": 0.0003,
+   "p_third_q": 0.1857,
+   "exp_points": 2.14,
    "pos_probs": [
-    0.017,
-    0.1113,
-    0.2873,
-    0.5843
+    0.0125,
+    0.0846,
+    0.2852,
+    0.6177
    ],
    "fifa_rank": 41,
    "fifa_points": 1505.35,
@@ -336,19 +336,19 @@
    "rating": 1930.7,
    "adjust": 0,
    "adjust_note": "",
-   "p_r32": 0.8353,
-   "p_r16": 0.5273,
-   "p_qf": 0.2537,
-   "p_sf": 0.118,
-   "p_final": 0.0503,
-   "p_champion": 0.0217,
-   "p_third_q": 0.1587,
-   "exp_points": 4.97,
+   "p_r32": 0.4781,
+   "p_r16": 0.2065,
+   "p_qf": 0.0781,
+   "p_sf": 0.0321,
+   "p_final": 0.0111,
+   "p_champion": 0.0026,
+   "p_third_q": 0.3019,
+   "exp_points": 2.76,
    "pos_probs": [
-    0.32,
-    0.3567,
-    0.2193,
-    0.104
+    0.0295,
+    0.1467,
+    0.4702,
+    0.3536
    ],
    "fifa_rank": 22,
    "fifa_points": 1605.73,
@@ -359,19 +359,19 @@
    "rating": 1884.3,
    "adjust": -15,
    "adjust_note": "Cardoso (ankle) and Agyemang (Achilles) ruled out",
-   "p_r32": 0.9773,
-   "p_r16": 0.6143,
-   "p_qf": 0.305,
-   "p_sf": 0.122,
-   "p_final": 0.0573,
-   "p_champion": 0.0193,
-   "p_third_q": 0.108,
-   "exp_points": 5.98,
+   "p_r32": 0.984,
+   "p_r16": 0.6307,
+   "p_qf": 0.3068,
+   "p_sf": 0.1153,
+   "p_final": 0.0489,
+   "p_champion": 0.0168,
+   "p_third_q": 0.1105,
+   "exp_points": 5.96,
    "pos_probs": [
-    0.554,
-    0.3153,
-    0.1137,
-    0.017
+    0.5552,
+    0.3183,
+    0.1166,
+    0.0099
    ],
    "fifa_rank": 17,
    "fifa_points": 1671.23,
@@ -382,19 +382,19 @@
    "rating": 1613.4,
    "adjust": 0,
    "adjust_note": "",
-   "p_r32": 0.1153,
-   "p_r16": 0.0113,
-   "p_qf": 0.001,
+   "p_r32": 0.1055,
+   "p_r16": 0.0127,
+   "p_qf": 0.0012,
    "p_sf": 0.0,
    "p_final": 0.0,
    "p_champion": 0.0,
-   "p_third_q": 0.0777,
-   "exp_points": 1.14,
+   "p_third_q": 0.0697,
+   "exp_points": 1.11,
    "pos_probs": [
-    0.005,
-    0.0327,
-    0.1557,
-    0.8067
+    0.0065,
+    0.0293,
+    0.1474,
+    0.8168
    ],
    "fifa_rank": 82,
    "fifa_points": 1294.77,
@@ -405,19 +405,19 @@
    "rating": 2052.7,
    "adjust": 0,
    "adjust_note": "",
-   "p_r32": 0.9617,
-   "p_r16": 0.6537,
-   "p_qf": 0.3633,
-   "p_sf": 0.1983,
-   "p_final": 0.1017,
-   "p_champion": 0.048,
-   "p_third_q": 0.1337,
-   "exp_points": 6.13,
+   "p_r32": 0.9603,
+   "p_r16": 0.6464,
+   "p_qf": 0.3559,
+   "p_sf": 0.2058,
+   "p_final": 0.0934,
+   "p_champion": 0.043,
+   "p_third_q": 0.1258,
+   "exp_points": 6.12,
    "pos_probs": [
-    0.5233,
-    0.3047,
-    0.1517,
-    0.0203
+    0.5099,
+    0.3246,
+    0.1451,
+    0.0204
    ],
    "fifa_rank": 23,
    "fifa_points": 1598.52,
@@ -428,19 +428,19 @@
    "rating": 1997.1,
    "adjust": -25,
    "adjust_note": "Gnabry (adductor) and ter Stegen (thigh) ruled out; Karl replaced in squad",
-   "p_r32": 0.917,
-   "p_r16": 0.5297,
-   "p_qf": 0.2633,
-   "p_sf": 0.1263,
-   "p_final": 0.0553,
+   "p_r32": 0.9215,
+   "p_r16": 0.5337,
+   "p_qf": 0.257,
+   "p_sf": 0.1233,
+   "p_final": 0.0491,
    "p_champion": 0.0207,
-   "p_third_q": 0.186,
-   "exp_points": 5.4,
+   "p_third_q": 0.1906,
+   "exp_points": 5.44,
    "pos_probs": [
-    0.3473,
-    0.3837,
-    0.2267,
-    0.0423
+    0.3527,
+    0.3782,
+    0.2321,
+    0.037
    ],
    "fifa_rank": 10,
    "fifa_points": 1735.77,
@@ -451,19 +451,19 @@
    "rating": 1875.7,
    "adjust": 0,
    "adjust_note": "",
-   "p_r32": 0.7403,
-   "p_r16": 0.287,
-   "p_qf": 0.095,
-   "p_sf": 0.0247,
-   "p_final": 0.0043,
-   "p_champion": 0.0017,
-   "p_third_q": 0.337,
-   "exp_points": 3.94,
+   "p_r32": 0.7422,
+   "p_r16": 0.283,
+   "p_qf": 0.1019,
+   "p_sf": 0.0293,
+   "p_final": 0.0079,
+   "p_champion": 0.0019,
+   "p_third_q": 0.3434,
+   "exp_points": 3.97,
    "pos_probs": [
-    0.1243,
-    0.279,
-    0.466,
-    0.1307
+    0.1309,
+    0.2679,
+    0.4754,
+    0.1258
    ],
    "fifa_rank": 33,
    "fifa_points": 1540.87,
@@ -474,19 +474,19 @@
    "rating": 1986.3,
    "adjust": -30,
    "adjust_note": "Mitoma (hamstring, key) and Minamino (ACL) ruled out",
-   "p_r32": 0.912,
-   "p_r16": 0.4693,
-   "p_qf": 0.2607,
-   "p_sf": 0.1137,
-   "p_final": 0.043,
-   "p_champion": 0.0197,
-   "p_third_q": 0.1123,
-   "exp_points": 5.69,
+   "p_r32": 0.9085,
+   "p_r16": 0.4478,
+   "p_qf": 0.2488,
+   "p_sf": 0.107,
+   "p_final": 0.0408,
+   "p_champion": 0.0156,
+   "p_third_q": 0.1206,
+   "exp_points": 5.67,
    "pos_probs": [
-    0.4707,
-    0.329,
-    0.1373,
-    0.063
+    0.4672,
+    0.3207,
+    0.1496,
+    0.0625
    ],
    "fifa_rank": 18,
    "fifa_points": 1661.58,
@@ -497,19 +497,19 @@
    "rating": 1956.2,
    "adjust": -50,
    "adjust_note": "Timber (groin), Xavi Simons (ACL), De Ligt (back surgery) and Schouten (ACL) all ruled out",
-   "p_r32": 0.887,
-   "p_r16": 0.413,
-   "p_qf": 0.2143,
-   "p_sf": 0.0803,
-   "p_final": 0.0263,
-   "p_champion": 0.0063,
-   "p_third_q": 0.141,
-   "exp_points": 5.35,
+   "p_r32": 0.8777,
+   "p_r16": 0.407,
+   "p_qf": 0.2022,
+   "p_sf": 0.0821,
+   "p_final": 0.0293,
+   "p_champion": 0.0094,
+   "p_third_q": 0.1409,
+   "exp_points": 5.27,
    "pos_probs": [
-    0.3973,
-    0.3487,
-    0.1763,
-    0.0777
+    0.3871,
+    0.3497,
+    0.1817,
+    0.0815
    ],
    "fifa_rank": 8,
    "fifa_points": 1753.57,
@@ -520,19 +520,19 @@
    "rating": 1769.1,
    "adjust": 0,
    "adjust_note": "",
-   "p_r32": 0.493,
-   "p_r16": 0.1137,
-   "p_qf": 0.0287,
+   "p_r32": 0.488,
+   "p_r16": 0.1019,
+   "p_qf": 0.0234,
    "p_sf": 0.0053,
-   "p_final": 0.0003,
+   "p_final": 0.0005,
    "p_champion": 0.0,
-   "p_third_q": 0.2483,
-   "exp_points": 2.86,
+   "p_third_q": 0.2254,
+   "exp_points": 2.9,
    "pos_probs": [
-    0.0687,
-    0.176,
-    0.3777,
-    0.3777
+    0.0832,
+    0.1794,
+    0.3526,
+    0.3848
    ],
    "fifa_rank": 38,
    "fifa_points": 1509.79,
@@ -543,19 +543,19 @@
    "rating": 1740.1,
    "adjust": 0,
    "adjust_note": "",
-   "p_r32": 0.4017,
-   "p_r16": 0.0727,
-   "p_qf": 0.0147,
-   "p_sf": 0.0047,
-   "p_final": 0.0017,
+   "p_r32": 0.4095,
+   "p_r16": 0.0728,
+   "p_qf": 0.0152,
+   "p_sf": 0.0023,
+   "p_final": 0.0001,
    "p_champion": 0.0,
-   "p_third_q": 0.192,
-   "exp_points": 2.52,
+   "p_third_q": 0.1968,
+   "exp_points": 2.55,
    "pos_probs": [
-    0.0633,
-    0.1463,
-    0.3087,
-    0.4817
+    0.0625,
+    0.1502,
+    0.3161,
+    0.4712
    ],
    "fifa_rank": 45,
    "fifa_points": 1476.41,
@@ -566,19 +566,19 @@
    "rating": 1988.4,
    "adjust": 0,
    "adjust_note": "",
-   "p_r32": 0.9067,
-   "p_r16": 0.5447,
-   "p_qf": 0.2547,
-   "p_sf": 0.0983,
-   "p_final": 0.043,
-   "p_champion": 0.02,
-   "p_third_q": 0.123,
-   "exp_points": 5.71,
+   "p_r32": 0.9042,
+   "p_r16": 0.5637,
+   "p_qf": 0.2761,
+   "p_sf": 0.1057,
+   "p_final": 0.0468,
+   "p_champion": 0.0149,
+   "p_third_q": 0.1232,
+   "exp_points": 5.68,
    "pos_probs": [
-    0.5107,
-    0.273,
-    0.1533,
-    0.063
+    0.5007,
+    0.2803,
+    0.1538,
+    0.0652
    ],
    "fifa_rank": 9,
    "fifa_points": 1742.24,
@@ -589,19 +589,19 @@
    "rating": 1848.5,
    "adjust": 0,
    "adjust_note": "",
-   "p_r32": 0.673,
-   "p_r16": 0.2647,
-   "p_qf": 0.07,
-   "p_sf": 0.017,
-   "p_final": 0.002,
-   "p_champion": 0.0003,
-   "p_third_q": 0.2393,
-   "exp_points": 3.8,
+   "p_r32": 0.6748,
+   "p_r16": 0.2642,
+   "p_qf": 0.0752,
+   "p_sf": 0.0176,
+   "p_final": 0.0046,
+   "p_champion": 0.0011,
+   "p_third_q": 0.2335,
+   "exp_points": 3.82,
    "pos_probs": [
-    0.1577,
-    0.276,
-    0.339,
-    0.2273
+    0.1707,
+    0.2706,
+    0.3279,
+    0.2308
    ],
    "fifa_rank": 29,
    "fifa_points": 1562.37,
@@ -612,18 +612,18 @@
    "rating": 1909.2,
    "adjust": 0,
    "adjust_note": "",
-   "p_r32": 0.8087,
-   "p_r16": 0.3873,
-   "p_qf": 0.1417,
-   "p_sf": 0.0457,
-   "p_final": 0.0167,
-   "p_champion": 0.004,
-   "p_third_q": 0.1937,
-   "exp_points": 4.61,
+   "p_r32": 0.8016,
+   "p_r16": 0.393,
+   "p_qf": 0.1461,
+   "p_sf": 0.0429,
+   "p_final": 0.0133,
+   "p_champion": 0.0035,
+   "p_third_q": 0.1916,
+   "exp_points": 4.64,
    "pos_probs": [
-    0.277,
-    0.338,
-    0.2543,
+    0.2814,
+    0.3286,
+    0.2593,
     0.1307
    ],
    "fifa_rank": 20,
@@ -635,19 +635,19 @@
    "rating": 1710.9,
    "adjust": 0,
    "adjust_note": "",
-   "p_r32": 0.3253,
-   "p_r16": 0.073,
-   "p_qf": 0.0127,
-   "p_sf": 0.0007,
-   "p_final": 0.0,
+   "p_r32": 0.324,
+   "p_r16": 0.0742,
+   "p_qf": 0.0116,
+   "p_sf": 0.0019,
+   "p_final": 0.0003,
    "p_champion": 0.0,
-   "p_third_q": 0.1577,
-   "exp_points": 2.23,
+   "p_third_q": 0.1563,
+   "exp_points": 2.21,
    "pos_probs": [
-    0.0547,
-    0.113,
-    0.2533,
-    0.579
+    0.0472,
+    0.1205,
+    0.259,
+    0.5733
    ],
    "fifa_rank": 85,
    "fifa_points": 1275.58,
@@ -658,19 +658,19 @@
    "rating": 1654.9,
    "adjust": 0,
    "adjust_note": "",
-   "p_r32": 0.2423,
-   "p_r16": 0.0257,
-   "p_qf": 0.0047,
-   "p_sf": 0.0003,
+   "p_r32": 0.2391,
+   "p_r16": 0.0253,
+   "p_qf": 0.0036,
+   "p_sf": 0.0004,
    "p_final": 0.0,
    "p_champion": 0.0,
-   "p_third_q": 0.153,
-   "exp_points": 1.81,
+   "p_third_q": 0.1522,
+   "exp_points": 1.83,
    "pos_probs": [
-    0.0053,
-    0.084,
-    0.3763,
-    0.5343
+    0.0041,
+    0.0828,
+    0.3914,
+    0.5217
    ],
    "fifa_rank": 67,
    "fifa_points": 1371.11,
@@ -681,19 +681,19 @@
    "rating": 1686.4,
    "adjust": 0,
    "adjust_note": "",
-   "p_r32": 0.3273,
-   "p_r16": 0.0363,
-   "p_qf": 0.0077,
-   "p_sf": 0.0007,
-   "p_final": 0.0,
-   "p_champion": 0.0,
-   "p_third_q": 0.2047,
-   "exp_points": 2.15,
+   "p_r32": 0.3156,
+   "p_r16": 0.0362,
+   "p_qf": 0.0061,
+   "p_sf": 0.0012,
+   "p_final": 0.0001,
+   "p_champion": 0.0001,
+   "p_third_q": 0.1931,
+   "exp_points": 2.14,
    "pos_probs": [
-    0.0063,
-    0.1163,
-    0.4527,
-    0.4247
+    0.0083,
+    0.1142,
+    0.442,
+    0.4355
    ],
    "fifa_rank": 61,
    "fifa_points": 1423.88,
@@ -704,19 +704,19 @@
    "rating": 2205.4,
    "adjust": -20,
    "adjust_note": "Fermin Lopez (metatarsal, 13 goals and 17 assists in 2025-26) ruled out",
-   "p_r32": 0.9983,
-   "p_r16": 0.7633,
-   "p_qf": 0.5723,
-   "p_sf": 0.458,
-   "p_final": 0.338,
-   "p_champion": 0.2183,
-   "p_third_q": 0.012,
-   "exp_points": 7.8,
+   "p_r32": 0.9973,
+   "p_r16": 0.7636,
+   "p_qf": 0.5716,
+   "p_sf": 0.4528,
+   "p_final": 0.3313,
+   "p_champion": 0.2168,
+   "p_third_q": 0.011,
+   "exp_points": 7.76,
    "pos_probs": [
-    0.8283,
-    0.158,
-    0.0133,
-    0.0003
+    0.8384,
+    0.1479,
+    0.0122,
+    0.0015
    ],
    "fifa_rank": 2,
    "fifa_points": 1874.71,
@@ -727,19 +727,19 @@
    "rating": 1955.7,
    "adjust": -10,
    "adjust_note": "Gimenez (ankle, starting centre-back) doubtful",
-   "p_r32": 0.9007,
-   "p_r16": 0.3153,
-   "p_qf": 0.1483,
-   "p_sf": 0.0767,
-   "p_final": 0.0303,
-   "p_champion": 0.009,
-   "p_third_q": 0.099,
-   "exp_points": 5.14,
+   "p_r32": 0.9038,
+   "p_r16": 0.3075,
+   "p_qf": 0.1484,
+   "p_sf": 0.0655,
+   "p_final": 0.0278,
+   "p_champion": 0.0103,
+   "p_third_q": 0.0995,
+   "exp_points": 5.17,
    "pos_probs": [
-    0.16,
-    0.6417,
-    0.1577,
-    0.0407
+    0.1492,
+    0.6551,
+    0.1544,
+    0.0413
    ],
    "fifa_rank": 16,
    "fifa_points": 1673.07,
@@ -750,19 +750,19 @@
    "rating": 2127.7,
    "adjust": -10,
    "adjust_note": "Ekitike (Achilles, rotation striker) ruled out",
-   "p_r32": 0.963,
-   "p_r16": 0.713,
-   "p_qf": 0.4837,
-   "p_sf": 0.334,
-   "p_final": 0.1867,
-   "p_champion": 0.1007,
-   "p_third_q": 0.0917,
+   "p_r32": 0.9598,
+   "p_r16": 0.7241,
+   "p_qf": 0.4994,
+   "p_sf": 0.3446,
+   "p_final": 0.1909,
+   "p_champion": 0.1068,
+   "p_third_q": 0.0963,
    "exp_points": 6.35,
    "pos_probs": [
-    0.605,
-    0.2663,
-    0.103,
-    0.0257
+    0.6037,
+    0.2598,
+    0.1131,
+    0.0234
    ],
    "fifa_rank": 3,
    "fifa_points": 1870.7,
@@ -773,19 +773,19 @@
    "rating": 1741.3,
    "adjust": 0,
    "adjust_note": "",
-   "p_r32": 0.2253,
-   "p_r16": 0.0503,
-   "p_qf": 0.011,
-   "p_sf": 0.0013,
-   "p_final": 0.0003,
-   "p_champion": 0.0,
-   "p_third_q": 0.127,
-   "exp_points": 1.71,
+   "p_r32": 0.2129,
+   "p_r16": 0.048,
+   "p_qf": 0.0096,
+   "p_sf": 0.0018,
+   "p_final": 0.0002,
+   "p_champion": 0.0001,
+   "p_third_q": 0.1202,
+   "exp_points": 1.66,
    "pos_probs": [
-    0.018,
-    0.0803,
-    0.2237,
-    0.678
+    0.0192,
+    0.0735,
+    0.2206,
+    0.6867
    ],
    "fifa_rank": 57,
    "fifa_points": 1446.28,
@@ -796,19 +796,19 @@
    "rating": 1998.1,
    "adjust": 0,
    "adjust_note": "",
-   "p_r32": 0.8437,
-   "p_r16": 0.473,
-   "p_qf": 0.2393,
-   "p_sf": 0.12,
-   "p_final": 0.0363,
-   "p_champion": 0.012,
-   "p_third_q": 0.2027,
-   "exp_points": 4.79,
+   "p_r32": 0.8391,
+   "p_r16": 0.4699,
+   "p_qf": 0.2492,
+   "p_sf": 0.1237,
+   "p_final": 0.0489,
+   "p_champion": 0.0184,
+   "p_third_q": 0.2018,
+   "exp_points": 4.78,
    "pos_probs": [
-    0.259,
-    0.382,
-    0.2623,
-    0.0967
+    0.2496,
+    0.3877,
+    0.267,
+    0.0957
    ],
    "fifa_rank": 31,
    "fifa_points": 1557.44,
@@ -819,19 +819,19 @@
    "rating": 1917.3,
    "adjust": 0,
    "adjust_note": "",
-   "p_r32": 0.657,
-   "p_r16": 0.2953,
-   "p_qf": 0.123,
-   "p_sf": 0.0457,
-   "p_final": 0.0147,
-   "p_champion": 0.0043,
-   "p_third_q": 0.2677,
-   "exp_points": 3.64,
+   "p_r32": 0.6787,
+   "p_r16": 0.3032,
+   "p_qf": 0.1261,
+   "p_sf": 0.0412,
+   "p_final": 0.0123,
+   "p_champion": 0.0027,
+   "p_third_q": 0.2722,
+   "exp_points": 3.75,
    "pos_probs": [
-    0.118,
-    0.2713,
-    0.411,
-    0.1997
+    0.1275,
+    0.279,
+    0.3993,
+    0.1942
    ],
    "fifa_rank": 15,
    "fifa_points": 1684.07,
@@ -842,19 +842,19 @@
    "rating": 1934.3,
    "adjust": 0,
    "adjust_note": "",
-   "p_r32": 0.7193,
-   "p_r16": 0.249,
-   "p_qf": 0.11,
-   "p_sf": 0.0413,
-   "p_final": 0.0123,
-   "p_champion": 0.005,
-   "p_third_q": 0.2147,
-   "exp_points": 3.95,
+   "p_r32": 0.711,
+   "p_r16": 0.2395,
+   "p_qf": 0.1093,
+   "p_sf": 0.0434,
+   "p_final": 0.0159,
+   "p_champion": 0.0044,
+   "p_third_q": 0.2091,
+   "exp_points": 3.92,
    "pos_probs": [
-    0.115,
-    0.3897,
-    0.3203,
-    0.175
+    0.1151,
+    0.3868,
+    0.3234,
+    0.1747
    ],
    "fifa_rank": 28,
    "fifa_points": 1571.03,
@@ -865,19 +865,19 @@
    "rating": 2198.0,
    "adjust": 0,
    "adjust_note": "",
-   "p_r32": 0.9817,
-   "p_r16": 0.72,
-   "p_qf": 0.5673,
-   "p_sf": 0.429,
-   "p_final": 0.3087,
-   "p_champion": 0.1973,
-   "p_third_q": 0.039,
-   "exp_points": 7.12,
+   "p_r32": 0.9849,
+   "p_r16": 0.7322,
+   "p_qf": 0.5863,
+   "p_sf": 0.4502,
+   "p_final": 0.3235,
+   "p_champion": 0.2109,
+   "p_third_q": 0.0403,
+   "exp_points": 7.17,
    "pos_probs": [
-    0.7743,
-    0.1683,
-    0.048,
-    0.0093
+    0.7822,
+    0.1624,
+    0.046,
+    0.0094
    ],
    "fifa_rank": 1,
    "fifa_points": 1877.27,
@@ -888,19 +888,19 @@
    "rating": 1900.8,
    "adjust": 0,
    "adjust_note": "",
-   "p_r32": 0.6397,
-   "p_r16": 0.1923,
-   "p_qf": 0.085,
-   "p_sf": 0.0317,
-   "p_final": 0.01,
-   "p_champion": 0.0033,
-   "p_third_q": 0.2393,
-   "exp_points": 3.5,
+   "p_r32": 0.6303,
+   "p_r16": 0.1876,
+   "p_qf": 0.0805,
+   "p_sf": 0.0267,
+   "p_final": 0.009,
+   "p_champion": 0.0025,
+   "p_third_q": 0.2238,
+   "exp_points": 3.51,
    "pos_probs": [
-    0.0877,
-    0.3127,
-    0.3643,
-    0.2353
+    0.0826,
+    0.3239,
+    0.3568,
+    0.2367
    ],
    "fifa_rank": 24,
    "fifa_points": 1597.4,
@@ -911,19 +911,19 @@
    "rating": 1771.3,
    "adjust": 0,
    "adjust_note": "",
-   "p_r32": 0.294,
-   "p_r16": 0.0617,
-   "p_qf": 0.0193,
-   "p_sf": 0.003,
-   "p_final": 0.0007,
-   "p_champion": 0.0,
-   "p_third_q": 0.1417,
-   "exp_points": 2.02,
+   "p_r32": 0.2866,
+   "p_r16": 0.0551,
+   "p_qf": 0.0138,
+   "p_sf": 0.0028,
+   "p_final": 0.0009,
+   "p_champion": 0.0001,
+   "p_third_q": 0.1396,
+   "exp_points": 1.99,
    "pos_probs": [
-    0.023,
-    0.1293,
-    0.2673,
-    0.5803
+    0.0201,
+    0.1269,
+    0.2738,
+    0.5792
    ],
    "fifa_rank": 63,
    "fifa_points": 1387.74,
@@ -934,19 +934,19 @@
    "rating": 2070.3,
    "adjust": 0,
    "adjust_note": "",
-   "p_r32": 0.9303,
-   "p_r16": 0.632,
-   "p_qf": 0.3617,
-   "p_sf": 0.184,
-   "p_final": 0.0957,
-   "p_champion": 0.0477,
-   "p_third_q": 0.11,
-   "exp_points": 5.89,
+   "p_r32": 0.9308,
+   "p_r16": 0.6214,
+   "p_qf": 0.3452,
+   "p_sf": 0.1822,
+   "p_final": 0.0959,
+   "p_champion": 0.0482,
+   "p_third_q": 0.1066,
+   "exp_points": 5.86,
    "pos_probs": [
-    0.4717,
-    0.3487,
-    0.1383,
-    0.0413
+    0.4726,
+    0.3516,
+    0.1333,
+    0.0425
    ],
    "fifa_rank": 13,
    "fifa_points": 1698.35,
@@ -957,19 +957,19 @@
    "rating": 1784.9,
    "adjust": 0,
    "adjust_note": "",
-   "p_r32": 0.3803,
-   "p_r16": 0.1003,
-   "p_qf": 0.0187,
-   "p_sf": 0.0023,
-   "p_final": 0.0003,
+   "p_r32": 0.3551,
+   "p_r16": 0.0926,
+   "p_qf": 0.0179,
+   "p_sf": 0.003,
+   "p_final": 0.0011,
    "p_champion": 0.0,
-   "p_third_q": 0.2163,
-   "exp_points": 2.33,
+   "p_third_q": 0.1976,
+   "exp_points": 2.29,
    "pos_probs": [
-    0.041,
-    0.123,
-    0.358,
-    0.478
+    0.0377,
+    0.1198,
+    0.3462,
+    0.4963
    ],
    "fifa_rank": 46,
    "fifa_points": 1474.43,
@@ -980,19 +980,19 @@
    "rating": 2058.4,
    "adjust": 0,
    "adjust_note": "",
-   "p_r32": 0.915,
-   "p_r16": 0.6087,
-   "p_qf": 0.331,
-   "p_sf": 0.1653,
-   "p_final": 0.091,
-   "p_champion": 0.0407,
-   "p_third_q": 0.1073,
-   "exp_points": 5.69,
+   "p_r32": 0.9262,
+   "p_r16": 0.6095,
+   "p_qf": 0.3313,
+   "p_sf": 0.1761,
+   "p_final": 0.0946,
+   "p_champion": 0.0464,
+   "p_third_q": 0.111,
+   "exp_points": 5.73,
    "pos_probs": [
-    0.4317,
-    0.376,
-    0.1347,
-    0.0577
+    0.4354,
+    0.3798,
+    0.1383,
+    0.0465
    ],
    "fifa_rank": 5,
    "fifa_points": 1767.85,
@@ -1003,19 +1003,19 @@
    "rating": 1816.4,
    "adjust": 0,
    "adjust_note": "",
-   "p_r32": 0.4313,
-   "p_r16": 0.117,
-   "p_qf": 0.028,
-   "p_sf": 0.0093,
-   "p_final": 0.0017,
-   "p_champion": 0.0,
-   "p_third_q": 0.2233,
-   "exp_points": 2.61,
+   "p_r32": 0.4282,
+   "p_r16": 0.1224,
+   "p_qf": 0.0266,
+   "p_sf": 0.0055,
+   "p_final": 0.0012,
+   "p_champion": 0.0002,
+   "p_third_q": 0.2251,
+   "exp_points": 2.63,
    "pos_probs": [
-    0.0557,
-    0.1523,
-    0.369,
-    0.423
+    0.0543,
+    0.1488,
+    0.3822,
+    0.4147
    ],
    "fifa_rank": 50,
    "fifa_points": 1458.73,
@@ -1026,19 +1026,19 @@
    "rating": 1955.0,
    "adjust": 0,
    "adjust_note": "",
-   "p_r32": 0.877,
-   "p_r16": 0.4133,
-   "p_qf": 0.1453,
-   "p_sf": 0.0607,
-   "p_final": 0.021,
-   "p_champion": 0.0053,
-   "p_third_q": 0.1967,
-   "exp_points": 5.03,
+   "p_r32": 0.8793,
+   "p_r16": 0.4112,
+   "p_qf": 0.1475,
+   "p_sf": 0.0661,
+   "p_final": 0.0267,
+   "p_champion": 0.0078,
+   "p_third_q": 0.2065,
+   "exp_points": 5.01,
    "pos_probs": [
-    0.2573,
-    0.423,
-    0.2633,
-    0.0563
+    0.2393,
+    0.4335,
+    0.2682,
+    0.059
    ],
    "fifa_rank": 11,
    "fifa_points": 1714.87,
@@ -1049,19 +1049,19 @@
    "rating": 2096.9,
    "adjust": 0,
    "adjust_note": "",
-   "p_r32": 0.9787,
-   "p_r16": 0.6977,
-   "p_qf": 0.3823,
-   "p_sf": 0.241,
-   "p_final": 0.1283,
-   "p_champion": 0.0673,
-   "p_third_q": 0.077,
-   "exp_points": 6.67,
+   "p_r32": 0.9806,
+   "p_r16": 0.6799,
+   "p_qf": 0.3751,
+   "p_sf": 0.2328,
+   "p_final": 0.1304,
+   "p_champion": 0.0675,
+   "p_third_q": 0.0716,
+   "exp_points": 6.76,
    "pos_probs": [
-    0.636,
-    0.2657,
-    0.0853,
-    0.013
+    0.6555,
+    0.2535,
+    0.0809,
+    0.0101
    ],
    "fifa_rank": 4,
    "fifa_points": 1828.02,
@@ -1072,19 +1072,19 @@
    "rating": 1613.2,
    "adjust": -15,
    "adjust_note": "Kudus (hamstring setback, key starter) participation doubtful",
-   "p_r32": 0.1223,
-   "p_r16": 0.0127,
-   "p_qf": 0.0007,
+   "p_r32": 0.1254,
+   "p_r16": 0.0109,
+   "p_qf": 0.0009,
    "p_sf": 0.0,
    "p_final": 0.0,
    "p_champion": 0.0,
-   "p_third_q": 0.0797,
+   "p_third_q": 0.0775,
    "exp_points": 1.19,
    "pos_probs": [
-    0.0067,
-    0.036,
-    0.166,
-    0.7913
+    0.0065,
+    0.0414,
+    0.1691,
+    0.783
    ],
    "fifa_rank": 73,
    "fifa_points": 1346.88,
@@ -1095,19 +1095,19 @@
    "rating": 1850.9,
    "adjust": 0,
    "adjust_note": "",
-   "p_r32": 0.7137,
-   "p_r16": 0.2083,
-   "p_qf": 0.0647,
-   "p_sf": 0.0157,
-   "p_final": 0.0023,
+   "p_r32": 0.707,
+   "p_r16": 0.2152,
+   "p_qf": 0.0611,
+   "p_sf": 0.0165,
+   "p_final": 0.0042,
    "p_champion": 0.001,
-   "p_third_q": 0.3383,
-   "exp_points": 3.79,
+   "p_third_q": 0.3367,
+   "exp_points": 3.74,
    "pos_probs": [
-    0.1,
-    0.2753,
-    0.4853,
-    0.1393
+    0.0987,
+    0.2716,
+    0.4818,
+    0.1479
    ],
    "fifa_rank": 34,
    "fifa_points": 1539.16,
@@ -4346,15 +4346,15 @@
     "outcome_scores": {
      "team1": {
       "score": "2-0",
-      "p": 0.1366
+      "p": 0.1386
      },
      "draw": {
       "score": "1-1",
-      "p": 0.0907
+      "p": 0.0841
      },
      "team2": {
       "score": "1-2",
-      "p": 0.0268
+      "p": 0.0237
      }
     },
     "modal_score": "2-0",
@@ -4407,15 +4407,15 @@
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1238
+      "p": 0.1286
      },
      "team2": {
       "score": "0-1",
-      "p": 0.1139
+      "p": 0.1125
      },
      "team1": {
       "score": "1-0",
-      "p": 0.0476
+      "p": 0.0524
      }
     },
     "modal_score": "1-1",
@@ -4468,15 +4468,15 @@
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1319
+      "p": 0.1422
      },
      "team1": {
       "score": "1-0",
-      "p": 0.1111
+      "p": 0.1021
      },
      "team2": {
       "score": "0-1",
-      "p": 0.056
+      "p": 0.0718
      }
     },
     "modal_score": "1-1",
@@ -4513,15 +4513,15 @@
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1343
+      "p": 0.1434
      },
      "team1": {
       "score": "1-0",
-      "p": 0.1098
+      "p": 0.0998
      },
      "team2": {
       "score": "0-1",
-      "p": 0.059
+      "p": 0.0749
      }
     },
     "modal_score": "1-1",
@@ -4603,15 +4603,15 @@
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1418
+      "p": 0.146
      },
      "team1": {
       "score": "1-0",
-      "p": 0.1026
+      "p": 0.0896
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0712
+      "p": 0.0867
      }
     },
     "modal_score": "1-1",
@@ -4648,15 +4648,15 @@
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1396
+      "p": 0.1455
      },
      "team1": {
       "score": "1-0",
-      "p": 0.1055
+      "p": 0.0935
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0668
+      "p": 0.0826
      }
     },
     "modal_score": "1-1",
@@ -4959,6 +4959,20 @@
       "p": 0.0828
      }
     ],
+    "outcome_scores": {
+     "team2": {
+      "score": "0-2",
+      "p": 0.1257
+     },
+     "draw": {
+      "score": "1-1",
+      "p": 0.1103
+     },
+     "team1": {
+      "score": "2-1",
+      "p": 0.0374
+     }
+    },
     "modal_score": "0-2",
     "modal_p": 0.1257
    },
@@ -5766,15 +5780,15 @@
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1214
+      "p": 0.1265
      },
      "team2": {
-      "score": "0-2",
-      "p": 0.116
+      "score": "0-1",
+      "p": 0.1132
      },
      "team1": {
       "score": "1-0",
-      "p": 0.0455
+      "p": 0.0502
      }
     },
     "modal_score": "1-1",
@@ -5827,15 +5841,15 @@
     "outcome_scores": {
      "team1": {
       "score": "2-0",
-      "p": 0.1354
+      "p": 0.1378
      },
      "draw": {
       "score": "1-1",
-      "p": 0.0936
+      "p": 0.0871
      },
      "team2": {
       "score": "1-2",
-      "p": 0.0282
+      "p": 0.0251
      }
     },
     "modal_score": "2-0",
@@ -6376,15 +6390,15 @@
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1458
-     },
-     "team1": {
-      "score": "1-0",
-      "p": 0.0919
+      "p": 0.1441
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0843
+      "p": 0.0983
+     },
+     "team1": {
+      "score": "1-0",
+      "p": 0.0769
      }
     },
     "modal_score": "1-1",
@@ -6437,15 +6451,15 @@
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1458
+      "p": 0.1408
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0915
+      "p": 0.104
      },
      "team1": {
       "score": "1-0",
-      "p": 0.0847
+      "p": 0.0691
      }
     },
     "modal_score": "1-1",
@@ -7265,7 +7279,7 @@
    "slot2": "Third place Group A/B/C/D/F",
    "status": "scheduled",
    "projected": true,
-   "p_pairing": 0.073,
+   "p_pairing": 0.061,
    "prediction": {
     "lam_a": 2.062,
     "lam_b": 0.735,
@@ -7331,7 +7345,7 @@
    "slot2": "Runner-up Group C",
    "status": "scheduled",
    "projected": true,
-   "p_pairing": 0.183,
+   "p_pairing": 0.174,
    "prediction": {
     "lam_a": 1.142,
     "lam_b": 1.326,
@@ -7392,60 +7406,60 @@
    "country": "United States",
    "kickoff_utc": "2026-06-29T17:00:00Z",
    "team1": "Brazil",
-   "team2": "Japan",
+   "team2": "Netherlands",
    "slot1": "Winner Group C",
    "slot2": "Runner-up Group F",
    "status": "scheduled",
    "projected": true,
-   "p_pairing": 0.152,
+   "p_pairing": 0.145,
    "prediction": {
-    "lam_a": 1.353,
-    "lam_b": 1.119,
-    "p_win": 0.4044,
-    "p_draw": 0.3028,
-    "p_loss": 0.2928,
+    "lam_a": 1.434,
+    "lam_b": 1.057,
+    "p_win": 0.4407,
+    "p_draw": 0.2975,
+    "p_loss": 0.2618,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1444
-     },
-     {
-      "score": "0-0",
-      "p": 0.101
+      "p": 0.1419
      },
      {
       "score": "1-0",
-      "p": 0.0975
+      "p": 0.1025
+     },
+     {
+      "score": "0-0",
+      "p": 0.0992
      },
      {
       "score": "2-1",
-      "p": 0.0865
+      "p": 0.09
      },
      {
-      "score": "0-1",
-      "p": 0.0778
+      "score": "2-0",
+      "p": 0.0852
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1444
+      "p": 0.1419
      },
      "team1": {
       "score": "1-0",
-      "p": 0.0975
+      "p": 0.1025
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0778
+      "p": 0.0713
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1444,
-    "p_advance": 0.5673,
-    "p_et_win": 0.0714,
-    "p_pens": 0.1747,
-    "pen_edge": 0.524
+    "modal_p": 0.1419,
+    "p_advance": 0.6076,
+    "p_et_win": 0.075,
+    "p_pens": 0.1708,
+    "pen_edge": 0.538
    }
   },
   {
@@ -7463,7 +7477,7 @@
    "slot2": "Third place Group C/D/F/G/H",
    "status": "scheduled",
    "projected": true,
-   "p_pairing": 0.07,
+   "p_pairing": 0.083,
    "prediction": {
     "lam_a": 1.798,
     "lam_b": 0.843,
@@ -7493,25 +7507,25 @@
      }
     ],
     "outcome_scores": {
-     "team1": {
-      "score": "2-0",
-      "p": 0.1251
-     },
      "draw": {
       "score": "1-1",
-      "p": 0.1111
+      "p": 0.1221
+     },
+     "team1": {
+      "score": "2-0",
+      "p": 0.1153
      },
      "team2": {
-      "score": "1-2",
-      "p": 0.0379
+      "score": "0-1",
+      "p": 0.0461
      }
     },
-    "modal_score": "2-0",
-    "modal_p": 0.1251,
-    "p_advance": 0.8001,
-    "p_et_win": 0.082,
-    "p_pens": 0.1249,
-    "pen_edge": 0.614
+    "modal_score": "1-1",
+    "modal_p": 0.1221,
+    "p_advance": 0.7521,
+    "p_et_win": 0.0825,
+    "p_pens": 0.1409,
+    "pen_edge": 0.593
    }
   },
   {
@@ -7529,7 +7543,7 @@
    "slot2": "Runner-up Group I",
    "status": "scheduled",
    "projected": true,
-   "p_pairing": 0.15,
+   "p_pairing": 0.148,
    "prediction": {
     "lam_a": 1.229,
     "lam_b": 1.233,
@@ -7595,7 +7609,7 @@
    "slot2": "Third place Group C/E/F/H/I",
    "status": "scheduled",
    "projected": true,
-   "p_pairing": 0.1,
+   "p_pairing": 0.14,
    "prediction": {
     "lam_a": 1.991,
     "lam_b": 0.761,
@@ -7627,15 +7641,15 @@
     "outcome_scores": {
      "team1": {
       "score": "2-0",
-      "p": 0.1306
+      "p": 0.1265
      },
      "draw": {
       "score": "1-1",
-      "p": 0.1031
+      "p": 0.1092
      },
      "team2": {
       "score": "1-2",
-      "p": 0.0332
+      "p": 0.0368
      }
     },
     "modal_score": "2-0",
@@ -7661,7 +7675,7 @@
    "slot2": "Third place Group E/H/I/J/K",
    "status": "scheduled",
    "projected": true,
-   "p_pairing": 0.144,
+   "p_pairing": 0.15,
    "prediction": {
     "lam_a": 2.111,
     "lam_b": 0.718,
@@ -7727,7 +7741,7 @@
    "slot2": "Third place Group B/E/F/I/J",
    "status": "scheduled",
    "projected": true,
-   "p_pairing": 0.098,
+   "p_pairing": 0.102,
    "prediction": {
     "lam_a": 2.142,
     "lam_b": 0.707,
@@ -7925,7 +7939,7 @@
    "slot2": "Runner-up Group J",
    "status": "scheduled",
    "projected": true,
-   "p_pairing": 0.319,
+   "p_pairing": 0.324,
    "prediction": {
     "lam_a": 2.073,
     "lam_b": 0.731,
@@ -7991,7 +8005,7 @@
    "slot2": "Third place Group E/F/G/I/J",
    "status": "scheduled",
    "projected": true,
-   "p_pairing": 0.087,
+   "p_pairing": 0.088,
    "prediction": {
     "lam_a": 1.574,
     "lam_b": 0.962,
@@ -8057,7 +8071,7 @@
    "slot2": "Runner-up Group H",
    "status": "scheduled",
    "projected": true,
-   "p_pairing": 0.497,
+   "p_pairing": 0.51,
    "prediction": {
     "lam_a": 1.961,
     "lam_b": 0.772,
@@ -8123,7 +8137,7 @@
    "slot2": "Third place Group D/E/I/J/L",
    "status": "scheduled",
    "projected": true,
-   "p_pairing": 0.158,
+   "p_pairing": 0.159,
    "prediction": {
     "lam_a": 1.877,
     "lam_b": 0.807,
@@ -8189,7 +8203,7 @@
    "slot2": "Runner-up Group G",
    "status": "scheduled",
    "projected": true,
-   "p_pairing": 0.12,
+   "p_pairing": 0.146,
    "prediction": {
     "lam_a": 1.35,
     "lam_b": 1.122,
@@ -8221,15 +8235,15 @@
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1402
+      "p": 0.1445
      },
      "team1": {
       "score": "1-0",
-      "p": 0.1047
+      "p": 0.0973
      },
      "team2": {
       "score": "0-1",
-      "p": 0.068
+      "p": 0.0781
      }
     },
     "modal_score": "1-1",
@@ -8255,7 +8269,7 @@
    "slot2": "Winner Match 77",
    "status": "scheduled",
    "projected": true,
-   "p_pairing": 0.185,
+   "p_pairing": 0.184,
    "prediction": {
     "lam_a": 1.066,
     "lam_b": 1.422,
@@ -8321,7 +8335,7 @@
    "slot2": "Winner Match 75",
    "status": "scheduled",
    "projected": true,
-   "p_pairing": 0.096,
+   "p_pairing": 0.1,
    "prediction": {
     "lam_a": 1.061,
     "lam_b": 1.428,
@@ -8419,15 +8433,15 @@
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1451
-     },
-     "team1": {
-      "score": "1-0",
-      "p": 0.0954
+      "p": 0.1458
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0804
+      "p": 0.0916
+     },
+     "team1": {
+      "score": "1-0",
+      "p": 0.0847
      }
     },
     "modal_score": "1-1",
@@ -8453,7 +8467,7 @@
    "slot2": "Winner Match 80",
    "status": "scheduled",
    "projected": true,
-   "p_pairing": 0.281,
+   "p_pairing": 0.276,
    "prediction": {
     "lam_a": 1.259,
     "lam_b": 1.203,
@@ -8519,7 +8533,7 @@
    "slot2": "Winner Match 84",
    "status": "scheduled",
    "projected": true,
-   "p_pairing": 0.172,
+   "p_pairing": 0.163,
    "prediction": {
     "lam_a": 0.928,
     "lam_b": 1.633,
@@ -8585,7 +8599,7 @@
    "slot2": "Winner Match 82",
    "status": "scheduled",
    "projected": true,
-   "p_pairing": 0.13,
+   "p_pairing": 0.132,
    "prediction": {
     "lam_a": 1.221,
     "lam_b": 1.24,
@@ -8651,7 +8665,7 @@
    "slot2": "Winner Match 88",
    "status": "scheduled",
    "projected": true,
-   "p_pairing": 0.14,
+   "p_pairing": 0.162,
    "prediction": {
     "lam_a": 1.955,
     "lam_b": 0.775,
@@ -8681,25 +8695,25 @@
      }
     ],
     "outcome_scores": {
-     "draw": {
-      "score": "1-1",
-      "p": 0.1226
-     },
      "team1": {
       "score": "2-0",
-      "p": 0.1148
+      "p": 0.1247
+     },
+     "draw": {
+      "score": "1-1",
+      "p": 0.1116
      },
      "team2": {
-      "score": "0-1",
-      "p": 0.0465
+      "score": "1-2",
+      "p": 0.0383
      }
     },
-    "modal_score": "1-1",
-    "modal_p": 0.1226,
-    "p_advance": 0.7497,
-    "p_et_win": 0.0825,
-    "p_pens": 0.1417,
-    "pen_edge": 0.592
+    "modal_score": "2-0",
+    "modal_p": 0.1247,
+    "p_advance": 0.7979,
+    "p_et_win": 0.0821,
+    "p_pens": 0.1257,
+    "pen_edge": 0.613
    }
   },
   {
@@ -8717,7 +8731,7 @@
    "slot2": "Winner Match 87",
    "status": "scheduled",
    "projected": true,
-   "p_pairing": 0.119,
+   "p_pairing": 0.112,
    "prediction": {
     "lam_a": 1.027,
     "lam_b": 1.474,
@@ -8778,18 +8792,18 @@
    "country": "United States",
    "kickoff_utc": "2026-07-09T20:00:00Z",
    "team1": "France",
-   "team2": "Japan",
+   "team2": "South Korea",
    "slot1": "Winner Match 89",
    "slot2": "Winner Match 90",
    "status": "scheduled",
    "projected": true,
-   "p_pairing": 0.051,
+   "p_pairing": 0.056,
    "prediction": {
-    "lam_a": 1.616,
-    "lam_b": 0.938,
-    "p_win": 0.5173,
-    "p_draw": 0.2793,
-    "p_loss": 0.2034,
+    "lam_a": 1.874,
+    "lam_b": 0.808,
+    "p_win": 0.6122,
+    "p_draw": 0.2455,
+    "p_loss": 0.1423,
     "top_scores": [
      {
       "score": "2-0",
@@ -8797,45 +8811,41 @@
      },
      {
       "score": "1-1",
-      "p": 0.1332
+      "p": 0.1171
      },
      {
       "score": "1-0",
-      "p": 0.1104
-     },
-     {
-      "score": "2-0",
-      "p": 0.1016
+      "p": 0.1147
      },
      {
       "score": "2-1",
-      "p": 0.0952
+      "p": 0.0971
      },
      {
       "score": "0-0",
-      "p": 0.0932
+      "p": 0.0819
      }
     ],
     "outcome_scores": {
+     "team1": {
+      "score": "2-0",
+      "p": 0.1201
+     },
      "draw": {
       "score": "1-1",
-      "p": 0.1332
-     },
-     "team1": {
-      "score": "1-0",
-      "p": 0.1104
+      "p": 0.1171
      },
      "team2": {
-      "score": "0-1",
-      "p": 0.0577
+      "score": "1-2",
+      "p": 0.0419
      }
     },
-    "modal_score": "1-1",
-    "modal_p": 0.1332,
-    "p_advance": 0.6872,
-    "p_et_win": 0.0804,
-    "p_pens": 0.1576,
-    "pen_edge": 0.567
+    "modal_score": "2-0",
+    "modal_p": 0.1201,
+    "p_advance": 0.7753,
+    "p_et_win": 0.0825,
+    "p_pens": 0.1336,
+    "pen_edge": 0.603
    }
   },
   {
@@ -8853,7 +8863,7 @@
    "slot2": "Winner Match 94",
    "status": "scheduled",
    "projected": true,
-   "p_pairing": 0.104,
+   "p_pairing": 0.111,
    "prediction": {
     "lam_a": 1.883,
     "lam_b": 0.805,
@@ -8919,7 +8929,7 @@
    "slot2": "Winner Match 92",
    "status": "scheduled",
    "projected": true,
-   "p_pairing": 0.063,
+   "p_pairing": 0.06,
    "prediction": {
     "lam_a": 1.295,
     "lam_b": 1.169,
@@ -9051,7 +9061,7 @@
    "slot2": "Winner Match 98",
    "status": "scheduled",
    "projected": true,
-   "p_pairing": 0.089,
+   "p_pairing": 0.097,
    "prediction": {
     "lam_a": 1.06,
     "lam_b": 1.429,
@@ -9117,7 +9127,7 @@
    "slot2": "Winner Match 100",
    "status": "scheduled",
    "projected": true,
-   "p_pairing": 0.066,
+   "p_pairing": 0.07,
    "prediction": {
     "lam_a": 0.856,
     "lam_b": 1.77,
@@ -9149,15 +9159,15 @@
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1394
+      "p": 0.1239
      },
      "team2": {
       "score": "0-1",
-      "p": 0.1057
+      "p": 0.1139
      },
      "team1": {
       "score": "1-0",
-      "p": 0.0665
+      "p": 0.0477
      }
     },
     "modal_score": "1-1",
@@ -9215,15 +9225,15 @@
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.146
+      "p": 0.1369
      },
      "team1": {
       "score": "1-0",
-      "p": 0.0897
+      "p": 0.1079
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0867
+      "p": 0.0626
      }
     },
     "modal_score": "1-1",
@@ -9249,7 +9259,7 @@
    "slot2": "Winner Match 102",
    "status": "scheduled",
    "projected": true,
-   "p_pairing": 0.089,
+   "p_pairing": 0.096,
    "prediction": {
     "lam_a": 1.248,
     "lam_b": 1.213,
@@ -9322,7 +9332,7 @@
      "South Korea",
      "Bosnia and Herzegovina"
     ],
-    "p": 0.173
+    "p": 0.176
    }
   ],
   "74": [
@@ -9331,21 +9341,21 @@
      "Ecuador",
      "Czech Republic"
     ],
-    "p": 0.073
+    "p": 0.061
    },
    {
     "pair": [
      "Ecuador",
-     "Bosnia and Herzegovina"
+     "Scotland"
     ],
-    "p": 0.046
+    "p": 0.053
    },
    {
     "pair": [
      "Ecuador",
      "Turkey"
     ],
-    "p": 0.044
+    "p": 0.052
    }
   ],
   "75": [
@@ -9354,44 +9364,44 @@
      "Japan",
      "Morocco"
     ],
-    "p": 0.183
+    "p": 0.174
    },
    {
     "pair": [
      "Japan",
      "Brazil"
     ],
-    "p": 0.172
+    "p": 0.167
    },
    {
     "pair": [
      "Netherlands",
      "Brazil"
     ],
-    "p": 0.153
+    "p": 0.141
    }
   ],
   "76": [
    {
     "pair": [
      "Brazil",
-     "Japan"
-    ],
-    "p": 0.152
-   },
-   {
-    "pair": [
-     "Brazil",
      "Netherlands"
     ],
-    "p": 0.149
+    "p": 0.145
    },
    {
     "pair": [
      "Morocco",
      "Netherlands"
     ],
-    "p": 0.145
+    "p": 0.136
+   },
+   {
+    "pair": [
+     "Brazil",
+     "Japan"
+    ],
+    "p": 0.132
    }
   ],
   "77": [
@@ -9400,6 +9410,13 @@
      "France",
      "Turkey"
     ],
+    "p": 0.083
+   },
+   {
+    "pair": [
+     "France",
+     "Scotland"
+    ],
     "p": 0.07
    },
    {
@@ -9407,14 +9424,7 @@
      "France",
      "Paraguay"
     ],
-    "p": 0.051
-   },
-   {
-    "pair": [
-     "France",
-     "Egypt"
-    ],
-    "p": 0.047
+    "p": 0.049
    }
   ],
   "78": [
@@ -9423,21 +9433,21 @@
      "Germany",
      "Norway"
     ],
-    "p": 0.15
+    "p": 0.148
    },
    {
     "pair": [
      "Ecuador",
      "Norway"
     ],
-    "p": 0.116
+    "p": 0.127
    },
    {
     "pair": [
      "Germany",
      "Senegal"
     ],
-    "p": 0.107
+    "p": 0.103
    }
   ],
   "79": [
@@ -9446,21 +9456,21 @@
      "Mexico",
      "Scotland"
     ],
-    "p": 0.1
+    "p": 0.14
    },
    {
     "pair": [
      "Mexico",
      "Ivory Coast"
     ],
-    "p": 0.056
+    "p": 0.06
    },
    {
     "pair": [
      "Mexico",
      "Morocco"
     ],
-    "p": 0.052
+    "p": 0.058
    }
   ],
   "80": [
@@ -9469,21 +9479,21 @@
      "England",
      "Uzbekistan"
     ],
-    "p": 0.144
+    "p": 0.15
    },
    {
     "pair": [
      "England",
      "DR Congo"
     ],
-    "p": 0.139
+    "p": 0.128
    },
    {
     "pair": [
      "England",
      "Portugal"
     ],
-    "p": 0.069
+    "p": 0.073
    }
   ],
   "81": [
@@ -9492,21 +9502,21 @@
      "United States",
      "Bosnia and Herzegovina"
     ],
-    "p": 0.098
+    "p": 0.102
    },
    {
     "pair": [
-     "Turkey",
+     "Australia",
      "Bosnia and Herzegovina"
     ],
-    "p": 0.06
+    "p": 0.073
    },
    {
     "pair": [
      "United States",
-     "Qatar"
+     "Switzerland"
     ],
-    "p": 0.058
+    "p": 0.059
    }
   ],
   "82": [
@@ -9522,14 +9532,14 @@
      "Iran",
      "Czech Republic"
     ],
-    "p": 0.07
+    "p": 0.066
    },
    {
     "pair": [
      "Belgium",
      "South Africa"
     ],
-    "p": 0.043
+    "p": 0.045
    }
   ],
   "83": [
@@ -9552,7 +9562,7 @@
      "Portugal",
      "Panama"
     ],
-    "p": 0.105
+    "p": 0.103
    }
   ],
   "84": [
@@ -9561,21 +9571,21 @@
      "Spain",
      "Algeria"
     ],
-    "p": 0.319
+    "p": 0.324
    },
    {
     "pair": [
      "Spain",
      "Austria"
     ],
-    "p": 0.261
+    "p": 0.271
    },
    {
     "pair": [
      "Spain",
      "Argentina"
     ],
-    "p": 0.14
+    "p": 0.138
    }
   ],
   "85": [
@@ -9584,21 +9594,21 @@
      "Canada",
      "Egypt"
     ],
-    "p": 0.087
+    "p": 0.088
    },
    {
     "pair": [
      "Canada",
      "Iran"
     ],
-    "p": 0.072
+    "p": 0.07
    },
    {
     "pair": [
      "Canada",
      "New Zealand"
     ],
-    "p": 0.054
+    "p": 0.057
    }
   ],
   "86": [
@@ -9607,21 +9617,21 @@
      "Argentina",
      "Uruguay"
     ],
-    "p": 0.497
+    "p": 0.51
    },
    {
     "pair": [
      "Argentina",
      "Spain"
     ],
-    "p": 0.123
+    "p": 0.118
    },
    {
     "pair": [
      "Argentina",
      "Saudi Arabia"
     ],
-    "p": 0.092
+    "p": 0.09
    }
   ],
   "87": [
@@ -9630,14 +9640,14 @@
      "Colombia",
      "Panama"
     ],
-    "p": 0.158
+    "p": 0.159
    },
    {
     "pair": [
      "Portugal",
      "Panama"
     ],
-    "p": 0.152
+    "p": 0.147
    },
    {
     "pair": [
@@ -9653,21 +9663,21 @@
      "Australia",
      "Iran"
     ],
-    "p": 0.12
+    "p": 0.146
    },
    {
     "pair": [
      "Australia",
      "Belgium"
     ],
-    "p": 0.11
+    "p": 0.131
    },
    {
     "pair": [
-     "Turkey",
-     "Belgium"
+     "Australia",
+     "Egypt"
     ],
-    "p": 0.1
+    "p": 0.12
    }
   ],
   "89": [
@@ -9676,14 +9686,14 @@
      "Ecuador",
      "France"
     ],
-    "p": 0.185
+    "p": 0.184
    },
    {
     "pair": [
      "Germany",
      "France"
     ],
-    "p": 0.11
+    "p": 0.115
    },
    {
     "pair": [
@@ -9699,21 +9709,21 @@
      "South Korea",
      "Japan"
     ],
-    "p": 0.096
+    "p": 0.1
    },
    {
     "pair": [
      "South Korea",
      "Brazil"
     ],
-    "p": 0.096
+    "p": 0.088
    },
    {
     "pair": [
      "South Korea",
      "Morocco"
     ],
-    "p": 0.086
+    "p": 0.081
    }
   ],
   "91": [
@@ -9736,14 +9746,7 @@
      "Brazil",
      "Germany"
     ],
-    "p": 0.059
-   },
-   {
-    "pair": [
-     "Brazil",
-     "Germany"
-    ],
-    "p": 0.053
+    "p": 0.054
    }
   ],
   "92": [
@@ -9752,21 +9755,21 @@
      "Mexico",
      "England"
     ],
-    "p": 0.281
+    "p": 0.276
    },
    {
     "pair": [
      "Mexico",
      "Croatia"
     ],
-    "p": 0.09
+    "p": 0.081
    },
    {
     "pair": [
      "South Korea",
      "England"
     ],
-    "p": 0.068
+    "p": 0.062
    }
   ],
   "93": [
@@ -9775,21 +9778,21 @@
      "Portugal",
      "Spain"
     ],
-    "p": 0.172
+    "p": 0.163
    },
    {
     "pair": [
      "Colombia",
      "Spain"
     ],
-    "p": 0.147
+    "p": 0.158
    },
    {
     "pair": [
      "Croatia",
      "Spain"
     ],
-    "p": 0.12
+    "p": 0.13
    }
   ],
   "94": [
@@ -9798,21 +9801,21 @@
      "United States",
      "Belgium"
     ],
-    "p": 0.13
+    "p": 0.132
    },
    {
     "pair": [
      "Australia",
      "Belgium"
     ],
-    "p": 0.075
+    "p": 0.089
    },
    {
     "pair": [
      "United States",
      "Iran"
     ],
-    "p": 0.058
+    "p": 0.068
    }
   ],
   "95": [
@@ -9821,21 +9824,21 @@
      "Argentina",
      "Australia"
     ],
-    "p": 0.14
+    "p": 0.162
    },
    {
     "pair": [
      "Argentina",
      "United States"
     ],
-    "p": 0.118
+    "p": 0.123
    },
    {
     "pair": [
      "Argentina",
      "Belgium"
     ],
-    "p": 0.089
+    "p": 0.093
    }
   ],
   "96": [
@@ -9844,28 +9847,35 @@
      "Canada",
      "Colombia"
     ],
-    "p": 0.119
+    "p": 0.112
    },
    {
     "pair": [
      "Canada",
      "Portugal"
     ],
-    "p": 0.102
+    "p": 0.101
    },
    {
     "pair": [
      "Switzerland",
      "Colombia"
     ],
-    "p": 0.069
+    "p": 0.062
    }
   ],
   "97": [
    {
     "pair": [
      "France",
-     "Japan"
+     "South Korea"
+    ],
+    "p": 0.056
+   },
+   {
+    "pair": [
+     "France",
+     "Brazil"
     ],
     "p": 0.051
    },
@@ -9874,14 +9884,7 @@
      "France",
      "Morocco"
     ],
-    "p": 0.048
-   },
-   {
-    "pair": [
-     "France",
-     "Morocco"
-    ],
-    "p": 0.048
+    "p": 0.049
    }
   ],
   "98": [
@@ -9890,21 +9893,21 @@
      "Spain",
      "United States"
     ],
-    "p": 0.104
+    "p": 0.111
    },
    {
     "pair": [
      "Spain",
      "Belgium"
     ],
-    "p": 0.092
+    "p": 0.097
    },
    {
     "pair": [
      "Spain",
      "Australia"
     ],
-    "p": 0.063
+    "p": 0.069
    }
   ],
   "99": [
@@ -9913,21 +9916,21 @@
      "Brazil",
      "Mexico"
     ],
-    "p": 0.063
+    "p": 0.06
    },
    {
     "pair": [
      "Morocco",
      "Mexico"
     ],
-    "p": 0.055
+    "p": 0.051
    },
    {
     "pair": [
      "France",
      "Mexico"
     ],
-    "p": 0.045
+    "p": 0.044
    }
   ],
   "100": [
@@ -9950,7 +9953,7 @@
      "Argentina",
      "Canada"
     ],
-    "p": 0.073
+    "p": 0.077
    }
   ],
   "101": [
@@ -9959,41 +9962,41 @@
      "France",
      "Spain"
     ],
-    "p": 0.089
+    "p": 0.097
    },
    {
     "pair": [
      "Ecuador",
      "Spain"
     ],
-    "p": 0.044
+    "p": 0.049
    },
    {
     "pair": [
      "Morocco",
      "Spain"
     ],
-    "p": 0.035
+    "p": 0.036
    }
   ],
   "102": [
    {
     "pair": [
-     "England",
-     "Argentina"
-    ],
-    "p": 0.066
-   },
-   {
-    "pair": [
      "Mexico",
      "Argentina"
     ],
-    "p": 0.063
+    "p": 0.07
    },
    {
     "pair": [
-     "Brazil",
+     "England",
+     "Argentina"
+    ],
+    "p": 0.062
+   },
+   {
+    "pair": [
+     "France",
      "Argentina"
     ],
     "p": 0.036
@@ -10005,7 +10008,7 @@
      "France",
      "Mexico"
     ],
-    "p": 0.014
+    "p": 0.013
    },
    {
     "pair": [
@@ -10028,21 +10031,21 @@
      "Spain",
      "Argentina"
     ],
-    "p": 0.089
+    "p": 0.096
    },
    {
     "pair": [
      "France",
      "Argentina"
     ],
-    "p": 0.037
+    "p": 0.04
    },
    {
     "pair": [
      "Spain",
      "England"
     ],
-    "p": 0.026
+    "p": 0.031
    }
   ]
  },
@@ -10141,5 +10144,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "ec67b7d13a8ca38abfd6a35f3aad2d150e8a7eba"
+ "content_hash": "7a6751d45120fe6327d44a071790d98f48af4f30"
 }
