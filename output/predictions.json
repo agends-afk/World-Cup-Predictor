@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-15T05:19:35+10:00",
- "generated_aest": "Mon 15 Jun 2026, 5:19am AEST",
+ "generated": "2026-06-15T07:18:01+10:00",
+ "generated_aest": "Mon 15 Jun 2026, 7:18am AEST",
  "data_through": "2026-06-14",
  "sim_runs": 10000,
  "params": {
@@ -3600,6 +3600,62 @@
     ],
     "modal_score": "2-0",
     "modal_p": 0.1232
+   },
+   "prediction_base": {
+    "lam_a": 1.928,
+    "lam_b": 0.785,
+    "p_win": 0.6301,
+    "p_draw": 0.2378,
+    "p_loss": 0.132,
+    "top_scores": [
+     {
+      "score": "2-0",
+      "p": 0.1232
+     },
+     {
+      "score": "1-0",
+      "p": 0.1148
+     },
+     {
+      "score": "1-1",
+      "p": 0.1134
+     },
+     {
+      "score": "2-1",
+      "p": 0.0968
+     },
+     {
+      "score": "0-0",
+      "p": 0.0793
+     }
+    ],
+    "modal_score": "2-0",
+    "modal_p": 0.1232
+   },
+   "lineup": {
+    "team1": {
+     "elo": 0.0,
+     "delta_ovr": 0.09,
+     "status": "projected",
+     "xi_mean": 79.5,
+     "baseline_mean": 79.4,
+     "coverage": 1.0,
+     "missing": [
+      {
+       "name": "Noah Okafor",
+       "ovr": 78
+      },
+      {
+       "name": "Silvan Widmer",
+       "ovr": 74
+      },
+      {
+       "name": "Zeki Amdouni",
+       "ovr": 73
+      }
+     ]
+    },
+    "team2": null
    }
   },
   {
@@ -3801,6 +3857,58 @@
     ],
     "modal_score": "2-0",
     "modal_p": 0.1386
+   },
+   "prediction_base": {
+    "lam_a": 2.375,
+    "lam_b": 0.638,
+    "p_win": 0.7517,
+    "p_draw": 0.1764,
+    "p_loss": 0.0719,
+    "top_scores": [
+     {
+      "score": "2-0",
+      "p": 0.1386
+     },
+     {
+      "score": "3-0",
+      "p": 0.1097
+     },
+     {
+      "score": "1-0",
+      "p": 0.1071
+     },
+     {
+      "score": "2-1",
+      "p": 0.0884
+     },
+     {
+      "score": "1-1",
+      "p": 0.0841
+     }
+    ],
+    "modal_score": "2-0",
+    "modal_p": 0.1386
+   },
+   "lineup": {
+    "team1": {
+     "elo": 0.0,
+     "delta_ovr": 0.56,
+     "status": "projected",
+     "xi_mean": 85.2,
+     "baseline_mean": 84.6,
+     "coverage": 0.91,
+     "missing": [
+      {
+       "name": "Casemiro",
+       "ovr": 84
+      },
+      {
+       "name": "Dante",
+       "ovr": 79
+      }
+     ]
+    },
+    "team2": null
    }
   },
   {
@@ -3819,6 +3927,37 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
+    "lam_a": 0.879,
+    "lam_b": 1.723,
+    "p_win": 0.1753,
+    "p_draw": 0.266,
+    "p_loss": 0.5587,
+    "top_scores": [
+     {
+      "score": "1-1",
+      "p": 0.1269
+     },
+     {
+      "score": "0-1",
+      "p": 0.1131
+     },
+     {
+      "score": "0-2",
+      "p": 0.11
+     },
+     {
+      "score": "1-2",
+      "p": 0.0967
+     },
+     {
+      "score": "0-0",
+      "p": 0.0887
+     }
+    ],
+    "modal_score": "1-1",
+    "modal_p": 0.1269
+   },
+   "prediction_base": {
     "lam_a": 0.894,
     "lam_b": 1.694,
     "p_win": 0.1824,
@@ -3848,6 +3987,56 @@
     ],
     "modal_score": "1-1",
     "modal_p": 0.1286
+   },
+   "lineup": {
+    "team1": {
+     "elo": -9.5,
+     "delta_ovr": -1.27,
+     "status": "projected",
+     "xi_mean": 75.9,
+     "baseline_mean": 77.2,
+     "coverage": 1.0,
+     "missing": [
+      {
+       "name": "Kieran Tierney",
+       "ovr": 79
+      },
+      {
+       "name": "Jack Hendry",
+       "ovr": 75
+      },
+      {
+       "name": "Ross Stewart",
+       "ovr": 71
+      }
+     ]
+    },
+    "team2": {
+     "elo": -0.8,
+     "delta_ovr": -0.1,
+     "status": "projected",
+     "xi_mean": 77.4,
+     "baseline_mean": 77.5,
+     "coverage": 0.82,
+     "missing": [
+      {
+       "name": "Yassine Bounou",
+       "ovr": 84
+      },
+      {
+       "name": "Soufiane Rahimi",
+       "ovr": 79
+      },
+      {
+       "name": "Sofyan Amrabat",
+       "ovr": 78
+      },
+      {
+       "name": "Ayoub El Kaabi",
+       "ovr": 78
+      }
+     ]
+    }
    }
   },
   {
@@ -8494,5 +8683,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "ad9fc21ad8c3afcddeffe57c0993abf145b25e89"
+ "content_hash": "dad554a70e56e180c0cde0c6bcdf39b3e7bc10aa"
 }

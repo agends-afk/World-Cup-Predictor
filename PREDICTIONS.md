@@ -1,6 +1,6 @@
 # World Cup 2026: match predictions
 
-Generated Mon 15 Jun 2026, 5:19am AEST. Results included through 2026-06-14. 9 of 104 matches played. 10,000 tournament simulations.
+Generated Mon 15 Jun 2026, 7:18am AEST. Results included through 2026-06-14. 9 of 104 matches played. 10,000 tournament simulations.
 
 Every probability below is a model estimate built only from match results and public squad news, not from betting odds or published predictions. A favourite can be 75% to win while its most likely exact score sits near 12 to 15%; goals spread across many scorelines, so read the two numbers separately.
 
@@ -130,7 +130,7 @@ A read-only comparison of the model's own rating order against the FIFA/Coca-Col
 - M5, Sat 13 Jun, Foxborough: Haiti v Scotland. **Played: Haiti 0-1 Scotland.** Model said Scotland win 47% (win 24% / draw 29% / loss 47% for Haiti); most likely score 1-1 (14%); result hit, score miss
 - M7, Sat 13 Jun, East Rutherford: Brazil v Morocco. **Played: Brazil 1-1 Morocco.** Model said Brazil win 38% (win 38% / draw 31% / loss 32% for Brazil); most likely score 1-1 (15%); result miss, score hit
 - M29, Fri 19 Jun, Philadelphia: Brazil v Haiti. **Brazil win 75%** (win 75% / draw 18% / loss 7% for Brazil); most likely score 2-0 (14%)
-- M30, Fri 19 Jun, Foxborough: Scotland v Morocco. **Morocco win 55%** (win 18% / draw 27% / loss 55% for Scotland); most likely score 1-1 (13%)
+- M30, Fri 19 Jun, Foxborough: Scotland v Morocco. **Morocco win 56%** (win 18% / draw 27% / loss 56% for Scotland); most likely score 1-1 (13%)
 - M49, Wed 24 Jun, Miami Gardens: Scotland v Brazil. **Brazil win 56%** (win 17% / draw 27% / loss 56% for Scotland); most likely score 1-1 (13%)
 - M50, Wed 24 Jun, Atlanta: Morocco v Haiti. **Morocco win 74%** (win 74% / draw 18% / loss 8% for Morocco); most likely score 2-0 (14%)
 

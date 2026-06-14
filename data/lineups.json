@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-14T19:19:00Z",
+ "fetched_utc": "2026-06-14T21:17:00Z",
  "matches": {
   "6": {
    "team1": {
@@ -580,6 +580,22 @@
    }
   },
   "26": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Gregor Kobel",
+     "Ricardo Rodriguez",
+     "Manuel Akanji",
+     "Nico Elvedi",
+     "Denis Zakaria",
+     "Remo Freuler",
+     "Michel Aebischer",
+     "Granit Xhaka",
+     "Ruben Vargas",
+     "Dan Ndoye",
+     "Breel Embolo"
+    ]
+   },
    "team2": {
     "status": "projected",
     "xi": [
@@ -589,8 +605,8 @@
      "Tarik Muharemovic",
      "Amar Dedic",
      "Amar Memic",
-     "Benjamin Tahirovic",
      "Ivan Basic",
+     "Benjamin Tahirovic",
      "Esmir Bajraktarevic",
      "Jovo Lukic",
      "Ermedin Demirovic"
@@ -607,11 +623,27 @@
      "Luc De Fougerolles",
      "Alistair Johnston",
      "Tajon Buchanan",
-     "Stephen Eustaquio",
      "Ismael Kone",
+     "Stephen Eustaquio",
      "Ali Ahmed",
-     "Tani Oluwaseyi",
-     "Jonathan David"
+     "Jonathan David",
+     "Tani Oluwaseyi"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Mahmud Ibrahim Abunada",
+     "Homam Ahmed",
+     "Boualem Khoukhi",
+     "Pedro Miguel",
+     "Ayoub Al Oui",
+     "Jassem Gaber",
+     "Gueye Seydinaissa Laye",
+     "Ahmed Fathy",
+     "Akram Afif",
+     "Edmilson Junior",
+     "Yusuf Abdurisag"
     ]
    }
   },
@@ -621,8 +653,8 @@
     "xi": [
      "Jose Rangel",
      "Jesus Gallardo",
-     "Johan Vasquez",
      "Edson Alvarez",
+     "Johan Vasquez",
      "Jorge Eduardo Sanchez",
      "Erik Lira",
      "Julian Quinones",
@@ -636,12 +668,12 @@
     "status": "projected",
     "xi": [
      "Kim Seung-gyu",
-     "Lee Gi-Hyuk",
      "Lee Han-Beom",
      "Kim Min-Jae",
+     "Lee Gi-Hyuk",
      "Lee Tae-Seok",
-     "Kim Jin-Gyu",
      "Hwang In-beom",
+     "Kim Jin-Gyu",
      "Seol Young-Woo",
      "Lee Kang-in",
      "Son Heung-Min",
@@ -680,6 +712,74 @@
      "Brandon Borrello",
      "Martin Boyle",
      "Ante Suto"
+    ]
+   }
+  },
+  "30": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Angus Gunn",
+     "Andrew Robertson",
+     "John Souttar",
+     "Scott McKenna",
+     "Aaron Hickey",
+     "John McGinn",
+     "Lewis Ferguson",
+     "Scott McTominay",
+     "Ben Gannon Doak",
+     "Lawrence Shankland",
+     "Che Adams"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Bono",
+     "Noussair Mazraoui",
+     "Chadi Riad",
+     "Issa Diop",
+     "Achraf Hakimi",
+     "Neil El Aynaoui",
+     "Ayyoub Bouaddi",
+     "Bilal El Khannouss",
+     "Azzedine Ounahi",
+     "Brahim Diaz",
+     "Ismael Saibari"
+    ]
+   }
+  },
+  "29": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Alisson",
+     "Alex Sandro",
+     "Gabriel",
+     "Marquinhos",
+     "Danilo",
+     "Bruno Guimaraes",
+     "Ederson",
+     "Vinicius Junior",
+     "Raphinha",
+     "Lucas Paqueta",
+     "Matheus Cunha"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Johnny Placide",
+     "Martin Experience",
+     "Hannes Delcroix",
+     "Ricardo Ade",
+     "Carlens Arcus",
+     "Jean-Ricner Bellegarde",
+     "Danley Jean Jacques",
+     "Ruben Providence",
+     "Josue Casimir",
+     "Louicius Deedson",
+     "Wilson Isidor"
     ]
    }
   },
