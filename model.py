@@ -303,10 +303,21 @@ def predict_match(ra, rb, adv_a, adv_b, params, knockout=False):
     cells.sort(reverse=True)
     top = [{"score": f"{i}-{j}", "p": round(p, 4)} for p, i, j in cells[:5]]
 
+    # Most likely scoreline within each outcome class. The overall modal is
+    # often a draw (1-1) even when a win is favoured, so the display uses the
+    # scoreline that matches the predicted result instead.
+    by_outcome = {}
+    for p, i, j in cells:
+        cls = "team1" if i > j else ("team2" if i < j else "draw")
+        if cls not in by_outcome:
+            by_outcome[cls] = {"score": f"{i}-{j}", "p": round(p, 4)}
+        if len(by_outcome) == 3:
+            break
+
     out = {
         "lam_a": round(lam_a, 3), "lam_b": round(lam_b, 3),
         "p_win": round(pw, 4), "p_draw": round(pd, 4), "p_loss": round(pl, 4),
-        "top_scores": top,
+        "top_scores": top, "outcome_scores": by_outcome,
         "modal_score": top[0]["score"], "modal_p": top[0]["p"],
     }
     if knockout:

@@ -33,14 +33,18 @@ def call_line(m):
         return "awaiting teams"
     w, d, l = p["p_win"], p["p_draw"], p["p_loss"]
     if w >= max(d, l):
-        call = f"**{m['team1']} win {pct(w)}**"
+        call, pick = f"**{m['team1']} win {pct(w)}**", "team1"
     elif l >= max(w, d):
-        call = f"**{m['team2']} win {pct(l)}**"
+        call, pick = f"**{m['team2']} win {pct(l)}**", "team2"
     else:
-        call = f"**Draw {pct(d)}**"
+        call, pick = f"**Draw {pct(d)}**", "draw"
+    # Scoreline that matches the predicted result, not the overall modal
+    # (which is usually a draw even when a win is favoured).
+    sc = (p.get("outcome_scores") or {}).get(
+        pick, {"score": p["modal_score"], "p": p["modal_p"]})
     return (f"{call} (win {pct(w)} / draw {pct(d)} / loss {pct(l)} for "
-            f"{m['team1']}); most likely score {p['modal_score']} "
-            f"({pct(p['modal_p'])})")
+            f"{m['team1']}); most likely score {sc['score']} "
+            f"({pct(sc['p'])})")
 
 
 def played_line(m):
@@ -216,11 +220,19 @@ def main():
                         f"of simulations):" if m.get("projected") else "")
                 adv = p.get("p_advance", p["p_win"])
                 fav, fp = (m["team1"], adv) if adv >= 0.5 else (m["team2"], 1 - adv)
+                if p["p_win"] >= max(p["p_draw"], p["p_loss"]):
+                    pick = "team1"
+                elif p["p_loss"] >= max(p["p_win"], p["p_draw"]):
+                    pick = "team2"
+                else:
+                    pick = "draw"
+                sc = (p.get("outcome_scores") or {}).get(
+                    pick, {"score": p["modal_score"], "p": p["modal_p"]})
                 add(f"- {head}: {slotline}.{proj} **{m['team1']} v "
                     f"{m['team2']}**; 90-minute win {pct(p['p_win'])} / draw "
                     f"{pct(p['p_draw'])} / loss {pct(p['p_loss'])} for "
-                    f"{m['team1']}, likely score {p['modal_score']} "
-                    f"({pct(p['modal_p'])}); **{fav} advance {pct(fp)}**")
+                    f"{m['team1']}, likely score {sc['score']} "
+                    f"({pct(sc['p'])}); **{fav} advance {pct(fp)}**")
             else:
                 add(f"- {head}: {slotline}. Awaiting qualified teams.")
 

@@ -120,18 +120,22 @@ function aest(iso, dateOnly) {
 function callLine(m) {
   const p = m.prediction;
   if (!p) return 'awaiting teams';
+  const pick = pickOutcome(p);
   let lead;
-  if (p.p_win >= Math.max(p.p_draw, p.p_loss)) {
+  if (pick === 'team1') {
     lead = '<b>' + esc(m.team1) + ' win ' + pct(p.p_win) + '</b>';
-  } else if (p.p_loss >= Math.max(p.p_win, p.p_draw)) {
+  } else if (pick === 'team2') {
     lead = '<b>' + esc(m.team2) + ' win ' + pct(p.p_loss) + '</b>';
   } else {
     lead = '<b>Draw ' + pct(p.p_draw) + '</b>';
   }
+  // Most likely scoreline that matches the predicted result, not the overall
+  // modal (which is usually 1-1 even when a win is favoured).
+  const sc = (p.outcome_scores && p.outcome_scores[pick]) ||
+    {score: p.modal_score, p: p.modal_p};
   let s = lead + ' (' + pct(p.p_win) + ' / ' + pct(p.p_draw) + ' / ' +
     pct(p.p_loss) + ' for ' + esc(m.team1) + '), likely ' +
-    esc(p.modal_score) + ' (' + pct(p.modal_p) + ', fair ' +
-    fairOdds(p.modal_p) + ')';
+    esc(sc.score) + ' (' + pct(sc.p) + ', fair ' + fairOdds(sc.p) + ')';
   if (p.p_advance !== undefined && m.status !== 'played') {
     const fav = p.p_advance >= 0.5 ? m.team1 : m.team2;
     const fp = p.p_advance >= 0.5 ? p.p_advance : 1 - p.p_advance;
