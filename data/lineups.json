@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-15T10:42:00Z",
+ "fetched_utc": "2026-06-15T12:54:00Z",
  "matches": {
   "14": {
    "team1": {
@@ -687,15 +687,31 @@
     "xi": [
      "Bart Verbruggen",
      "Micky van de Ven",
-     "Jan Paul van Hecke",
      "Virgil van Dijk",
+     "Jan Paul van Hecke",
      "Denzel Dumfries",
-     "Frenkie de Jong",
      "Tijjani Reijnders",
      "Ryan Gravenberch",
+     "Frenkie de Jong",
      "Cody Gakpo",
      "Crysencio Summerville",
      "Donyell Malen"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Kristoffer Nordfeldt",
+     "Victor Lindelof",
+     "Isak Hien",
+     "Gustaf Lagerbielke",
+     "Gabriel Gudmundsson",
+     "Yasin Ayari",
+     "Jesper Karlstrom",
+     "Alexander Bernhardsson",
+     "Benjamin Nygren",
+     "Viktor Gyokeres",
+     "Alexander Isak"
     ]
    }
   },
