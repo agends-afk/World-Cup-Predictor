@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-15T01:33:00Z",
+ "fetched_utc": "2026-06-15T04:48:00Z",
  "matches": {
   "6": {
    "team1": {
@@ -784,20 +784,88 @@
    }
   },
   "31": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Ugurcan Cakir",
+     "Ferdi Kadioglu",
+     "Abdulkerim Bardakci",
+     "Merih Demiral",
+     "Zeki Celik",
+     "Hakan Calhanoglu",
+     "Ismail Yuksek",
+     "Kenan Yildiz",
+     "Orkun Kokcu",
+     "Arda Guler",
+     "Kerem Akturkoglu"
+    ]
+   },
    "team2": {
     "status": "projected",
     "xi": [
      "Orlando Gill",
      "Junior Alonso",
-     "Omar Alderete",
      "Gustavo Gomez",
+     "Omar Alderete",
      "Juan Jose Caceres",
      "Miguel Almiron",
-     "Damian Bobadilla",
      "Andres Cubas",
+     "Damian Bobadilla",
      "Diego Gomez",
      "Julio Enciso",
      "Antonio Sanabria"
+    ]
+   }
+  },
+  "35": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Bart Verbruggen",
+     "Micky van de Ven",
+     "Virgil van Dijk",
+     "Jan Paul van Hecke",
+     "Denzel Dumfries",
+     "Frenkie de Jong",
+     "Tijjani Reijnders",
+     "Ryan Gravenberch",
+     "Cody Gakpo",
+     "Crysencio Summerville",
+     "Donyell Malen"
+    ]
+   }
+  },
+  "34": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Hernan Galindez",
+     "Piero Hincapie",
+     "Willian Pacho",
+     "Joel Ordonez",
+     "Alan Franco",
+     "Moises Caicedo",
+     "Pedro Vite",
+     "Alan Minda",
+     "Gonzalo Plata",
+     "John Yeboah",
+     "Enner Valencia"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Eloy Room",
+     "Deveron Fonville",
+     "Armando Obispo",
+     "Riechedly Bazoer",
+     "Sherel Floranus",
+     "Juninho Bacuna",
+     "Livano Comenencia",
+     "Leandro Bacuna",
+     "Tahith Chong",
+     "Jurgen Locadia",
+     "Sontje Hansen"
     ]
    }
   },
@@ -807,8 +875,8 @@
     "xi": [
      "Aymen Dahmen",
      "Omar Rekik",
-     "Dylan Bronn",
      "Montassar Talbi",
+     "Dylan Bronn",
      "Yan Valery",
      "Hannibal",
      "Anis Ben Slimane",
@@ -816,6 +884,22 @@
      "Elias Achouri",
      "Elias Saad",
      "Hazem Mastouri"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Zion Suzuki",
+     "Hiroki Ito",
+     "Shogo Taniguchi",
+     "Tsuyoshi Watanabe",
+     "Keito Nakamura",
+     "Kaishu Sano",
+     "Daichi Kamada",
+     "Ritsu Doan",
+     "Takefusa Kubo",
+     "Daizen Maeda",
+     "Ayase Ueda"
     ]
    }
   }
