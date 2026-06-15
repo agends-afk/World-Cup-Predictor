@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-15T14:48:05+10:00",
- "generated_aest": "Mon 15 Jun 2026, 2:48pm AEST",
+ "generated": "2026-06-15T20:42:55+10:00",
+ "generated_aest": "Mon 15 Jun 2026, 8:42pm AEST",
  "data_through": "2026-06-14",
  "sim_runs": 10000,
  "params": {
@@ -2649,51 +2649,6 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.813,
-    "lam_b": 0.835,
-    "p_win": 0.5914,
-    "p_draw": 0.2539,
-    "p_loss": 0.1547,
-    "top_scores": [
-     {
-      "score": "1-1",
-      "p": 0.1211
-     },
-     {
-      "score": "2-0",
-      "p": 0.1163
-     },
-     {
-      "score": "1-0",
-      "p": 0.1144
-     },
-     {
-      "score": "2-1",
-      "p": 0.0972
-     },
-     {
-      "score": "0-0",
-      "p": 0.0847
-     }
-    ],
-    "outcome_scores": {
-     "draw": {
-      "score": "1-1",
-      "p": 0.1211
-     },
-     "team1": {
-      "score": "2-0",
-      "p": 0.1163
-     },
-     "team2": {
-      "score": "0-1",
-      "p": 0.0452
-     }
-    },
-    "modal_score": "1-1",
-    "modal_p": 0.1211
-   },
-   "prediction_base": {
     "lam_a": 1.802,
     "lam_b": 0.841,
     "p_win": 0.5875,
@@ -2737,35 +2692,6 @@
     },
     "modal_score": "1-1",
     "modal_p": 0.1218
-   },
-   "lineup": {
-    "team1": null,
-    "team2": {
-     "elo": -3.2,
-     "delta_ovr": -0.42,
-     "status": "projected",
-     "xi_mean": 68.7,
-     "baseline_mean": 69.1,
-     "coverage": 0.82,
-     "missing": [
-      {
-       "name": "Alex Paulsen",
-       "ovr": 70
-      },
-      {
-       "name": "Alex Rufer",
-       "ovr": 68
-      },
-      {
-       "name": "Kosta Barbarouses",
-       "ovr": 68
-      },
-      {
-       "name": "Tyler Bindon",
-       "ovr": 67
-      }
-     ]
-    }
    }
   },
   {
@@ -10580,5 +10506,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "7b822a5e10cfe72386df7b4cbfc2ac37dbabe83b"
+ "content_hash": "94df17186f6282100a7fde86eb738741bb93fb92"
 }

@@ -1,154 +1,18 @@
 {
- "fetched_utc": "2026-06-15T04:48:00Z",
+ "fetched_utc": "2026-06-15T10:42:00Z",
  "matches": {
-  "6": {
-   "team1": {
-    "status": "confirmed",
-    "xi": [
-     "Patrick Beach",
-     "Alessandro Circati",
-     "Harry Souttar",
-     "Cameron Burgess",
-     "Jordan Bos",
-     "Paul Okon",
-     "Aiden O'Neill",
-     "Jacob Italiano",
-     "Conor Metcalfe",
-     "Nestory Irankunda",
-     "Mohamed Toure"
-    ]
-   },
-   "team2": {
-    "status": "confirmed",
-    "xi": [
-     "Ugurcan Cakir",
-     "Ferdi Kadioglu",
-     "Merih Demiral",
-     "Abdulkerim Bardakci",
-     "Zeki Celik",
-     "Hakan Calhanoglu",
-     "Orkun Kokcu",
-     "Baris Yilmaz",
-     "Ismail Yuksek",
-     "Arda Guler",
-     "Kerem Akturkoglu"
-    ]
-   }
-  },
-  "10": {
-   "team1": {
-    "status": "confirmed",
-    "xi": [
-     "Manuel Neuer",
-     "Nathaniel Brown",
-     "Jonathan Tah",
-     "Nico Schlotterbeck",
-     "Joshua Kimmich",
-     "Felix Nmecha",
-     "Aleksandar Pavlovic",
-     "Florian Wirtz",
-     "Jamal Musiala",
-     "Leroy Sane",
-     "Kai Havertz"
-    ]
-   },
-   "team2": {
-    "status": "confirmed",
-    "xi": [
-     "Eloy Room",
-     "Deveron Fonville",
-     "Armando Obispo",
-     "Riechedly Bazoer",
-     "Sherel Floranus",
-     "Juninho Bacuna",
-     "Livano Comenencia",
-     "Leandro Bacuna",
-     "Sontje Hansen",
-     "Tahith Chong",
-     "Jurgen Locadia"
-    ]
-   }
-  },
-  "11": {
-   "team1": {
-    "status": "confirmed",
-    "xi": [
-     "Bart Verbruggen",
-     "Micky van de Ven",
-     "Virgil van Dijk",
-     "Jan Paul van Hecke",
-     "Denzel Dumfries",
-     "Frenkie de Jong",
-     "Ryan Gravenberch",
-     "Cody Gakpo",
-     "Tijjani Reijnders",
-     "Crysencio Summerville",
-     "Donyell Malen"
-    ]
-   },
-   "team2": {
-    "status": "confirmed",
-    "xi": [
-     "Zion Suzuki",
-     "Hiroki Ito",
-     "Shogo Taniguchi",
-     "Tsuyoshi Watanabe",
-     "Keito Nakamura",
-     "Kaishu Sano",
-     "Daichi Kamada",
-     "Ritsu Doan",
-     "Takefusa Kubo",
-     "Daizen Maeda",
-     "Ayase Ueda"
-    ]
-   }
-  },
-  "12": {
-   "team1": {
-    "status": "confirmed",
-    "xi": [
-     "Kristoffer Nordfeldt",
-     "Isak Hien",
-     "Victor Lindelof",
-     "Gustaf Lagerbielke",
-     "Gabriel Gudmundsson",
-     "Yasin Ayari",
-     "Jesper Karlstrom",
-     "Alexander Bernhardsson",
-     "Benjamin Nygren",
-     "Viktor Gyokeres",
-     "Alexander Isak"
-    ]
-   },
-   "team2": {
-    "status": "confirmed",
-    "xi": [
-     "Abdelmouhib Chamakh",
-     "Mohamed Amine Ben Hamida",
-     "Montassar Talbi",
-     "Omar Rekik",
-     "Yan Valery",
-     "Ellyes Skhiri",
-     "Rani Khedira",
-     "Ali El Abdi",
-     "Hannibal",
-     "Anis Ben Slimane",
-     "Elias Saad"
-    ]
-   }
-  },
   "14": {
    "team1": {
     "status": "projected",
     "xi": [
      "Unai Simon",
      "Marc Cucurella",
-     "Aymeric Laporte",
      "Pau Cubarsi",
+     "Aymeric Laporte",
      "Pedro Porro",
-     "Rodri",
-     "Fabian Ruiz",
      "Pedri",
+     "Fabian Ruiz",
+     "Rodri",
      "Alex Baena",
      "Ferran Torres",
      "Mikel Oyarzabal"
@@ -159,8 +23,8 @@
     "xi": [
      "Vozinha",
      "Joao Paulo",
-     "Logan Costa",
      "Pico",
+     "Logan Costa",
      "Steven Moreira",
      "Yannick Semedo",
      "Kevin Pina",
@@ -231,11 +95,11 @@
      "Mathias Olivera",
      "Guillermo Varela",
      "Maxi Araujo",
-     "Rodrigo Bentancur",
      "Manuel Ugarte",
+     "Rodrigo Bentancur",
      "Federico Valverde",
-     "Darwin Nunez",
-     "Federico Vinas"
+     "Federico Vinas",
+     "Darwin Nunez"
     ]
    }
   },
@@ -245,8 +109,8 @@
     "xi": [
      "Alireza Beiranvand",
      "Milad Mohammadi",
-     "Ali Nemati",
      "Shoja Khalilzadeh",
+     "Ali Nemati",
      "Aria Yousefi",
      "Mohammad Mohebi",
      "Saman Ghoddos",
@@ -261,14 +125,14 @@
     "xi": [
      "Maxime Teremoana Crocombe",
      "Liberato Cacace",
-     "Michael Boxall",
      "Finn Surman",
+     "Michael Boxall",
      "Tim Payne",
      "Marko Stamenic",
      "Joe Bell",
      "Elijah Just",
      "Sarpreet Singh",
-     "Matthew Garbett",
+     "Jesse Randall",
      "Chris Wood"
     ]
    }
@@ -299,8 +163,8 @@
      "Kalidou Koulibaly",
      "Krepin Diatta",
      "Pape Gueye",
-     "Lamine Camara",
      "Habib Diarra",
+     "Lamine Camara",
      "Sadio Mane",
      "Iliman Ndiaye",
      "Nicolas Jackson"
@@ -317,8 +181,8 @@
      "Zaid Tahseen",
      "Hussein Ali",
      "Ali Jasim",
-     "Zidane Aamar Iqbal",
      "Amir Al-Ammari",
+     "Zidane Aamar Iqbal",
      "Ibrahim Bayesh",
      "Ali Al Hamadi",
      "Aymen Hussein"
@@ -332,9 +196,9 @@
      "Torbjorn Heggem",
      "Kristoffer Ajer",
      "Julian Ryerson",
+     "Martin Odegaard",
      "Sander Berge",
      "Fredrik Aursnes",
-     "Martin Odegaard",
      "Antonio Nusa",
      "Alexander Sorloth",
      "Erling Haaland"
@@ -363,8 +227,8 @@
     "xi": [
      "Luca Zidane",
      "Rayan Ait-Nouri",
-     "Jaouen Hadjam",
      "Aissa Mandi",
+     "Jaouen Hadjam",
      "Rafik Belghali",
      "Fares Chaibi",
      "Hicham Boudaoui",
@@ -381,11 +245,11 @@
     "xi": [
      "Alexander Schlager",
      "Phillipp Mwene",
-     "Philipp Lienhart",
      "David Alaba",
+     "Philipp Lienhart",
      "Konrad Laimer",
-     "Nicolas Seiwald",
      "Xaver Schlager",
+     "Nicolas Seiwald",
      "Marcel Sabitzer",
      "Michael Gregoritsch",
      "Romano Schmid",
@@ -418,8 +282,8 @@
      "Goncalo Inacio",
      "Ruben Dias",
      "Joao Cancelo",
-     "Vitinha",
      "Joao Neves",
+     "Vitinha",
      "Pedro Neto",
      "Bruno Fernandes",
      "Bernardo Silva",
@@ -431,8 +295,8 @@
     "xi": [
      "Lionel Mpasi",
      "Arthur Masuaku",
-     "Axel Tuanzebe",
      "Steve Kapuadi",
+     "Axel Tuanzebe",
      "Chancel Mbemba",
      "Aaron Wan-Bissaka",
      "Samuel Moutoussamy",
@@ -449,11 +313,11 @@
     "xi": [
      "Jordan Pickford",
      "Nico O'Reilly",
-     "John Stones",
      "Marc Guehi",
+     "John Stones",
      "Reece James",
-     "Elliot Anderson",
      "Declan Rice",
+     "Elliot Anderson",
      "Marcus Rashford",
      "Jude Bellingham",
      "Bukayo Saka",
@@ -516,9 +380,9 @@
     "status": "projected",
     "xi": [
      "Utkir Yusupov",
-     "Rustamjon Ashurmatov",
      "Abdukodir Khusanov",
      "Abdulla Abdullaev",
+     "Rustamjon Ashurmatov",
      "Sherzod Nasrullayev",
      "Odiljon Hamrobekov",
      "Otabek Shukurov",
@@ -574,8 +438,8 @@
      "Jayden Adams",
      "Thalente Mbatha",
      "Teboho Mokoena",
-     "Lyle Foster",
-     "Iqraam Rayners"
+     "Iqraam Rayners",
+     "Lyle Foster"
     ]
    }
   },
@@ -588,8 +452,8 @@
      "Nico Elvedi",
      "Manuel Akanji",
      "Denis Zakaria",
-     "Michel Aebischer",
      "Remo Freuler",
+     "Michel Aebischer",
      "Granit Xhaka",
      "Ruben Vargas",
      "Dan Ndoye",
@@ -639,8 +503,8 @@
      "Pedro Miguel",
      "Ayoub Al Oui",
      "Gueye Seydinaissa Laye",
-     "Jassem Gaber",
      "Ahmed Fathy",
+     "Jassem Gaber",
      "Akram Afif",
      "Edmilson Junior",
      "Yusuf Abdurisag"
@@ -653,8 +517,8 @@
     "xi": [
      "Jose Rangel",
      "Jesus Gallardo",
-     "Johan Vasquez",
      "Edson Alvarez",
+     "Johan Vasquez",
      "Jorge Eduardo Sanchez",
      "Erik Lira",
      "Julian Quinones",
@@ -672,8 +536,8 @@
      "Kim Min-Jae",
      "Lee Gi-Hyuk",
      "Lee Tae-Seok",
-     "Kim Jin-Gyu",
      "Hwang In-beom",
+     "Kim Jin-Gyu",
      "Seol Young-Woo",
      "Lee Kang-in",
      "Son Heung-Min",
@@ -728,8 +592,8 @@
      "Scott McTominay",
      "Lewis Ferguson",
      "Ben Gannon Doak",
-     "Che Adams",
-     "Lawrence Shankland"
+     "Lawrence Shankland",
+     "Che Adams"
     ]
    },
    "team2": {
@@ -792,8 +656,8 @@
      "Abdulkerim Bardakci",
      "Merih Demiral",
      "Zeki Celik",
-     "Hakan Calhanoglu",
      "Ismail Yuksek",
+     "Hakan Calhanoglu",
      "Kenan Yildiz",
      "Orkun Kokcu",
      "Arda Guler",
@@ -823,8 +687,8 @@
     "xi": [
      "Bart Verbruggen",
      "Micky van de Ven",
-     "Virgil van Dijk",
      "Jan Paul van Hecke",
+     "Virgil van Dijk",
      "Denzel Dumfries",
      "Frenkie de Jong",
      "Tijjani Reijnders",
