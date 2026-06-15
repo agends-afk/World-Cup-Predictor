@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-16T07:12:46+10:00",
- "generated_aest": "Tue 16 Jun 2026, 7:12am AEST",
+ "generated": "2026-06-16T09:44:02+10:00",
+ "generated_aest": "Tue 16 Jun 2026, 9:44am AEST",
  "data_through": "2026-06-15",
  "sim_runs": 10000,
  "params": {
@@ -2657,6 +2657,51 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
+    "lam_a": 1.813,
+    "lam_b": 0.836,
+    "p_win": 0.5912,
+    "p_draw": 0.254,
+    "p_loss": 0.1549,
+    "top_scores": [
+     {
+      "score": "1-1",
+      "p": 0.1211
+     },
+     {
+      "score": "2-0",
+      "p": 0.1163
+     },
+     {
+      "score": "1-0",
+      "p": 0.1143
+     },
+     {
+      "score": "2-1",
+      "p": 0.0972
+     },
+     {
+      "score": "0-0",
+      "p": 0.0847
+     }
+    ],
+    "outcome_scores": {
+     "draw": {
+      "score": "1-1",
+      "p": 0.1211
+     },
+     "team1": {
+      "score": "2-0",
+      "p": 0.1163
+     },
+     "team2": {
+      "score": "0-1",
+      "p": 0.0452
+     }
+    },
+    "modal_score": "1-1",
+    "modal_p": 0.1211
+   },
+   "prediction_base": {
     "lam_a": 1.802,
     "lam_b": 0.841,
     "p_win": 0.5875,
@@ -2700,6 +2745,35 @@
     },
     "modal_score": "1-1",
     "modal_p": 0.1218
+   },
+   "lineup": {
+    "team1": null,
+    "team2": {
+     "elo": -3.0,
+     "delta_ovr": -0.2,
+     "status": "confirmed",
+     "xi_mean": 68.9,
+     "baseline_mean": 69.1,
+     "coverage": 0.82,
+     "missing": [
+      {
+       "name": "Alex Paulsen",
+       "ovr": 70
+      },
+      {
+       "name": "Alex Rufer",
+       "ovr": 68
+      },
+      {
+       "name": "Kosta Barbarouses",
+       "ovr": 68
+      },
+      {
+       "name": "Tyler Bindon",
+       "ovr": 67
+      }
+     ]
+    }
    }
   },
   {
@@ -10564,5 +10638,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "5a08d0bdb430ec0e88eae92e1c853741a19fe070"
+ "content_hash": "bdee81398607b248701f81346154816702833e93"
 }

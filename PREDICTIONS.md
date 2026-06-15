@@ -1,6 +1,6 @@
 # World Cup 2026: match predictions
 
-Generated Tue 16 Jun 2026, 7:12am AEST. Results included through 2026-06-15. 14 of 104 matches played. 10,000 tournament simulations.
+Generated Tue 16 Jun 2026, 9:44am AEST. Results included through 2026-06-15. 14 of 104 matches played. 10,000 tournament simulations.
 
 Every probability below is a model estimate built only from match results and public squad news, not from betting odds or published predictions. A favourite can be 75% to win while its most likely exact score sits near 12 to 15%; goals spread across many scorelines, so read the two numbers separately.
 
@@ -191,7 +191,7 @@ A read-only comparison of the model's own rating order against the FIFA/Coca-Col
 | Egypt | 1 | 4.1 | 74% |
 | New Zealand | 0 | 2.1 | 30% |
 
-- M15, Mon 15 Jun, Inglewood: Iran v New Zealand. **Iran to win 59%** (draw 26%, New Zealand win 16%); most likely Iran 2-0 (12%)
+- M15, Mon 15 Jun, Inglewood: Iran v New Zealand. **Iran to win 59%** (draw 25%, New Zealand win 15%); most likely Iran 2-0 (12%)
 - M16, Mon 15 Jun, Seattle: Belgium v Egypt. **Played: Belgium 1-1 Egypt.** Model said Belgium to win 48% (draw 29%, Egypt win 23%); most likely Belgium 1-0 (11%); result miss, score hit
 - M39, Sun 21 Jun, Inglewood: Belgium v Iran. **Belgium to win 42%** (draw 30%, Iran win 28%); most likely Belgium 1-0 (10%)
 - M40, Sun 21 Jun, Vancouver: New Zealand v Egypt. **Egypt to win 53%** (draw 28%, New Zealand win 19%); most likely Egypt 1-0 (11%)
