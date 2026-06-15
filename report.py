@@ -26,25 +26,40 @@ def fmt_date(d):
     return datetime.strptime(d, "%Y-%m-%d").strftime("%a %d %b")
 
 
+def score_for(score, t1, t2):
+    """Present a 'a-b' (team1-team2) score winner-first with the team named."""
+    a, b = (int(x) for x in score.split("-"))
+    if a > b:
+        return f"{t1} {a}-{b}"
+    if b > a:
+        return f"{t2} {b}-{a}"
+    return f"draw {a}-{b}"
+
+
 def call_line(m):
-    """One-line prediction: result call, full probabilities, likely score."""
+    """One-line prediction, read from the recommended team's perspective."""
     p = m.get("prediction")
     if not p:
         return "awaiting teams"
     w, d, l = p["p_win"], p["p_draw"], p["p_loss"]
+    t1, t2 = m["team1"], m["team2"]
     if w >= max(d, l):
-        call, pick = f"**{m['team1']} win {pct(w)}**", "team1"
+        pick = "team1"
+        lead = f"**{t1} to win {pct(w)}**"
+        others = f"draw {pct(d)}, {t2} win {pct(l)}"
     elif l >= max(w, d):
-        call, pick = f"**{m['team2']} win {pct(l)}**", "team2"
+        pick = "team2"
+        lead = f"**{t2} to win {pct(l)}**"
+        others = f"draw {pct(d)}, {t1} win {pct(w)}"
     else:
-        call, pick = f"**Draw {pct(d)}**", "draw"
-    # Scoreline that matches the predicted result, not the overall modal
-    # (which is usually a draw even when a win is favoured).
+        pick = "draw"
+        lead = f"**Draw most likely, {pct(d)}**"
+        others = f"{t1} win {pct(w)}, {t2} win {pct(l)}"
+    # Scoreline that matches the predicted result, not the overall modal.
     sc = (p.get("outcome_scores") or {}).get(
         pick, {"score": p["modal_score"], "p": p["modal_p"]})
-    return (f"{call} (win {pct(w)} / draw {pct(d)} / loss {pct(l)} for "
-            f"{m['team1']}); most likely score {sc['score']} "
-            f"({pct(sc['p'])})")
+    return (f"{lead} ({others}); most likely "
+            f"{score_for(sc['score'], t1, t2)} ({pct(sc['p'])})")
 
 
 def played_line(m):
@@ -220,19 +235,24 @@ def main():
                         f"of simulations):" if m.get("projected") else "")
                 adv = p.get("p_advance", p["p_win"])
                 fav, fp = (m["team1"], adv) if adv >= 0.5 else (m["team2"], 1 - adv)
+                t1, t2 = m["team1"], m["team2"]
                 if p["p_win"] >= max(p["p_draw"], p["p_loss"]):
                     pick = "team1"
+                    call = f"**{t1} to win {pct(p['p_win'])}**"
+                    others = f"draw {pct(p['p_draw'])}, {t2} win {pct(p['p_loss'])}"
                 elif p["p_loss"] >= max(p["p_win"], p["p_draw"]):
                     pick = "team2"
+                    call = f"**{t2} to win {pct(p['p_loss'])}**"
+                    others = f"draw {pct(p['p_draw'])}, {t1} win {pct(p['p_win'])}"
                 else:
                     pick = "draw"
+                    call = f"**Draw most likely, {pct(p['p_draw'])}**"
+                    others = f"{t1} win {pct(p['p_win'])}, {t2} win {pct(p['p_loss'])}"
                 sc = (p.get("outcome_scores") or {}).get(
                     pick, {"score": p["modal_score"], "p": p["modal_p"]})
-                add(f"- {head}: {slotline}.{proj} **{m['team1']} v "
-                    f"{m['team2']}**; 90-minute win {pct(p['p_win'])} / draw "
-                    f"{pct(p['p_draw'])} / loss {pct(p['p_loss'])} for "
-                    f"{m['team1']}, likely score {sc['score']} "
-                    f"({pct(sc['p'])}); **{fav} advance {pct(fp)}**")
+                add(f"- {head}: {slotline}.{proj} {call} ({others}); most "
+                    f"likely {score_for(sc['score'], t1, t2)} "
+                    f"({pct(sc['p'])}); **{fav} to advance {pct(fp)}**")
             else:
                 add(f"- {head}: {slotline}. Awaiting qualified teams.")
 
