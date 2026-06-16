@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-16T00:21:00Z",
+ "fetched_utc": "2026-06-16T03:57:00Z",
  "matches": {
   "14": {
    "team1": {
@@ -210,12 +210,12 @@
     "status": "projected",
     "xi": [
      "Emiliano Martinez",
-     "Facundo Medina",
      "Lisandro Martinez",
+     "Cristian Romero",
      "Nicolas Otamendi",
-     "Nahuel Molina",
-     "Enzo Fernandez",
+     "Gonzalo Montiel",
      "Alexis Mac Allister",
+     "Enzo Fernandez",
      "Rodrigo De Paul",
      "Thiago Almada",
      "Lionel Messi",
@@ -780,6 +780,142 @@
      "Takefusa Kubo",
      "Daizen Maeda",
      "Ayase Ueda"
+    ]
+   }
+  },
+  "38": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Unai Simon",
+     "Marc Cucurella",
+     "Aymeric Laporte",
+     "Pau Cubarsi",
+     "Marcos Llorente",
+     "Rodri",
+     "Fabian Ruiz",
+     "Pedri",
+     "Nico Williams",
+     "Lamine Yamal",
+     "Mikel Oyarzabal"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Mohammed Al-Owais",
+     "Moteb Al Harbi",
+     "Abdulelah Al-Amri",
+     "Hassan Al Tambakti",
+     "Saud Abdulhamid",
+     "Salem Al-Dawsari",
+     "Mohamed Kanno",
+     "Abdullah Al-Khaibari",
+     "Abu Al Shamat",
+     "Musab Al-Juwayr",
+     "Firas Al Buraikan"
+    ]
+   }
+  },
+  "39": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Thibaut Courtois",
+     "Timothy Castagne",
+     "Brandon Mechele",
+     "Nathan Ngoy",
+     "Thomas Meunier",
+     "Youri Tielemans",
+     "Amadou Onana",
+     "Jeremy Doku",
+     "Kevin De Bruyne",
+     "Leandro Trossard",
+     "Romelu Lukaku"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Alireza Beiranvand",
+     "Milad Mohammadi",
+     "Shoja Khalilzadeh",
+     "Ali Nemati",
+     "Ramin Rezaeian",
+     "Aria Yousefi",
+     "Saeid Ezatolahi",
+     "Saman Ghoddos",
+     "Mohammad Mohebi",
+     "Shahriyar Moghanlou",
+     "Mehdi Taremi"
+    ]
+   }
+  },
+  "37": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Fernando Muslera",
+     "Matias Vina",
+     "Mathias Olivera",
+     "Sebastian Caceres",
+     "Guillermo Varela",
+     "Maxi Araujo",
+     "Rodrigo Bentancur",
+     "Manuel Ugarte",
+     "Federico Valverde",
+     "Federico Vinas",
+     "Darwin Nunez"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Vozinha",
+     "Sidny Lopes Cabral",
+     "Diney",
+     "Pico",
+     "Steven Moreira",
+     "Kevin Pina",
+     "Jovane Cabral",
+     "Jamiro Monteiro",
+     "Laros Duarte",
+     "Ryan Mendes",
+     "Dailon Livramento"
+    ]
+   }
+  },
+  "40": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Maxime Teremoana Crocombe",
+     "Liberato Cacace",
+     "Michael Boxall",
+     "Finn Surman",
+     "Tim Payne",
+     "Marko Stamenic",
+     "Joe Bell",
+     "Elijah Just",
+     "Sarpreet Singh",
+     "Callum McCowatt",
+     "Chris Wood"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Mostafa Shobeir",
+     "Ahmed El Fotouh",
+     "Yasser Ibrahim",
+     "Hamdy Fathy",
+     "Mohamed Hany",
+     "Mohanad Lasheen",
+     "Marwan Ateya",
+     "Emam Ashour",
+     "Mohamed Salah",
+     "Mostafa Ziko",
+     "Omar Marmoush"
     ]
    }
   }
