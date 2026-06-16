@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-16T17:49:00Z",
+ "fetched_utc": "2026-06-16T21:22:00Z",
  "matches": {
   "17": {
    "team1": {
@@ -37,23 +37,23 @@
   },
   "18": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Jalal Hassan",
      "Merchas Doski",
      "Zaid Tahseen",
-     "Rebin Sulaka",
+     "Akam Hashem",
      "Hussein Ali",
      "Ali Jasim",
-     "Zidane Aamar Iqbal",
      "Amir Al-Ammari",
+     "Zaid Ismael Khaleel Al Dulaimi",
      "Ibrahim Bayesh",
      "Ali Al Hamadi",
      "Aymen Hussein"
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Orjan Nyland",
      "David Moller Wolfe",
