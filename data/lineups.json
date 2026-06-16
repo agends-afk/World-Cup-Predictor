@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-16T08:17:00Z",
+ "fetched_utc": "2026-06-16T14:06:00Z",
  "matches": {
   "17": {
    "team1": {
@@ -74,12 +74,12 @@
     "status": "projected",
     "xi": [
      "Emiliano Martinez",
+     "Facundo Medina",
      "Lisandro Martinez",
      "Cristian Romero",
-     "Nicolas Otamendi",
      "Gonzalo Montiel",
-     "Alexis Mac Allister",
      "Enzo Fernandez",
+     "Alexis Mac Allister",
      "Rodrigo De Paul",
      "Thiago Almada",
      "Lionel Messi",
@@ -94,9 +94,9 @@
      "Aissa Mandi",
      "Jaouen Hadjam",
      "Rafik Belghali",
-     "Fares Chaibi",
      "Hicham Boudaoui",
      "Nabil Bentaleb",
+     "Fares Chaibi",
      "Mohammed Amoura",
      "Riyad Mahrez",
      "Amine Gouiri"
@@ -112,8 +112,8 @@
      "David Alaba",
      "Philipp Lienhart",
      "Konrad Laimer",
-     "Xaver Schlager",
      "Nicolas Seiwald",
+     "Xaver Schlager",
      "Marcel Sabitzer",
      "Michael Gregoritsch",
      "Romano Schmid",
@@ -124,9 +124,9 @@
     "status": "projected",
     "xi": [
      "Yazeed Mo'ien Hasan Abulaila",
+     "Abdallah Mousa Musallam Nasib",
      "Saleem Amer Saleem Obaid",
      "Yazan Al-Arab",
-     "Abdallah Mousa Musallam Nasib",
      "Mohannad Abu Taha",
      "Noor Al Rawabdeh",
      "Nizar Mahmoud Ahmed Al Rashdan",
@@ -159,8 +159,8 @@
     "xi": [
      "Lionel Mpasi",
      "Arthur Masuaku",
-     "Axel Tuanzebe",
      "Chancel Mbemba",
+     "Axel Tuanzebe",
      "Steve Kapuadi",
      "Aaron Wan-Bissaka",
      "Samuel Moutoussamy",
@@ -177,14 +177,14 @@
     "xi": [
      "Jordan Pickford",
      "Nico O'Reilly",
-     "Marc Guehi",
      "John Stones",
+     "Ezri Konsa",
      "Reece James",
      "Declan Rice",
      "Elliot Anderson",
-     "Marcus Rashford",
+     "Anthony Gordon",
      "Jude Bellingham",
-     "Bukayo Saka",
+     "Noni Madueke",
      "Harry Kane"
     ]
    },

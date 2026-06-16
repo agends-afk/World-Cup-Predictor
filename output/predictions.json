@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-16T18:17:10+10:00",
- "generated_aest": "Tue 16 Jun 2026, 6:17pm AEST",
+ "generated": "2026-06-17T00:07:04+10:00",
+ "generated_aest": "Wed 17 Jun 2026, 12:07am AEST",
  "data_through": "2026-06-15",
  "sim_runs": 10000,
  "params": {
@@ -3234,15 +3234,15 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 2.034,
-    "lam_b": 0.745,
-    "p_win": 0.6628,
-    "p_draw": 0.2229,
-    "p_loss": 0.1143,
+    "lam_a": 2.031,
+    "lam_b": 0.746,
+    "p_win": 0.662,
+    "p_draw": 0.2233,
+    "p_loss": 0.1147,
     "top_scores": [
      {
       "score": "2-0",
-      "p": 0.1285
+      "p": 0.1284
      },
      {
       "score": "1-0",
@@ -3250,7 +3250,7 @@
      },
      {
       "score": "1-1",
-      "p": 0.1063
+      "p": 0.1065
      },
      {
       "score": "2-1",
@@ -3258,25 +3258,25 @@
      },
      {
       "score": "3-0",
-      "p": 0.0871
+      "p": 0.0869
      }
     ],
     "outcome_scores": {
      "team1": {
       "score": "2-0",
-      "p": 0.1285
+      "p": 0.1284
      },
      "draw": {
       "score": "1-1",
-      "p": 0.1063
+      "p": 0.1065
      },
      "team2": {
       "score": "1-2",
-      "p": 0.035
+      "p": 0.0351
      }
     },
     "modal_score": "2-0",
-    "modal_p": 0.1285
+    "modal_p": 0.1284
    },
    "prediction_base": {
     "lam_a": 2.044,
@@ -3325,10 +3325,10 @@
    },
    "lineup": {
     "team1": {
-     "elo": -5.4,
-     "delta_ovr": -0.72,
+     "elo": -6.1,
+     "delta_ovr": -0.82,
      "status": "projected",
-     "xi_mean": 84.1,
+     "xi_mean": 84,
      "baseline_mean": 84.8,
      "coverage": 0.91,
      "missing": [
@@ -3343,6 +3343,10 @@
       {
        "name": "Nahuel Molina",
        "ovr": 82
+      },
+      {
+       "name": "Nicolás Otamendi",
+       "ovr": 81
       }
      ]
     },
@@ -3578,49 +3582,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.624,
-    "lam_b": 0.933,
-    "p_win": 0.5208,
-    "p_draw": 0.2783,
-    "p_loss": 0.2009,
+    "lam_a": 1.606,
+    "lam_b": 0.943,
+    "p_win": 0.5133,
+    "p_draw": 0.2805,
+    "p_loss": 0.2062,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1327
+      "p": 0.1338
      },
      {
       "score": "1-0",
-      "p": 0.1107
+      "p": 0.1101
      },
      {
       "score": "2-0",
-      "p": 0.1023
+      "p": 0.1007
      },
      {
       "score": "2-1",
-      "p": 0.0954
+      "p": 0.095
      },
      {
       "score": "0-0",
-      "p": 0.0928
+      "p": 0.0936
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1327
+      "p": 0.1338
      },
      "team1": {
       "score": "1-0",
-      "p": 0.1107
+      "p": 0.1101
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0571
+      "p": 0.0583
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1327
+    "modal_p": 0.1338
    },
    "prediction_base": {
     "lam_a": 1.617,
@@ -3669,19 +3673,23 @@
    },
    "lineup": {
     "team1": {
-     "elo": -4.7,
-     "delta_ovr": -0.63,
+     "elo": -10.7,
+     "delta_ovr": -1.43,
      "status": "projected",
-     "xi_mean": 84.1,
+     "xi_mean": 83.3,
      "baseline_mean": 84.7,
      "coverage": 0.91,
      "missing": [
+      {
+       "name": "Bukayo Saka",
+       "ovr": 87
+      },
       {
        "name": "Ollie Watkins",
        "ovr": 85
       },
       {
-       "name": "Ezri Konsa",
+       "name": "Marc Guéhi",
        "ovr": 81
       },
       {
@@ -11024,5 +11032,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "580121e53fba4db11994b7b745a2256576642a23"
+ "content_hash": "7bc197926c3abf5fa4b5070fc30c87c41f432859"
 }
