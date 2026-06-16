@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-17T07:22:43+10:00",
- "generated_aest": "Wed 17 Jun 2026, 7:22am AEST",
+ "generated": "2026-06-17T09:40:10+10:00",
+ "generated_aest": "Wed 17 Jun 2026, 9:40am AEST",
  "data_through": "2026-06-16",
  "sim_runs": 10000,
  "params": {
@@ -3238,49 +3238,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 2.049,
-    "lam_b": 0.739,
-    "p_win": 0.6672,
-    "p_draw": 0.2208,
-    "p_loss": 0.112,
+    "lam_a": 2.066,
+    "lam_b": 0.733,
+    "p_win": 0.6723,
+    "p_draw": 0.2183,
+    "p_loss": 0.1093,
     "top_scores": [
      {
       "score": "2-0",
-      "p": 0.1292
+      "p": 0.1299
      },
      {
       "score": "1-0",
-      "p": 0.114
+      "p": 0.1137
      },
      {
       "score": "1-1",
-      "p": 0.1053
+      "p": 0.1042
      },
      {
       "score": "2-1",
-      "p": 0.0955
+      "p": 0.0952
      },
      {
       "score": "3-0",
-      "p": 0.0882
+      "p": 0.0895
      }
     ],
     "outcome_scores": {
      "team1": {
       "score": "2-0",
-      "p": 0.1292
+      "p": 0.1299
      },
      "draw": {
       "score": "1-1",
-      "p": 0.1053
+      "p": 0.1042
      },
      "team2": {
       "score": "1-2",
-      "p": 0.0345
+      "p": 0.0338
      }
     },
     "modal_score": "2-0",
-    "modal_p": 0.1292
+    "modal_p": 0.1299
    },
    "prediction_base": {
     "lam_a": 2.044,
@@ -3329,10 +3329,10 @@
    },
    "lineup": {
     "team1": {
-     "elo": -1.6,
-     "delta_ovr": -0.22,
-     "status": "projected",
-     "xi_mean": 84.6,
+     "elo": -12.3,
+     "delta_ovr": -0.82,
+     "status": "confirmed",
+     "xi_mean": 84,
      "baseline_mean": 84.8,
      "coverage": 0.91,
      "missing": [
@@ -3345,26 +3345,34 @@
        "ovr": 84
       },
       {
+       "name": "Nahuel Molina",
+       "ovr": 82
+      },
+      {
        "name": "Nicolás Otamendi",
        "ovr": 81
       }
      ]
     },
     "team2": {
-     "elo": -2.9,
-     "delta_ovr": -0.39,
-     "status": "projected",
-     "xi_mean": 75.7,
+     "elo": -18.0,
+     "delta_ovr": -1.2,
+     "status": "confirmed",
+     "xi_mean": 74.9,
      "baseline_mean": 76.1,
-     "coverage": 0.91,
+     "coverage": 0.82,
      "missing": [
       {
-       "name": "Ramy Bensebaini",
-       "ovr": 78
+       "name": "Riyad Mahrez",
+       "ovr": 85
       },
       {
-       "name": "Anis Hadj-Moussa",
-       "ovr": 67
+       "name": "Mohamed Amoura",
+       "ovr": 75
+      },
+      {
+       "name": "Jaouen Hadjam",
+       "ovr": 68
       }
      ]
     }
@@ -11032,5 +11040,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "53739789244c0253f792d9115c44e8e77f0ec801"
+ "content_hash": "9081ab4275ce00ad50477fccc55001bd7e39138f"
 }

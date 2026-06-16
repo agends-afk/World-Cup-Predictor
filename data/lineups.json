@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-16T21:22:00Z",
+ "fetched_utc": "2026-06-16T23:40:00Z",
  "matches": {
   "17": {
    "team1": {
@@ -71,13 +71,13 @@
   },
   "19": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Emiliano Martinez",
      "Facundo Medina",
      "Lisandro Martinez",
      "Cristian Romero",
-     "Nahuel Molina",
+     "Gonzalo Montiel",
      "Enzo Fernandez",
      "Alexis Mac Allister",
      "Rodrigo De Paul",
@@ -87,18 +87,18 @@
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Luca Zidane",
      "Rayan Ait-Nouri",
      "Aissa Mandi",
-     "Jaouen Hadjam",
+     "Ramy Bensebaini",
      "Rafik Belghali",
-     "Hicham Boudaoui",
      "Fares Chaibi",
+     "Hicham Boudaoui",
      "Nabil Bentaleb",
-     "Mohammed Amoura",
-     "Riyad Mahrez",
+     "Anis Hadj Moussa",
+     "Ibrahim Maza",
      "Amine Gouiri"
     ]
    }
