@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-16T13:58:03+10:00",
- "generated_aest": "Tue 16 Jun 2026, 1:58pm AEST",
+ "generated": "2026-06-16T18:17:10+10:00",
+ "generated_aest": "Tue 16 Jun 2026, 6:17pm AEST",
  "data_through": "2026-06-15",
  "sim_runs": 10000,
  "params": {
@@ -6068,6 +6068,51 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
+    "lam_a": 1.356,
+    "lam_b": 1.117,
+    "p_win": 0.4056,
+    "p_draw": 0.3026,
+    "p_loss": 0.2917,
+    "top_scores": [
+     {
+      "score": "1-1",
+      "p": 0.1443
+     },
+     {
+      "score": "0-0",
+      "p": 0.1009
+     },
+     {
+      "score": "1-0",
+      "p": 0.0977
+     },
+     {
+      "score": "2-1",
+      "p": 0.0866
+     },
+     {
+      "score": "0-1",
+      "p": 0.0776
+     }
+    ],
+    "outcome_scores": {
+     "draw": {
+      "score": "1-1",
+      "p": 0.1443
+     },
+     "team1": {
+      "score": "1-0",
+      "p": 0.0977
+     },
+     "team2": {
+      "score": "0-1",
+      "p": 0.0776
+     }
+    },
+    "modal_score": "1-1",
+    "modal_p": 0.1443
+   },
+   "prediction_base": {
     "lam_a": 1.438,
     "lam_b": 1.054,
     "p_win": 0.4425,
@@ -6111,6 +6156,35 @@
     },
     "modal_score": "1-1",
     "modal_p": 0.1417
+   },
+   "lineup": {
+    "team1": {
+     "elo": -30.5,
+     "delta_ovr": -4.06,
+     "status": "projected",
+     "xi_mean": 75.3,
+     "baseline_mean": 79.4,
+     "coverage": 0.91,
+     "missing": [
+      {
+       "name": "Martin Ødegaard",
+       "ovr": 89
+      },
+      {
+       "name": "Alexander Sørloth",
+       "ovr": 82
+      },
+      {
+       "name": "Fredrik Aursnes",
+       "ovr": 80
+      },
+      {
+       "name": "Jørgen Strand Larsen",
+       "ovr": 75
+      }
+     ]
+    },
+    "team2": null
    }
   },
   {
@@ -10950,5 +11024,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "e641e0a2123fe3025a61018139c46b5ea6afe627"
+ "content_hash": "580121e53fba4db11994b7b745a2256576642a23"
 }

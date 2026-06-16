@@ -1,142 +1,6 @@
 {
- "fetched_utc": "2026-06-16T03:57:00Z",
+ "fetched_utc": "2026-06-16T08:17:00Z",
  "matches": {
-  "14": {
-   "team1": {
-    "status": "confirmed",
-    "xi": [
-     "Unai Simon",
-     "Marc Cucurella",
-     "Pau Cubarsi",
-     "Aymeric Laporte",
-     "Marcos Llorente",
-     "Rodri",
-     "Fabian Ruiz",
-     "Pedri",
-     "Gavi",
-     "Ferran Torres",
-     "Mikel Oyarzabal"
-    ]
-   },
-   "team2": {
-    "status": "confirmed",
-    "xi": [
-     "Vozinha",
-     "Sidny Lopes Cabral",
-     "Diney",
-     "Pico",
-     "Steven Moreira",
-     "Kevin Pina",
-     "Laros Duarte",
-     "Jovane Cabral",
-     "Jamiro Monteiro",
-     "Ryan Mendes",
-     "Dailon Livramento"
-    ]
-   }
-  },
-  "16": {
-   "team1": {
-    "status": "confirmed",
-    "xi": [
-     "Thibaut Courtois",
-     "Timothy Castagne",
-     "Brandon Mechele",
-     "Nathan Ngoy",
-     "Thomas Meunier",
-     "Youri Tielemans",
-     "Amadou Onana",
-     "Jeremy Doku",
-     "Kevin De Bruyne",
-     "Leandro Trossard",
-     "Charles De Ketelaere"
-    ]
-   },
-   "team2": {
-    "status": "confirmed",
-    "xi": [
-     "Mostafa Shobeir",
-     "Ahmed El Fotouh",
-     "Yasser Ibrahim",
-     "Hamdy Fathy",
-     "Mohamed Hany",
-     "Mohanad Lasheen",
-     "Marwan Ateya",
-     "Mostafa Ziko",
-     "Emam Ashour",
-     "Mohamed Salah",
-     "Omar Marmoush"
-    ]
-   }
-  },
-  "13": {
-   "team1": {
-    "status": "confirmed",
-    "xi": [
-     "Mohammed Al-Owais",
-     "Moteb Al Harbi",
-     "Abdulelah Al-Amri",
-     "Hassan Al Tambakti",
-     "Saud Abdulhamid",
-     "Mohamed Kanno",
-     "Abdullah Al-Khaibari",
-     "Salem Al-Dawsari",
-     "Musab Al-Juwayr",
-     "Abu Al Shamat",
-     "Firas Al Buraikan"
-    ]
-   },
-   "team2": {
-    "status": "confirmed",
-    "xi": [
-     "Fernando Muslera",
-     "Matias Vina",
-     "Sebastian Caceres",
-     "Mathias Olivera",
-     "Guillermo Varela",
-     "Maxi Araujo",
-     "Manuel Ugarte",
-     "Rodrigo Bentancur",
-     "Federico Valverde",
-     "Federico Vinas",
-     "Darwin Nunez"
-    ]
-   }
-  },
-  "15": {
-   "team1": {
-    "status": "confirmed",
-    "xi": [
-     "Alireza Beiranvand",
-     "Milad Mohammadi",
-     "Shoja Khalilzadeh",
-     "Ali Nemati",
-     "Aria Yousefi",
-     "Mohammad Mohebi",
-     "Saman Ghoddos",
-     "Saeid Ezatolahi",
-     "Shahriyar Moghanlou",
-     "Ramin Rezaeian",
-     "Mehdi Taremi"
-    ]
-   },
-   "team2": {
-    "status": "confirmed",
-    "xi": [
-     "Maxime Teremoana Crocombe",
-     "Liberato Cacace",
-     "Finn Surman",
-     "Michael Boxall",
-     "Tim Payne",
-     "Marko Stamenic",
-     "Joe Bell",
-     "Elijah Just",
-     "Sarpreet Singh",
-     "Callum McCowatt",
-     "Chris Wood"
-    ]
-   }
-  },
   "17": {
    "team1": {
     "status": "projected",
@@ -295,9 +159,9 @@
     "xi": [
      "Lionel Mpasi",
      "Arthur Masuaku",
-     "Steve Kapuadi",
      "Axel Tuanzebe",
      "Chancel Mbemba",
+     "Steve Kapuadi",
      "Aaron Wan-Bissaka",
      "Samuel Moutoussamy",
      "Noah Sadiki",
@@ -916,6 +780,24 @@
      "Mohamed Salah",
      "Mostafa Ziko",
      "Omar Marmoush"
+    ]
+   }
+  },
+  "41": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Orjan Nyland",
+     "David Moller Wolfe",
+     "Torbjorn Heggem",
+     "Kristoffer Ajer",
+     "Julian Ryerson",
+     "Sander Berge",
+     "Antonio Nusa",
+     "Patrick Berg",
+     "Martin Odegaard",
+     "Oscar Bobb",
+     "Erling Haaland"
     ]
    }
   }
