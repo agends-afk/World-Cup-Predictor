@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-17T02:02:15+10:00",
- "generated_aest": "Wed 17 Jun 2026, 2:02am AEST",
+ "generated": "2026-06-17T03:49:39+10:00",
+ "generated_aest": "Wed 17 Jun 2026, 3:49am AEST",
  "data_through": "2026-06-15",
  "sim_runs": 10000,
  "params": {
@@ -2951,23 +2951,23 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.847,
-    "lam_b": 0.82,
-    "p_win": 0.6029,
-    "p_draw": 0.2493,
-    "p_loss": 0.1478,
+    "lam_a": 1.829,
+    "lam_b": 0.828,
+    "p_win": 0.597,
+    "p_draw": 0.2517,
+    "p_loss": 0.1514,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1189
+      "p": 0.1201
      },
      {
       "score": "2-0",
-      "p": 0.1184
+      "p": 0.1173
      },
      {
       "score": "1-0",
-      "p": 0.1146
+      "p": 0.1145
      },
      {
       "score": "2-1",
@@ -2975,25 +2975,25 @@
      },
      {
       "score": "0-0",
-      "p": 0.0832
+      "p": 0.0839
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1189
+      "p": 0.1201
      },
      "team1": {
       "score": "2-0",
-      "p": 0.1184
+      "p": 0.1173
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0433
+      "p": 0.0443
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1189
+    "modal_p": 0.1201
    },
    "prediction_base": {
     "lam_a": 1.845,
@@ -3042,9 +3042,9 @@
    },
    "lineup": {
     "team1": {
-     "elo": -5.6,
+     "elo": -11.2,
      "delta_ovr": -0.75,
-     "status": "projected",
+     "status": "confirmed",
      "xi_mean": 84.8,
      "baseline_mean": 85.5,
      "coverage": 0.91,
@@ -3060,20 +3060,16 @@
      ]
     },
     "team2": {
-     "elo": -6.1,
-     "delta_ovr": -0.82,
-     "status": "projected",
-     "xi_mean": 76.8,
+     "elo": -6.8,
+     "delta_ovr": -0.45,
+     "status": "confirmed",
+     "xi_mean": 77.2,
      "baseline_mean": 77.6,
      "coverage": 1.0,
      "missing": [
       {
-       "name": "Pape Matar Sarr",
-       "ovr": 79
-      },
-      {
-       "name": "Ismaïla Sarr",
-       "ovr": 76
+       "name": "Iliman Ndiaye",
+       "ovr": 75
       },
       {
        "name": "Ismail Jakobs",
@@ -11028,5 +11024,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "ae3f3f93384a0b48202818cac6f4e42a4bd04f15"
+ "content_hash": "53531b27693b651e7fe31183c4c493e1925ee499"
 }
