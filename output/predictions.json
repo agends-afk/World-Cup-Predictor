@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-18T01:37:45+10:00",
- "generated_aest": "Thu 18 Jun 2026, 1:37am AEST",
+ "generated": "2026-06-18T03:52:01+10:00",
+ "generated_aest": "Thu 18 Jun 2026, 3:52am AEST",
  "data_through": "2026-06-16",
  "sim_runs": 10000,
  "params": {
@@ -4777,49 +4777,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.426,
-    "lam_b": 1.062,
-    "p_win": 0.4375,
-    "p_draw": 0.298,
-    "p_loss": 0.2645,
+    "lam_a": 1.445,
+    "lam_b": 1.048,
+    "p_win": 0.4459,
+    "p_draw": 0.2965,
+    "p_loss": 0.2576,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1422
+      "p": 0.1414
      },
      {
       "score": "1-0",
-      "p": 0.1021
+      "p": 0.1032
      },
      {
       "score": "0-0",
-      "p": 0.0994
+      "p": 0.0989
      },
      {
       "score": "2-1",
-      "p": 0.0897
+      "p": 0.0905
      },
      {
       "score": "2-0",
-      "p": 0.0845
+      "p": 0.0863
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1422
+      "p": 0.1414
      },
      "team1": {
       "score": "1-0",
-      "p": 0.1021
+      "p": 0.1032
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0718
+      "p": 0.0703
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1422
+    "modal_p": 0.1414
    },
    "prediction_base": {
     "lam_a": 1.389,
@@ -4869,12 +4869,12 @@
    "lineup": {
     "team1": null,
     "team2": {
-     "elo": -14.0,
-     "delta_ovr": -1.87,
+     "elo": -20.9,
+     "delta_ovr": -2.79,
      "status": "projected",
-     "xi_mean": 72.2,
+     "xi_mean": 71.3,
      "baseline_mean": 74.1,
-     "coverage": 0.82,
+     "coverage": 0.91,
      "missing": [
       {
        "name": "Kaku",
@@ -11382,5 +11382,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "9d2f48a8bff7f3964d95cb20268d247f78d698ff"
+ "content_hash": "0051ced881add82ea905771288d04e69133606c6"
 }
