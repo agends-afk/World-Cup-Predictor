@@ -145,26 +145,6 @@ function aest(iso, dateOnly) {
     String(m).padStart(2, '0') + am + ' AEST';
 }
 
-function bestScores(p) {
-  // {win, draw} scorelines: the most likely decisive result and the most
-  // likely draw. Uses outcome_scores when present, else derives them from the
-  // stored top-5 (older frozen predictions), else falls back to the modal.
-  const os = p.outcome_scores;
-  if (os && os.draw && (os.team1 || os.team2)) {
-    return {win: (p.p_win >= p.p_loss) ? os.team1 : os.team2, draw: os.draw};
-  }
-  if (p.top_scores) {
-    let win = null, draw = null;
-    for (const t of p.top_scores) {
-      const parts = t.score.split('-'), a = +parts[0], b = +parts[1];
-      if (a === b) { if (!draw) draw = t; } else if (!win) { win = t; }
-      if (win && draw) break;
-    }
-    if (win) return {win: win, draw: draw};
-  }
-  return {win: {score: p.modal_score, p: p.modal_p}, draw: null};
-}
-
 function scoreFor(score, m) {
   // Stored score is "a-b" = team1 a, team2 b. Present it winner-first with
   // the team named, so it is unambiguous who the result favours.
@@ -195,18 +175,10 @@ function callLine(m) {
     others = esc(m.team1) + ' win ' + pct(p.p_win) + ', ' + esc(m.team2) +
       ' win ' + pct(p.p_loss);
   }
-  // Always show two scorelines: the most likely decisive result and the most
-  // likely draw, each with fair odds, so a draw is always represented and a
-  // winner is always shown.
-  const bs = bestScores(p);
-  const odds = function (o) {
-    return ' (' + pct(o.p) + ', fair ' + fairOdds(o.p) + ')';
-  };
-  let scoreText = 'Most likely ' + scoreFor(bs.win.score, m) + odds(bs.win);
-  if (bs.draw) {
-    scoreText += ', or a ' + bs.draw.score + ' draw' + odds(bs.draw);
-  }
-  let s = lead + ' (' + others + '). ' + scoreText;
+  const sc = (p.outcome_scores && p.outcome_scores[pick]) ||
+    {score: p.modal_score, p: p.modal_p};
+  let s = lead + ' (' + others + '). Most likely ' + scoreFor(sc.score, m) +
+    ' (' + pct(sc.p) + ', fair ' + fairOdds(sc.p) + ')';
   if (p.p_advance !== undefined && m.status !== 'played') {
     const fav = p.p_advance >= 0.5 ? m.team1 : m.team2;
     const fp = p.p_advance >= 0.5 ? p.p_advance : 1 - p.p_advance;

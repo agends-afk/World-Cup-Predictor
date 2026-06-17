@@ -36,39 +36,6 @@ def score_for(score, t1, t2):
     return f"draw {a}-{b}"
 
 
-def fair(p_):
-    """Fair decimal odds from a probability."""
-    return f"{1 / p_:.2f}" if p_ else "n/a"
-
-
-def score_phrase(p, t1, t2):
-    """Always show the most likely decisive result and the most likely draw,
-    each with fair odds. Uses outcome_scores, else derives from the stored
-    top-5 (older frozen predictions), else falls back to the modal."""
-    os = p.get("outcome_scores") or {}
-    win = draw = None
-    if os.get("draw") and (os.get("team1") or os.get("team2")):
-        win = os["team1"] if p["p_win"] >= p["p_loss"] else os["team2"]
-        draw = os["draw"]
-    elif p.get("top_scores"):
-        for t in p["top_scores"]:
-            a, b = (int(x) for x in t["score"].split("-"))
-            if a == b:
-                draw = draw or t
-            elif win is None:
-                win = t
-            if win and draw:
-                break
-    if not win:
-        win = {"score": p["modal_score"], "p": p["modal_p"]}
-    txt = (f"most likely {score_for(win['score'], t1, t2)} "
-           f"({pct(win['p'])}, fair {fair(win['p'])})")
-    if draw:
-        txt += (f", or a {draw['score']} draw "
-                f"({pct(draw['p'])}, fair {fair(draw['p'])})")
-    return txt
-
-
 def call_line(m):
     """One-line prediction, read from the recommended team's perspective."""
     p = m.get("prediction")
@@ -77,15 +44,22 @@ def call_line(m):
     w, d, l = p["p_win"], p["p_draw"], p["p_loss"]
     t1, t2 = m["team1"], m["team2"]
     if w >= max(d, l):
+        pick = "team1"
         lead = f"**{t1} to win {pct(w)}**"
         others = f"draw {pct(d)}, {t2} win {pct(l)}"
     elif l >= max(w, d):
+        pick = "team2"
         lead = f"**{t2} to win {pct(l)}**"
         others = f"draw {pct(d)}, {t1} win {pct(w)}"
     else:
+        pick = "draw"
         lead = f"**Draw most likely, {pct(d)}**"
         others = f"{t1} win {pct(w)}, {t2} win {pct(l)}"
-    return f"{lead} ({others}); {score_phrase(p, t1, t2)}"
+    # Scoreline that matches the predicted result, not the overall modal.
+    sc = (p.get("outcome_scores") or {}).get(
+        pick, {"score": p["modal_score"], "p": p["modal_p"]})
+    return (f"{lead} ({others}); most likely "
+            f"{score_for(sc['score'], t1, t2)} ({pct(sc['p'])})")
 
 
 def played_line(m):
@@ -262,18 +236,23 @@ def main():
                 adv = p.get("p_advance", p["p_win"])
                 fav, fp = (m["team1"], adv) if adv >= 0.5 else (m["team2"], 1 - adv)
                 t1, t2 = m["team1"], m["team2"]
-                w, d, l = p["p_win"], p["p_draw"], p["p_loss"]
-                if w >= max(d, l):
-                    call = f"**{t1} to win {pct(w)}**"
-                    others = f"draw {pct(d)}, {t2} win {pct(l)}"
-                elif l >= max(w, d):
-                    call = f"**{t2} to win {pct(l)}**"
-                    others = f"draw {pct(d)}, {t1} win {pct(w)}"
+                if p["p_win"] >= max(p["p_draw"], p["p_loss"]):
+                    pick = "team1"
+                    call = f"**{t1} to win {pct(p['p_win'])}**"
+                    others = f"draw {pct(p['p_draw'])}, {t2} win {pct(p['p_loss'])}"
+                elif p["p_loss"] >= max(p["p_win"], p["p_draw"]):
+                    pick = "team2"
+                    call = f"**{t2} to win {pct(p['p_loss'])}**"
+                    others = f"draw {pct(p['p_draw'])}, {t1} win {pct(p['p_win'])}"
                 else:
-                    call = f"**Draw most likely, {pct(d)}**"
-                    others = f"{t1} win {pct(w)}, {t2} win {pct(l)}"
-                add(f"- {head}: {slotline}.{proj} {call} ({others}); "
-                    f"{score_phrase(p, t1, t2)}; **{fav} to advance {pct(fp)}**")
+                    pick = "draw"
+                    call = f"**Draw most likely, {pct(p['p_draw'])}**"
+                    others = f"{t1} win {pct(p['p_win'])}, {t2} win {pct(p['p_loss'])}"
+                sc = (p.get("outcome_scores") or {}).get(
+                    pick, {"score": p["modal_score"], "p": p["modal_p"]})
+                add(f"- {head}: {slotline}.{proj} {call} ({others}); most "
+                    f"likely {score_for(sc['score'], t1, t2)} "
+                    f"({pct(sc['p'])}); **{fav} to advance {pct(fp)}**")
             else:
                 add(f"- {head}: {slotline}. Awaiting qualified teams.")
 
