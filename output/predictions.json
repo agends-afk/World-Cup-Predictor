@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-18T05:34:53+10:00",
- "generated_aest": "Thu 18 Jun 2026, 5:34am AEST",
+ "generated": "2026-06-18T07:20:29+10:00",
+ "generated_aest": "Thu 18 Jun 2026, 7:20am AEST",
  "data_through": "2026-06-17",
  "sim_runs": 10000,
  "params": {
@@ -5436,49 +5436,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 0.698,
-    "lam_b": 2.171,
-    "p_win": 0.0948,
-    "p_draw": 0.2037,
-    "p_loss": 0.7016,
+    "lam_a": 0.7,
+    "lam_b": 2.163,
+    "p_win": 0.0959,
+    "p_draw": 0.2049,
+    "p_loss": 0.6992,
     "top_scores": [
      {
       "score": "0-2",
-      "p": 0.1338
+      "p": 0.1335
      },
      {
       "score": "0-1",
-      "p": 0.1121
+      "p": 0.1122
      },
      {
       "score": "1-1",
-      "p": 0.0972
+      "p": 0.0977
      },
      {
       "score": "0-3",
-      "p": 0.0968
+      "p": 0.0962
      },
      {
       "score": "1-2",
-      "p": 0.0933
+      "p": 0.0935
      }
     ],
     "outcome_scores": {
      "team2": {
       "score": "0-2",
-      "p": 0.1338
+      "p": 0.1335
      },
      "draw": {
       "score": "1-1",
-      "p": 0.0972
+      "p": 0.0977
      },
      "team1": {
       "score": "2-1",
-      "p": 0.03
+      "p": 0.0303
      }
     },
     "modal_score": "0-2",
-    "modal_p": 0.1338
+    "modal_p": 0.1335
    },
    "prediction_base": {
     "lam_a": 0.679,
@@ -5549,13 +5549,17 @@
      ]
     },
     "team2": {
-     "elo": -14.3,
-     "delta_ovr": -1.91,
+     "elo": -16.4,
+     "delta_ovr": -2.18,
      "status": "projected",
-     "xi_mean": 75.1,
+     "xi_mean": 74.8,
      "baseline_mean": 77,
      "coverage": 1.0,
      "missing": [
+      {
+       "name": "Takefusa Kubo",
+       "ovr": 81
+      },
       {
        "name": "Takehiro Tomiyasu",
        "ovr": 78
@@ -11394,5 +11398,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "cc47b0ea7c4824589b5a267ddea292c918d25743"
+ "content_hash": "8d091294b75258af3b027cfdb31852b8cb49ab7a"
 }
