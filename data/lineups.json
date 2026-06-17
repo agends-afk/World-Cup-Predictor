@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-17T17:51:00Z",
+ "fetched_utc": "2026-06-17T18:41:00Z",
  "matches": {
   "20": {
    "team1": {
@@ -71,7 +71,7 @@
   },
   "22": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Jordan Pickford",
      "Nico O'Reilly",
@@ -87,15 +87,15 @@
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Dominik Livakovic",
      "Josko Gvardiol",
      "Josip Sutalo",
      "Luka Vuskovic",
      "Ivan Perisic",
+     "Mario Pasalic",
      "Luka Modric",
-     "Mateo Kovacic",
      "Josip Stanisic",
      "Martin Baturina",
      "Petar Sucic",

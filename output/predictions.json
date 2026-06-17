@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-18T03:52:01+10:00",
- "generated_aest": "Thu 18 Jun 2026, 3:52am AEST",
+ "generated": "2026-06-18T04:41:11+10:00",
+ "generated_aest": "Thu 18 Jun 2026, 4:41am AEST",
  "data_through": "2026-06-16",
  "sim_runs": 10000,
  "params": {
@@ -3614,49 +3614,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.641,
-    "lam_b": 0.923,
-    "p_win": 0.5273,
-    "p_draw": 0.2763,
-    "p_loss": 0.1964,
+    "lam_a": 1.679,
+    "lam_b": 0.902,
+    "p_win": 0.5422,
+    "p_draw": 0.2716,
+    "p_loss": 0.1862,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1318
+      "p": 0.1295
      },
      {
       "score": "1-0",
-      "p": 0.1112
+      "p": 0.1122
      },
      {
       "score": "2-0",
-      "p": 0.1037
+      "p": 0.1067
      },
      {
       "score": "2-1",
-      "p": 0.0957
+      "p": 0.0962
      },
      {
       "score": "0-0",
-      "p": 0.0922
+      "p": 0.0906
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1318
+      "p": 0.1295
      },
      "team1": {
       "score": "1-0",
-      "p": 0.1112
+      "p": 0.1122
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0559
+      "p": 0.0534
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1318
+    "modal_p": 0.1295
    },
    "prediction_base": {
     "lam_a": 1.617,
@@ -3705,9 +3705,9 @@
    },
    "lineup": {
     "team1": {
-     "elo": -10.7,
+     "elo": -21.4,
      "delta_ovr": -1.43,
-     "status": "projected",
+     "status": "confirmed",
      "xi_mean": 83.3,
      "baseline_mean": 84.7,
      "coverage": 0.91,
@@ -3731,20 +3731,20 @@
      ]
     },
     "team2": {
-     "elo": -18.3,
-     "delta_ovr": -2.44,
-     "status": "projected",
-     "xi_mean": 77.2,
+     "elo": -41.0,
+     "delta_ovr": -2.74,
+     "status": "confirmed",
+     "xi_mean": 76.9,
      "baseline_mean": 79.6,
      "coverage": 0.91,
      "missing": [
       {
-       "name": "Andrej Kramarić",
-       "ovr": 81
+       "name": "Mateo Kovačić",
+       "ovr": 83
       },
       {
-       "name": "Mario Pašalić",
-       "ovr": 80
+       "name": "Andrej Kramarić",
+       "ovr": 81
       },
       {
        "name": "Ante Budimir",
@@ -11382,5 +11382,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "0051ced881add82ea905771288d04e69133606c6"
+ "content_hash": "957fd50e0cb5732a7de52911624c3a6c6007f0c1"
 }
