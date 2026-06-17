@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-17T01:49:00Z",
+ "fetched_utc": "2026-06-17T03:56:00Z",
  "matches": {
   "17": {
    "team1": {
@@ -105,33 +105,33 @@
   },
   "20": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Alexander Schlager",
      "Phillipp Mwene",
      "David Alaba",
      "Philipp Lienhart",
-     "Konrad Laimer",
-     "Nicolas Seiwald",
+     "Stefan Posch",
      "Xaver Schlager",
+     "Nicolas Seiwald",
+     "Konrad Laimer",
      "Marcel Sabitzer",
-     "Michael Gregoritsch",
      "Romano Schmid",
-     "Marko Arnautovic"
+     "Sasa Kalajdzic"
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Yazeed Mo'ien Hasan Abulaila",
      "Abdallah Mousa Musallam Nasib",
-     "Saleem Amer Saleem Obaid",
      "Yazan Al-Arab",
+     "Mohammad Abualnadi",
      "Mohannad Abu Taha",
      "Noor Al Rawabdeh",
      "Nizar Mahmoud Ahmed Al Rashdan",
      "Ehsan Haddad",
-     "Odeh Burhan Shehade Fakhoury",
+     "Odeh Fakhoury",
      "Mousa Tamari",
      "Ali Olwan"
     ]
@@ -783,6 +783,58 @@
     ]
    }
   },
+  "43": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Emiliano Martinez",
+     "Facundo Medina",
+     "Cristian Romero",
+     "Lisandro Martinez",
+     "Nahuel Molina",
+     "Enzo Fernandez",
+     "Alexis Mac Allister",
+     "Rodrigo De Paul",
+     "Thiago Almada",
+     "Lionel Messi",
+     "Julian Alvarez"
+    ]
+   }
+  },
+  "42": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Mike Maignan",
+     "Theo Hernandez",
+     "Dayot Upamecano",
+     "William Saliba",
+     "Jules Kounde",
+     "Aurelien Tchouameni",
+     "Adrien Rabiot",
+     "Desire Doue",
+     "Ousmane Dembele",
+     "Michael Olise",
+     "Kylian Mbappe"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Jalal Hassan",
+     "Merchas Doski",
+     "Zaid Tahseen",
+     "Akam Hashem",
+     "Hussein Ali",
+     "Ahmed Qasem",
+     "Amir Al-Ammari",
+     "Zaid Ismael",
+     "Ibrahim Bayesh",
+     "Ali Al Hamadi",
+     "Aymen Hussein"
+    ]
+   }
+  },
   "41": {
    "team1": {
     "status": "projected",
@@ -793,11 +845,45 @@
      "Kristoffer Ajer",
      "Julian Ryerson",
      "Sander Berge",
-     "Antonio Nusa",
-     "Patrick Berg",
      "Martin Odegaard",
-     "Oscar Bobb",
+     "Patrick Berg",
+     "Antonio Nusa",
+     "Alexander Sorloth",
      "Erling Haaland"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Edouard Mendy",
+     "El Hadji Malick Diouf",
+     "Moussa Niakhate",
+     "Kalidou Koulibaly",
+     "Krepin Diatta",
+     "Pape Gueye",
+     "Idrissa Gueye",
+     "Sadio Mane",
+     "Lamine Camara",
+     "Ismaila Sarr",
+     "Nicolas Jackson"
+    ]
+   }
+  },
+  "44": {
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Luca Zidane",
+     "Rayan Ait-Nouri",
+     "Aissa Mandi",
+     "Ramy Bensebaini",
+     "Rafik Belghali",
+     "Nabil Bentaleb",
+     "Ibrahim Maza",
+     "Hicham Boudaoui",
+     "Fares Chaibi",
+     "Anis Hadj Moussa",
+     "Amine Gouiri"
     ]
    }
   }
