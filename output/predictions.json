@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-17T10:18:35+10:00",
- "generated_aest": "Wed 17 Jun 2026, 10:18am AEST",
+ "generated": "2026-06-17T11:33:05+10:00",
+ "generated_aest": "Wed 17 Jun 2026, 11:33am AEST",
  "data_through": "2026-06-16",
  "sim_runs": 10000,
  "params": {
@@ -3754,49 +3754,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 2.055,
-    "lam_b": 0.737,
-    "p_win": 0.6691,
-    "p_draw": 0.2199,
-    "p_loss": 0.111,
+    "lam_a": 2.015,
+    "lam_b": 0.752,
+    "p_win": 0.6573,
+    "p_draw": 0.2255,
+    "p_loss": 0.1172,
     "top_scores": [
      {
       "score": "2-0",
-      "p": 0.1294
+      "p": 0.1276
      },
      {
       "score": "1-0",
-      "p": 0.1139
+      "p": 0.1143
      },
      {
       "score": "1-1",
-      "p": 0.1049
+      "p": 0.1076
      },
      {
       "score": "2-1",
-      "p": 0.0954
+      "p": 0.0959
      },
      {
       "score": "3-0",
-      "p": 0.0887
+      "p": 0.0858
      }
     ],
     "outcome_scores": {
      "team1": {
       "score": "2-0",
-      "p": 0.1294
+      "p": 0.1276
      },
      "draw": {
       "score": "1-1",
-      "p": 0.1049
+      "p": 0.1076
      },
      "team2": {
       "score": "1-2",
-      "p": 0.0342
+      "p": 0.0358
      }
     },
     "modal_score": "2-0",
-    "modal_p": 0.1294
+    "modal_p": 0.1276
    },
    "prediction_base": {
     "lam_a": 2.082,
@@ -3845,13 +3845,17 @@
    },
    "lineup": {
     "team1": {
-     "elo": -6.8,
-     "delta_ovr": -0.91,
+     "elo": -17.0,
+     "delta_ovr": -2.27,
      "status": "projected",
-     "xi_mean": 84.1,
+     "xi_mean": 82.7,
      "baseline_mean": 85,
      "coverage": 1.0,
      "missing": [
+      {
+       "name": "Rúben Dias",
+       "ovr": 88
+      },
       {
        "name": "Rafael Leão",
        "ovr": 86
@@ -11048,5 +11052,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "7f212161591332ebf63079e8e09fdf65a91bf07f"
+ "content_hash": "eb41cd88eba47fec18ec96165cf45ee186ba449b"
 }
