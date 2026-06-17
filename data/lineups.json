@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-17T08:11:00Z",
+ "fetched_utc": "2026-06-17T14:19:00Z",
  "matches": {
   "20": {
    "team1": {
@@ -687,15 +687,31 @@
     "xi": [
      "Emiliano Martinez",
      "Facundo Medina",
-     "Cristian Romero",
      "Lisandro Martinez",
+     "Cristian Romero",
      "Nahuel Molina",
-     "Rodrigo De Paul",
      "Alexis Mac Allister",
      "Enzo Fernandez",
+     "Rodrigo De Paul",
      "Thiago Almada",
      "Lionel Messi",
      "Julian Alvarez"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Alexander Schlager",
+     "Phillipp Mwene",
+     "David Alaba",
+     "Philipp Lienhart",
+     "Konrad Laimer",
+     "Nicolas Seiwald",
+     "Xaver Schlager",
+     "Marcel Sabitzer",
+     "Michael Gregoritsch",
+     "Romano Schmid",
+     "Marko Arnautovic"
     ]
    }
   },
@@ -768,6 +784,22 @@
    }
   },
   "44": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Yazeed Mo'ien Hasan Abulaila",
+     "Abdallah Mousa Musallam Nasib",
+     "Yazan Al-Arab",
+     "Mohammad Abualnadi",
+     "Mohannad Abu Taha",
+     "Noor Al Rawabdeh",
+     "Nizar Mahmoud Ahmed Al Rashdan",
+     "Ehsan Haddad",
+     "Ali Olwan",
+     "Odeh Fakhoury",
+     "Mousa Tamari"
+    ]
+   },
    "team2": {
     "status": "projected",
     "xi": [
@@ -776,9 +808,9 @@
      "Aissa Mandi",
      "Ramy Bensebaini",
      "Rafik Belghali",
-     "Nabil Bentaleb",
-     "Hicham Boudaoui",
      "Ibrahim Maza",
+     "Hicham Boudaoui",
+     "Nabil Bentaleb",
      "Fares Chaibi",
      "Anis Hadj Moussa",
      "Amine Gouiri"

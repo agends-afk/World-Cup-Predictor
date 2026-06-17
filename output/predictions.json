@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-17T18:11:38+10:00",
- "generated_aest": "Wed 17 Jun 2026, 6:11pm AEST",
+ "generated": "2026-06-18T00:19:32+10:00",
+ "generated_aest": "Thu 18 Jun 2026, 12:19am AEST",
  "data_through": "2026-06-16",
  "sim_runs": 10000,
  "params": {
@@ -6391,49 +6391,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 2.105,
-    "lam_b": 0.719,
-    "p_win": 0.6835,
-    "p_draw": 0.2129,
-    "p_loss": 0.1037,
+    "lam_a": 2.13,
+    "lam_b": 0.711,
+    "p_win": 0.6904,
+    "p_draw": 0.2094,
+    "p_loss": 0.1002,
     "top_scores": [
      {
       "score": "2-0",
-      "p": 0.1315
+      "p": 0.1324
      },
      {
       "score": "1-0",
-      "p": 0.1132
+      "p": 0.1128
      },
      {
       "score": "1-1",
-      "p": 0.1015
+      "p": 0.0999
      },
      {
       "score": "2-1",
-      "p": 0.0946
+      "p": 0.0941
      },
      {
       "score": "3-0",
-      "p": 0.0923
+      "p": 0.094
      }
     ],
     "outcome_scores": {
      "team1": {
       "score": "2-0",
-      "p": 0.1315
+      "p": 0.1324
      },
      "draw": {
       "score": "1-1",
-      "p": 0.1015
+      "p": 0.0999
      },
      "team2": {
       "score": "1-2",
-      "p": 0.0323
+      "p": 0.0314
      }
     },
     "modal_score": "2-0",
-    "modal_p": 0.1315
+    "modal_p": 0.1324
    },
    "prediction_base": {
     "lam_a": 2.127,
@@ -6499,7 +6499,32 @@
       }
      ]
     },
-    "team2": null
+    "team2": {
+     "elo": -6.1,
+     "delta_ovr": -0.82,
+     "status": "projected",
+     "xi_mean": 79.1,
+     "baseline_mean": 79.9,
+     "coverage": 1.0,
+     "missing": [
+      {
+       "name": "Kevin Danso",
+       "ovr": 80
+      },
+      {
+       "name": "Stefan Posch",
+       "ovr": 78
+      },
+      {
+       "name": "Saša Kalajdžić",
+       "ovr": 77
+      },
+      {
+       "name": "Patrick Pentz",
+       "ovr": 74
+      }
+     ]
+    }
    }
   },
   {
@@ -11353,5 +11378,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "66caa5bbcda601bbee73537120bc85abbee4ccde"
+ "content_hash": "f4442e8e0e342303159bb00ca2736a5dc49f046e"
 }
