@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-18T00:19:32+10:00",
- "generated_aest": "Thu 18 Jun 2026, 12:19am AEST",
+ "generated": "2026-06-18T01:37:45+10:00",
+ "generated_aest": "Thu 18 Jun 2026, 1:37am AEST",
  "data_through": "2026-06-16",
  "sim_runs": 10000,
  "params": {
@@ -3614,49 +3614,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.606,
-    "lam_b": 0.943,
-    "p_win": 0.5133,
-    "p_draw": 0.2805,
-    "p_loss": 0.2062,
+    "lam_a": 1.641,
+    "lam_b": 0.923,
+    "p_win": 0.5273,
+    "p_draw": 0.2763,
+    "p_loss": 0.1964,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1338
+      "p": 0.1318
      },
      {
       "score": "1-0",
-      "p": 0.1101
+      "p": 0.1112
      },
      {
       "score": "2-0",
-      "p": 0.1007
+      "p": 0.1037
      },
      {
       "score": "2-1",
-      "p": 0.095
+      "p": 0.0957
      },
      {
       "score": "0-0",
-      "p": 0.0936
+      "p": 0.0922
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1338
+      "p": 0.1318
      },
      "team1": {
       "score": "1-0",
-      "p": 0.1101
+      "p": 0.1112
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0583
+      "p": 0.0559
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1338
+    "modal_p": 0.1318
    },
    "prediction_base": {
     "lam_a": 1.617,
@@ -3731,20 +3731,24 @@
      ]
     },
     "team2": {
-     "elo": -7.0,
-     "delta_ovr": -0.94,
+     "elo": -18.3,
+     "delta_ovr": -2.44,
      "status": "projected",
-     "xi_mean": 78.7,
+     "xi_mean": 77.2,
      "baseline_mean": 79.6,
      "coverage": 0.91,
      "missing": [
       {
-       "name": "Josip Šutalo",
-       "ovr": 77
+       "name": "Andrej Kramarić",
+       "ovr": 81
       },
       {
-       "name": "Petar Musa",
-       "ovr": 76
+       "name": "Mario Pašalić",
+       "ovr": 80
+      },
+      {
+       "name": "Ante Budimir",
+       "ovr": 78
       },
       {
        "name": "Duje Ćaleta-Car",
@@ -3770,49 +3774,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 2.015,
-    "lam_b": 0.752,
-    "p_win": 0.6573,
-    "p_draw": 0.2255,
-    "p_loss": 0.1172,
+    "lam_a": 1.91,
+    "lam_b": 0.793,
+    "p_win": 0.6241,
+    "p_draw": 0.2405,
+    "p_loss": 0.1355,
     "top_scores": [
      {
       "score": "2-0",
-      "p": 0.1276
+      "p": 0.1222
      },
      {
       "score": "1-0",
-      "p": 0.1143
+      "p": 0.1148
      },
      {
       "score": "1-1",
-      "p": 0.1076
+      "p": 0.1147
      },
      {
       "score": "2-1",
-      "p": 0.0959
+      "p": 0.0969
      },
      {
-      "score": "3-0",
-      "p": 0.0858
+      "score": "0-0",
+      "p": 0.0802
      }
     ],
     "outcome_scores": {
      "team1": {
       "score": "2-0",
-      "p": 0.1276
+      "p": 0.1222
      },
      "draw": {
       "score": "1-1",
-      "p": 0.1076
+      "p": 0.1147
      },
      "team2": {
       "score": "1-2",
-      "p": 0.0358
+      "p": 0.0403
      }
     },
     "modal_score": "2-0",
-    "modal_p": 0.1276
+    "modal_p": 0.1222
    },
    "prediction_base": {
     "lam_a": 2.082,
@@ -3861,10 +3865,10 @@
    },
    "lineup": {
     "team1": {
-     "elo": -17.0,
-     "delta_ovr": -2.27,
-     "status": "projected",
-     "xi_mean": 82.7,
+     "elo": -45.0,
+     "delta_ovr": -3,
+     "status": "confirmed",
+     "xi_mean": 82,
      "baseline_mean": 85,
      "coverage": 1.0,
      "missing": [
@@ -11378,5 +11382,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "f4442e8e0e342303159bb00ca2736a5dc49f046e"
+ "content_hash": "9d2f48a8bff7f3964d95cb20268d247f78d698ff"
 }
