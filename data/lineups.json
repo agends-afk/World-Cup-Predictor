@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-17T22:07:00Z",
+ "fetched_utc": "2026-06-18T01:30:00Z",
  "matches": {
   "20": {
    "team1": {
@@ -139,23 +139,23 @@
   },
   "24": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Utkir Yusupov",
      "Abdulla Abdullaev",
      "Rustamjon Ashurmatov",
      "Abdukodir Khusanov",
      "Sherzod Nasrullayev",
-     "Odiljon Hamrobekov",
      "Otabek Shukurov",
-     "Farruh Sayfiyev",
+     "Akmal Mozgovoy",
+     "Bekhruz Karimov",
      "Abbosbek Fayzullaev",
      "Oston Urunov",
      "Eldor Shomurodov"
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Camilo Vargas",
      "Johan Mojica",
