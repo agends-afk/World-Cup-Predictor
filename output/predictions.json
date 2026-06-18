@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-19T07:02:43+10:00",
- "generated_aest": "Fri 19 Jun 2026, 7:02am AEST",
+ "generated": "2026-06-19T07:50:23+10:00",
+ "generated_aest": "Fri 19 Jun 2026, 7:50am AEST",
  "data_through": "2026-06-18",
  "sim_runs": 10000,
  "params": {
@@ -6935,49 +6935,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 0.986,
-    "lam_b": 1.536,
-    "p_win": 0.227,
-    "p_draw": 0.2881,
-    "p_loss": 0.485,
+    "lam_a": 0.993,
+    "lam_b": 1.525,
+    "p_win": 0.2305,
+    "p_draw": 0.2892,
+    "p_loss": 0.4803,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1374
+      "p": 0.1379
      },
      {
       "score": "0-1",
-      "p": 0.1075
+      "p": 0.1071
      },
      {
       "score": "0-0",
-      "p": 0.0961
+      "p": 0.0965
      },
      {
       "score": "0-2",
-      "p": 0.0948
+      "p": 0.0937
      },
      {
       "score": "1-2",
-      "p": 0.0934
+      "p": 0.0931
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1374
+      "p": 0.1379
      },
      "team2": {
       "score": "0-1",
-      "p": 0.1075
+      "p": 0.1071
      },
      "team1": {
       "score": "1-0",
-      "p": 0.0633
+      "p": 0.0642
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1374
+    "modal_p": 0.1379
    },
    "prediction_base": {
     "lam_a": 0.961,
@@ -7027,13 +7027,17 @@
    "lineup": {
     "team1": null,
     "team2": {
-     "elo": -13.0,
-     "delta_ovr": -1.74,
+     "elo": -16.8,
+     "delta_ovr": -2.24,
      "status": "projected",
-     "xi_mean": 77.9,
+     "xi_mean": 77.4,
      "baseline_mean": 79.6,
      "coverage": 0.91,
      "missing": [
+      {
+       "name": "Andrej Kramarić",
+       "ovr": 81
+      },
       {
        "name": "Mario Pašalić",
        "ovr": 80
@@ -11726,5 +11730,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "5d43a6479d8b287136376488a9365062e69b691c"
+ "content_hash": "2c5688834eebff387136ac443e8b5e9e40291563"
 }
