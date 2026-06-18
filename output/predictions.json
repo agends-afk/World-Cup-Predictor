@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-18T17:23:49+10:00",
- "generated_aest": "Thu 18 Jun 2026, 5:23pm AEST",
+ "generated": "2026-06-19T00:34:37+10:00",
+ "generated_aest": "Fri 19 Jun 2026, 12:34am AEST",
  "data_through": "2026-06-17",
  "sim_runs": 10000,
  "params": {
@@ -4281,15 +4281,15 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.928,
-    "lam_b": 0.785,
-    "p_win": 0.6301,
-    "p_draw": 0.2378,
-    "p_loss": 0.132,
+    "lam_a": 1.918,
+    "lam_b": 0.79,
+    "p_win": 0.6269,
+    "p_draw": 0.2392,
+    "p_loss": 0.1339,
     "top_scores": [
      {
       "score": "2-0",
-      "p": 0.1232
+      "p": 0.1227
      },
      {
       "score": "1-0",
@@ -4297,33 +4297,33 @@
      },
      {
       "score": "1-1",
-      "p": 0.1134
+      "p": 0.1141
      },
      {
       "score": "2-1",
-      "p": 0.0968
+      "p": 0.0969
      },
      {
       "score": "0-0",
-      "p": 0.0793
+      "p": 0.0798
      }
     ],
     "outcome_scores": {
      "team1": {
       "score": "2-0",
-      "p": 0.1232
+      "p": 0.1227
      },
      "draw": {
       "score": "1-1",
-      "p": 0.1134
+      "p": 0.1141
      },
      "team2": {
       "score": "1-2",
-      "p": 0.0394
+      "p": 0.0399
      }
     },
     "modal_score": "2-0",
-    "modal_p": 0.1232
+    "modal_p": 0.1227
    },
    "prediction_base": {
     "lam_a": 1.928,
@@ -4372,20 +4372,20 @@
    },
    "lineup": {
     "team1": {
-     "elo": 0.0,
-     "delta_ovr": 0.09,
+     "elo": -2.7,
+     "delta_ovr": -0.36,
      "status": "projected",
-     "xi_mean": 79.5,
+     "xi_mean": 79,
      "baseline_mean": 79.4,
      "coverage": 1.0,
      "missing": [
       {
-       "name": "Noah Okafor",
-       "ovr": 78
+       "name": "Denis Zakaria",
+       "ovr": 79
       },
       {
-       "name": "Silvan Widmer",
-       "ovr": 74
+       "name": "Noah Okafor",
+       "ovr": 78
       },
       {
        "name": "Zeki Amdouni",
@@ -6792,49 +6792,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 2.918,
-    "lam_b": 0.519,
-    "p_win": 0.8497,
-    "p_draw": 0.1155,
-    "p_loss": 0.0349,
+    "lam_a": 2.952,
+    "lam_b": 0.513,
+    "p_win": 0.8544,
+    "p_draw": 0.1123,
+    "p_loss": 0.0333,
     "top_scores": [
      {
       "score": "2-0",
-      "p": 0.1369
+      "p": 0.1363
      },
      {
       "score": "3-0",
-      "p": 0.1332
+      "p": 0.1341
      },
      {
       "score": "4-0",
-      "p": 0.0971
+      "p": 0.0989
      },
      {
       "score": "1-0",
-      "p": 0.0875
+      "p": 0.0862
      },
      {
       "score": "2-1",
-      "p": 0.0711
+      "p": 0.0699
      }
     ],
     "outcome_scores": {
      "team1": {
       "score": "2-0",
-      "p": 0.1369
+      "p": 0.1363
      },
      "draw": {
       "score": "1-1",
-      "p": 0.0551
+      "p": 0.0536
      },
      "team2": {
       "score": "1-2",
-      "p": 0.0127
+      "p": 0.0122
      }
     },
     "modal_score": "2-0",
-    "modal_p": 0.1369
+    "modal_p": 0.1363
    },
    "prediction_base": {
     "lam_a": 2.978,
@@ -6883,17 +6883,13 @@
    },
    "lineup": {
     "team1": {
-     "elo": -10.7,
-     "delta_ovr": -1.43,
+     "elo": -4.7,
+     "delta_ovr": -0.63,
      "status": "projected",
-     "xi_mean": 83.3,
+     "xi_mean": 84.1,
      "baseline_mean": 84.7,
      "coverage": 0.91,
      "missing": [
-      {
-       "name": "Bukayo Saka",
-       "ovr": 87
-      },
       {
        "name": "Ollie Watkins",
        "ovr": 85
@@ -6927,49 +6923,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.0,
-    "lam_b": 1.514,
-    "p_win": 0.234,
-    "p_draw": 0.2903,
-    "p_loss": 0.4757,
+    "lam_a": 0.986,
+    "lam_b": 1.536,
+    "p_win": 0.227,
+    "p_draw": 0.2881,
+    "p_loss": 0.485,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1385
+      "p": 0.1374
      },
      {
       "score": "0-1",
-      "p": 0.1066
+      "p": 0.1075
      },
      {
       "score": "0-0",
-      "p": 0.0968
-     },
-     {
-      "score": "1-2",
-      "p": 0.0928
+      "p": 0.0961
      },
      {
       "score": "0-2",
-      "p": 0.0928
+      "p": 0.0948
+     },
+     {
+      "score": "1-2",
+      "p": 0.0934
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1385
+      "p": 0.1374
      },
      "team2": {
       "score": "0-1",
-      "p": 0.1066
+      "p": 0.1075
      },
      "team1": {
       "score": "1-0",
-      "p": 0.065
+      "p": 0.0633
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1385
+    "modal_p": 0.1374
    },
    "prediction_base": {
     "lam_a": 0.961,
@@ -7019,24 +7015,20 @@
    "lineup": {
     "team1": null,
     "team2": {
-     "elo": -20.5,
-     "delta_ovr": -2.74,
+     "elo": -13.0,
+     "delta_ovr": -1.74,
      "status": "projected",
-     "xi_mean": 76.9,
+     "xi_mean": 77.9,
      "baseline_mean": 79.6,
      "coverage": 0.91,
      "missing": [
       {
-       "name": "Mateo Kovačić",
-       "ovr": 83
+       "name": "Mario Pašalić",
+       "ovr": 80
       },
       {
-       "name": "Andrej Kramarić",
-       "ovr": 81
-      },
-      {
-       "name": "Ante Budimir",
-       "ovr": 78
+       "name": "Petar Musa",
+       "ovr": 76
       },
       {
        "name": "Duje Ćaleta-Car",
@@ -11722,5 +11714,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "8bdca1fa200c1471b33ff4a301f011b7eabcbcae"
+ "content_hash": "7600ac7e48484f40008df6498d9a1987fc66bea6"
 }
