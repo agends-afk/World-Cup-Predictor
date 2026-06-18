@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-19T00:34:37+10:00",
- "generated_aest": "Fri 19 Jun 2026, 12:34am AEST",
+ "generated": "2026-06-19T01:53:03+10:00",
+ "generated_aest": "Fri 19 Jun 2026, 1:53am AEST",
  "data_through": "2026-06-17",
  "sim_runs": 10000,
  "params": {
@@ -4146,49 +4146,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.59,
-    "lam_b": 0.953,
-    "p_win": 0.5069,
-    "p_draw": 0.2823,
-    "p_loss": 0.2108,
+    "lam_a": 1.593,
+    "lam_b": 0.951,
+    "p_win": 0.5082,
+    "p_draw": 0.2819,
+    "p_loss": 0.2099,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1347
+      "p": 0.1345
      },
      {
       "score": "1-0",
-      "p": 0.1096
+      "p": 0.1097
      },
      {
       "score": "2-0",
-      "p": 0.0994
+      "p": 0.0997
      },
      {
       "score": "2-1",
-      "p": 0.0947
+      "p": 0.0948
      },
      {
       "score": "0-0",
-      "p": 0.0942
+      "p": 0.094
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1347
+      "p": 0.1345
      },
      "team1": {
       "score": "1-0",
-      "p": 0.1096
+      "p": 0.1097
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0595
+      "p": 0.0592
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1347
+    "modal_p": 0.1345
    },
    "prediction_base": {
     "lam_a": 1.565,
@@ -4237,24 +4237,20 @@
    },
    "lineup": {
     "team1": {
-     "elo": -7.0,
-     "delta_ovr": -0.93,
-     "status": "projected",
-     "xi_mean": 75.8,
+     "elo": -5.9,
+     "delta_ovr": -0.39,
+     "status": "confirmed",
+     "xi_mean": 76.3,
      "baseline_mean": 76.7,
-     "coverage": 0.91,
+     "coverage": 0.82,
      "missing": [
       {
-       "name": "Tomáš Holeš",
-       "ovr": 76
+       "name": "Tomáš Souček",
+       "ovr": 79
       },
       {
-       "name": "Michal Sadílek",
-       "ovr": 76
-      },
-      {
-       "name": "Adam Hložek",
-       "ovr": 76
+       "name": "Pavel Šulc",
+       "ovr": 75
       },
       {
        "name": "Jan Kuchta",
@@ -11714,5 +11710,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "7600ac7e48484f40008df6498d9a1987fc66bea6"
+ "content_hash": "1d43c5e7c8f02410671e3cd33e3a550e4713ac9c"
 }

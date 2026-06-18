@@ -1,37 +1,37 @@
 {
- "fetched_utc": "2026-06-18T14:34:00Z",
+ "fetched_utc": "2026-06-18T15:52:00Z",
  "matches": {
   "25": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Matej Kovar",
      "Ladislav Krejci",
      "Robin Hranac",
-     "Stepan Chaloupek",
-     "Jaroslav Zeleny",
-     "Tomas Soucek",
+     "Tomas Holes",
      "Alexandr Sojka",
+     "Vladimir Darida",
+     "Michal Sadilek",
+     "Lukas Cerv",
      "Vladimir Coufal",
-     "Lukas Provod",
-     "Pavel Sulc",
-     "Patrik Schick"
+     "Patrik Schick",
+     "Adam Hlozek"
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Ronwen Hayden Williams",
      "Aubrey Modiba",
      "Mbekezeli Mbokazi",
      "Ime Okon",
      "Khuliso Mudau",
-     "Jayden Adams",
      "Thalente Mbatha",
-     "Tshepang Moremi",
+     "Jayden Adams",
+     "Thapelo Maseko",
      "Teboho Mokoena",
      "Oswin Appollis",
-     "Lyle Foster"
+     "Iqraam Rayners"
     ]
    }
   },
@@ -245,9 +245,9 @@
     "xi": [
      "Ugurcan Cakir",
      "Ferdi Kadioglu",
-     "Merih Demiral",
+     "Ozan Kabak",
      "Abdulkerim Bardakci",
-     "Zeki Celik",
+     "Mert Muldur",
      "Orkun Kokcu",
      "Hakan Calhanoglu",
      "Kenan Yildiz",
