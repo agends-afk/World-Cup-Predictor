@@ -1,6 +1,6 @@
 # World Cup 2026: match predictions
 
-Generated Thu 18 Jun 2026, 11:30am AEST. Results included through 2026-06-17. 23 of 104 matches played. 10,000 tournament simulations.
+Generated Thu 18 Jun 2026, 1:56pm AEST. Results included through 2026-06-17. 23 of 104 matches played. 10,000 tournament simulations.
 
 Every probability below is a model estimate built only from match results and public squad news, not from betting odds or published predictions. A favourite can be 75% to win while its most likely exact score sits near 12 to 15%; goals spread across many scorelines, so read the two numbers separately.
 
@@ -145,7 +145,7 @@ A read-only comparison of the model's own rating order against the FIFA/Coca-Col
 
 - M4, Fri 12 Jun, Inglewood: United States v Paraguay. **Played: United States 4-1 Paraguay.** Model said United States to win 35% (draw 31%, Paraguay win 35%); most likely draw 1-1 (15%); result hit, score miss (pre-match view reconstructed)
 - M6, Sat 13 Jun, Vancouver: Australia v Turkey. **Played: Australia 2-0 Turkey.** Model said Turkey to win 56% (draw 27%, Australia win 18%); most likely Turkey 1-0 (11%); result miss, score miss
-- M31, Fri 19 Jun, Santa Clara: Turkey v Paraguay. **Turkey to win 45%** (draw 30%, Paraguay win 26%); most likely Turkey 1-0 (10%)
+- M31, Fri 19 Jun, Santa Clara: Turkey v Paraguay. **Turkey to win 45%** (draw 30%, Paraguay win 25%); most likely Turkey 1-0 (10%)
 - M32, Fri 19 Jun, Seattle: United States v Australia. **United States to win 37%** (draw 31%, Australia win 32%); most likely United States 1-0 (9%)
 - M59, Thu 25 Jun, Inglewood: Turkey v United States. **United States to win 41%** (draw 30%, Turkey win 29%); most likely United States 1-0 (10%)
 - M60, Thu 25 Jun, Santa Clara: Paraguay v Australia. **Australia to win 45%** (draw 30%, Paraguay win 25%); most likely Australia 1-0 (10%)
