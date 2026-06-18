@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-18T18:16:00Z",
+ "fetched_utc": "2026-06-18T21:02:00Z",
  "matches": {
   "25": {
    "team1": {
@@ -71,7 +71,7 @@
   },
   "27": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Maxime Crepeau",
      "Richie Laryea",
@@ -87,16 +87,16 @@
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Mahmud Ibrahim Abunada",
      "Homam Ahmed",
-     "Boualem Khoukhi",
      "Pedro Miguel",
+     "Boualem Khoukhi",
      "Ayoub Al Oui",
      "Gueye Seydinaissa Laye",
      "Jassem Gaber",
-     "Ahmed Fathy",
+     "Assim Madibo",
      "Akram Afif",
      "Edmilson Junior",
      "Yusuf Abdurisag"
@@ -159,9 +159,9 @@
     "xi": [
      "Patrick Beach",
      "Jordan Bos",
+     "Harry Souttar",
      "Cameron Burgess",
      "Alessandro Circati",
-     "Harry Souttar",
      "Jacob Italiano",
      "Nestory Irankunda",
      "Aiden O'Neill",
@@ -210,9 +210,9 @@
     "status": "projected",
     "xi": [
      "Alisson",
-     "Alex Sandro",
-     "Marquinhos",
+     "Douglas",
      "Gabriel",
+     "Marquinhos",
      "Danilo",
      "Bruno Guimaraes",
      "Fabinho",
@@ -245,8 +245,8 @@
     "xi": [
      "Ugurcan Cakir",
      "Ferdi Kadioglu",
-     "Ozan Kabak",
      "Abdulkerim Bardakci",
+     "Ozan Kabak",
      "Mert Muldur",
      "Orkun Kokcu",
      "Hakan Calhanoglu",
@@ -295,8 +295,8 @@
     "xi": [
      "Kristoffer Nordfeldt",
      "Victor Lindelof",
-     "Gustaf Lagerbielke",
      "Isak Hien",
+     "Gustaf Lagerbielke",
      "Gabriel Gudmundsson",
      "Yasin Ayari",
      "Jesper Karlstrom",
@@ -381,12 +381,12 @@
     "xi": [
      "Unai Simon",
      "Marc Cucurella",
-     "Aymeric Laporte",
      "Pau Cubarsi",
+     "Aymeric Laporte",
      "Marcos Llorente",
+     "Fabian Ruiz",
      "Rodri",
      "Pedri",
-     "Fabian Ruiz",
      "Nico Williams",
      "Lamine Yamal",
      "Mikel Oyarzabal"
@@ -435,11 +435,11 @@
      "Ali Nemati",
      "Ramin Rezaeian",
      "Aria Yousefi",
-     "Saeid Ezatolahi",
      "Saman Ghoddos",
+     "Saeid Ezatolahi",
      "Mohammad Mohebi",
-     "Shahriyar Moghanlou",
-     "Mehdi Taremi"
+     "Mehdi Taremi",
+     "Shahriyar Moghanlou"
     ]
    }
   },
@@ -448,16 +448,16 @@
     "status": "projected",
     "xi": [
      "Fernando Muslera",
-     "Matias Vina",
+     "Juan Sanabria",
      "Sebastian Caceres",
      "Mathias Olivera",
      "Guillermo Varela",
-     "Maxi Araujo",
-     "Manuel Ugarte",
      "Rodrigo Bentancur",
      "Federico Valverde",
-     "Federico Vinas",
-     "Darwin Nunez"
+     "Manuel Ugarte",
+     "Maxi Araujo",
+     "Agustin Canobbio Graviz",
+     "Federico Vinas"
     ]
    },
    "team2": {
@@ -533,8 +533,8 @@
     "xi": [
      "Alexander Schlager",
      "Phillipp Mwene",
-     "Philipp Lienhart",
      "David Alaba",
+     "Philipp Lienhart",
      "Konrad Laimer",
      "Nicolas Seiwald",
      "Xaver Schlager",
@@ -601,8 +601,8 @@
     "xi": [
      "Edouard Mendy",
      "El Hadji Malick Diouf",
-     "Kalidou Koulibaly",
      "Moussa Niakhate",
+     "Kalidou Koulibaly",
      "Krepin Diatta",
      "Idrissa Gueye",
      "Pape Gueye",
@@ -638,8 +638,8 @@
      "Aissa Mandi",
      "Ramy Bensebaini",
      "Rafik Belghali",
-     "Hicham Boudaoui",
      "Ibrahim Maza",
+     "Hicham Boudaoui",
      "Nabil Bentaleb",
      "Fares Chaibi",
      "Anis Hadj Moussa",
@@ -690,8 +690,8 @@
      "Ezri Konsa",
      "John Stones",
      "Reece James",
-     "Elliot Anderson",
      "Declan Rice",
+     "Elliot Anderson",
      "Marcus Rashford",
      "Jude Bellingham",
      "Bukayo Saka",
@@ -703,8 +703,8 @@
     "xi": [
      "Benjamin Asare",
      "Gideon Mensah",
-     "Jerome Opoku",
      "Jonas Adjetey",
+     "Jerome Opoku",
      "Marvin Senaya",
      "Antoine Semenyo",
      "Caleb Yirenkyi",
@@ -720,12 +720,12 @@
     "status": "projected",
     "xi": [
      "Orlando Mosquera",
-     "Jose Cordoba",
      "Andres Andrade Cedeno",
      "Jiovany Ramos",
+     "Jose Cordoba",
      "Cesar Blackman",
-     "Adalberto Carrasquilla",
      "Carlos Harvey",
+     "Adalberto Carrasquilla",
      "Amir Murillo",
      "Jose Luis Rodriguez",
      "Cristian Martinez",
@@ -758,9 +758,9 @@
      "Jhon Lucumi",
      "Davinson Sanchez",
      "Daniel Munoz",
-     "Gustavo Puerta",
      "Jhon Arias",
      "Jefferson Lerma",
+     "Gustavo Puerta",
      "Luis Diaz",
      "James Rodriguez",
      "Luis Suarez"
