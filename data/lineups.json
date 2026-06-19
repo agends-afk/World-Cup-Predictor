@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-19T19:02:00Z",
+ "fetched_utc": "2026-06-19T20:22:00Z",
  "matches": {
   "32": {
    "team1": {
@@ -318,7 +318,7 @@
      "Guillermo Varela",
      "Federico Valverde",
      "Rodrigo Bentancur",
-     "Manuel Ugarte",
+     "Nicolas De La Cruz",
      "Maxi Araujo",
      "Agustin Canobbio",
      "Federico Vinas"
@@ -431,8 +431,8 @@
     "xi": [
      "Jalal Hassan",
      "Merchas Doski",
-     "Akam Hashem",
      "Zaid Tahseen",
+     "Akam Hashem",
      "Hussein Ali",
      "Ahmed Qasem",
      "Amir Al-Ammari",
@@ -465,8 +465,8 @@
     "xi": [
      "Edouard Mendy",
      "El Hadji Malick Diouf",
-     "Kalidou Koulibaly",
      "Moussa Niakhate",
+     "Kalidou Koulibaly",
      "Krepin Diatta",
      "Pape Gueye",
      "Idrissa Gueye",
@@ -486,8 +486,8 @@
      "Yazan Al-Arab",
      "Mohammad Abualnadi",
      "Mohannad Abu Taha",
-     "Noor Al Rawabdeh",
      "Nizar Mahmoud Ahmed Al Rashdan",
+     "Noor Al Rawabdeh",
      "Ehsan Haddad",
      "Ali Olwan",
      "Odeh Fakhoury",
@@ -502,9 +502,9 @@
      "Aissa Mandi",
      "Ramy Bensebaini",
      "Rafik Belghali",
-     "Ibrahim Maza",
      "Hicham Boudaoui",
      "Nabil Bentaleb",
+     "Ibrahim Maza",
      "Fares Chaibi",
      "Anis Hadj Moussa",
      "Amine Gouiri"
@@ -533,8 +533,8 @@
     "xi": [
      "Utkir Yusupov",
      "Abdulla Abdullaev",
-     "Abdukodir Khusanov",
      "Rustamjon Ashurmatov",
+     "Abdukodir Khusanov",
      "Sherzod Nasrullayev",
      "Otabek Shukurov",
      "Akmal Mozgovoy",
@@ -551,8 +551,8 @@
     "xi": [
      "Jordan Pickford",
      "Nico O'Reilly",
-     "Ezri Konsa",
      "John Stones",
+     "Ezri Konsa",
      "Reece James",
      "Declan Rice",
      "Elliot Anderson",
@@ -584,9 +584,9 @@
     "status": "projected",
     "xi": [
      "Orlando Mosquera",
-     "Jiovany Ramos",
      "Cesar Blackman",
      "Jose Cordoba",
+     "Jiovany Ramos",
      "Andres Andrade Cedeno",
      "Carlos Harvey",
      "Cristian Martinez",
@@ -608,7 +608,7 @@
      "Petar Sucic",
      "Luka Modric",
      "Ivan Perisic",
-     "Martin Baturina",
+     "Andrej Kramaric",
      "Ante Budimir"
     ]
    }
@@ -622,9 +622,9 @@
      "Jhon Lucumi",
      "Davinson Sanchez",
      "Daniel Munoz",
+     "Gustavo Puerta",
      "Jhon Arias",
      "Jefferson Lerma",
-     "Gustavo Puerta",
      "Luis Diaz",
      "James Rodriguez",
      "Luis Suarez"
@@ -640,8 +640,8 @@
      "Steve Kapuadi",
      "Aaron Wan-Bissaka",
      "Samuel Moutoussamy",
-     "Ngal'ayel Mukau",
      "Edo Kayembe",
+     "Ngal'ayel Mukau",
      "Cedric Bakambu",
      "Yoane Wissa"
     ]
@@ -687,12 +687,12 @@
     "xi": [
      "Nikola Vasilj",
      "Sead Kolasinac",
-     "Stjepan Radeljic",
      "Nikola Katic",
+     "Stjepan Radeljic",
      "Amar Dedic",
      "Amar Memic",
-     "Ivan Sunjic",
      "Benjamin Tahirovic",
+     "Ivan Sunjic",
      "Esmir Bajraktarevic",
      "Ermedin Demirovic",
      "Edin Dzeko"
@@ -721,8 +721,8 @@
     "xi": [
      "Ronwen Hayden Williams",
      "Aubrey Modiba",
-     "Mbekezeli Mbokazi",
      "Ime Okon",
+     "Mbekezeli Mbokazi",
      "Khuliso Mudau",
      "Thalente Mbatha",
      "Sphephelo Sithole",
@@ -736,9 +736,9 @@
     "status": "projected",
     "xi": [
      "Kim Seung-gyu",
-     "Kim Min-Jae",
      "Lee Gi-Hyuk",
      "Lee Han-Beom",
+     "Kim Min-Jae",
      "Kim Moon-Hwan",
      "Paik Seung-Ho",
      "Hwang In-beom",
@@ -755,12 +755,12 @@
     "xi": [
      "Matej Kovar",
      "Ladislav Krejci",
-     "Robin Hranac",
      "Tomas Holes",
+     "Robin Hranac",
      "Alexandr Sojka",
      "Tomas Soucek",
-     "Michal Sadilek",
      "Vladimir Darida",
+     "Michal Sadilek",
      "Vladimir Coufal",
      "Adam Hlozek",
      "Patrik Schick"
@@ -771,12 +771,12 @@
     "xi": [
      "Guillermo Ochoa",
      "Mateo Chavez",
-     "Edson Alvarez",
      "Cesar Montes",
+     "Edson Alvarez",
      "Israel Reyes",
-     "Gilberto Mora",
      "Alvaro Fidalgo",
      "Obed Vargas",
+     "Gilberto Mora",
      "Orbelin Pineda",
      "Cesar Huerta",
      "Santiago Gimenez"

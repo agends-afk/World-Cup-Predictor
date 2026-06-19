@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-20T05:02:41+10:00",
- "generated_aest": "Sat 20 Jun 2026, 5:02am AEST",
+ "generated": "2026-06-20T06:22:31+10:00",
+ "generated_aest": "Sat 20 Jun 2026, 6:22am AEST",
  "data_through": "2026-06-18",
  "sim_runs": 10000,
  "params": {
@@ -5706,51 +5706,6 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.851,
-    "lam_b": 0.818,
-    "p_win": 0.6045,
-    "p_draw": 0.2487,
-    "p_loss": 0.1469,
-    "top_scores": [
-     {
-      "score": "2-0",
-      "p": 0.1187
-     },
-     {
-      "score": "1-1",
-      "p": 0.1186
-     },
-     {
-      "score": "1-0",
-      "p": 0.1146
-     },
-     {
-      "score": "2-1",
-      "p": 0.0971
-     },
-     {
-      "score": "0-0",
-      "p": 0.0829
-     }
-    ],
-    "outcome_scores": {
-     "team1": {
-      "score": "2-0",
-      "p": 0.1187
-     },
-     "draw": {
-      "score": "1-1",
-      "p": 0.1186
-     },
-     "team2": {
-      "score": "0-1",
-      "p": 0.0431
-     }
-    },
-    "modal_score": "2-0",
-    "modal_p": 0.1187
-   },
-   "prediction_base": {
     "lam_a": 1.957,
     "lam_b": 0.774,
     "p_win": 0.6391,
@@ -5794,35 +5749,6 @@
     },
     "modal_score": "2-0",
     "modal_p": 0.1247
-   },
-   "lineup": {
-    "team1": {
-     "elo": -28.8,
-     "delta_ovr": -3.84,
-     "status": "projected",
-     "xi_mean": 76.9,
-     "baseline_mean": 80.7,
-     "coverage": 0.82,
-     "missing": [
-      {
-       "name": "José María Giménez",
-       "ovr": 83
-      },
-      {
-       "name": "Darwin Núñez",
-       "ovr": 82
-      },
-      {
-       "name": "Santiago Bueno",
-       "ovr": 77
-      },
-      {
-       "name": "Jonathan Rodríguez",
-       "ovr": 77
-      }
-     ]
-    },
-    "team2": null
    }
   },
   {
@@ -6943,49 +6869,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 0.993,
-    "lam_b": 1.525,
-    "p_win": 0.2305,
-    "p_draw": 0.2892,
-    "p_loss": 0.4803,
+    "lam_a": 0.986,
+    "lam_b": 1.536,
+    "p_win": 0.227,
+    "p_draw": 0.2881,
+    "p_loss": 0.485,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1379
+      "p": 0.1374
      },
      {
       "score": "0-1",
-      "p": 0.1071
+      "p": 0.1075
      },
      {
       "score": "0-0",
-      "p": 0.0965
+      "p": 0.0961
      },
      {
       "score": "0-2",
-      "p": 0.0937
+      "p": 0.0948
      },
      {
       "score": "1-2",
-      "p": 0.0931
+      "p": 0.0934
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1379
+      "p": 0.1374
      },
      "team2": {
       "score": "0-1",
-      "p": 0.1071
+      "p": 0.1075
      },
      "team1": {
       "score": "1-0",
-      "p": 0.0642
+      "p": 0.0633
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1379
+    "modal_p": 0.1374
    },
    "prediction_base": {
     "lam_a": 0.961,
@@ -7035,17 +6961,13 @@
    "lineup": {
     "team1": null,
     "team2": {
-     "elo": -16.8,
-     "delta_ovr": -2.24,
+     "elo": -13.0,
+     "delta_ovr": -1.74,
      "status": "projected",
-     "xi_mean": 77.4,
+     "xi_mean": 77.9,
      "baseline_mean": 79.6,
      "coverage": 0.91,
      "missing": [
-      {
-       "name": "Andrej Kramarić",
-       "ovr": 81
-      },
       {
        "name": "Mario Pašalić",
        "ovr": 80
@@ -11896,5 +11818,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "7e6d51e4b027ded864ad84def7520377ec96ef50"
+ "content_hash": "d35991c8c2686ce40c7b2b62dee5a81eadcf8810"
 }
