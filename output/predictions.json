@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-20T07:34:20+10:00",
- "generated_aest": "Sat 20 Jun 2026, 7:34am AEST",
+ "generated": "2026-06-20T08:00:41+10:00",
+ "generated_aest": "Sat 20 Jun 2026, 8:00am AEST",
  "data_through": "2026-06-19",
  "sim_runs": 10000,
  "params": {
@@ -6615,49 +6615,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 0.893,
-    "lam_b": 1.696,
-    "p_win": 0.1821,
-    "p_draw": 0.2695,
-    "p_loss": 0.5484,
+    "lam_a": 0.878,
+    "lam_b": 1.725,
+    "p_win": 0.1748,
+    "p_draw": 0.2657,
+    "p_loss": 0.5596,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1286
+      "p": 0.1267
      },
      {
       "score": "0-1",
-      "p": 0.1125
+      "p": 0.1131
      },
      {
       "score": "0-2",
-      "p": 0.108
+      "p": 0.1102
      },
      {
       "score": "1-2",
-      "p": 0.0964
+      "p": 0.0967
      },
      {
       "score": "0-0",
-      "p": 0.0899
+      "p": 0.0886
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1286
+      "p": 0.1267
      },
      "team2": {
       "score": "0-1",
-      "p": 0.1125
+      "p": 0.1131
      },
      "team1": {
       "score": "1-0",
-      "p": 0.0523
+      "p": 0.0504
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1286
+    "modal_p": 0.1267
    },
    "prediction_base": {
     "lam_a": 0.878,
@@ -6707,17 +6707,13 @@
    "lineup": {
     "team1": null,
     "team2": {
-     "elo": -9.0,
-     "delta_ovr": -1.2,
+     "elo": 0.0,
+     "delta_ovr": 0.61,
      "status": "projected",
-     "xi_mean": 74.9,
+     "xi_mean": 76.7,
      "baseline_mean": 76.1,
-     "coverage": 0.82,
+     "coverage": 0.91,
      "missing": [
-      {
-       "name": "Riyad Mahrez",
-       "ovr": 85
-      },
       {
        "name": "Mohamed Amoura",
        "ovr": 75
@@ -6725,6 +6721,10 @@
       {
        "name": "Jaouen Hadjam",
        "ovr": 68
+      },
+      {
+       "name": "Anis Hadj-Moussa",
+       "ovr": 67
       }
      ]
     }
@@ -11831,5 +11831,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "31eaf41f7669d4e864cb1dd462ba9244e61abba3"
+ "content_hash": "b65c5bbacf84231a39940ca2b3732bdbe1cfccbc"
 }
