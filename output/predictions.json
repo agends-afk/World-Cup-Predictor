@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-19T13:57:34+10:00",
- "generated_aest": "Fri 19 Jun 2026, 1:57pm AEST",
+ "generated": "2026-06-20T01:33:16+10:00",
+ "generated_aest": "Sat 20 Jun 2026, 1:33am AEST",
  "data_through": "2026-06-18",
  "sim_runs": 10000,
  "params": {
@@ -5259,49 +5259,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 2.554,
-    "lam_b": 0.593,
-    "p_win": 0.7892,
-    "p_draw": 0.1542,
-    "p_loss": 0.0565,
+    "lam_a": 2.536,
+    "lam_b": 0.597,
+    "p_win": 0.7858,
+    "p_draw": 0.1563,
+    "p_loss": 0.0579,
     "top_scores": [
      {
       "score": "2-0",
-      "p": 0.1402
+      "p": 0.1401
      },
      {
       "score": "3-0",
-      "p": 0.1193
+      "p": 0.1185
      },
      {
       "score": "1-0",
-      "p": 0.1013
+      "p": 0.1019
      },
      {
       "score": "2-1",
-      "p": 0.0831
+      "p": 0.0837
      },
      {
       "score": "4-0",
-      "p": 0.0762
+      "p": 0.0751
      }
     ],
     "outcome_scores": {
      "team1": {
       "score": "2-0",
-      "p": 0.1402
+      "p": 0.1401
      },
      "draw": {
       "score": "1-1",
-      "p": 0.0736
+      "p": 0.0746
      },
      "team2": {
       "score": "1-2",
-      "p": 0.0193
+      "p": 0.0197
      }
     },
     "modal_score": "2-0",
-    "modal_p": 0.1402
+    "modal_p": 0.1401
    },
    "prediction_base": {
     "lam_a": 2.609,
@@ -5350,24 +5350,24 @@
    },
    "lineup": {
     "team1": {
-     "elo": -11.1,
-     "delta_ovr": -1.47,
+     "elo": -14.7,
+     "delta_ovr": -1.96,
      "status": "projected",
-     "xi_mean": 72.9,
+     "xi_mean": 72.4,
      "baseline_mean": 74.4,
-     "coverage": 0.82,
+     "coverage": 0.91,
      "missing": [
       {
        "name": "Pervis Estupiñán",
        "ovr": 80
       },
       {
-       "name": "Ángelo Preciado",
-       "ovr": 75
-      },
-      {
        "name": "Kendry Páez",
        "ovr": 72
+      },
+      {
+       "name": "Alan Minda",
+       "ovr": 70
       },
       {
        "name": "Kevin Rodríguez",
@@ -11896,5 +11896,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "40a75a5d47a3763c5ea7f66374922795bb2cb745"
+ "content_hash": "bef53296c2555788860b963182bf834ddffd376d"
 }
