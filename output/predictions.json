@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-20T04:13:23+10:00",
- "generated_aest": "Sat 20 Jun 2026, 4:13am AEST",
+ "generated": "2026-06-20T05:02:41+10:00",
+ "generated_aest": "Sat 20 Jun 2026, 5:02am AEST",
  "data_through": "2026-06-18",
  "sim_runs": 10000,
  "params": {
@@ -6808,49 +6808,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 2.952,
-    "lam_b": 0.513,
-    "p_win": 0.8544,
-    "p_draw": 0.1123,
-    "p_loss": 0.0333,
+    "lam_a": 2.913,
+    "lam_b": 0.52,
+    "p_win": 0.8491,
+    "p_draw": 0.1159,
+    "p_loss": 0.0351,
     "top_scores": [
      {
       "score": "2-0",
-      "p": 0.1363
+      "p": 0.137
      },
      {
       "score": "3-0",
-      "p": 0.1341
+      "p": 0.1331
      },
      {
       "score": "4-0",
-      "p": 0.0989
+      "p": 0.0969
      },
      {
       "score": "1-0",
-      "p": 0.0862
+      "p": 0.0877
      },
      {
       "score": "2-1",
-      "p": 0.0699
+      "p": 0.0712
      }
     ],
     "outcome_scores": {
      "team1": {
       "score": "2-0",
-      "p": 0.1363
+      "p": 0.137
      },
      "draw": {
       "score": "1-1",
-      "p": 0.0536
+      "p": 0.0553
      },
      "team2": {
       "score": "1-2",
-      "p": 0.0122
+      "p": 0.0127
      }
     },
     "modal_score": "2-0",
-    "modal_p": 0.1363
+    "modal_p": 0.137
    },
    "prediction_base": {
     "lam_a": 2.978,
@@ -6899,13 +6899,17 @@
    },
    "lineup": {
     "team1": {
-     "elo": -4.7,
-     "delta_ovr": -0.63,
+     "elo": -11.5,
+     "delta_ovr": -1.53,
      "status": "projected",
-     "xi_mean": 84.1,
+     "xi_mean": 83.2,
      "baseline_mean": 84.7,
      "coverage": 0.91,
      "missing": [
+      {
+       "name": "Bukayo Saka",
+       "ovr": 87
+      },
       {
        "name": "Ollie Watkins",
        "ovr": 85
@@ -11892,5 +11896,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "d03c1e188dbb91664e53e81b7c00eac4bf2650cf"
+ "content_hash": "7e6d51e4b027ded864ad84def7520377ec96ef50"
 }
