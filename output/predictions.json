@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-20T08:00:41+10:00",
- "generated_aest": "Sat 20 Jun 2026, 8:00am AEST",
+ "generated": "2026-06-20T09:31:46+10:00",
+ "generated_aest": "Sat 20 Jun 2026, 9:31am AEST",
  "data_through": "2026-06-19",
  "sim_runs": 10000,
  "params": {
@@ -4721,7 +4721,7 @@
     "team1": {
      "elo": 0.0,
      "delta_ovr": 0.16,
-     "status": "projected",
+     "status": "confirmed",
      "xi_mean": 84.8,
      "baseline_mean": 84.6,
      "coverage": 0.91,
@@ -8046,49 +8046,123 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.085,
-    "lam_b": 1.396,
-    "p_win": 0.2758,
-    "p_draw": 0.3002,
-    "p_loss": 0.424,
+    "lam_a": 1.09,
+    "lam_b": 1.39,
+    "p_win": 0.2782,
+    "p_draw": 0.3006,
+    "p_loss": 0.4212,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1432
-     },
-     {
-      "score": "0-1",
-      "p": 0.1003
+      "p": 0.1434
      },
      {
       "score": "0-0",
-      "p": 0.1001
+      "p": 0.1003
+     },
+     {
+      "score": "0-1",
+      "p": 0.0999
      },
      {
       "score": "1-2",
-      "p": 0.0885
+      "p": 0.0882
      },
      {
       "score": "0-2",
-      "p": 0.0815
+      "p": 0.0809
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1432
+      "p": 0.1434
      },
      "team2": {
       "score": "0-1",
-      "p": 0.1003
+      "p": 0.0999
      },
      "team1": {
       "score": "1-0",
-      "p": 0.0743
+      "p": 0.0748
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1432
+    "modal_p": 0.1434
+   },
+   "prediction_base": {
+    "lam_a": 1.005,
+    "lam_b": 1.508,
+    "p_win": 0.2362,
+    "p_draw": 0.2909,
+    "p_loss": 0.4729,
+    "top_scores": [
+     {
+      "score": "1-1",
+      "p": 0.1388
+     },
+     {
+      "score": "0-1",
+      "p": 0.1063
+     },
+     {
+      "score": "0-0",
+      "p": 0.097
+     },
+     {
+      "score": "1-2",
+      "p": 0.0926
+     },
+     {
+      "score": "0-2",
+      "p": 0.0922
+     }
+    ],
+    "outcome_scores": {
+     "draw": {
+      "score": "1-1",
+      "p": 0.1388
+     },
+     "team2": {
+      "score": "0-1",
+      "p": 0.1063
+     },
+     "team1": {
+      "score": "1-0",
+      "p": 0.0655
+     }
+    },
+    "modal_score": "1-1",
+    "modal_p": 0.1388
+   },
+   "lineup": {
+    "team1": null,
+    "team2": {
+     "elo": -42.3,
+     "delta_ovr": -5.64,
+     "status": "projected",
+     "xi_mean": 71.4,
+     "baseline_mean": 77,
+     "coverage": 1.0,
+     "missing": [
+      {
+       "name": "Christian Pulisic",
+       "ovr": 83
+      },
+      {
+       "name": "Antonee Robinson",
+       "ovr": 79
+      },
+      {
+       "name": "Folarin Balogun",
+       "ovr": 77
+      },
+      {
+       "name": "Chris Richards",
+       "ovr": 76
+      }
+     ]
+    }
    },
    "low_stakes": true
   },
@@ -8108,6 +8182,51 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
+    "lam_a": 1.208,
+    "lam_b": 1.254,
+    "p_win": 0.336,
+    "p_draw": 0.306,
+    "p_loss": 0.358,
+    "top_scores": [
+     {
+      "score": "1-1",
+      "p": 0.146
+     },
+     {
+      "score": "0-0",
+      "p": 0.1021
+     },
+     {
+      "score": "0-1",
+      "p": 0.0901
+     },
+     {
+      "score": "1-0",
+      "p": 0.0862
+     },
+     {
+      "score": "1-2",
+      "p": 0.081
+     }
+    ],
+    "outcome_scores": {
+     "draw": {
+      "score": "1-1",
+      "p": 0.146
+     },
+     "team2": {
+      "score": "0-1",
+      "p": 0.0901
+     },
+     "team1": {
+      "score": "1-0",
+      "p": 0.0862
+     }
+    },
+    "modal_score": "1-1",
+    "modal_p": 0.146
+   },
+   "prediction_base": {
     "lam_a": 1.145,
     "lam_b": 1.323,
     "p_win": 0.3054,
@@ -8151,6 +8270,35 @@
     },
     "modal_score": "1-1",
     "modal_p": 0.1451
+   },
+   "lineup": {
+    "team1": null,
+    "team2": {
+     "elo": -27.8,
+     "delta_ovr": -3.7,
+     "status": "projected",
+     "xi_mean": 67.3,
+     "baseline_mean": 71,
+     "coverage": 0.91,
+     "missing": [
+      {
+       "name": "Mathew Ryan",
+       "ovr": 78
+      },
+      {
+       "name": "Jackson Irvine",
+       "ovr": 74
+      },
+      {
+       "name": "Mathew Leckie",
+       "ovr": 73
+      },
+      {
+       "name": "Cameron Devlin",
+       "ovr": 72
+      }
+     ]
+    }
    }
   },
   {
@@ -11831,5 +11979,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "b65c5bbacf84231a39940ca2b3732bdbe1cfccbc"
+ "content_hash": "c9be485198ef4d4ae64bff97f84bd36b83d0f889"
 }
