@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-20T01:33:16+10:00",
- "generated_aest": "Sat 20 Jun 2026, 1:33am AEST",
+ "generated": "2026-06-20T04:13:23+10:00",
+ "generated_aest": "Sat 20 Jun 2026, 4:13am AEST",
  "data_through": "2026-06-18",
  "sim_runs": 10000,
  "params": {
@@ -5038,49 +5038,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.283,
-    "lam_b": 1.181,
-    "p_win": 0.3716,
-    "p_draw": 0.3055,
-    "p_loss": 0.3229,
+    "lam_a": 1.302,
+    "lam_b": 1.163,
+    "p_win": 0.3808,
+    "p_draw": 0.3049,
+    "p_loss": 0.3143,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1457
+      "p": 0.1454
      },
      {
       "score": "0-0",
-      "p": 0.1019
+      "p": 0.1017
      },
      {
       "score": "1-0",
-      "p": 0.0924
-     },
-     {
-      "score": "0-1",
-      "p": 0.0838
+      "p": 0.0939
      },
      {
       "score": "2-1",
-      "p": 0.0827
+      "p": 0.0838
+     },
+     {
+      "score": "0-1",
+      "p": 0.0821
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1457
+      "p": 0.1454
      },
      "team1": {
       "score": "1-0",
-      "p": 0.0924
+      "p": 0.0939
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0838
+      "p": 0.0821
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1457
+    "modal_p": 0.1454
    },
    "prediction_base": {
     "lam_a": 1.296,
@@ -5129,10 +5129,10 @@
    },
    "lineup": {
     "team1": {
-     "elo": -33.4,
-     "delta_ovr": -4.45,
-     "status": "projected",
-     "xi_mean": 72.5,
+     "elo": -53.2,
+     "delta_ovr": -3.55,
+     "status": "confirmed",
+     "xi_mean": 73.5,
      "baseline_mean": 77,
      "coverage": 1.0,
      "missing": [
@@ -5147,17 +5147,13 @@
       {
        "name": "Mark McKenzie",
        "ovr": 74
-      },
-      {
-       "name": "Ricardo Pepi",
-       "ovr": 73
       }
      ]
     },
     "team2": {
-     "elo": -27.8,
+     "elo": -55.5,
      "delta_ovr": -3.7,
-     "status": "projected",
+     "status": "confirmed",
      "xi_mean": 67.3,
      "baseline_mean": 71,
      "coverage": 0.91,
@@ -5171,12 +5167,12 @@
        "ovr": 74
       },
       {
-       "name": "Mathew Leckie",
-       "ovr": 73
-      },
-      {
        "name": "Cameron Devlin",
        "ovr": 72
+      },
+      {
+       "name": "Ajdin Hrustić",
+       "ovr": 69
       }
      ]
     }
@@ -11896,5 +11892,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "bef53296c2555788860b963182bf834ddffd376d"
+ "content_hash": "d03c1e188dbb91664e53e81b7c00eac4bf2650cf"
 }
