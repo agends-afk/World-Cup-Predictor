@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-20T22:18:00Z",
+ "fetched_utc": "2026-06-20T22:46:00Z",
  "matches": {
   "35": {
    "team1": {
@@ -37,15 +37,15 @@
   },
   "34": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Hernan Galindez",
      "Piero Hincapie",
-     "Joel Ordonez",
      "Willian Pacho",
-     "Angelo Preciado",
+     "Pervis Estupinan",
+     "Alan Franco",
+     "Jordy Alcivar",
      "Moises Caicedo",
-     "Denil Castillo",
      "Gonzalo Plata",
      "Pedro Vite",
      "John Yeboah",
@@ -53,19 +53,19 @@
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Eloy Room",
-     "Deveron Fonville",
      "Armando Obispo",
-     "Riechedly Bazoer",
+     "Joshua Brenet",
+     "Jurien Gaari",
+     "Deveron Fonville",
+     "Leandro Bacuna",
+     "Livano Comenencia",
      "Sherel Floranus",
      "Juninho Bacuna",
-     "Livano Comenencia",
-     "Leandro Bacuna",
      "Tahith Chong",
-     "Jurgen Locadia",
-     "Sontje Hansen"
+     "Jurgen Locadia"
     ]
    }
   },
