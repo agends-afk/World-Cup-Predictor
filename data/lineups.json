@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-19T23:31:00Z",
+ "fetched_utc": "2026-06-20T01:18:00Z",
  "matches": {
   "32": {
    "team1": {
@@ -414,13 +414,13 @@
     "status": "projected",
     "xi": [
      "Mike Maignan",
-     "Theo Hernandez",
+     "Lucas Digne",
      "Dayot Upamecano",
      "William Saliba",
      "Jules Kounde",
-     "Aurelien Tchouameni",
+     "Manu Kone",
      "Adrien Rabiot",
-     "Desire Doue",
+     "Bradley Barcola",
      "Michael Olise",
      "Ousmane Dembele",
      "Kylian Mbappe"
@@ -453,8 +453,8 @@
      "Kristoffer Ajer",
      "Julian Ryerson",
      "Sander Berge",
-     "Martin Odegaard",
      "Patrick Berg",
+     "Martin Odegaard",
      "Antonio Nusa",
      "Alexander Sorloth",
      "Erling Haaland"
@@ -468,8 +468,8 @@
      "Moussa Niakhate",
      "Kalidou Koulibaly",
      "Krepin Diatta",
-     "Pape Gueye",
      "Idrissa Gueye",
+     "Pape Gueye",
      "Sadio Mane",
      "Lamine Camara",
      "Ismaila Sarr",
@@ -486,8 +486,8 @@
      "Yazan Al-Arab",
      "Mohammad Abualnadi",
      "Mohannad Abu Taha",
-     "Nizar Mahmoud Ahmed Al Rashdan",
      "Noor Al Rawabdeh",
+     "Nizar Mahmoud Ahmed Al Rashdan",
      "Ehsan Haddad",
      "Ali Olwan",
      "Odeh Fakhoury",
@@ -499,12 +499,12 @@
     "xi": [
      "Luca Zidane",
      "Rayan Ait-Nouri",
-     "Ramy Bensebaini",
      "Aissa Mandi",
+     "Ramy Bensebaini",
      "Rafik Belghali",
-     "Nabil Bentaleb",
-     "Hicham Boudaoui",
      "Ramiz Zerrouki",
+     "Hicham Boudaoui",
+     "Nabil Bentaleb",
      "Fares Chaibi",
      "Riyad Mahrez",
      "Amine Gouiri"
@@ -520,8 +520,8 @@
      "Renato Veiga",
      "Ruben Dias",
      "Joao Cancelo",
-     "Joao Neves",
      "Vitinha",
+     "Joao Neves",
      "Pedro Neto",
      "Bruno Fernandes",
      "Francisco Conceicao",
@@ -533,8 +533,8 @@
     "xi": [
      "Utkir Yusupov",
      "Abdulla Abdullaev",
-     "Rustamjon Ashurmatov",
      "Abdukodir Khusanov",
+     "Rustamjon Ashurmatov",
      "Sherzod Nasrullayev",
      "Otabek Shukurov",
      "Akmal Mozgovoy",
@@ -551,8 +551,8 @@
     "xi": [
      "Jordan Pickford",
      "Nico O'Reilly",
-     "John Stones",
      "Ezri Konsa",
+     "John Stones",
      "Reece James",
      "Declan Rice",
      "Elliot Anderson",
@@ -601,8 +601,8 @@
     "xi": [
      "Dominik Livakovic",
      "Josko Gvardiol",
-     "Josip Sutalo",
      "Luka Vuskovic",
+     "Josip Sutalo",
      "Josip Stanisic",
      "Mateo Kovacic",
      "Petar Sucic",
@@ -623,8 +623,8 @@
      "Davinson Sanchez",
      "Daniel Munoz",
      "Gustavo Puerta",
-     "Jhon Arias",
      "Jefferson Lerma",
+     "Jhon Arias",
      "Luis Diaz",
      "James Rodriguez",
      "Luis Suarez"
@@ -687,12 +687,12 @@
     "xi": [
      "Nikola Vasilj",
      "Sead Kolasinac",
-     "Nikola Katic",
      "Stjepan Radeljic",
+     "Nikola Katic",
      "Amar Dedic",
      "Amar Memic",
-     "Benjamin Tahirovic",
      "Ivan Sunjic",
+     "Benjamin Tahirovic",
      "Esmir Bajraktarevic",
      "Ermedin Demirovic",
      "Edin Dzeko"
@@ -707,8 +707,8 @@
      "Boualem Khoukhi",
      "Ayoub Al Oui",
      "Gueye Seydinaissa Laye",
-     "Jassem Gaber",
      "Karim Boudiaf",
+     "Jassem Gaber",
      "Akram Afif",
      "Edmilson Junior",
      "Yusuf Abdurisag"
@@ -721,8 +721,8 @@
     "xi": [
      "Ronwen Hayden Williams",
      "Aubrey Modiba",
-     "Ime Okon",
      "Mbekezeli Mbokazi",
+     "Ime Okon",
      "Khuliso Mudau",
      "Thalente Mbatha",
      "Sphephelo Sithole",
@@ -736,9 +736,9 @@
     "status": "projected",
     "xi": [
      "Kim Seung-gyu",
+     "Kim Min-Jae",
      "Lee Gi-Hyuk",
      "Lee Han-Beom",
-     "Kim Min-Jae",
      "Kim Moon-Hwan",
      "Paik Seung-Ho",
      "Hwang In-beom",
@@ -755,12 +755,12 @@
     "xi": [
      "Matej Kovar",
      "Ladislav Krejci",
-     "Tomas Holes",
      "Robin Hranac",
+     "Tomas Holes",
      "Alexandr Sojka",
      "Tomas Soucek",
-     "Vladimir Darida",
      "Michal Sadilek",
+     "Vladimir Darida",
      "Vladimir Coufal",
      "Adam Hlozek",
      "Patrik Schick"
@@ -771,12 +771,12 @@
     "xi": [
      "Guillermo Ochoa",
      "Mateo Chavez",
-     "Cesar Montes",
      "Edson Alvarez",
+     "Cesar Montes",
      "Israel Reyes",
+     "Gilberto Mora",
      "Alvaro Fidalgo",
      "Obed Vargas",
-     "Gilberto Mora",
      "Orbelin Pineda",
      "Cesar Huerta",
      "Santiago Gimenez"
@@ -789,13 +789,13 @@
     "xi": [
      "Patrick Beach",
      "Jordan Bos",
+     "Harry Souttar",
      "Cameron Burgess",
      "Alessandro Circati",
-     "Harry Souttar",
      "Jacob Italiano",
      "Nestory Irankunda",
-     "Paul Okon",
      "Aiden O'Neill",
+     "Paul Okon",
      "Conor Metcalfe",
      "Mohamed Toure"
     ]
@@ -807,8 +807,8 @@
     "xi": [
      "Matt Freese",
      "Auston Trusty",
-     "Tim Ream",
      "Mark McKenzie",
+     "Tim Ream",
      "Alex Freeman",
      "Malik Tillman",
      "Tyler Adams",
