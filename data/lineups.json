@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-20T01:18:00Z",
+ "fetched_utc": "2026-06-20T02:07:00Z",
  "matches": {
   "32": {
    "team1": {
@@ -105,7 +105,7 @@
   },
   "31": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Ugurcan Cakir",
      "Ferdi Kadioglu",
@@ -121,7 +121,7 @@
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Orlando Gill",
      "Junior Alonso",
