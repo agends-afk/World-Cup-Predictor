@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-21T01:55:22+10:00",
- "generated_aest": "Sun 21 Jun 2026, 1:55am AEST",
+ "generated": "2026-06-21T02:41:56+10:00",
+ "generated_aest": "Sun 21 Jun 2026, 2:41am AEST",
  "data_through": "2026-06-19",
  "sim_runs": 10000,
  "params": {
@@ -5895,14 +5895,18 @@
    "lineup": {
     "team1": {
      "elo": 0.0,
-     "delta_ovr": 0.19,
+     "delta_ovr": 0.09,
      "status": "projected",
-     "xi_mean": 83.1,
+     "xi_mean": 83,
      "baseline_mean": 82.9,
      "coverage": 0.91,
      "missing": [
       {
        "name": "Mikel Merino",
+       "ovr": 85
+      },
+      {
+       "name": "Nico Williams",
        "ovr": 85
       },
       {
@@ -5912,10 +5916,6 @@
       {
        "name": "Ferran Torres",
        "ovr": 80
-      },
-      {
-       "name": "Eric García",
-       "ovr": 78
       }
      ]
     },
@@ -6495,49 +6495,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 2.13,
-    "lam_b": 0.711,
-    "p_win": 0.6904,
-    "p_draw": 0.2094,
-    "p_loss": 0.1002,
+    "lam_a": 2.119,
+    "lam_b": 0.715,
+    "p_win": 0.6872,
+    "p_draw": 0.211,
+    "p_loss": 0.1018,
     "top_scores": [
      {
       "score": "2-0",
-      "p": 0.1324
+      "p": 0.132
      },
      {
       "score": "1-0",
-      "p": 0.1128
+      "p": 0.113
      },
      {
       "score": "1-1",
-      "p": 0.0999
+      "p": 0.1006
      },
      {
       "score": "2-1",
-      "p": 0.0941
+      "p": 0.0944
      },
      {
       "score": "3-0",
-      "p": 0.094
+      "p": 0.0932
      }
     ],
     "outcome_scores": {
      "team1": {
       "score": "2-0",
-      "p": 0.1324
+      "p": 0.132
      },
      "draw": {
       "score": "1-1",
-      "p": 0.0999
+      "p": 0.1006
      },
      "team2": {
       "score": "1-2",
-      "p": 0.0314
+      "p": 0.0318
      }
     },
     "modal_score": "2-0",
-    "modal_p": 0.1324
+    "modal_p": 0.132
    },
    "prediction_base": {
     "lam_a": 2.127,
@@ -6586,12 +6586,12 @@
    },
    "lineup": {
     "team1": {
-     "elo": -5.4,
-     "delta_ovr": -0.72,
+     "elo": -8.2,
+     "delta_ovr": -1.09,
      "status": "projected",
-     "xi_mean": 84.1,
+     "xi_mean": 83.7,
      "baseline_mean": 84.8,
-     "coverage": 0.91,
+     "coverage": 1.0,
      "missing": [
       {
        "name": "Exequiel Palacios",
@@ -12177,5 +12177,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "84da464737c705c0f7ba34dc95c70dfeae532e1e"
+ "content_hash": "fe1cc5b1673caba7e5e8521ffdf22297e3c5cd18"
 }

@@ -1,6 +1,6 @@
 # World Cup 2026: match predictions
 
-Generated Sun 21 Jun 2026, 1:55am AEST. Results included through 2026-06-19. 32 of 104 matches played. 10,000 tournament simulations.
+Generated Sun 21 Jun 2026, 2:41am AEST. Results included through 2026-06-19. 32 of 104 matches played. 10,000 tournament simulations.
 
 Every probability below is a model estimate built only from match results and public squad news, not from betting odds or published predictions. A favourite can be 75% to win while its most likely exact score sits near 12 to 15%; goals spread across many scorelines, so read the two numbers separately.
 
