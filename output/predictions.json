@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-20T22:02:46+10:00",
- "generated_aest": "Sat 20 Jun 2026, 10:02pm AEST",
+ "generated": "2026-06-21T01:55:22+10:00",
+ "generated_aest": "Sun 21 Jun 2026, 1:55am AEST",
  "data_through": "2026-06-19",
  "sim_runs": 10000,
  "params": {
@@ -5426,49 +5426,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.605,
-    "lam_b": 0.944,
-    "p_win": 0.5131,
-    "p_draw": 0.2805,
-    "p_loss": 0.2064,
+    "lam_a": 1.663,
+    "lam_b": 0.911,
+    "p_win": 0.536,
+    "p_draw": 0.2736,
+    "p_loss": 0.1904,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1338
+      "p": 0.1305
      },
      {
       "score": "1-0",
-      "p": 0.1101
+      "p": 0.1118
      },
      {
       "score": "2-0",
-      "p": 0.1007
+      "p": 0.1054
      },
      {
       "score": "2-1",
-      "p": 0.095
+      "p": 0.096
      },
      {
       "score": "0-0",
-      "p": 0.0936
+      "p": 0.0913
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1338
+      "p": 0.1305
      },
      "team1": {
       "score": "1-0",
-      "p": 0.1101
+      "p": 0.1118
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0584
+      "p": 0.0544
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1338
+    "modal_p": 0.1305
    },
    "prediction_base": {
     "lam_a": 1.561,
@@ -5517,10 +5517,10 @@
    },
    "lineup": {
     "team1": {
-     "elo": -10.9,
-     "delta_ovr": -1.45,
-     "status": "projected",
-     "xi_mean": 81.3,
+     "elo": -17.7,
+     "delta_ovr": -1.18,
+     "status": "confirmed",
+     "xi_mean": 81.5,
      "baseline_mean": 82.7,
      "coverage": 1.0,
      "missing": [
@@ -5537,15 +5537,15 @@
        "ovr": 79
       },
       {
-       "name": "Brian Brobbey",
+       "name": "Noa Lang",
        "ovr": 79
       }
      ]
     },
     "team2": {
-     "elo": -25.2,
+     "elo": -50.5,
      "delta_ovr": -3.36,
-     "status": "projected",
+     "status": "confirmed",
      "xi_mean": 73.3,
      "baseline_mean": 76.6,
      "coverage": 1.0,
@@ -12177,5 +12177,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "be69a7e34822d98a1e182696d72ebc194b6f303f"
+ "content_hash": "84da464737c705c0f7ba34dc95c70dfeae532e1e"
 }
