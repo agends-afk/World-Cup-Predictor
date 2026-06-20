@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-20T19:16:38+10:00",
- "generated_aest": "Sat 20 Jun 2026, 7:16pm AEST",
+ "generated": "2026-06-20T22:02:46+10:00",
+ "generated_aest": "Sat 20 Jun 2026, 10:02pm AEST",
  "data_through": "2026-06-19",
  "sim_runs": 10000,
  "params": {
@@ -6913,49 +6913,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 0.986,
-    "lam_b": 1.536,
-    "p_win": 0.227,
-    "p_draw": 0.2881,
-    "p_loss": 0.485,
+    "lam_a": 0.98,
+    "lam_b": 1.545,
+    "p_win": 0.2242,
+    "p_draw": 0.2871,
+    "p_loss": 0.4887,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1374
+      "p": 0.137
      },
      {
       "score": "0-1",
-      "p": 0.1075
+      "p": 0.1079
      },
      {
       "score": "0-0",
-      "p": 0.0961
+      "p": 0.0958
      },
      {
       "score": "0-2",
-      "p": 0.0948
+      "p": 0.0955
      },
      {
       "score": "1-2",
-      "p": 0.0934
+      "p": 0.0937
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1374
+      "p": 0.137
      },
      "team2": {
       "score": "0-1",
-      "p": 0.1075
+      "p": 0.1079
      },
      "team1": {
       "score": "1-0",
-      "p": 0.0633
+      "p": 0.0627
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1374
+    "modal_p": 0.137
    },
    "prediction_base": {
     "lam_a": 0.961,
@@ -7005,20 +7005,24 @@
    "lineup": {
     "team1": null,
     "team2": {
-     "elo": -13.0,
-     "delta_ovr": -1.74,
+     "elo": -10.0,
+     "delta_ovr": -1.34,
      "status": "projected",
-     "xi_mean": 77.9,
+     "xi_mean": 78.3,
      "baseline_mean": 79.6,
      "coverage": 0.91,
      "missing": [
+      {
+       "name": "Andrej Kramarić",
+       "ovr": 81
+      },
       {
        "name": "Mario Pašalić",
        "ovr": 80
       },
       {
-       "name": "Petar Musa",
-       "ovr": 76
+       "name": "Ante Budimir",
+       "ovr": 78
       },
       {
        "name": "Duje Ćaleta-Car",
@@ -12173,5 +12177,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "4c5d5b0d12a7cda5c73193d23c62d2d7554fcaa6"
+ "content_hash": "be69a7e34822d98a1e182696d72ebc194b6f303f"
 }

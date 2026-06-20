@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-20T09:16:00Z",
+ "fetched_utc": "2026-06-20T12:02:00Z",
  "matches": {
   "35": {
    "team1": {
@@ -465,15 +465,15 @@
     "xi": [
      "Dominik Livakovic",
      "Josko Gvardiol",
-     "Luka Vuskovic",
+     "Marin Pongracic",
      "Josip Sutalo",
      "Josip Stanisic",
      "Mateo Kovacic",
-     "Petar Sucic",
      "Luka Modric",
+     "Petar Sucic",
      "Ivan Perisic",
-     "Andrej Kramaric",
-     "Ante Budimir"
+     "Martin Baturina",
+     "Petar Musa"
     ]
    }
   },
@@ -483,8 +483,8 @@
     "xi": [
      "Camilo Vargas",
      "Johan Mojica",
-     "Jhon Lucumi",
      "Davinson Sanchez",
+     "Jhon Lucumi",
      "Daniel Munoz",
      "Gustavo Puerta",
      "Jefferson Lerma",
@@ -533,15 +533,15 @@
     "xi": [
      "Maxime Crepeau",
      "Richie Laryea",
-     "Derek Cornelius",
      "Luc De Fougerolles",
+     "Derek Cornelius",
      "Alistair Johnston",
      "Ali Ahmed",
      "Nathan Saliba",
      "Stephen Eustaquio",
      "Tajon Buchanan",
-     "Cyle Larin",
-     "Jonathan David"
+     "Jonathan David",
+     "Cyle Larin"
     ]
    }
   },
@@ -585,8 +585,8 @@
     "xi": [
      "Angus Gunn",
      "Andrew Robertson",
-     "Jack Hendry",
      "Grant Hanley",
+     "Jack Hendry",
      "Aaron Hickey",
      "John McGinn",
      "Lewis Ferguson",
@@ -619,8 +619,8 @@
     "xi": [
      "Bono",
      "Noussair Mazraoui",
-     "Chadi Riad",
      "Issa Diop",
+     "Chadi Riad",
      "Achraf Hakimi",
      "Neil El Aynaoui",
      "Ayyoub Bouaddi",
@@ -642,8 +642,8 @@
      "Danley Jean Jacques",
      "Jean-Ricner Bellegarde",
      "Louicius Deedson",
-     "Frantzdy Pierrot",
-     "Wilson Isidor"
+     "Wilson Isidor",
+     "Frantzdy Pierrot"
     ]
    }
   },
@@ -668,8 +668,8 @@
     "status": "projected",
     "xi": [
      "Kim Seung-gyu",
-     "Kim Min-Jae",
      "Lee Han-Beom",
+     "Kim Min-Jae",
      "Lee Gi-Hyuk",
      "Kim Moon-Hwan",
      "Paik Seung-Ho",
@@ -725,8 +725,8 @@
      "Gustavo Gomez",
      "Juan Jose Caceres",
      "Matias Galarza",
-     "Damian Bobadilla",
      "Andres Cubas",
+     "Damian Bobadilla",
      "Diego Gomez",
      "Julio Enciso",
      "Isidro Pitta"
@@ -742,8 +742,8 @@
      "Harry Souttar",
      "Jacob Italiano",
      "Nestory Irankunda",
-     "Aiden O'Neill",
      "Paul Okon",
+     "Aiden O'Neill",
      "Conor Metcalfe",
      "Mohamed Toure"
     ]
@@ -755,11 +755,11 @@
     "xi": [
      "Ugurcan Cakir",
      "Ferdi Kadioglu",
-     "Merih Demiral",
      "Abdulkerim Bardakci",
+     "Merih Demiral",
      "Mert Muldur",
-     "Hakan Calhanoglu",
      "Orkun Kokcu",
+     "Hakan Calhanoglu",
      "Kenan Yildiz",
      "Arda Guler",
      "Baris Yilmaz",
@@ -771,11 +771,11 @@
     "xi": [
      "Matt Freese",
      "Auston Trusty",
-     "Mark McKenzie",
      "Tim Ream",
+     "Mark McKenzie",
      "Alex Freeman",
-     "Tyler Adams",
      "Malik Tillman",
+     "Tyler Adams",
      "Sebastian Berhalter",
      "Weston McKennie",
      "Sergino Dest",
