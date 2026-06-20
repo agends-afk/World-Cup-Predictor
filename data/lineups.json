@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-20T16:41:00Z",
+ "fetched_utc": "2026-06-20T19:19:00Z",
  "matches": {
   "35": {
    "team1": {
@@ -78,9 +78,9 @@
      "Montassar Talbi",
      "Omar Rekik",
      "Yan Valery",
-     "Hannibal",
      "Ellyes Skhiri",
      "Rani Khedira",
+     "Hannibal",
      "Anis Ben Slimane",
      "Elias Achouri",
      "Elias Saad"
@@ -112,9 +112,9 @@
      "Aymeric Laporte",
      "Pau Cubarsi",
      "Marcos Llorente",
-     "Rodri",
-     "Pedri",
      "Fabian Ruiz",
+     "Pedri",
+     "Rodri",
      "Dani Olmo",
      "Lamine Yamal",
      "Mikel Oyarzabal"
@@ -248,9 +248,9 @@
      "Lisandro Martinez",
      "Cristian Romero",
      "Nahuel Molina",
+     "Enzo Fernandez",
      "Alexis Mac Allister",
      "Rodrigo De Paul",
-     "Enzo Fernandez",
      "Nicolas Gonzalez",
      "Lionel Messi",
      "Julian Alvarez"
@@ -329,8 +329,8 @@
     "xi": [
      "Edouard Mendy",
      "El Hadji Malick Diouf",
-     "Kalidou Koulibaly",
      "Moussa Niakhate",
+     "Kalidou Koulibaly",
      "Krepin Diatta",
      "Pape Gueye",
      "Idrissa Gueye",
@@ -353,8 +353,8 @@
      "Nizar Mahmoud Ahmed Al Rashdan",
      "Noor Al Rawabdeh",
      "Ehsan Haddad",
-     "Odeh Fakhoury",
      "Ali Olwan",
+     "Odeh Fakhoury",
      "Mousa Tamari"
     ]
    },
@@ -366,9 +366,9 @@
      "Ramy Bensebaini",
      "Aissa Mandi",
      "Rafik Belghali",
-     "Ramiz Zerrouki",
-     "Hicham Boudaoui",
      "Nabil Bentaleb",
+     "Hicham Boudaoui",
+     "Ramiz Zerrouki",
      "Fares Chaibi",
      "Riyad Mahrez",
      "Amine Gouiri"
@@ -384,8 +384,8 @@
      "Renato Veiga",
      "Ruben Dias",
      "Joao Cancelo",
-     "Vitinha",
      "Joao Neves",
+     "Vitinha",
      "Pedro Neto",
      "Bruno Fernandes",
      "Francisco Conceicao",
@@ -415,8 +415,8 @@
     "xi": [
      "Jordan Pickford",
      "Nico O'Reilly",
-     "Ezri Konsa",
      "John Stones",
+     "Ezri Konsa",
      "Reece James",
      "Declan Rice",
      "Elliot Anderson",
@@ -469,8 +469,8 @@
      "Josip Sutalo",
      "Josip Stanisic",
      "Mateo Kovacic",
-     "Luka Modric",
      "Petar Sucic",
+     "Luka Modric",
      "Ivan Perisic",
      "Martin Baturina",
      "Petar Musa"
@@ -487,8 +487,8 @@
      "Davinson Sanchez",
      "Daniel Munoz",
      "Gustavo Puerta",
-     "Jefferson Lerma",
      "Jhon Arias",
+     "Jefferson Lerma",
      "Luis Diaz",
      "James Rodriguez",
      "Luis Suarez"
@@ -551,12 +551,12 @@
     "xi": [
      "Nikola Vasilj",
      "Sead Kolasinac",
-     "Stjepan Radeljic",
      "Nikola Katic",
+     "Stjepan Radeljic",
      "Amar Dedic",
      "Amar Memic",
-     "Ivan Sunjic",
      "Benjamin Tahirovic",
+     "Ivan Sunjic",
      "Esmir Bajraktarevic",
      "Edin Dzeko",
      "Ermedin Demirovic"
@@ -585,8 +585,8 @@
     "xi": [
      "Angus Gunn",
      "Andrew Robertson",
-     "Jack Hendry",
      "Grant Hanley",
+     "Jack Hendry",
      "Aaron Hickey",
      "John McGinn",
      "Lewis Ferguson",
@@ -639,11 +639,11 @@
      "Ricardo Ade",
      "Carlens Arcus",
      "Ruben Providence",
-     "Danley Jean Jacques",
      "Jean-Ricner Bellegarde",
+     "Danley Jean Jacques",
      "Louicius Deedson",
-     "Frantzdy Pierrot",
-     "Wilson Isidor"
+     "Wilson Isidor",
+     "Frantzdy Pierrot"
     ]
    }
   },
@@ -653,8 +653,8 @@
     "xi": [
      "Ronwen Hayden Williams",
      "Aubrey Modiba",
-     "Mbekezeli Mbokazi",
      "Ime Okon",
+     "Mbekezeli Mbokazi",
      "Khuliso Mudau",
      "Thalente Mbatha",
      "Sphephelo Sithole",
@@ -669,8 +669,8 @@
     "xi": [
      "Kim Seung-gyu",
      "Kim Min-Jae",
-     "Lee Han-Beom",
      "Lee Gi-Hyuk",
+     "Lee Han-Beom",
      "Kim Moon-Hwan",
      "Paik Seung-Ho",
      "Hwang In-beom",
@@ -703,8 +703,8 @@
     "xi": [
      "Guillermo Ochoa",
      "Mateo Chavez",
-     "Edson Alvarez",
      "Cesar Montes",
+     "Edson Alvarez",
      "Israel Reyes",
      "Alvaro Fidalgo",
      "Obed Vargas",
@@ -758,8 +758,8 @@
      "Merih Demiral",
      "Abdulkerim Bardakci",
      "Mert Muldur",
-     "Hakan Calhanoglu",
      "Orkun Kokcu",
+     "Hakan Calhanoglu",
      "Kenan Yildiz",
      "Arda Guler",
      "Baris Yilmaz",
@@ -774,8 +774,8 @@
      "Mark McKenzie",
      "Tim Ream",
      "Alex Freeman",
-     "Tyler Adams",
      "Malik Tillman",
+     "Tyler Adams",
      "Sebastian Berhalter",
      "Weston McKennie",
      "Sergino Dest",
