@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-22T00:58:05+10:00",
- "generated_aest": "Mon 22 Jun 2026, 12:58am AEST",
+ "generated": "2026-06-22T01:43:34+10:00",
+ "generated_aest": "Mon 22 Jun 2026, 1:43am AEST",
  "data_through": "2026-06-20",
  "sim_runs": 10000,
  "params": {
@@ -6694,12 +6694,20 @@
     "team1": null,
     "team2": {
      "elo": 0.0,
-     "delta_ovr": 0.61,
+     "delta_ovr": 0.35,
      "status": "projected",
-     "xi_mean": 76.7,
+     "xi_mean": 76.4,
      "baseline_mean": 76.1,
-     "coverage": 0.91,
+     "coverage": 0.82,
      "missing": [
+      {
+       "name": "Nabil Bentaleb",
+       "ovr": 78
+      },
+      {
+       "name": "Hicham Boudaoui",
+       "ovr": 76
+      },
       {
        "name": "Mohamed Amoura",
        "ovr": 75
@@ -6707,10 +6715,6 @@
       {
        "name": "Jaouen Hadjam",
        "ovr": 68
-      },
-      {
-       "name": "Anis Hadj-Moussa",
-       "ovr": 67
       }
      ]
     }
@@ -12368,5 +12372,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "72285fa0ffab4e638a4b00706ecb510757fd30aa"
+ "content_hash": "5be736ecae6c0d1f188ddff12c0d7c41656e3a55"
 }
