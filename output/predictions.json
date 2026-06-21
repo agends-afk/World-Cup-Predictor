@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-22T01:43:34+10:00",
- "generated_aest": "Mon 22 Jun 2026, 1:43am AEST",
+ "generated": "2026-06-22T02:23:02+10:00",
+ "generated_aest": "Mon 22 Jun 2026, 2:23am AEST",
  "data_through": "2026-06-20",
  "sim_runs": 10000,
  "params": {
@@ -7859,16 +7859,12 @@
    "lineup": {
     "team1": {
      "elo": 0.0,
-     "delta_ovr": 0.38,
+     "delta_ovr": 0.17,
      "status": "projected",
-     "xi_mean": 77.1,
+     "xi_mean": 76.9,
      "baseline_mean": 76.7,
-     "coverage": 0.82,
+     "coverage": 0.91,
      "missing": [
-      {
-       "name": "Pavel Šulc",
-       "ovr": 75
-      },
       {
        "name": "Jan Kuchta",
        "ovr": 75
@@ -8440,49 +8436,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.001,
-    "lam_b": 1.513,
-    "p_win": 0.2344,
-    "p_draw": 0.2904,
-    "p_loss": 0.4752,
+    "lam_a": 0.985,
+    "lam_b": 1.537,
+    "p_win": 0.2267,
+    "p_draw": 0.288,
+    "p_loss": 0.4853,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1385
+      "p": 0.1374
      },
      {
       "score": "0-1",
-      "p": 0.1065
+      "p": 0.1076
      },
      {
       "score": "0-0",
-      "p": 0.0969
-     },
-     {
-      "score": "1-2",
-      "p": 0.0927
+      "p": 0.0961
      },
      {
       "score": "0-2",
-      "p": 0.0927
+      "p": 0.0948
+     },
+     {
+      "score": "1-2",
+      "p": 0.0934
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1385
+      "p": 0.1374
      },
      "team2": {
       "score": "0-1",
-      "p": 0.1065
+      "p": 0.1076
      },
      "team1": {
       "score": "1-0",
-      "p": 0.0651
+      "p": 0.0633
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1385
+    "modal_p": 0.1374
    },
    "prediction_base": {
     "lam_a": 0.923,
@@ -8532,10 +8528,10 @@
    "lineup": {
     "team1": null,
     "team2": {
-     "elo": -42.3,
-     "delta_ovr": -5.64,
+     "elo": -34.1,
+     "delta_ovr": -4.55,
      "status": "projected",
-     "xi_mean": 71.4,
+     "xi_mean": 72.5,
      "baseline_mean": 77,
      "coverage": 1.0,
      "missing": [
@@ -8575,49 +8571,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.315,
-    "lam_b": 1.152,
-    "p_win": 0.3869,
-    "p_draw": 0.3045,
-    "p_loss": 0.3086,
+    "lam_a": 1.25,
+    "lam_b": 1.212,
+    "p_win": 0.3561,
+    "p_draw": 0.306,
+    "p_loss": 0.3379,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1452
+      "p": 0.146
      },
      {
       "score": "0-0",
-      "p": 0.1016
+      "p": 0.1021
      },
      {
       "score": "1-0",
-      "p": 0.0949
-     },
-     {
-      "score": "2-1",
-      "p": 0.0845
+      "p": 0.0898
      },
      {
       "score": "0-1",
-      "p": 0.081
+      "p": 0.0866
+     },
+     {
+      "score": "2-1",
+      "p": 0.0807
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1452
+      "p": 0.146
      },
      "team1": {
       "score": "1-0",
-      "p": 0.0949
+      "p": 0.0898
      },
      "team2": {
       "score": "0-1",
-      "p": 0.081
+      "p": 0.0866
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1452
+    "modal_p": 0.146
    },
    "prediction_base": {
     "lam_a": 1.247,
@@ -8665,7 +8661,32 @@
     "modal_p": 0.146
    },
    "lineup": {
-    "team1": null,
+    "team1": {
+     "elo": -26.5,
+     "delta_ovr": -3.54,
+     "status": "projected",
+     "xi_mean": 70.6,
+     "baseline_mean": 74.1,
+     "coverage": 0.82,
+     "missing": [
+      {
+       "name": "Kaku",
+       "ovr": 79
+      },
+      {
+       "name": "Miguel Almirón",
+       "ovr": 78
+      },
+      {
+       "name": "Ramón Sosa",
+       "ovr": 75
+      },
+      {
+       "name": "Gabriel Ávalos",
+       "ovr": 74
+      }
+     ]
+    },
     "team2": {
      "elo": -27.8,
      "delta_ovr": -3.7,
@@ -12372,5 +12393,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "5be736ecae6c0d1f188ddff12c0d7c41656e3a55"
+ "content_hash": "d77da4ce26113cd2aacec9d5b582b2e5fef268e9"
 }

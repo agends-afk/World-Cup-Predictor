@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-21T15:43:00Z",
+ "fetched_utc": "2026-06-21T16:22:00Z",
  "matches": {
   "36": {
    "team1": {
@@ -483,13 +483,13 @@
     "xi": [
      "Nikola Vasilj",
      "Sead Kolasinac",
-     "Stjepan Radeljic",
+     "Dennis Hadzikadunic",
      "Nikola Katic",
      "Amar Dedic",
      "Amar Memic",
      "Benjamin Tahirovic",
      "Ivan Sunjic",
-     "Esmir Bajraktarevic",
+     "Kerim Alajbegovic",
      "Edin Dzeko",
      "Ermedin Demirovic"
     ]
@@ -502,9 +502,9 @@
      "Pedro Miguel",
      "Boualem Khoukhi",
      "Ayoub Al Oui",
+     "Karim Boudiaf",
      "Gueye Seydinaissa Laye",
      "Jassem Gaber",
-     "Karim Boudiaf",
      "Akram Afif",
      "Edmilson Junior",
      "Yusuf Abdurisag"
@@ -574,8 +574,8 @@
      "Danley Jean Jacques",
      "Jean-Ricner Bellegarde",
      "Louicius Deedson",
-     "Wilson Isidor",
-     "Frantzdy Pierrot"
+     "Frantzdy Pierrot",
+     "Wilson Isidor"
     ]
    }
   },
@@ -600,9 +600,9 @@
     "status": "projected",
     "xi": [
      "Kim Seung-gyu",
+     "Kim Min-Jae",
      "Lee Gi-Hyuk",
      "Lee Han-Beom",
-     "Kim Min-Jae",
      "Kim Moon-Hwan",
      "Paik Seung-Ho",
      "Hwang In-beom",
@@ -622,21 +622,21 @@
      "Tomas Holes",
      "Robin Hranac",
      "Alexandr Sojka",
+     "Pavel Sulc",
      "Tomas Soucek",
      "Michal Sadilek",
-     "Vladimir Darida",
      "Vladimir Coufal",
-     "Patrik Schick",
-     "Adam Hlozek"
+     "Adam Hlozek",
+     "Patrik Schick"
     ]
    },
    "team2": {
     "status": "projected",
     "xi": [
-     "Jose Rangel",
+     "Guillermo Ochoa",
      "Mateo Chavez",
-     "Johan Vasquez",
      "Cesar Montes",
+     "Johan Vasquez",
      "Israel Reyes",
      "Edson Alvarez",
      "Alexis Vega",
@@ -755,15 +755,15 @@
     "xi": [
      "Orlando Gill",
      "Junior Alonso",
-     "Gustavo Gomez",
      "Omar Alderete",
+     "Gustavo Gomez",
      "Juan Jose Caceres",
      "Matias Galarza",
      "Damian Bobadilla",
      "Andres Cubas",
      "Diego Gomez",
      "Julio Enciso",
-     "Isidro Pitta"
+     "Antonio Sanabria"
     ]
    },
    "team2": {
@@ -789,8 +789,8 @@
     "xi": [
      "Ugurcan Cakir",
      "Ferdi Kadioglu",
-     "Merih Demiral",
      "Abdulkerim Bardakci",
+     "Merih Demiral",
      "Mert Muldur",
      "Orkun Kokcu",
      "Hakan Calhanoglu",
@@ -805,12 +805,12 @@
     "xi": [
      "Matt Freese",
      "Auston Trusty",
-     "Mark McKenzie",
      "Tim Ream",
+     "Mark McKenzie",
      "Alex Freeman",
      "Malik Tillman",
      "Tyler Adams",
-     "Sebastian Berhalter",
+     "Giovanni Reyna",
      "Weston McKennie",
      "Sergino Dest",
      "Haji Wright"
