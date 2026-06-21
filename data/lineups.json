@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-21T21:18:00Z",
+ "fetched_utc": "2026-06-21T23:51:00Z",
  "matches": {
   "36": {
    "team1": {
@@ -139,7 +139,7 @@
   },
   "40": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Maxime Teremoana Crocombe",
      "Liberato Cacace",
@@ -155,7 +155,7 @@
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Mostafa Shobeir",
      "Ahmed El Fotouh",
