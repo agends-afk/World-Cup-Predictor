@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-21T13:56:59+10:00",
- "generated_aest": "Sun 21 Jun 2026, 1:56pm AEST",
+ "generated": "2026-06-21T15:49:05+10:00",
+ "generated_aest": "Sun 21 Jun 2026, 3:49pm AEST",
  "data_through": "2026-06-20",
  "sim_runs": 10000,
  "params": {
@@ -8008,6 +8008,51 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
+    "lam_a": 1.134,
+    "lam_b": 1.335,
+    "p_win": 0.3001,
+    "p_draw": 0.3036,
+    "p_loss": 0.3963,
+    "top_scores": [
+     {
+      "score": "1-1",
+      "p": 0.1448
+     },
+     {
+      "score": "0-0",
+      "p": 0.1013
+     },
+     {
+      "score": "0-1",
+      "p": 0.0963
+     },
+     {
+      "score": "1-2",
+      "p": 0.0856
+     },
+     {
+      "score": "1-0",
+      "p": 0.0793
+     }
+    ],
+    "outcome_scores": {
+     "draw": {
+      "score": "1-1",
+      "p": 0.1448
+     },
+     "team2": {
+      "score": "0-1",
+      "p": 0.0963
+     },
+     "team1": {
+      "score": "1-0",
+      "p": 0.0793
+     }
+    },
+    "modal_score": "1-1",
+    "modal_p": 0.1448
+   },
+   "prediction_base": {
     "lam_a": 1.089,
     "lam_b": 1.391,
     "p_win": 0.2779,
@@ -8051,6 +8096,31 @@
     },
     "modal_score": "1-1",
     "modal_p": 0.1434
+   },
+   "lineup": {
+    "team1": null,
+    "team2": {
+     "elo": -21.1,
+     "delta_ovr": -2.82,
+     "status": "projected",
+     "xi_mean": 82,
+     "baseline_mean": 84.8,
+     "coverage": 1.0,
+     "missing": [
+      {
+       "name": "Jamal Musiala",
+       "ovr": 87
+      },
+      {
+       "name": "Nico Schlotterbeck",
+       "ovr": 85
+      },
+      {
+       "name": "Maximilian Beier",
+       "ovr": 78
+      }
+     ]
+    }
    }
   },
   {
@@ -8069,6 +8139,51 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
+    "lam_a": 1.86,
+    "lam_b": 0.815,
+    "p_win": 0.6074,
+    "p_draw": 0.2475,
+    "p_loss": 0.1451,
+    "top_scores": [
+     {
+      "score": "2-0",
+      "p": 0.1192
+     },
+     {
+      "score": "1-1",
+      "p": 0.118
+     },
+     {
+      "score": "1-0",
+      "p": 0.1147
+     },
+     {
+      "score": "2-1",
+      "p": 0.0971
+     },
+     {
+      "score": "0-0",
+      "p": 0.0825
+     }
+    ],
+    "outcome_scores": {
+     "team1": {
+      "score": "2-0",
+      "p": 0.1192
+     },
+     "draw": {
+      "score": "1-1",
+      "p": 0.118
+     },
+     "team2": {
+      "score": "0-1",
+      "p": 0.0426
+     }
+    },
+    "modal_score": "2-0",
+    "modal_p": 0.1192
+   },
+   "prediction_base": {
     "lam_a": 1.772,
     "lam_b": 0.855,
     "p_win": 0.5766,
@@ -8112,6 +8227,35 @@
     },
     "modal_score": "1-1",
     "modal_p": 0.1238
+   },
+   "lineup": {
+    "team1": null,
+    "team2": {
+     "elo": -25.2,
+     "delta_ovr": -3.36,
+     "status": "projected",
+     "xi_mean": 73.3,
+     "baseline_mean": 76.6,
+     "coverage": 1.0,
+     "missing": [
+      {
+       "name": "Mattias Svanberg",
+       "ovr": 77
+      },
+      {
+       "name": "Anthony Elanga",
+       "ovr": 76
+      },
+      {
+       "name": "Viktor Johansson",
+       "ovr": 74
+      },
+      {
+       "name": "Carl Starfelt",
+       "ovr": 74
+      }
+     ]
+    }
    }
   },
   {
@@ -8130,49 +8274,123 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 0.719,
-    "lam_b": 2.106,
-    "p_win": 0.1035,
-    "p_draw": 0.2127,
-    "p_loss": 0.6838,
+    "lam_a": 0.677,
+    "lam_b": 2.236,
+    "p_win": 0.0868,
+    "p_draw": 0.1948,
+    "p_loss": 0.7185,
     "top_scores": [
      {
       "score": "0-2",
-      "p": 0.1315
+      "p": 0.1357
      },
      {
       "score": "0-1",
-      "p": 0.1132
-     },
-     {
-      "score": "1-1",
-      "p": 0.1015
-     },
-     {
-      "score": "1-2",
-      "p": 0.0946
+      "p": 0.1107
      },
      {
       "score": "0-3",
-      "p": 0.0923
+      "p": 0.1012
+     },
+     {
+      "score": "1-1",
+      "p": 0.0929
+     },
+     {
+      "score": "1-2",
+      "p": 0.0919
      }
     ],
     "outcome_scores": {
      "team2": {
       "score": "0-2",
-      "p": 0.1315
+      "p": 0.1357
      },
      "draw": {
       "score": "1-1",
-      "p": 0.1015
+      "p": 0.0929
      },
      "team1": {
       "score": "2-1",
-      "p": 0.0323
+      "p": 0.0278
      }
     },
     "modal_score": "0-2",
-    "modal_p": 0.1315
+    "modal_p": 0.1357
+   },
+   "prediction_base": {
+    "lam_a": 0.666,
+    "lam_b": 2.275,
+    "p_win": 0.0823,
+    "p_draw": 0.1896,
+    "p_loss": 0.7281,
+    "top_scores": [
+     {
+      "score": "0-2",
+      "p": 0.1367
+     },
+     {
+      "score": "0-1",
+      "p": 0.1098
+     },
+     {
+      "score": "0-3",
+      "p": 0.1037
+     },
+     {
+      "score": "1-2",
+      "p": 0.091
+     },
+     {
+      "score": "1-1",
+      "p": 0.0904
+     }
+    ],
+    "outcome_scores": {
+     "team2": {
+      "score": "0-2",
+      "p": 0.1367
+     },
+     "draw": {
+      "score": "1-1",
+      "p": 0.0904
+     },
+     "team1": {
+      "score": "2-1",
+      "p": 0.0266
+     }
+    },
+    "modal_score": "0-2",
+    "modal_p": 0.1367
+   },
+   "lineup": {
+    "team1": null,
+    "team2": {
+     "elo": -8.9,
+     "delta_ovr": -1.18,
+     "status": "projected",
+     "xi_mean": 81.5,
+     "baseline_mean": 82.7,
+     "coverage": 1.0,
+     "missing": [
+      {
+       "name": "Nathan Aké",
+       "ovr": 84
+      },
+      {
+       "name": "Teun Koopmeiners",
+       "ovr": 83
+      },
+      {
+       "name": "Mark Flekken",
+       "ovr": 79
+      },
+      {
+       "name": "Noa Lang",
+       "ovr": 79
+      }
+     ]
+    }
    },
    "low_stakes": true
   },
@@ -12125,5 +12343,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "a205bb3891180c25468b80690e1891b5de666200"
+ "content_hash": "b8e86c3ce002e4a038f5d92ee0041f5f537e9dac"
 }

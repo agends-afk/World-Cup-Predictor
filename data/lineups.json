@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-21T03:56:00Z",
+ "fetched_utc": "2026-06-21T05:48:00Z",
  "matches": {
   "35": {
    "team1": {
@@ -715,6 +715,76 @@
     ]
    }
   },
+  "56": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Hernan Galindez",
+     "Willian Pacho",
+     "Alan Franco",
+     "Piero Hincapie",
+     "Jordy Alcivar",
+     "Pervis Estupinan",
+     "John Yeboah",
+     "Moises Caicedo",
+     "Pedro Vite",
+     "Gonzalo Plata",
+     "Enner Valencia"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Manuel Neuer",
+     "Nathaniel Brown",
+     "Antonio Rudiger",
+     "Jonathan Tah",
+     "Joshua Kimmich",
+     "Felix Nmecha",
+     "Aleksandar Pavlovic",
+     "Florian Wirtz",
+     "Deniz Undav",
+     "Leroy Sane",
+     "Kai Havertz"
+    ]
+   }
+  },
+  "58": {
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Bart Verbruggen",
+     "Micky van de Ven",
+     "Jan Paul van Hecke",
+     "Virgil van Dijk",
+     "Denzel Dumfries",
+     "Frenkie de Jong",
+     "Tijjani Reijnders",
+     "Ryan Gravenberch",
+     "Cody Gakpo",
+     "Donyell Malen",
+     "Brian Brobbey"
+    ]
+   }
+  },
+  "57": {
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Kristoffer Nordfeldt",
+     "Victor Lindelof",
+     "Isak Hien",
+     "Gustaf Lagerbielke",
+     "Gabriel Gudmundsson",
+     "Jesper Karlstrom",
+     "Yasin Ayari",
+     "Alexander Bernhardsson",
+     "Benjamin Nygren",
+     "Alexander Isak",
+     "Viktor Gyokeres"
+    ]
+   }
+  },
   "60": {
    "team1": {
     "status": "projected",
@@ -728,8 +798,8 @@
      "Damian Bobadilla",
      "Andres Cubas",
      "Diego Gomez",
-     "Julio Enciso",
-     "Isidro Pitta"
+     "Isidro Pitta",
+     "Julio Enciso"
     ]
    },
    "team2": {
@@ -755,11 +825,11 @@
     "xi": [
      "Ugurcan Cakir",
      "Ferdi Kadioglu",
-     "Merih Demiral",
      "Abdulkerim Bardakci",
+     "Merih Demiral",
      "Mert Muldur",
-     "Hakan Calhanoglu",
      "Orkun Kokcu",
+     "Hakan Calhanoglu",
      "Kenan Yildiz",
      "Arda Guler",
      "Baris Yilmaz",
@@ -771,8 +841,8 @@
     "xi": [
      "Matt Freese",
      "Auston Trusty",
-     "Mark McKenzie",
      "Tim Ream",
+     "Mark McKenzie",
      "Alex Freeman",
      "Malik Tillman",
      "Tyler Adams",
