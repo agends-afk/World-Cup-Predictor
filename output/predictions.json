@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-21T12:30:48+10:00",
- "generated_aest": "Sun 21 Jun 2026, 12:30pm AEST",
+ "generated": "2026-06-21T13:56:59+10:00",
+ "generated_aest": "Sun 21 Jun 2026, 1:56pm AEST",
  "data_through": "2026-06-20",
  "sim_runs": 10000,
  "params": {
@@ -5536,49 +5536,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 0.7,
-    "lam_b": 2.163,
-    "p_win": 0.0959,
-    "p_draw": 0.2049,
-    "p_loss": 0.6992,
+    "lam_a": 0.689,
+    "lam_b": 2.197,
+    "p_win": 0.0915,
+    "p_draw": 0.2001,
+    "p_loss": 0.7084,
     "top_scores": [
      {
       "score": "0-2",
-      "p": 0.1335
+      "p": 0.1346
      },
      {
       "score": "0-1",
-      "p": 0.1122
-     },
-     {
-      "score": "1-1",
-      "p": 0.0977
+      "p": 0.1115
      },
      {
       "score": "0-3",
-      "p": 0.0962
+      "p": 0.0986
+     },
+     {
+      "score": "1-1",
+      "p": 0.0954
      },
      {
       "score": "1-2",
-      "p": 0.0935
+      "p": 0.0928
      }
     ],
     "outcome_scores": {
      "team2": {
       "score": "0-2",
-      "p": 0.1335
+      "p": 0.1346
      },
      "draw": {
       "score": "1-1",
-      "p": 0.0977
+      "p": 0.0954
      },
      "team1": {
       "score": "2-1",
-      "p": 0.0303
+      "p": 0.0291
      }
     },
     "modal_score": "0-2",
-    "modal_p": 0.1335
+    "modal_p": 0.1346
    },
    "prediction_base": {
     "lam_a": 0.679,
@@ -5627,16 +5627,16 @@
    },
    "lineup": {
     "team1": {
-     "elo": 0.0,
-     "delta_ovr": 0.2,
-     "status": "projected",
-     "xi_mean": 71.1,
+     "elo": -15.1,
+     "delta_ovr": -1.01,
+     "status": "confirmed",
+     "xi_mean": 69.9,
      "baseline_mean": 70.9,
-     "coverage": 0.82,
+     "coverage": 0.91,
      "missing": [
       {
-       "name": "Dylan Bronn",
-       "ovr": 70
+       "name": "Elias Achouri",
+       "ovr": 73
       },
       {
        "name": "Mortadha Ben Ouanes",
@@ -5649,10 +5649,10 @@
      ]
     },
     "team2": {
-     "elo": -16.4,
-     "delta_ovr": -2.18,
-     "status": "projected",
-     "xi_mean": 74.8,
+     "elo": -23.2,
+     "delta_ovr": -1.55,
+     "status": "confirmed",
+     "xi_mean": 75.5,
      "baseline_mean": 77,
      "coverage": 1.0,
      "missing": [
@@ -5661,16 +5661,12 @@
        "ovr": 81
       },
       {
-       "name": "Takehiro Tomiyasu",
-       "ovr": 78
-      },
-      {
        "name": "Yukinari Sugawara",
        "ovr": 77
       },
       {
-       "name": "Ko Itakura",
-       "ovr": 76
+       "name": "Daizen Maeda",
+       "ovr": 74
       }
      ]
     }
@@ -12129,5 +12125,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "a6424af7a5dc7bae8355c95da7919aedeefa5b44"
+ "content_hash": "a205bb3891180c25468b80690e1891b5de666200"
 }

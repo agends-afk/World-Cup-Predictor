@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-21T02:30:00Z",
+ "fetched_utc": "2026-06-21T03:56:00Z",
  "matches": {
   "35": {
    "team1": {
@@ -71,34 +71,34 @@
   },
   "36": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Aymen Dahmen",
-     "Ali El Abdi",
      "Montassar Talbi",
      "Omar Rekik",
-     "Yan Valery",
-     "Ellyes Skhiri",
-     "Rani Khedira",
+     "Dylan Bronn",
+     "Ali El Abdi",
      "Hannibal",
+     "Ellyes Skhiri",
+     "Yan Valery",
      "Anis Ben Slimane",
-     "Elias Achouri",
+     "Sebastian Tounekti",
      "Elias Saad"
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Zion Suzuki",
      "Hiroki Ito",
-     "Shogo Taniguchi",
-     "Tsuyoshi Watanabe",
+     "Takehiro Tomiyasu",
+     "Ko Itakura",
      "Keito Nakamura",
      "Kaishu Sano",
      "Daichi Kamada",
      "Ritsu Doan",
      "Junya Ito",
-     "Daizen Maeda",
+     "Ao Tanaka",
      "Ayase Ueda"
     ]
    }
@@ -112,9 +112,9 @@
      "Aymeric Laporte",
      "Pau Cubarsi",
      "Marcos Llorente",
-     "Fabian Ruiz",
      "Pedri",
      "Rodri",
+     "Fabian Ruiz",
      "Dani Olmo",
      "Lamine Yamal",
      "Mikel Oyarzabal"

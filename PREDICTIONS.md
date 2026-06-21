@@ -1,6 +1,6 @@
 # World Cup 2026: match predictions
 
-Generated Sun 21 Jun 2026, 12:30pm AEST. Results included through 2026-06-20. 35 of 104 matches played. 10,000 tournament simulations.
+Generated Sun 21 Jun 2026, 1:56pm AEST. Results included through 2026-06-20. 35 of 104 matches played. 10,000 tournament simulations.
 
 Every probability below is a model estimate built only from match results and public squad news, not from betting odds or published predictions. A favourite can be 75% to win while its most likely exact score sits near 12 to 15%; goals spread across many scorelines, so read the two numbers separately.
 
@@ -178,7 +178,7 @@ A read-only comparison of the model's own rating order against the FIFA/Coca-Col
 - M11, Sun 14 Jun, Arlington: Netherlands v Japan. **Played: Netherlands 2-2 Japan.** Model said Japan to win 39% (draw 30%, Netherlands win 31%); most likely Japan 1-0 (9%); result miss, score miss
 - M12, Sun 14 Jun, Guadalupe: Sweden v Tunisia. **Played: Sweden 5-1 Tunisia.** Model said Tunisia to win 37% (draw 31%, Sweden win 32%); most likely Tunisia 1-0 (9%); result miss, score miss
 - M35, Sat 20 Jun, Houston: Netherlands v Sweden. **Played: Netherlands 5-1 Sweden.** Model said Netherlands to win 54% (draw 27%, Sweden win 19%); most likely Netherlands 1-0 (11%); result hit, score miss
-- M36, Sat 20 Jun, Guadalupe: Tunisia v Japan. **Japan to win 70%** (draw 20%, Tunisia win 10%); most likely Japan 2-0 (13%)
+- M36, Sat 20 Jun, Guadalupe: Tunisia v Japan. **Japan to win 71%** (draw 20%, Tunisia win 9%); most likely Japan 2-0 (13%)
 - M57, Thu 25 Jun, Arlington: Japan v Sweden. **Japan to win 58%** (draw 26%, Sweden win 16%); most likely Japan 1-0 (11%)
 - M58, Thu 25 Jun, Kansas City: Tunisia v Netherlands. **Netherlands to win 68%** (draw 21%, Tunisia win 10%); most likely Netherlands 2-0 (13%) *(low stakes for a settled side)*
 
