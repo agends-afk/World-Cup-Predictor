@@ -1,6 +1,6 @@
 # World Cup 2026: match predictions
 
-Generated Sun 21 Jun 2026, 11:08pm AEST. Results included through 2026-06-20. 36 of 104 matches played. 10,000 tournament simulations.
+Generated Mon 22 Jun 2026, 12:58am AEST. Results included through 2026-06-20. 36 of 104 matches played. 10,000 tournament simulations.
 
 Every probability below is a model estimate built only from match results and public squad news, not from betting odds or published predictions. A favourite can be 75% to win while its most likely exact score sits near 12 to 15%; goals spread across many scorelines, so read the two numbers separately.
 
@@ -179,7 +179,7 @@ A read-only comparison of the model's own rating order against the FIFA/Coca-Col
 - M12, Sun 14 Jun, Guadalupe: Sweden v Tunisia. **Played: Sweden 5-1 Tunisia.** Model said Tunisia to win 37% (draw 31%, Sweden win 32%); most likely Tunisia 1-0 (9%); result miss, score miss
 - M35, Sat 20 Jun, Houston: Netherlands v Sweden. **Played: Netherlands 5-1 Sweden.** Model said Netherlands to win 54% (draw 27%, Sweden win 19%); most likely Netherlands 1-0 (11%); result hit, score miss
 - M36, Sat 20 Jun, Guadalupe: Tunisia v Japan. **Played: Tunisia 0-4 Japan.** Model said Japan to win 71% (draw 20%, Tunisia win 9%); most likely Japan 2-0 (13%); result hit, score miss
-- M57, Thu 25 Jun, Arlington: Japan v Sweden. **Japan to win 58%** (draw 26%, Sweden win 16%); most likely Japan 2-0 (11%) *(low stakes for a settled side)*
+- M57, Thu 25 Jun, Arlington: Japan v Sweden. **Japan to win 61%** (draw 24%, Sweden win 14%); most likely Japan 2-0 (12%) *(low stakes for a settled side)*
 - M58, Thu 25 Jun, Kansas City: Tunisia v Netherlands. **Netherlands to win 74%** (draw 18%, Tunisia win 8%); most likely Netherlands 2-0 (14%) *(low stakes for a settled side)*
 
 ### Group G
@@ -225,7 +225,7 @@ A read-only comparison of the model's own rating order against the FIFA/Coca-Col
 
 - M17, Tue 16 Jun, East Rutherford: France v Senegal. **Played: France 3-1 Senegal.** Model said France to win 60% (draw 25%, Senegal win 15%); most likely France 2-0 (12%); result hit, score miss
 - M18, Tue 16 Jun, Foxborough: Iraq v Norway. **Played: Iraq 1-4 Norway.** Model said Norway to win 60% (draw 25%, Iraq win 15%); most likely Norway 2-0 (12%); result hit, score miss
-- M41, Mon 22 Jun, East Rutherford: Norway v Senegal. **Norway to win 47%** (draw 29%, Senegal win 24%); most likely Norway 1-0 (11%)
+- M41, Mon 22 Jun, East Rutherford: Norway v Senegal. **Norway to win 48%** (draw 29%, Senegal win 23%); most likely Norway 1-0 (11%)
 - M42, Mon 22 Jun, Philadelphia: France v Iraq. **France to win 83%** (draw 13%, Iraq win 4%); most likely France 2-0 (14%)
 - M61, Fri 26 Jun, Foxborough: Norway v France. **France to win 50%** (draw 28%, Norway win 21%); most likely France 1-0 (11%)
 - M62, Fri 26 Jun, Toronto: Senegal v Iraq. **Senegal to win 56%** (draw 27%, Iraq win 17%); most likely Senegal 1-0 (11%)

@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-21T13:07:00Z",
+ "fetched_utc": "2026-06-21T14:57:00Z",
  "matches": {
   "36": {
    "team1": {
@@ -37,34 +37,34 @@
   },
   "38": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Unai Simon",
      "Marc Cucurella",
      "Aymeric Laporte",
      "Pau Cubarsi",
-     "Marcos Llorente",
-     "Rodri",
-     "Fabian Ruiz",
+     "Pedro Porro",
      "Pedri",
+     "Rodri",
+     "Alex Baena",
      "Dani Olmo",
      "Lamine Yamal",
      "Mikel Oyarzabal"
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Mohammed Al-Owais",
      "Moteb Al Harbi",
-     "Abdulelah Al-Amri",
+     "Ali Lajami",
      "Hassan Al Tambakti",
+     "Abdulelah Al-Amri",
      "Saud Abdulhamid",
      "Salem Al-Dawsari",
-     "Mohamed Kanno",
      "Abdullah Al-Khaibari",
-     "Abu Al Shamat",
      "Musab Al-Juwayr",
+     "Nasser Al Dawsari",
      "Firas Al Buraikan"
     ]
    }
@@ -91,12 +91,12 @@
     "xi": [
      "Alireza Beiranvand",
      "Milad Mohammadi",
-     "Ali Nemati",
      "Shoja Khalilzadeh",
+     "Ali Nemati",
      "Ramin Rezaeian",
      "Aria Yousefi",
-     "Saeid Ezatolahi",
      "Saman Ghoddos",
+     "Saeid Ezatolahi",
      "Mohammad Mohebi",
      "Shahriyar Moghanlou",
      "Mehdi Taremi"
@@ -109,12 +109,12 @@
     "xi": [
      "Fernando Muslera",
      "Juan Sanabria",
-     "Sebastian Caceres",
      "Mathias Olivera",
+     "Sebastian Caceres",
      "Guillermo Varela",
-     "Rodrigo Bentancur",
      "Federico Valverde",
      "Nicolas De La Cruz",
+     "Rodrigo Bentancur",
      "Maxi Araujo",
      "Agustin Canobbio",
      "Federico Vinas"
@@ -143,8 +143,8 @@
     "xi": [
      "Maxime Teremoana Crocombe",
      "Liberato Cacace",
-     "Finn Surman",
      "Michael Boxall",
+     "Finn Surman",
      "Tim Payne",
      "Marko Stamenic",
      "Joe Bell",
@@ -177,8 +177,8 @@
     "xi": [
      "Emiliano Martinez",
      "Facundo Medina",
-     "Cristian Romero",
      "Lisandro Martinez",
+     "Cristian Romero",
      "Nahuel Molina",
      "Enzo Fernandez",
      "Alexis Mac Allister",
@@ -193,15 +193,15 @@
     "xi": [
      "Alexander Schlager",
      "Phillipp Mwene",
-     "David Alaba",
      "Philipp Lienhart",
+     "David Alaba",
+     "Kevin Danso",
      "Konrad Laimer",
      "Xaver Schlager",
      "Nicolas Seiwald",
      "Marcel Sabitzer",
-     "Michael Gregoritsch",
-     "Romano Schmid",
-     "Marko Arnautovic"
+     "Marko Arnautovic",
+     "Romano Schmid"
     ]
    }
   },
@@ -214,8 +214,8 @@
      "Dayot Upamecano",
      "William Saliba",
      "Jules Kounde",
-     "Manu Kone",
      "Adrien Rabiot",
+     "Manu Kone",
      "Bradley Barcola",
      "Michael Olise",
      "Ousmane Dembele",
@@ -232,7 +232,7 @@
      "Hussein Ali",
      "Ahmed Qasem",
      "Amir Al-Ammari",
-     "Zaid Ismael",
+     "Zidane Aamar Iqbal",
      "Ibrahim Bayesh",
      "Ali Al Hamadi",
      "Aymen Hussein"
@@ -248,9 +248,9 @@
      "Torbjorn Heggem",
      "Kristoffer Ajer",
      "Julian Ryerson",
-     "Martin Odegaard",
      "Sander Berge",
-     "Patrick Berg",
+     "Fredrik Aursnes",
+     "Martin Odegaard",
      "Antonio Nusa",
      "Alexander Sorloth",
      "Erling Haaland"
@@ -264,8 +264,8 @@
      "Moussa Niakhate",
      "Kalidou Koulibaly",
      "Krepin Diatta",
-     "Idrissa Gueye",
      "Pape Gueye",
+     "Idrissa Gueye",
      "Sadio Mane",
      "Lamine Camara",
      "Ismaila Sarr",
@@ -278,12 +278,12 @@
     "status": "projected",
     "xi": [
      "Yazeed Mo'ien Hasan Abulaila",
+     "Abdallah Mousa Musallam Nasib",
      "Yazan Al-Arab",
      "Mohammad Abualnadi",
-     "Abdallah Mousa Musallam Nasib",
      "Mohannad Abu Taha",
-     "Nizar Mahmoud Ahmed Al Rashdan",
      "Noor Al Rawabdeh",
+     "Nizar Mahmoud Ahmed Al Rashdan",
      "Ehsan Haddad",
      "Ali Olwan",
      "Odeh Fakhoury",
@@ -329,8 +329,8 @@
     "xi": [
      "Utkir Yusupov",
      "Abdulla Abdullaev",
-     "Rustamjon Ashurmatov",
      "Abdukodir Khusanov",
+     "Rustamjon Ashurmatov",
      "Sherzod Nasrullayev",
      "Otabek Shukurov",
      "Akmal Mozgovoy",
@@ -363,12 +363,12 @@
     "xi": [
      "Benjamin Asare",
      "Gideon Mensah",
-     "Jerome Opoku",
      "Jonas Adjetey",
+     "Jerome Opoku",
      "Marvin Senaya",
+     "Caleb Yirenkyi",
      "Kamaldeen Sulemana",
      "Thomas Partey",
-     "Caleb Yirenkyi",
      "Antoine Semenyo",
      "Ernest Nuamah",
      "Jordan Ayew"
@@ -397,7 +397,7 @@
     "xi": [
      "Dominik Livakovic",
      "Josko Gvardiol",
-     "Marin Pongracic",
+     "Duje Caleta-Car",
      "Josip Sutalo",
      "Josip Stanisic",
      "Mateo Kovacic",
@@ -419,8 +419,8 @@
      "Davinson Sanchez",
      "Daniel Munoz",
      "Gustavo Puerta",
-     "Jhon Arias",
      "Jefferson Lerma",
+     "Jhon Arias",
      "Luis Diaz",
      "James Rodriguez",
      "Luis Suarez"
@@ -436,8 +436,8 @@
      "Steve Kapuadi",
      "Aaron Wan-Bissaka",
      "Samuel Moutoussamy",
-     "Ngal'ayel Mukau",
      "Edo Kayembe",
+     "Ngal'ayel Mukau",
      "Cedric Bakambu",
      "Yoane Wissa"
     ]
@@ -490,8 +490,8 @@
      "Ivan Sunjic",
      "Benjamin Tahirovic",
      "Esmir Bajraktarevic",
-     "Edin Dzeko",
-     "Ermedin Demirovic"
+     "Ermedin Demirovic",
+     "Edin Dzeko"
     ]
    },
    "team2": {
@@ -503,8 +503,8 @@
      "Boualem Khoukhi",
      "Ayoub Al Oui",
      "Gueye Seydinaissa Laye",
-     "Jassem Gaber",
      "Karim Boudiaf",
+     "Jassem Gaber",
      "Akram Afif",
      "Edmilson Junior",
      "Yusuf Abdurisag"
@@ -571,11 +571,11 @@
      "Ricardo Ade",
      "Carlens Arcus",
      "Ruben Providence",
-     "Jean-Ricner Bellegarde",
      "Danley Jean Jacques",
+     "Jean-Ricner Bellegarde",
      "Louicius Deedson",
-     "Wilson Isidor",
-     "Frantzdy Pierrot"
+     "Frantzdy Pierrot",
+     "Wilson Isidor"
     ]
    }
   },
@@ -585,8 +585,8 @@
     "xi": [
      "Ronwen Hayden Williams",
      "Aubrey Modiba",
-     "Mbekezeli Mbokazi",
      "Ime Okon",
+     "Mbekezeli Mbokazi",
      "Khuliso Mudau",
      "Thalente Mbatha",
      "Sphephelo Sithole",
@@ -601,8 +601,8 @@
     "xi": [
      "Kim Seung-gyu",
      "Kim Min-Jae",
-     "Lee Gi-Hyuk",
      "Lee Han-Beom",
+     "Lee Gi-Hyuk",
      "Kim Moon-Hwan",
      "Paik Seung-Ho",
      "Hwang In-beom",
@@ -619,15 +619,15 @@
     "xi": [
      "Matej Kovar",
      "Ladislav Krejci",
-     "Robin Hranac",
      "Tomas Holes",
+     "Robin Hranac",
      "Alexandr Sojka",
      "Tomas Soucek",
      "Michal Sadilek",
      "Vladimir Darida",
      "Vladimir Coufal",
-     "Adam Hlozek",
-     "Patrik Schick"
+     "Patrik Schick",
+     "Adam Hlozek"
     ]
    },
    "team2": {
@@ -638,9 +638,9 @@
      "Edson Alvarez",
      "Cesar Montes",
      "Israel Reyes",
-     "Gilberto Mora",
      "Alvaro Fidalgo",
      "Obed Vargas",
+     "Gilberto Mora",
      "Orbelin Pineda",
      "Cesar Huerta",
      "Santiago Gimenez"
@@ -669,8 +669,8 @@
     "xi": [
      "Manuel Neuer",
      "Nathaniel Brown",
-     "Jonathan Tah",
      "Antonio Rudiger",
+     "Jonathan Tah",
      "Joshua Kimmich",
      "Felix Nmecha",
      "Aleksandar Pavlovic",
@@ -682,6 +682,22 @@
    }
   },
   "58": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Abdelmouhib Chamakh",
+     "Montassar Talbi",
+     "Omar Rekik",
+     "Dylan Bronn",
+     "Ali El Abdi",
+     "Ellyes Skhiri",
+     "Rani Khedira",
+     "Yan Valery",
+     "Elias Saad",
+     "Hannibal",
+     "Firas Chaouat"
+    ]
+   },
    "team2": {
     "status": "projected",
     "xi": [
@@ -700,20 +716,36 @@
    }
   },
   "57": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Zion Suzuki",
+     "Hiroki Ito",
+     "Takehiro Tomiyasu",
+     "Ko Itakura",
+     "Keito Nakamura",
+     "Ao Tanaka",
+     "Kaishu Sano",
+     "Ritsu Doan",
+     "Junya Ito",
+     "Daichi Kamada",
+     "Ayase Ueda"
+    ]
+   },
    "team2": {
     "status": "projected",
     "xi": [
      "Kristoffer Nordfeldt",
-     "Victor Lindelof",
-     "Isak Hien",
      "Gustaf Lagerbielke",
+     "Isak Hien",
+     "Victor Lindelof",
      "Gabriel Gudmundsson",
-     "Jesper Karlstrom",
      "Yasin Ayari",
+     "Jesper Karlstrom",
      "Alexander Bernhardsson",
      "Benjamin Nygren",
-     "Alexander Isak",
-     "Viktor Gyokeres"
+     "Viktor Gyokeres",
+     "Alexander Isak"
     ]
    }
   },
@@ -739,9 +771,9 @@
     "xi": [
      "Patrick Beach",
      "Jordan Bos",
+     "Harry Souttar",
      "Cameron Burgess",
      "Alessandro Circati",
-     "Harry Souttar",
      "Jacob Italiano",
      "Nestory Irankunda",
      "Aiden O'Neill",
@@ -757,11 +789,11 @@
     "xi": [
      "Ugurcan Cakir",
      "Ferdi Kadioglu",
-     "Merih Demiral",
      "Abdulkerim Bardakci",
+     "Merih Demiral",
      "Mert Muldur",
-     "Hakan Calhanoglu",
      "Orkun Kokcu",
+     "Hakan Calhanoglu",
      "Kenan Yildiz",
      "Arda Guler",
      "Baris Yilmaz",
@@ -776,8 +808,8 @@
      "Mark McKenzie",
      "Tim Ream",
      "Alex Freeman",
-     "Tyler Adams",
      "Malik Tillman",
+     "Tyler Adams",
      "Sebastian Berhalter",
      "Weston McKennie",
      "Sergino Dest",
