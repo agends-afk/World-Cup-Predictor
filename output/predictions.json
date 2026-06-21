@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-22T02:23:02+10:00",
- "generated_aest": "Mon 22 Jun 2026, 2:23am AEST",
+ "generated": "2026-06-22T03:55:00+10:00",
+ "generated_aest": "Mon 22 Jun 2026, 3:55am AEST",
  "data_through": "2026-06-20",
  "sim_runs": 10000,
  "params": {
@@ -5892,49 +5892,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.401,
-    "lam_b": 1.081,
-    "p_win": 0.426,
-    "p_draw": 0.2999,
-    "p_loss": 0.2741,
+    "lam_a": 1.362,
+    "lam_b": 1.112,
+    "p_win": 0.4087,
+    "p_draw": 0.3023,
+    "p_loss": 0.2891,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.143
-     },
-     {
-      "score": "1-0",
-      "p": 0.1006
+      "p": 0.1442
      },
      {
       "score": "0-0",
-      "p": 0.1
+      "p": 0.1008
+     },
+     {
+      "score": "1-0",
+      "p": 0.0982
      },
      {
       "score": "2-1",
-      "p": 0.0886
+      "p": 0.0869
      },
      {
       "score": "2-0",
-      "p": 0.082
+      "p": 0.0782
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.143
+      "p": 0.1442
      },
      "team1": {
       "score": "1-0",
-      "p": 0.1006
+      "p": 0.0982
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0739
+      "p": 0.0771
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.143
+    "modal_p": 0.1442
    },
    "prediction_base": {
     "lam_a": 1.447,
@@ -5983,17 +5983,13 @@
    },
    "lineup": {
     "team1": {
-     "elo": -17.0,
-     "delta_ovr": -2.27,
-     "status": "projected",
-     "xi_mean": 79.1,
+     "elo": -31.4,
+     "delta_ovr": -2.09,
+     "status": "confirmed",
+     "xi_mean": 79.3,
      "baseline_mean": 81.4,
      "coverage": 1.0,
      "missing": [
-      {
-       "name": "Romelu Lukaku",
-       "ovr": 82
-      },
       {
        "name": "Axel Witsel",
        "ovr": 80
@@ -6005,6 +6001,10 @@
       {
        "name": "Jérémy Doku",
        "ovr": 80
+      },
+      {
+       "name": "Timothy Castagne",
+       "ovr": 77
       }
      ]
     },
@@ -12393,5 +12393,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "d77da4ce26113cd2aacec9d5b582b2e5fef268e9"
+ "content_hash": "c321638a9fed8ff2938b2f7714db9f34d54e5272"
 }
