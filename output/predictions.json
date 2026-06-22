@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-23T05:17:38+10:00",
- "generated_aest": "Tue 23 Jun 2026, 5:17am AEST",
+ "generated": "2026-06-23T06:19:37+10:00",
+ "generated_aest": "Tue 23 Jun 2026, 6:19am AEST",
  "data_through": "2026-06-22",
  "sim_runs": 10000,
  "params": {
@@ -6420,49 +6420,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 2.761,
-    "lam_b": 0.549,
-    "p_win": 0.826,
-    "p_draw": 0.1311,
-    "p_loss": 0.0429,
+    "lam_a": 2.68,
+    "lam_b": 0.565,
+    "p_win": 0.8125,
+    "p_draw": 0.1398,
+    "p_loss": 0.0478,
     "top_scores": [
      {
       "score": "2-0",
-      "p": 0.1393
+      "p": 0.1399
      },
      {
       "score": "3-0",
-      "p": 0.1282
+      "p": 0.125
      },
      {
       "score": "1-0",
-      "p": 0.0937
+      "p": 0.0967
      },
      {
       "score": "4-0",
-      "p": 0.0885
+      "p": 0.0838
      },
      {
       "score": "2-1",
-      "p": 0.0764
+      "p": 0.0791
      }
     ],
     "outcome_scores": {
      "team1": {
       "score": "2-0",
-      "p": 0.1393
+      "p": 0.1399
      },
      "draw": {
       "score": "1-1",
-      "p": 0.0625
+      "p": 0.0667
      },
      "team2": {
       "score": "1-2",
-      "p": 0.0152
+      "p": 0.0167
      }
     },
     "modal_score": "2-0",
-    "modal_p": 0.1393
+    "modal_p": 0.1399
    },
    "prediction_base": {
     "lam_a": 2.843,
@@ -6511,9 +6511,9 @@
    },
    "lineup": {
     "team1": {
-     "elo": -15.3,
+     "elo": -30.7,
      "delta_ovr": -2.05,
-     "status": "projected",
+     "status": "confirmed",
      "xi_mean": 83.5,
      "baseline_mean": 85.5,
      "coverage": 0.91,
@@ -8554,49 +8554,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 0.985,
-    "lam_b": 1.537,
-    "p_win": 0.2267,
-    "p_draw": 0.288,
-    "p_loss": 0.4853,
+    "lam_a": 1.005,
+    "lam_b": 1.507,
+    "p_win": 0.2363,
+    "p_draw": 0.291,
+    "p_loss": 0.4727,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1374
+      "p": 0.1388
      },
      {
       "score": "0-1",
-      "p": 0.1076
+      "p": 0.1063
      },
      {
       "score": "0-0",
-      "p": 0.0961
-     },
-     {
-      "score": "0-2",
-      "p": 0.0948
+      "p": 0.097
      },
      {
       "score": "1-2",
-      "p": 0.0934
+      "p": 0.0926
+     },
+     {
+      "score": "0-2",
+      "p": 0.0921
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1374
+      "p": 0.1388
      },
      "team2": {
       "score": "0-1",
-      "p": 0.1076
+      "p": 0.1063
      },
      "team1": {
       "score": "1-0",
-      "p": 0.0633
+      "p": 0.0655
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1374
+    "modal_p": 0.1388
    },
    "prediction_base": {
     "lam_a": 0.923,
@@ -8646,10 +8646,10 @@
    "lineup": {
     "team1": null,
     "team2": {
-     "elo": -34.1,
-     "delta_ovr": -4.55,
+     "elo": -44.3,
+     "delta_ovr": -5.91,
      "status": "projected",
-     "xi_mean": 72.5,
+     "xi_mean": 71.1,
      "baseline_mean": 77,
      "coverage": 1.0,
      "missing": [
@@ -8658,8 +8658,8 @@
        "ovr": 83
       },
       {
-       "name": "Antonee Robinson",
-       "ovr": 79
+       "name": "Tyler Adams",
+       "ovr": 77
       },
       {
        "name": "Folarin Balogun",
@@ -12712,5 +12712,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "7cdf269d39318a3ffab3c9664574ac2ab922552b"
+ "content_hash": "cfa639b72c7992228f77a68548171f1527b61d8d"
 }

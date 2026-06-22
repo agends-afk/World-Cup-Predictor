@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-22T19:17:00Z",
+ "fetched_utc": "2026-06-22T20:19:00Z",
  "matches": {
   "43": {
    "team1": {
@@ -37,7 +37,7 @@
   },
   "42": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Mike Maignan",
      "Lucas Digne",
@@ -53,18 +53,18 @@
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
-     "Jalal Hassan",
+     "Ahmed Basil",
      "Merchas Doski",
      "Zaid Tahseen",
      "Akam Hashem",
      "Hussein Ali",
      "Ahmed Qasem",
      "Amir Al-Ammari",
+     "Zaid Ismael",
      "Zidane Aamar Iqbal",
      "Ibrahim Bayesh",
-     "Ali Al Hamadi",
      "Aymen Hussein"
     ]
    }
@@ -78,9 +78,9 @@
      "Torbjorn Heggem",
      "Kristoffer Ajer",
      "Julian Ryerson",
+     "Martin Odegaard",
      "Sander Berge",
      "Fredrik Aursnes",
-     "Martin Odegaard",
      "Antonio Nusa",
      "Alexander Sorloth",
      "Erling Haaland"
@@ -91,8 +91,8 @@
     "xi": [
      "Edouard Mendy",
      "El Hadji Malick Diouf",
-     "Moussa Niakhate",
      "Kalidou Koulibaly",
+     "Moussa Niakhate",
      "Krepin Diatta",
      "Idrissa Gueye",
      "Pape Gueye",
@@ -124,8 +124,8 @@
     "status": "projected",
     "xi": [
      "Luca Zidane",
-     "Ramy Bensebaini",
      "Aissa Mandi",
+     "Ramy Bensebaini",
      "Zineddine Belaid",
      "Rayan Ait-Nouri",
      "Hicham Boudaoui",
@@ -177,11 +177,11 @@
     "xi": [
      "Jordan Pickford",
      "Nico O'Reilly",
-     "John Stones",
      "Ezri Konsa",
+     "John Stones",
      "Reece James",
-     "Declan Rice",
      "Elliot Anderson",
+     "Declan Rice",
      "Anthony Gordon",
      "Jude Bellingham",
      "Noni Madueke",
@@ -193,11 +193,11 @@
     "xi": [
      "Benjamin Asare",
      "Gideon Mensah",
-     "Jerome Opoku",
      "Jonas Adjetey",
+     "Jerome Opoku",
      "Marvin Senaya",
      "Caleb Yirenkyi",
-     "Kamaldeen Sulemana",
+     "Elisha Owusu",
      "Thomas Partey",
      "Antoine Semenyo",
      "Ernest Nuamah",
@@ -266,8 +266,8 @@
      "Steve Kapuadi",
      "Aaron Wan-Bissaka",
      "Samuel Moutoussamy",
-     "Ngal'ayel Mukau",
      "Edo Kayembe",
+     "Ngal'ayel Mukau",
      "Cedric Bakambu",
      "Yoane Wissa"
     ]
@@ -295,8 +295,8 @@
     "xi": [
      "Maxime Crepeau",
      "Richie Laryea",
-     "Luc De Fougerolles",
      "Derek Cornelius",
+     "Luc De Fougerolles",
      "Alistair Johnston",
      "Ali Ahmed",
      "Nathan Saliba",
@@ -313,12 +313,12 @@
     "xi": [
      "Nikola Vasilj",
      "Sead Kolasinac",
-     "Dennis Hadzikadunic",
      "Nikola Katic",
+     "Dennis Hadzikadunic",
      "Amar Dedic",
      "Amar Memic",
-     "Ivan Sunjic",
      "Benjamin Tahirovic",
+     "Ivan Sunjic",
      "Kerim Alajbegovic",
      "Ermedin Demirovic",
      "Edin Dzeko"
@@ -381,8 +381,8 @@
     "xi": [
      "Bono",
      "Noussair Mazraoui",
-     "Issa Diop",
      "Chadi Riad",
+     "Issa Diop",
      "Achraf Hakimi",
      "Neil El Aynaoui",
      "Ayyoub Bouaddi",
@@ -415,8 +415,8 @@
     "xi": [
      "Ronwen Hayden Williams",
      "Aubrey Modiba",
-     "Mbekezeli Mbokazi",
      "Ime Okon",
+     "Mbekezeli Mbokazi",
      "Khuliso Mudau",
      "Thalente Mbatha",
      "Sphephelo Sithole",
@@ -449,12 +449,12 @@
     "xi": [
      "Matej Kovar",
      "Ladislav Krejci",
-     "Robin Hranac",
      "Tomas Holes",
+     "Robin Hranac",
      "Alexandr Sojka",
+     "Pavel Sulc",
      "Tomas Soucek",
      "Michal Sadilek",
-     "Pavel Sulc",
      "Vladimir Coufal",
      "Adam Hlozek",
      "Patrik Schick"
@@ -465,13 +465,13 @@
     "xi": [
      "Guillermo Ochoa",
      "Mateo Chavez",
-     "Johan Vasquez",
      "Cesar Montes",
+     "Johan Vasquez",
      "Israel Reyes",
      "Edson Alvarez",
      "Alexis Vega",
-     "Gilberto Mora",
      "Alvaro Fidalgo",
+     "Gilberto Mora",
      "Cesar Huerta",
      "Santiago Gimenez"
     ]
@@ -516,9 +516,9 @@
     "status": "projected",
     "xi": [
      "Abdelmouhib Chamakh",
+     "Dylan Bronn",
      "Montassar Talbi",
      "Omar Rekik",
-     "Dylan Bronn",
      "Ali El Abdi",
      "Ellyes Skhiri",
      "Rani Khedira",
@@ -550,9 +550,9 @@
     "status": "projected",
     "xi": [
      "Zion Suzuki",
+     "Hiroki Ito",
      "Takehiro Tomiyasu",
      "Ko Itakura",
-     "Hiroki Ito",
      "Keito Nakamura",
      "Kaishu Sano",
      "Ao Tanaka",
@@ -566,9 +566,9 @@
     "status": "projected",
     "xi": [
      "Kristoffer Nordfeldt",
+     "Victor Lindelof",
      "Gustaf Lagerbielke",
      "Isak Hien",
-     "Victor Lindelof",
      "Gabriel Gudmundsson",
      "Yasin Ayari",
      "Jesper Karlstrom",
@@ -589,8 +589,8 @@
      "Gustavo Gomez",
      "Juan Jose Caceres",
      "Matias Galarza",
-     "Damian Bobadilla",
      "Andres Cubas",
+     "Damian Bobadilla",
      "Diego Gomez",
      "Julio Enciso",
      "Antonio Sanabria"
@@ -601,13 +601,13 @@
     "xi": [
      "Patrick Beach",
      "Jordan Bos",
-     "Harry Souttar",
      "Cameron Burgess",
      "Alessandro Circati",
+     "Harry Souttar",
      "Jacob Italiano",
      "Nestory Irankunda",
-     "Aiden O'Neill",
      "Paul Okon",
+     "Aiden O'Neill",
      "Conor Metcalfe",
      "Mohamed Toure"
     ]
@@ -619,8 +619,8 @@
     "xi": [
      "Ugurcan Cakir",
      "Ferdi Kadioglu",
-     "Abdulkerim Bardakci",
      "Merih Demiral",
+     "Abdulkerim Bardakci",
      "Mert Muldur",
      "Orkun Kokcu",
      "Hakan Calhanoglu",
@@ -635,11 +635,11 @@
     "xi": [
      "Matt Freese",
      "Auston Trusty",
+     "Miles Robinson",
      "Mark McKenzie",
-     "Tim Ream",
      "Alex Freeman",
      "Malik Tillman",
-     "Tyler Adams",
+     "Sebastian Berhalter",
      "Giovanni Reyna",
      "Weston McKennie",
      "Sergino Dest",
@@ -653,8 +653,8 @@
     "xi": [
      "Vozinha",
      "Joao Paulo",
-     "Pico",
      "Diney",
+     "Pico",
      "Steven Moreira",
      "Kevin Pina",
      "Garry Rodrigues",
@@ -687,11 +687,11 @@
     "xi": [
      "Fernando Muslera",
      "Juan Sanabria",
-     "Sebastian Caceres",
      "Mathias Olivera",
+     "Sebastian Caceres",
      "Guillermo Varela",
-     "Rodrigo Bentancur",
      "Federico Valverde",
+     "Rodrigo Bentancur",
      "Manuel Ugarte",
      "Maxi Araujo",
      "Agustin Canobbio",
