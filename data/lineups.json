@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-22T12:37:00Z",
+ "fetched_utc": "2026-06-22T14:34:00Z",
  "matches": {
   "43": {
    "team1": {
@@ -182,7 +182,7 @@
      "Reece James",
      "Declan Rice",
      "Elliot Anderson",
-     "Marcus Rashford",
+     "Anthony Gordon",
      "Jude Bellingham",
      "Noni Madueke",
      "Harry Kane"
@@ -193,12 +193,12 @@
     "xi": [
      "Benjamin Asare",
      "Gideon Mensah",
-     "Jonas Adjetey",
      "Jerome Opoku",
+     "Jonas Adjetey",
      "Marvin Senaya",
      "Kamaldeen Sulemana",
-     "Caleb Yirenkyi",
      "Thomas Partey",
+     "Caleb Yirenkyi",
      "Antoine Semenyo",
      "Ernest Nuamah",
      "Jordan Ayew"
@@ -227,8 +227,8 @@
     "xi": [
      "Dominik Livakovic",
      "Josko Gvardiol",
-     "Josip Sutalo",
      "Duje Caleta-Car",
+     "Josip Sutalo",
      "Josip Stanisic",
      "Mateo Kovacic",
      "Luka Modric",
@@ -245,8 +245,8 @@
     "xi": [
      "Camilo Vargas",
      "Johan Mojica",
-     "Jhon Lucumi",
      "Davinson Sanchez",
+     "Jhon Lucumi",
      "Daniel Munoz",
      "Gustavo Puerta",
      "Jefferson Lerma",
@@ -295,15 +295,15 @@
     "xi": [
      "Maxime Crepeau",
      "Richie Laryea",
-     "Derek Cornelius",
      "Luc De Fougerolles",
+     "Derek Cornelius",
      "Alistair Johnston",
      "Ali Ahmed",
      "Nathan Saliba",
      "Stephen Eustaquio",
      "Tajon Buchanan",
-     "Cyle Larin",
-     "Jonathan David"
+     "Jonathan David",
+     "Cyle Larin"
     ]
    }
   },
@@ -313,8 +313,8 @@
     "xi": [
      "Nikola Vasilj",
      "Sead Kolasinac",
-     "Nikola Katic",
      "Dennis Hadzikadunic",
+     "Nikola Katic",
      "Amar Dedic",
      "Amar Memic",
      "Ivan Sunjic",
@@ -350,10 +350,10 @@
      "Grant Hanley",
      "Jack Hendry",
      "Aaron Hickey",
+     "John McGinn",
      "Lewis Ferguson",
      "Scott McTominay",
      "Ryan Christie",
-     "John McGinn",
      "Ben Gannon Doak",
      "Che Adams"
     ]
@@ -404,8 +404,8 @@
      "Danley Jean Jacques",
      "Jean-Ricner Bellegarde",
      "Louicius Deedson",
-     "Wilson Isidor",
-     "Frantzdy Pierrot"
+     "Frantzdy Pierrot",
+     "Wilson Isidor"
     ]
    }
   },
@@ -430,9 +430,9 @@
     "status": "projected",
     "xi": [
      "Kim Seung-gyu",
-     "Lee Han-Beom",
      "Kim Min-Jae",
      "Lee Gi-Hyuk",
+     "Lee Han-Beom",
      "Kim Moon-Hwan",
      "Paik Seung-Ho",
      "Hwang In-beom",
@@ -470,8 +470,8 @@
      "Israel Reyes",
      "Edson Alvarez",
      "Alexis Vega",
-     "Alvaro Fidalgo",
      "Gilberto Mora",
+     "Alvaro Fidalgo",
      "Cesar Huerta",
      "Santiago Gimenez"
     ]
@@ -499,8 +499,8 @@
     "xi": [
      "Manuel Neuer",
      "Nathaniel Brown",
-     "Antonio Rudiger",
      "Jonathan Tah",
+     "Antonio Rudiger",
      "Joshua Kimmich",
      "Felix Nmecha",
      "Aleksandar Pavlovic",
@@ -523,8 +523,8 @@
      "Ellyes Skhiri",
      "Rani Khedira",
      "Yan Valery",
-     "Hannibal",
      "Elias Saad",
+     "Hannibal",
      "Firas Chaouat"
     ]
    },
@@ -550,12 +550,12 @@
     "status": "projected",
     "xi": [
      "Zion Suzuki",
+     "Hiroki Ito",
      "Takehiro Tomiyasu",
      "Ko Itakura",
-     "Hiroki Ito",
      "Keito Nakamura",
-     "Kaishu Sano",
      "Ao Tanaka",
+     "Kaishu Sano",
      "Ritsu Doan",
      "Junya Ito",
      "Daichi Kamada",
@@ -566,16 +566,16 @@
     "status": "projected",
     "xi": [
      "Kristoffer Nordfeldt",
+     "Victor Lindelof",
      "Gustaf Lagerbielke",
      "Isak Hien",
-     "Victor Lindelof",
      "Gabriel Gudmundsson",
      "Yasin Ayari",
      "Jesper Karlstrom",
      "Alexander Bernhardsson",
      "Benjamin Nygren",
-     "Alexander Isak",
-     "Viktor Gyokeres"
+     "Viktor Gyokeres",
+     "Alexander Isak"
     ]
    }
   },
@@ -585,8 +585,8 @@
     "xi": [
      "Orlando Gill",
      "Junior Alonso",
-     "Omar Alderete",
      "Gustavo Gomez",
+     "Omar Alderete",
      "Juan Jose Caceres",
      "Matias Galarza",
      "Damian Bobadilla",
@@ -622,8 +622,8 @@
      "Abdulkerim Bardakci",
      "Merih Demiral",
      "Mert Muldur",
-     "Orkun Kokcu",
      "Hakan Calhanoglu",
+     "Orkun Kokcu",
      "Kenan Yildiz",
      "Arda Guler",
      "Baris Yilmaz",
@@ -653,8 +653,8 @@
     "xi": [
      "Vozinha",
      "Joao Paulo",
-     "Pico",
      "Diney",
+     "Pico",
      "Steven Moreira",
      "Kevin Pina",
      "Garry Rodrigues",
@@ -721,8 +721,8 @@
     "xi": [
      "Maxime Teremoana Crocombe",
      "Liberato Cacace",
-     "Michael Boxall",
      "Finn Surman",
+     "Michael Boxall",
      "Tim Payne",
      "Marko Stamenic",
      "Joe Bell",
@@ -740,8 +740,8 @@
      "Brandon Mechele",
      "Koni De Winter",
      "Thomas Meunier",
-     "Youri Tielemans",
      "Nicolas Raskin",
+     "Youri Tielemans",
      "Leandro Trossard",
      "Kevin De Bruyne",
      "Alexis Saelemaekers",
