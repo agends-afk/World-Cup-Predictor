@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-22T01:34:00Z",
+ "fetched_utc": "2026-06-22T03:56:00Z",
  "matches": {
   "36": {
    "team1": {
@@ -814,6 +814,142 @@
      "Weston McKennie",
      "Sergino Dest",
      "Haji Wright"
+    ]
+   }
+  },
+  "65": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Vozinha",
+     "Joao Paulo",
+     "Diney",
+     "Pico",
+     "Steven Moreira",
+     "Kevin Pina",
+     "Garry Rodrigues",
+     "Jamiro Monteiro",
+     "Deroy Duarte",
+     "Ryan Mendes",
+     "Gilson Benchimol"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Mohammed Al-Owais",
+     "Moteb Al Harbi",
+     "Ali Lajami",
+     "Hassan Al Tambakti",
+     "Abdulelah Al-Amri",
+     "Saud Abdulhamid",
+     "Salem Al-Dawsari",
+     "Mohamed Kanno",
+     "Nasser Al Dawsari",
+     "Abu Al Shamat",
+     "Firas Al Buraikan"
+    ]
+   }
+  },
+  "66": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Fernando Muslera",
+     "Juan Sanabria",
+     "Sebastian Caceres",
+     "Mathias Olivera",
+     "Guillermo Varela",
+     "Rodrigo Bentancur",
+     "Federico Valverde",
+     "Manuel Ugarte",
+     "Maxi Araujo",
+     "Agustin Canobbio",
+     "Federico Vinas"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Unai Simon",
+     "Marc Cucurella",
+     "Aymeric Laporte",
+     "Pau Cubarsi",
+     "Pedro Porro",
+     "Dani Olmo",
+     "Rodri",
+     "Pedri",
+     "Nico Williams",
+     "Lamine Yamal",
+     "Mikel Oyarzabal"
+    ]
+   }
+  },
+  "64": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Maxime Teremoana Crocombe",
+     "Liberato Cacace",
+     "Finn Surman",
+     "Michael Boxall",
+     "Tim Payne",
+     "Marko Stamenic",
+     "Joe Bell",
+     "Elijah Just",
+     "Sarpreet Singh",
+     "Callum McCowatt",
+     "Chris Wood"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Thibaut Courtois",
+     "Maxim De Cuyper",
+     "Brandon Mechele",
+     "Koni De Winter",
+     "Thomas Meunier",
+     "Youri Tielemans",
+     "Nicolas Raskin",
+     "Leandro Trossard",
+     "Kevin De Bruyne",
+     "Alexis Saelemaekers",
+     "Romelu Lukaku"
+    ]
+   }
+  },
+  "63": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Mostafa Shobeir",
+     "Ahmed El Fotouh",
+     "Yasser Ibrahim",
+     "Ramy Rabia",
+     "Mohamed Hany",
+     "Mohanad Lasheen",
+     "Marwan Ateya",
+     "Emam Ashour",
+     "Mohamed Salah",
+     "Mostafa Ziko",
+     "Omar Marmoush"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Alireza Beiranvand",
+     "Ehsan Hajsafi",
+     "Ali Nemati",
+     "Hossein Kanaanizadegan",
+     "Shoja Khalilzadeh",
+     "Ramin Rezaeian",
+     "Mohammad Mohebi",
+     "Saeid Ezatolahi",
+     "Saman Ghoddos",
+     "Alireza Jahanbakhsh",
+     "Mehdi Taremi"
     ]
    }
   }
