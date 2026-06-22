@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-22T13:57:10+10:00",
- "generated_aest": "Mon 22 Jun 2026, 1:57pm AEST",
+ "generated": "2026-06-22T18:25:55+10:00",
+ "generated_aest": "Mon 22 Jun 2026, 6:25pm AEST",
  "data_through": "2026-06-21",
  "sim_runs": 10000,
  "params": {
@@ -6707,49 +6707,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 0.878,
-    "lam_b": 1.725,
-    "p_win": 0.1748,
-    "p_draw": 0.2657,
-    "p_loss": 0.5596,
+    "lam_a": 0.886,
+    "lam_b": 1.709,
+    "p_win": 0.1786,
+    "p_draw": 0.2677,
+    "p_loss": 0.5536,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1267
+      "p": 0.1277
      },
      {
       "score": "0-1",
-      "p": 0.1131
+      "p": 0.1128
      },
      {
       "score": "0-2",
-      "p": 0.1102
+      "p": 0.109
      },
      {
       "score": "1-2",
-      "p": 0.0967
+      "p": 0.0966
      },
      {
       "score": "0-0",
-      "p": 0.0886
+      "p": 0.0893
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1267
+      "p": 0.1277
      },
      "team2": {
       "score": "0-1",
-      "p": 0.1131
+      "p": 0.1128
      },
      "team1": {
       "score": "1-0",
-      "p": 0.0504
+      "p": 0.0514
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1267
+    "modal_p": 0.1277
    },
    "prediction_base": {
     "lam_a": 0.878,
@@ -6799,10 +6799,10 @@
    "lineup": {
     "team1": null,
     "team2": {
-     "elo": 0.0,
-     "delta_ovr": 0.35,
+     "elo": -4.8,
+     "delta_ovr": -0.65,
      "status": "projected",
-     "xi_mean": 76.4,
+     "xi_mean": 75.4,
      "baseline_mean": 76.1,
      "coverage": 0.82,
      "missing": [
@@ -6811,8 +6811,8 @@
        "ovr": 78
       },
       {
-       "name": "Hicham Boudaoui",
-       "ovr": 76
+       "name": "Farès Chaïbi",
+       "ovr": 77
       },
       {
        "name": "Mohamed Amoura",
@@ -12699,5 +12699,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "500c16d34a9aec9647af3574093b3fa6e1f873e9"
+ "content_hash": "2977361b83ce1bc3fdd078e1ae83932aee0e65dd"
 }
