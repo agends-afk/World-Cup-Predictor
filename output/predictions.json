@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-22T10:21:11+10:00",
- "generated_aest": "Mon 22 Jun 2026, 10:21am AEST",
+ "generated": "2026-06-22T11:34:46+10:00",
+ "generated_aest": "Mon 22 Jun 2026, 11:34am AEST",
  "data_through": "2026-06-21",
  "sim_runs": 10000,
  "params": {
@@ -6547,49 +6547,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 2.113,
-    "lam_b": 0.717,
-    "p_win": 0.6858,
-    "p_draw": 0.2117,
-    "p_loss": 0.1025,
+    "lam_a": 2.125,
+    "lam_b": 0.713,
+    "p_win": 0.6889,
+    "p_draw": 0.2101,
+    "p_loss": 0.1009,
     "top_scores": [
      {
       "score": "2-0",
-      "p": 0.1318
+      "p": 0.1322
      },
      {
       "score": "1-0",
-      "p": 0.1131
+      "p": 0.1129
      },
      {
       "score": "1-1",
-      "p": 0.101
+      "p": 0.1002
      },
      {
       "score": "2-1",
-      "p": 0.0944
+      "p": 0.0942
      },
      {
       "score": "3-0",
-      "p": 0.0928
+      "p": 0.0936
      }
     ],
     "outcome_scores": {
      "team1": {
       "score": "2-0",
-      "p": 0.1318
+      "p": 0.1322
      },
      "draw": {
       "score": "1-1",
-      "p": 0.101
+      "p": 0.1002
      },
      "team2": {
       "score": "1-2",
-      "p": 0.032
+      "p": 0.0316
      }
     },
     "modal_score": "2-0",
-    "modal_p": 0.1318
+    "modal_p": 0.1322
    },
    "prediction_base": {
     "lam_a": 2.127,
@@ -6638,12 +6638,12 @@
    },
    "lineup": {
     "team1": {
-     "elo": -8.2,
-     "delta_ovr": -1.09,
+     "elo": -5.4,
+     "delta_ovr": -0.72,
      "status": "projected",
-     "xi_mean": 83.7,
+     "xi_mean": 84.1,
      "baseline_mean": 84.8,
-     "coverage": 1.0,
+     "coverage": 0.91,
      "missing": [
       {
        "name": "Exequiel Palacios",
@@ -12492,5 +12492,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "0b6c3fd16fa2dc14ad7e868ace3d8e7aade306bf"
+ "content_hash": "3f28963d1c5919bcee9c46b51d4a05d23cec6456"
 }
