@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-22T08:25:00Z",
+ "fetched_utc": "2026-06-22T12:37:00Z",
  "matches": {
   "43": {
    "team1": {
@@ -112,8 +112,8 @@
      "Mohammad Abualnadi",
      "Abdallah Mousa Musallam Nasib",
      "Mohannad Abu Taha",
-     "Nizar Mahmoud Ahmed Al Rashdan",
      "Noor Al Rawabdeh",
+     "Nizar Mahmoud Ahmed Al Rashdan",
      "Ehsan Haddad",
      "Ali Olwan",
      "Odeh Fakhoury",
@@ -142,13 +142,13 @@
     "status": "projected",
     "xi": [
      "Diogo Costa",
-     "Nuno Mendes",
-     "Renato Veiga",
-     "Ruben Dias",
      "Joao Cancelo",
-     "Joao Neves",
+     "Ruben Dias",
+     "Renato Veiga",
+     "Diogo Dalot",
      "Vitinha",
-     "Pedro Neto",
+     "Joao Neves",
+     "Joao Felix",
      "Bruno Fernandes",
      "Francisco Conceicao",
      "Cristiano Ronaldo"
@@ -193,12 +193,12 @@
     "xi": [
      "Benjamin Asare",
      "Gideon Mensah",
-     "Jerome Opoku",
      "Jonas Adjetey",
+     "Jerome Opoku",
      "Marvin Senaya",
      "Kamaldeen Sulemana",
-     "Thomas Partey",
      "Caleb Yirenkyi",
+     "Thomas Partey",
      "Antoine Semenyo",
      "Ernest Nuamah",
      "Jordan Ayew"
@@ -227,8 +227,8 @@
     "xi": [
      "Dominik Livakovic",
      "Josko Gvardiol",
-     "Duje Caleta-Car",
      "Josip Sutalo",
+     "Duje Caleta-Car",
      "Josip Stanisic",
      "Mateo Kovacic",
      "Luka Modric",
@@ -245,8 +245,8 @@
     "xi": [
      "Camilo Vargas",
      "Johan Mojica",
-     "Davinson Sanchez",
      "Jhon Lucumi",
+     "Davinson Sanchez",
      "Daniel Munoz",
      "Gustavo Puerta",
      "Jefferson Lerma",
@@ -295,15 +295,15 @@
     "xi": [
      "Maxime Crepeau",
      "Richie Laryea",
-     "Luc De Fougerolles",
      "Derek Cornelius",
+     "Luc De Fougerolles",
      "Alistair Johnston",
      "Ali Ahmed",
      "Nathan Saliba",
      "Stephen Eustaquio",
      "Tajon Buchanan",
-     "Jonathan David",
-     "Cyle Larin"
+     "Cyle Larin",
+     "Jonathan David"
     ]
    }
   },
@@ -313,8 +313,8 @@
     "xi": [
      "Nikola Vasilj",
      "Sead Kolasinac",
-     "Dennis Hadzikadunic",
      "Nikola Katic",
+     "Dennis Hadzikadunic",
      "Amar Dedic",
      "Amar Memic",
      "Ivan Sunjic",
@@ -350,10 +350,10 @@
      "Grant Hanley",
      "Jack Hendry",
      "Aaron Hickey",
-     "John McGinn",
      "Lewis Ferguson",
      "Scott McTominay",
      "Ryan Christie",
+     "John McGinn",
      "Ben Gannon Doak",
      "Che Adams"
     ]
@@ -367,9 +367,9 @@
      "Marquinhos",
      "Danilo",
      "Casemiro",
-     "Lucas Paqueta",
      "Bruno Guimaraes",
      "Vinicius Junior",
+     "Lucas Paqueta",
      "Rayan",
      "Matheus Cunha"
     ]
@@ -404,8 +404,8 @@
      "Danley Jean Jacques",
      "Jean-Ricner Bellegarde",
      "Louicius Deedson",
-     "Frantzdy Pierrot",
-     "Wilson Isidor"
+     "Wilson Isidor",
+     "Frantzdy Pierrot"
     ]
    }
   },
@@ -430,9 +430,9 @@
     "status": "projected",
     "xi": [
      "Kim Seung-gyu",
+     "Lee Han-Beom",
      "Kim Min-Jae",
      "Lee Gi-Hyuk",
-     "Lee Han-Beom",
      "Kim Moon-Hwan",
      "Paik Seung-Ho",
      "Hwang In-beom",
@@ -470,8 +470,8 @@
      "Israel Reyes",
      "Edson Alvarez",
      "Alexis Vega",
-     "Gilberto Mora",
      "Alvaro Fidalgo",
+     "Gilberto Mora",
      "Cesar Huerta",
      "Santiago Gimenez"
     ]
@@ -541,7 +541,7 @@
      "Ryan Gravenberch",
      "Cody Gakpo",
      "Donyell Malen",
-     "Brian Brobbey"
+     "Memphis Depay"
     ]
    }
   },

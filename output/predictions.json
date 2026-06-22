@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-22T18:25:55+10:00",
- "generated_aest": "Mon 22 Jun 2026, 6:25pm AEST",
+ "generated": "2026-06-22T22:37:19+10:00",
+ "generated_aest": "Mon 22 Jun 2026, 10:37pm AEST",
  "data_through": "2026-06-21",
  "sim_runs": 10000,
  "params": {
@@ -7215,12 +7215,8 @@
        "ovr": 86
       },
       {
-       "name": "Diogo Dalot",
-       "ovr": 82
-      },
-      {
-       "name": "João Félix",
-       "ovr": 80
+       "name": "Nuno Mendes",
+       "ovr": 83
       }
      ]
     },
@@ -8406,49 +8402,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 0.655,
-    "lam_b": 2.313,
-    "p_win": 0.0782,
-    "p_draw": 0.1846,
-    "p_loss": 0.7372,
+    "lam_a": 0.653,
+    "lam_b": 2.321,
+    "p_win": 0.0773,
+    "p_draw": 0.1834,
+    "p_loss": 0.7392,
     "top_scores": [
      {
       "score": "0-2",
-      "p": 0.1375
+      "p": 0.1377
      },
      {
       "score": "0-1",
-      "p": 0.1088
+      "p": 0.1086
      },
      {
       "score": "0-3",
-      "p": 0.106
+      "p": 0.1065
      },
      {
       "score": "1-2",
-      "p": 0.0901
+      "p": 0.0899
      },
      {
       "score": "1-1",
-      "p": 0.088
+      "p": 0.0875
      }
     ],
     "outcome_scores": {
      "team2": {
       "score": "0-2",
-      "p": 0.1375
+      "p": 0.1377
      },
      "draw": {
       "score": "1-1",
-      "p": 0.088
+      "p": 0.0875
      },
      "team1": {
       "score": "2-1",
-      "p": 0.0255
+      "p": 0.0253
      }
     },
     "modal_score": "0-2",
-    "modal_p": 0.1375
+    "modal_p": 0.1377
    },
    "prediction_base": {
     "lam_a": 0.644,
@@ -8498,12 +8494,12 @@
    "lineup": {
     "team1": null,
     "team2": {
-     "elo": -8.9,
-     "delta_ovr": -1.18,
+     "elo": -7.0,
+     "delta_ovr": -0.93,
      "status": "projected",
-     "xi_mean": 81.5,
+     "xi_mean": 81.8,
      "baseline_mean": 82.7,
-     "coverage": 1.0,
+     "coverage": 0.91,
      "missing": [
       {
        "name": "Nathan Aké",
@@ -8518,7 +8514,7 @@
        "ovr": 79
       },
       {
-       "name": "Noa Lang",
+       "name": "Brian Brobbey",
        "ovr": 79
       }
      ]
@@ -12699,5 +12695,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "2977361b83ce1bc3fdd078e1ae83932aee0e65dd"
+ "content_hash": "1c19712d625d9eee964d7ffebd6fa0510504cbdc"
 }
