@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-23T00:35:02+10:00",
- "generated_aest": "Tue 23 Jun 2026, 12:35am AEST",
+ "generated": "2026-06-23T02:14:07+10:00",
+ "generated_aest": "Tue 23 Jun 2026, 2:14am AEST",
  "data_through": "2026-06-21",
  "sim_runs": 10000,
  "params": {
@@ -6555,49 +6555,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 2.125,
-    "lam_b": 0.713,
-    "p_win": 0.6889,
-    "p_draw": 0.2101,
-    "p_loss": 0.1009,
+    "lam_a": 2.139,
+    "lam_b": 0.708,
+    "p_win": 0.6928,
+    "p_draw": 0.2082,
+    "p_loss": 0.099,
     "top_scores": [
      {
       "score": "2-0",
-      "p": 0.1322
+      "p": 0.1327
      },
      {
       "score": "1-0",
-      "p": 0.1129
+      "p": 0.1127
      },
      {
       "score": "1-1",
-      "p": 0.1002
-     },
-     {
-      "score": "2-1",
-      "p": 0.0942
+      "p": 0.0993
      },
      {
       "score": "3-0",
-      "p": 0.0936
+      "p": 0.0946
+     },
+     {
+      "score": "2-1",
+      "p": 0.094
      }
     ],
     "outcome_scores": {
      "team1": {
       "score": "2-0",
-      "p": 0.1322
+      "p": 0.1327
      },
      "draw": {
       "score": "1-1",
-      "p": 0.1002
+      "p": 0.0993
      },
      "team2": {
       "score": "1-2",
-      "p": 0.0316
+      "p": 0.0311
      }
     },
     "modal_score": "2-0",
-    "modal_p": 0.1322
+    "modal_p": 0.1327
    },
    "prediction_base": {
     "lam_a": 2.127,
@@ -6646,15 +6646,19 @@
    },
    "lineup": {
     "team1": {
-     "elo": -5.4,
-     "delta_ovr": -0.72,
-     "status": "projected",
-     "xi_mean": 84.1,
+     "elo": -3.3,
+     "delta_ovr": -0.22,
+     "status": "confirmed",
+     "xi_mean": 84.6,
      "baseline_mean": 84.8,
      "coverage": 0.91,
      "missing": [
       {
        "name": "Exequiel Palacios",
+       "ovr": 84
+      },
+      {
+       "name": "Julián Álvarez",
        "ovr": 84
       },
       {
@@ -6664,20 +6668,20 @@
      ]
     },
     "team2": {
-     "elo": -4.8,
-     "delta_ovr": -0.64,
-     "status": "projected",
-     "xi_mean": 79.3,
+     "elo": -6.1,
+     "delta_ovr": -0.41,
+     "status": "confirmed",
+     "xi_mean": 79.5,
      "baseline_mean": 79.9,
-     "coverage": 1.0,
+     "coverage": 0.91,
      "missing": [
       {
-       "name": "Stefan Posch",
-       "ovr": 78
+       "name": "Marko Arnautović",
+       "ovr": 80
       },
       {
-       "name": "Michael Gregoritsch",
-       "ovr": 78
+       "name": "Philipp Lienhart",
+       "ovr": 79
       },
       {
        "name": "Saša Kalajdžić",
@@ -8114,49 +8118,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.134,
-    "lam_b": 1.335,
-    "p_win": 0.3001,
-    "p_draw": 0.3036,
-    "p_loss": 0.3963,
+    "lam_a": 1.171,
+    "lam_b": 1.294,
+    "p_win": 0.3178,
+    "p_draw": 0.3052,
+    "p_loss": 0.377,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1448
+      "p": 0.1456
      },
      {
       "score": "0-0",
-      "p": 0.1013
+      "p": 0.1018
      },
      {
       "score": "0-1",
-      "p": 0.0963
+      "p": 0.0933
      },
      {
       "score": "1-2",
-      "p": 0.0856
+      "p": 0.0833
      },
      {
       "score": "1-0",
-      "p": 0.0793
+      "p": 0.0828
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1448
+      "p": 0.1456
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0963
+      "p": 0.0933
      },
      "team1": {
       "score": "1-0",
-      "p": 0.0793
+      "p": 0.0828
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1448
+    "modal_p": 0.1456
    },
    "prediction_base": {
     "lam_a": 1.089,
@@ -8206,24 +8210,28 @@
    "lineup": {
     "team1": null,
     "team2": {
-     "elo": -21.1,
-     "delta_ovr": -2.82,
+     "elo": -37.5,
+     "delta_ovr": -5.0,
      "status": "projected",
-     "xi_mean": 82,
+     "xi_mean": 79.8,
      "baseline_mean": 84.8,
      "coverage": 1.0,
      "missing": [
+      {
+       "name": "Florian Wirtz",
+       "ovr": 88
+      },
       {
        "name": "Jamal Musiala",
        "ovr": 87
       },
       {
-       "name": "Nico Schlotterbeck",
-       "ovr": 85
+       "name": "Manuel Neuer",
+       "ovr": 86
       },
       {
-       "name": "Maximilian Beier",
-       "ovr": 78
+       "name": "Jonathan Tah",
+       "ovr": 86
       }
      ]
     }
@@ -12695,5 +12703,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "99fcd6cdcc10298f84962403dda7cb4ff9b55fe0"
+ "content_hash": "81d894043e26075e0cf0100c7e7845ce0950f87c"
 }
