@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-23T01:18:00Z",
+ "fetched_utc": "2026-06-23T02:07:00Z",
  "matches": {
   "43": {
    "team1": {
@@ -105,33 +105,33 @@
   },
   "44": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Yazeed Mo'ien Hasan Abulaila",
+     "Husam Ali Mohammad Abu Dahab",
      "Abdallah Mousa Musallam Nasib",
      "Yazan Al-Arab",
-     "Mohammad Abualnadi",
      "Mohannad Abu Taha",
-     "Noor Al Rawabdeh",
      "Nizar Mahmoud Ahmed Al Rashdan",
+     "Noor Al Rawabdeh",
      "Ehsan Haddad",
+     "Mahmoud Al Mardi",
      "Ali Olwan",
-     "Odeh Fakhoury",
      "Mousa Tamari"
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Luca Zidane",
-     "Aissa Mandi",
-     "Ramy Bensebaini",
-     "Zineddine Belaid",
      "Rayan Ait-Nouri",
-     "Hicham Boudaoui",
-     "Ramiz Zerrouki",
+     "Ramy Bensebaini",
+     "Aissa Mandi",
      "Rafik Belghali",
      "Ibrahim Maza",
+     "Ramiz Zerrouki",
+     "Hicham Boudaoui",
+     "Fares Chaibi",
      "Riyad Mahrez",
      "Amine Gouiri"
     ]
@@ -177,11 +177,11 @@
     "xi": [
      "Jordan Pickford",
      "Nico O'Reilly",
-     "Ezri Konsa",
      "John Stones",
+     "Ezri Konsa",
      "Reece James",
-     "Elliot Anderson",
      "Declan Rice",
+     "Elliot Anderson",
      "Anthony Gordon",
      "Jude Bellingham",
      "Noni Madueke",
@@ -227,12 +227,12 @@
     "xi": [
      "Dominik Livakovic",
      "Josko Gvardiol",
-     "Josip Sutalo",
      "Duje Caleta-Car",
+     "Josip Sutalo",
      "Josip Stanisic",
      "Mateo Kovacic",
-     "Luka Modric",
      "Petar Sucic",
+     "Luka Modric",
      "Ivan Perisic",
      "Martin Baturina",
      "Petar Musa"
@@ -245,12 +245,12 @@
     "xi": [
      "Camilo Vargas",
      "Johan Mojica",
-     "Jhon Lucumi",
      "Davinson Sanchez",
+     "Jhon Lucumi",
      "Daniel Munoz",
-     "Gustavo Puerta",
-     "Jhon Arias",
      "Jefferson Lerma",
+     "Jhon Arias",
+     "Gustavo Puerta",
      "Luis Diaz",
      "James Rodriguez",
      "Luis Suarez"
@@ -320,8 +320,8 @@
      "Benjamin Tahirovic",
      "Ivan Sunjic",
      "Kerim Alajbegovic",
-     "Ermedin Demirovic",
-     "Edin Dzeko"
+     "Edin Dzeko",
+     "Ermedin Demirovic"
     ]
    },
    "team2": {
@@ -351,8 +351,8 @@
      "Jack Hendry",
      "Aaron Hickey",
      "John McGinn",
-     "Lewis Ferguson",
      "Scott McTominay",
+     "Lewis Ferguson",
      "Ryan Christie",
      "Ben Gannon Doak",
      "Che Adams"
@@ -401,11 +401,11 @@
      "Ricardo Ade",
      "Carlens Arcus",
      "Ruben Providence",
-     "Jean-Ricner Bellegarde",
      "Danley Jean Jacques",
+     "Jean-Ricner Bellegarde",
      "Louicius Deedson",
-     "Wilson Isidor",
-     "Frantzdy Pierrot"
+     "Frantzdy Pierrot",
+     "Wilson Isidor"
     ]
    }
   },
@@ -449,8 +449,8 @@
     "xi": [
      "Matej Kovar",
      "Ladislav Krejci",
-     "Robin Hranac",
      "Tomas Holes",
+     "Robin Hranac",
      "Alexandr Sojka",
      "Pavel Sulc",
      "Tomas Soucek",
@@ -470,8 +470,8 @@
      "Jorge Eduardo Sanchez",
      "Edson Alvarez",
      "Julian Quinones",
-     "Obed Vargas",
      "Luis Romo",
+     "Obed Vargas",
      "Roberto Alvarado",
      "Raul Jimenez"
     ]
@@ -483,8 +483,8 @@
     "xi": [
      "Hernan Galindez",
      "Willian Pacho",
-     "Alan Franco",
      "Piero Hincapie",
+     "Alan Franco",
      "Jordy Alcivar",
      "Pervis Estupinan",
      "John Yeboah",
@@ -499,8 +499,8 @@
     "xi": [
      "Oliver Baumann",
      "David Raum",
-     "Antonio Rudiger",
      "Malick Thiaw",
+     "Antonio Rudiger",
      "Joshua Kimmich",
      "Nadiem Amiri",
      "Leon Goretzka",
@@ -585,8 +585,8 @@
     "xi": [
      "Orlando Gill",
      "Junior Alonso",
-     "Omar Alderete",
      "Gustavo Gomez",
+     "Omar Alderete",
      "Juan Jose Caceres",
      "Matias Galarza",
      "Andres Cubas",
@@ -606,8 +606,8 @@
      "Harry Souttar",
      "Jacob Italiano",
      "Nestory Irankunda",
-     "Aiden O'Neill",
      "Paul Okon",
+     "Aiden O'Neill",
      "Conor Metcalfe",
      "Mohamed Toure"
     ]
@@ -619,11 +619,11 @@
     "xi": [
      "Ugurcan Cakir",
      "Ferdi Kadioglu",
-     "Abdulkerim Bardakci",
      "Merih Demiral",
+     "Abdulkerim Bardakci",
      "Mert Muldur",
-     "Orkun Kokcu",
      "Hakan Calhanoglu",
+     "Orkun Kokcu",
      "Kenan Yildiz",
      "Arda Guler",
      "Baris Yilmaz",
@@ -670,8 +670,8 @@
      "Mohammed Al-Owais",
      "Moteb Al Harbi",
      "Ali Lajami",
-     "Hassan Al Tambakti",
      "Abdulelah Al-Amri",
+     "Hassan Al Tambakti",
      "Saud Abdulhamid",
      "Salem Al-Dawsari",
      "Mohamed Kanno",
@@ -740,8 +740,8 @@
      "Brandon Mechele",
      "Koni De Winter",
      "Thomas Meunier",
-     "Youri Tielemans",
      "Nicolas Raskin",
+     "Youri Tielemans",
      "Leandro Trossard",
      "Kevin De Bruyne",
      "Alexis Saelemaekers",
