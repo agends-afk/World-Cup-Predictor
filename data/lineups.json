@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-23T02:07:00Z",
+ "fetched_utc": "2026-06-23T03:33:00Z",
  "matches": {
   "43": {
    "team1": {
@@ -780,6 +780,24 @@
      "Saman Ghoddos",
      "Alireza Jahanbakhsh",
      "Mehdi Taremi"
+    ]
+   }
+  },
+  "70": {
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Emiliano Martinez",
+     "Facundo Medina",
+     "Marcos Senesi",
+     "Nicolas Otamendi",
+     "Gonzalo Montiel",
+     "Nicolas Gonzalez",
+     "Leandro Paredes",
+     "Giovani Lo Celso",
+     "Giuliano Simeone",
+     "Julian Alvarez",
+     "Nico Paz"
     ]
    }
   }
