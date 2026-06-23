@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-24T08:36:35+10:00",
- "generated_aest": "Wed 24 Jun 2026, 8:36am AEST",
+ "generated": "2026-06-24T09:56:48+10:00",
+ "generated_aest": "Wed 24 Jun 2026, 9:56am AEST",
  "data_through": "2026-06-23",
  "sim_runs": 10000,
  "params": {
@@ -9062,49 +9062,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.666,
-    "lam_b": 0.909,
-    "p_win": 0.5372,
-    "p_draw": 0.2732,
-    "p_loss": 0.1896,
+    "lam_a": 1.655,
+    "lam_b": 0.915,
+    "p_win": 0.533,
+    "p_draw": 0.2745,
+    "p_loss": 0.1925,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1303
+      "p": 0.131
      },
      {
       "score": "1-0",
-      "p": 0.1119
+      "p": 0.1116
      },
      {
       "score": "2-0",
-      "p": 0.1057
+      "p": 0.1048
      },
      {
       "score": "2-1",
-      "p": 0.0961
+      "p": 0.0959
      },
      {
       "score": "0-0",
-      "p": 0.0911
+      "p": 0.0916
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1303
+      "p": 0.131
      },
      "team1": {
       "score": "1-0",
-      "p": 0.1119
+      "p": 0.1116
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0542
+      "p": 0.0549
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1303
+    "modal_p": 0.131
    },
    "prediction_base": {
     "lam_a": 1.677,
@@ -9153,13 +9153,17 @@
    },
    "lineup": {
     "team1": {
-     "elo": -3.4,
-     "delta_ovr": -0.45,
+     "elo": -6.8,
+     "delta_ovr": -0.91,
      "status": "projected",
-     "xi_mean": 77.2,
+     "xi_mean": 76.7,
      "baseline_mean": 77.6,
      "coverage": 1.0,
      "missing": [
+      {
+       "name": "Édouard Mendy",
+       "ovr": 80
+      },
       {
        "name": "Iliman Ndiaye",
        "ovr": 75
@@ -13004,5 +13008,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "3591041b52a66628029a2aabfd34db14404b1d0f"
+ "content_hash": "029524dd7b250473a7b271293c0e34f46abcd150"
 }

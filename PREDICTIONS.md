@@ -1,6 +1,6 @@
 # World Cup 2026: match predictions
 
-Generated Wed 24 Jun 2026, 8:36am AEST. Results included through 2026-06-23. 46 of 104 matches played. 10,000 tournament simulations.
+Generated Wed 24 Jun 2026, 9:56am AEST. Results included through 2026-06-23. 46 of 104 matches played. 10,000 tournament simulations.
 
 Every probability below is a model estimate built only from match results and public squad news, not from betting odds or published predictions. A favourite can be 75% to win while its most likely exact score sits near 12 to 15%; goals spread across many scorelines, so read the two numbers separately.
 
@@ -228,7 +228,7 @@ A read-only comparison of the model's own rating order against the FIFA/Coca-Col
 - M41, Mon 22 Jun, East Rutherford: Norway v Senegal. **Played: Norway 3-2 Senegal.** Model said Norway to win 45% (draw 30%, Senegal win 25%); most likely Norway 1-0 (10%); result hit, score miss
 - M42, Mon 22 Jun, Philadelphia: France v Iraq. **Played: France 3-0 Iraq.** Model said France to win 81% (draw 14%, Iraq win 5%); most likely France 2-0 (14%); result hit, score miss
 - M61, Fri 26 Jun, Foxborough: Norway v France. **France to win 51%** (draw 28%, Norway win 21%); most likely France 1-0 (11%) *(low stakes for a settled side)*
-- M62, Fri 26 Jun, Toronto: Senegal v Iraq. **Senegal to win 54%** (draw 27%, Iraq win 19%); most likely Senegal 1-0 (11%)
+- M62, Fri 26 Jun, Toronto: Senegal v Iraq. **Senegal to win 53%** (draw 27%, Iraq win 19%); most likely Senegal 1-0 (11%)
 
 ### Group J
 

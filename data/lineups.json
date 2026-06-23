@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-23T22:36:00Z",
+ "fetched_utc": "2026-06-23T23:56:00Z",
  "matches": {
   "47": {
    "team1": {
@@ -549,10 +549,10 @@
    "team1": {
     "status": "projected",
     "xi": [
-     "Edouard Mendy",
+     "Mory Diaw",
      "El Hadji Malick Diouf",
-     "Moussa Niakhate",
      "Kalidou Koulibaly",
+     "Moussa Niakhate",
      "Krepin Diatta",
      "Pape Gueye",
      "Idrissa Gueye",
@@ -585,8 +585,8 @@
     "xi": [
      "Vozinha",
      "Joao Paulo",
-     "Diney",
      "Pico",
+     "Diney",
      "Steven Moreira",
      "Kevin Pina",
      "Garry Rodrigues",
@@ -602,8 +602,8 @@
      "Mohammed Al-Owais",
      "Moteb Al Harbi",
      "Ali Lajami",
-     "Hassan Al Tambakti",
      "Abdulelah Al-Amri",
+     "Hassan Al Tambakti",
      "Saud Abdulhamid",
      "Salem Al-Dawsari",
      "Mohamed Kanno",
@@ -623,8 +623,8 @@
      "Sebastian Caceres",
      "Guillermo Varela",
      "Federico Valverde",
-     "Rodrigo Bentancur",
      "Manuel Ugarte",
+     "Rodrigo Bentancur",
      "Maxi Araujo",
      "Agustin Canobbio",
      "Federico Vinas"
@@ -687,8 +687,8 @@
     "xi": [
      "Mostafa Shobeir",
      "Ahmed El Fotouh",
-     "Ramy Rabia",
      "Yasser Ibrahim",
+     "Ramy Rabia",
      "Mohamed Hany",
      "Mohanad Lasheen",
      "Marwan Ateya",
@@ -721,8 +721,8 @@
     "xi": [
      "Emiliano Martinez",
      "Valentin Barco",
-     "Nicolas Otamendi",
      "Marcos Senesi",
+     "Nicolas Otamendi",
      "Gonzalo Montiel",
      "Nicolas Gonzalez",
      "Exequiel Palacios",
