@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-23T20:34:00Z",
+ "fetched_utc": "2026-06-23T21:52:00Z",
  "matches": {
   "47": {
    "team1": {
@@ -71,7 +71,7 @@
   },
   "46": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Orlando Mosquera",
      "Cesar Blackman",
@@ -83,23 +83,23 @@
      "Amir Murillo",
      "Jose Luis Rodriguez",
      "Yoel Barcenas",
-     "Cecilio Waterman"
+     "Jose Fajardo"
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Dominik Livakovic",
      "Josko Gvardiol",
+     "Marin Pongracic",
      "Josip Sutalo",
-     "Duje Caleta-Car",
      "Josip Stanisic",
      "Luka Modric",
      "Mateo Kovacic",
      "Ivan Perisic",
-     "Andrej Kramaric",
      "Martin Baturina",
-     "Ante Budimir"
+     "Marco Pasalic",
+     "Petar Musa"
     ]
    }
   },
@@ -109,12 +109,12 @@
     "xi": [
      "Camilo Vargas",
      "Johan Mojica",
-     "Jhon Lucumi",
      "Davinson Sanchez",
+     "Jhon Lucumi",
      "Daniel Munoz",
-     "Gustavo Puerta",
-     "Jhon Arias",
      "Jefferson Lerma",
+     "Jhon Arias",
+     "Gustavo Puerta",
      "Luis Diaz",
      "James Rodriguez",
      "Luis Suarez"
@@ -130,8 +130,8 @@
      "Steve Kapuadi",
      "Aaron Wan-Bissaka",
      "Samuel Moutoussamy",
-     "Ngal'ayel Mukau",
      "Edo Kayembe",
+     "Ngal'ayel Mukau",
      "Cedric Bakambu",
      "Yoane Wissa"
     ]
@@ -143,8 +143,8 @@
     "xi": [
      "Gregor Kobel",
      "Ricardo Rodriguez",
-     "Nico Elvedi",
      "Manuel Akanji",
+     "Nico Elvedi",
      "Silvan Widmer",
      "Remo Freuler",
      "Granit Xhaka",
@@ -159,8 +159,8 @@
     "xi": [
      "Maxime Crepeau",
      "Richie Laryea",
-     "Luc De Fougerolles",
      "Derek Cornelius",
+     "Luc De Fougerolles",
      "Alistair Johnston",
      "Ali Ahmed",
      "Nathan Saliba",
@@ -196,9 +196,9 @@
      "Pedro Miguel",
      "Boualem Khoukhi",
      "Ayoub Al Oui",
-     "Jassem Gaber",
      "Gueye Seydinaissa Laye",
      "Karim Boudiaf",
+     "Jassem Gaber",
      "Akram Afif",
      "Edmilson Junior",
      "Yusuf Abdurisag"
@@ -265,8 +265,8 @@
      "Ricardo Ade",
      "Carlens Arcus",
      "Ruben Providence",
-     "Jean-Ricner Bellegarde",
      "Danley Jean Jacques",
+     "Jean-Ricner Bellegarde",
      "Louicius Deedson",
      "Wilson Isidor",
      "Frantzdy Pierrot"
@@ -294,9 +294,9 @@
     "status": "projected",
     "xi": [
      "Kim Seung-gyu",
-     "Kim Min-Jae",
      "Lee Gi-Hyuk",
      "Lee Han-Beom",
+     "Kim Min-Jae",
      "Kim Moon-Hwan",
      "Paik Seung-Ho",
      "Hwang In-beom",
@@ -347,8 +347,8 @@
     "xi": [
      "Hernan Galindez",
      "Willian Pacho",
-     "Piero Hincapie",
      "Alan Franco",
+     "Piero Hincapie",
      "Jordy Alcivar",
      "Pervis Estupinan",
      "John Yeboah",
@@ -363,8 +363,8 @@
     "xi": [
      "Oliver Baumann",
      "David Raum",
-     "Malick Thiaw",
      "Antonio Rudiger",
+     "Malick Thiaw",
      "Joshua Kimmich",
      "Nadiem Amiri",
      "Leon Goretzka",
@@ -380,15 +380,15 @@
     "status": "projected",
     "xi": [
      "Abdelmouhib Chamakh",
+     "Dylan Bronn",
      "Montassar Talbi",
      "Omar Rekik",
-     "Dylan Bronn",
      "Ali El Abdi",
      "Ellyes Skhiri",
      "Rani Khedira",
      "Yan Valery",
-     "Elias Saad",
      "Hannibal",
+     "Elias Saad",
      "Firas Chaouat"
     ]
    },
@@ -453,8 +453,8 @@
      "Gustavo Gomez",
      "Juan Jose Caceres",
      "Matias Galarza",
-     "Andres Cubas",
      "Damian Bobadilla",
+     "Andres Cubas",
      "Diego Gomez",
      "Julio Enciso",
      "Antonio Sanabria"
@@ -470,8 +470,8 @@
      "Harry Souttar",
      "Jacob Italiano",
      "Nestory Irankunda",
-     "Aiden O'Neill",
      "Paul Okon",
+     "Aiden O'Neill",
      "Conor Metcalfe",
      "Mohamed Toure"
     ]
@@ -521,8 +521,8 @@
      "Kristoffer Ajer",
      "Marcus Pedersen",
      "Patrick Berg",
-     "Kristian Thorstvedt",
      "Sander Berge",
+     "Kristian Thorstvedt",
      "Andreas Schjelderup",
      "Oscar Bobb",
      "Jorgen Strand Larsen"
@@ -567,8 +567,8 @@
     "xi": [
      "Ahmed Basil",
      "Merchas Doski",
-     "Zaid Tahseen",
      "Akam Hashem",
+     "Zaid Tahseen",
      "Hussein Ali",
      "Amir Al-Ammari",
      "Ibrahim Bayesh",
@@ -585,8 +585,8 @@
     "xi": [
      "Vozinha",
      "Joao Paulo",
-     "Pico",
      "Diney",
+     "Pico",
      "Steven Moreira",
      "Kevin Pina",
      "Garry Rodrigues",
@@ -601,9 +601,9 @@
     "xi": [
      "Mohammed Al-Owais",
      "Moteb Al Harbi",
-     "Abdulelah Al-Amri",
      "Ali Lajami",
      "Hassan Al Tambakti",
+     "Abdulelah Al-Amri",
      "Saud Abdulhamid",
      "Salem Al-Dawsari",
      "Mohamed Kanno",
@@ -619,11 +619,11 @@
     "xi": [
      "Fernando Muslera",
      "Juan Sanabria",
-     "Sebastian Caceres",
      "Mathias Olivera",
+     "Sebastian Caceres",
      "Guillermo Varela",
-     "Rodrigo Bentancur",
      "Federico Valverde",
+     "Rodrigo Bentancur",
      "Manuel Ugarte",
      "Maxi Araujo",
      "Agustin Canobbio",
@@ -635,12 +635,12 @@
     "xi": [
      "Unai Simon",
      "Marc Cucurella",
-     "Aymeric Laporte",
      "Pau Cubarsi",
+     "Aymeric Laporte",
      "Pedro Porro",
+     "Pedri",
      "Dani Olmo",
      "Rodri",
-     "Pedri",
      "Nico Williams",
      "Lamine Yamal",
      "Mikel Oyarzabal"
@@ -653,8 +653,8 @@
     "xi": [
      "Maxime Teremoana Crocombe",
      "Liberato Cacace",
-     "Finn Surman",
      "Michael Boxall",
+     "Finn Surman",
      "Tim Payne",
      "Marko Stamenic",
      "Joe Bell",
@@ -669,8 +669,8 @@
     "xi": [
      "Thibaut Courtois",
      "Maxim De Cuyper",
-     "Koni De Winter",
      "Brandon Mechele",
+     "Koni De Winter",
      "Thomas Meunier",
      "Youri Tielemans",
      "Nicolas Raskin",
@@ -687,8 +687,8 @@
     "xi": [
      "Mostafa Shobeir",
      "Ahmed El Fotouh",
-     "Yasser Ibrahim",
      "Ramy Rabia",
+     "Yasser Ibrahim",
      "Mohamed Hany",
      "Mohanad Lasheen",
      "Marwan Ateya",
@@ -725,8 +725,8 @@
      "Marcos Senesi",
      "Gonzalo Montiel",
      "Nicolas Gonzalez",
-     "Leandro Paredes",
      "Exequiel Palacios",
+     "Leandro Paredes",
      "Giuliano Simeone",
      "Julian Alvarez",
      "Jose Lopez"
