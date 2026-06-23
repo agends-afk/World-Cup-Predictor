@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-23T16:44:00Z",
+ "fetched_utc": "2026-06-23T17:28:00Z",
  "matches": {
   "47": {
    "team1": {
@@ -177,14 +177,14 @@
     "xi": [
      "Nikola Vasilj",
      "Sead Kolasinac",
-     "Dennis Hadzikadunic",
+     "Stjepan Radeljic",
      "Nikola Katic",
      "Amar Dedic",
-     "Amar Memic",
      "Ivan Sunjic",
-     "Benjamin Tahirovic",
+     "Ivan Basic",
      "Kerim Alajbegovic",
-     "Ermedin Demirovic",
+     "Ermin Mahmic",
+     "Esmir Bajraktarevic",
      "Edin Dzeko"
     ]
    },
@@ -265,11 +265,11 @@
      "Ricardo Ade",
      "Carlens Arcus",
      "Ruben Providence",
-     "Jean-Ricner Bellegarde",
      "Danley Jean Jacques",
+     "Jean-Ricner Bellegarde",
      "Louicius Deedson",
-     "Wilson Isidor",
-     "Frantzdy Pierrot"
+     "Frantzdy Pierrot",
+     "Wilson Isidor"
     ]
    }
   },
@@ -315,13 +315,13 @@
      "Ladislav Krejci",
      "Tomas Holes",
      "Robin Hranac",
-     "Alexandr Sojka",
-     "Pavel Sulc",
-     "Tomas Soucek",
+     "David Doudera",
      "Michal Sadilek",
+     "Lukas Cerv",
      "Vladimir Coufal",
-     "Adam Hlozek",
-     "Patrik Schick"
+     "Pavel Sulc",
+     "Denis Visinsky",
+     "Adam Hlozek"
     ]
    },
    "team2": {
@@ -347,13 +347,13 @@
     "xi": [
      "Hernan Galindez",
      "Willian Pacho",
-     "Alan Franco",
      "Piero Hincapie",
+     "Alan Franco",
      "Jordy Alcivar",
      "Pervis Estupinan",
      "John Yeboah",
-     "Pedro Vite",
      "Moises Caicedo",
+     "Pedro Vite",
      "Gonzalo Plata",
      "Enner Valencia"
     ]
@@ -387,8 +387,8 @@
      "Ellyes Skhiri",
      "Rani Khedira",
      "Yan Valery",
-     "Elias Saad",
      "Hannibal",
+     "Elias Saad",
      "Firas Chaouat"
     ]
    },
@@ -421,8 +421,8 @@
      "Ao Tanaka",
      "Kaishu Sano",
      "Yukinari Sugawara",
-     "Ritsu Doan",
      "Yuito Suzuki",
+     "Ritsu Doan",
      "Koki Ogawa"
     ]
    },
@@ -431,8 +431,8 @@
     "xi": [
      "Kristoffer Nordfeldt",
      "Victor Lindelof",
-     "Isak Hien",
      "Gustaf Lagerbielke",
+     "Isak Hien",
      "Gabriel Gudmundsson",
      "Yasin Ayari",
      "Jesper Karlstrom",
@@ -470,8 +470,8 @@
      "Harry Souttar",
      "Jacob Italiano",
      "Nestory Irankunda",
-     "Aiden O'Neill",
      "Paul Okon",
+     "Aiden O'Neill",
      "Conor Metcalfe",
      "Mohamed Toure"
     ]
@@ -483,8 +483,8 @@
     "xi": [
      "Ugurcan Cakir",
      "Ferdi Kadioglu",
-     "Abdulkerim Bardakci",
      "Merih Demiral",
+     "Abdulkerim Bardakci",
      "Mert Muldur",
      "Hakan Calhanoglu",
      "Orkun Kokcu",
@@ -521,8 +521,8 @@
      "Kristoffer Ajer",
      "Marcus Pedersen",
      "Patrick Berg",
-     "Kristian Thorstvedt",
      "Sander Berge",
+     "Kristian Thorstvedt",
      "Andreas Schjelderup",
      "Oscar Bobb",
      "Jorgen Strand Larsen"
@@ -551,8 +551,8 @@
     "xi": [
      "Edouard Mendy",
      "El Hadji Malick Diouf",
-     "Kalidou Koulibaly",
      "Moussa Niakhate",
+     "Kalidou Koulibaly",
      "Krepin Diatta",
      "Pape Gueye",
      "Idrissa Gueye",
@@ -567,13 +567,13 @@
     "xi": [
      "Ahmed Basil",
      "Merchas Doski",
-     "Akam Hashem",
      "Zaid Tahseen",
+     "Akam Hashem",
      "Hussein Ali",
      "Amir Al-Ammari",
      "Ibrahim Bayesh",
-     "Zaid Ismael",
      "Zidane Aamar Iqbal",
+     "Zaid Ismael",
      "Ahmed Qasem",
      "Ali Al Hamadi"
     ]
@@ -585,8 +585,8 @@
     "xi": [
      "Vozinha",
      "Joao Paulo",
-     "Diney",
      "Pico",
+     "Diney",
      "Steven Moreira",
      "Kevin Pina",
      "Garry Rodrigues",
@@ -638,9 +638,9 @@
      "Aymeric Laporte",
      "Pau Cubarsi",
      "Pedro Porro",
-     "Pedri",
      "Dani Olmo",
      "Rodri",
+     "Pedri",
      "Nico Williams",
      "Lamine Yamal",
      "Mikel Oyarzabal"
@@ -687,8 +687,8 @@
     "xi": [
      "Mostafa Shobeir",
      "Ahmed El Fotouh",
-     "Ramy Rabia",
      "Yasser Ibrahim",
+     "Ramy Rabia",
      "Mohamed Hany",
      "Mohanad Lasheen",
      "Marwan Ateya",
@@ -721,8 +721,8 @@
     "xi": [
      "Emiliano Martinez",
      "Facundo Medina",
-     "Nicolas Otamendi",
      "Marcos Senesi",
+     "Nicolas Otamendi",
      "Gonzalo Montiel",
      "Nicolas Gonzalez",
      "Leandro Paredes",

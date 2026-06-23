@@ -1,6 +1,6 @@
 # World Cup 2026: match predictions
 
-Generated Wed 24 Jun 2026, 2:44am AEST. Results included through 2026-06-22. 44 of 104 matches played. 10,000 tournament simulations.
+Generated Wed 24 Jun 2026, 3:28am AEST. Results included through 2026-06-22. 44 of 104 matches played. 10,000 tournament simulations.
 
 Every probability below is a model estimate built only from match results and public squad news, not from betting odds or published predictions. A favourite can be 75% to win while its most likely exact score sits near 12 to 15%; goals spread across many scorelines, so read the two numbers separately.
 
@@ -99,7 +99,7 @@ A read-only comparison of the model's own rating order against the FIFA/Coca-Col
 - M2, Thu 11 Jun, Zapopan: South Korea v Czech Republic. **Played: South Korea 2-1 Czech Republic.** Model said South Korea to win 42% (draw 30%, Czech Republic win 28%); most likely draw 1-1 (14%); result hit, score miss (pre-match view reconstructed)
 - M25, Thu 18 Jun, Atlanta: Czech Republic v South Africa. **Played: Czech Republic 1-1 South Africa.** Model said Czech Republic to win 51% (draw 28%, South Africa win 21%); most likely Czech Republic 1-0 (11%); result miss, score hit
 - M28, Thu 18 Jun, Zapopan: Mexico v South Korea. **Played: Mexico 1-0 South Korea.** Model said Mexico to win 58% (draw 26%, South Korea win 16%); most likely Mexico 1-0 (11%); result hit, score miss
-- M53, Wed 24 Jun, Mexico City: Czech Republic v Mexico. **Mexico to win 77%** (draw 17%, Czech Republic win 7%); most likely Mexico 2-0 (14%)
+- M53, Wed 24 Jun, Mexico City: Czech Republic v Mexico. **Mexico to win 78%** (draw 16%, Czech Republic win 6%); most likely Mexico 2-0 (14%)
 - M54, Wed 24 Jun, Guadalupe: South Africa v South Korea. **South Korea to win 61%** (draw 25%, South Africa win 14%); most likely South Korea 2-0 (12%)
 
 ### Group B

@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-24T02:44:21+10:00",
- "generated_aest": "Wed 24 Jun 2026, 2:44am AEST",
+ "generated": "2026-06-24T03:28:55+10:00",
+ "generated_aest": "Wed 24 Jun 2026, 3:28am AEST",
  "data_through": "2026-06-22",
  "sim_runs": 10000,
  "params": {
@@ -7905,49 +7905,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 0.621,
-    "lam_b": 2.438,
-    "p_win": 0.066,
-    "p_draw": 0.1683,
-    "p_loss": 0.7656,
+    "lam_a": 0.609,
+    "lam_b": 2.486,
+    "p_win": 0.062,
+    "p_draw": 0.1625,
+    "p_loss": 0.7756,
     "top_scores": [
      {
       "score": "0-2",
-      "p": 0.1395
+      "p": 0.1399
      },
      {
       "score": "0-3",
-      "p": 0.1133
+      "p": 0.1159
      },
      {
       "score": "0-1",
-      "p": 0.1051
+      "p": 0.1036
      },
      {
       "score": "1-2",
-      "p": 0.0866
+      "p": 0.0852
      },
      {
       "score": "1-1",
-      "p": 0.0803
+      "p": 0.0775
      }
     ],
     "outcome_scores": {
      "team2": {
       "score": "0-2",
-      "p": 0.1395
+      "p": 0.1399
      },
      "draw": {
       "score": "1-1",
-      "p": 0.0803
+      "p": 0.0775
      },
      "team1": {
       "score": "2-1",
-      "p": 0.0221
+      "p": 0.0209
      }
     },
     "modal_score": "0-2",
-    "modal_p": 0.1395
+    "modal_p": 0.1399
    },
    "prediction_base": {
     "lam_a": 0.621,
@@ -7996,13 +7996,21 @@
    },
    "lineup": {
     "team1": {
-     "elo": 0.0,
-     "delta_ovr": 0.17,
+     "elo": -10.0,
+     "delta_ovr": -1.33,
      "status": "projected",
-     "xi_mean": 76.9,
+     "xi_mean": 75.4,
      "baseline_mean": 76.7,
      "coverage": 0.91,
      "missing": [
+      {
+       "name": "Patrik Schick",
+       "ovr": 82
+      },
+      {
+       "name": "Tomáš Souček",
+       "ovr": 79
+      },
       {
        "name": "Jan Kuchta",
        "ovr": 75
@@ -12975,5 +12983,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "4f71e47e35eec8e749a79e7551f4c4b80d46cc61"
+ "content_hash": "184b4116fcadb1cefb90062d4241798c31006e63"
 }
