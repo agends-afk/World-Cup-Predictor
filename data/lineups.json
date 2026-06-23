@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-22T22:55:00Z",
+ "fetched_utc": "2026-06-23T01:18:00Z",
  "matches": {
   "43": {
    "team1": {
@@ -449,8 +449,8 @@
     "xi": [
      "Matej Kovar",
      "Ladislav Krejci",
-     "Tomas Holes",
      "Robin Hranac",
+     "Tomas Holes",
      "Alexandr Sojka",
      "Pavel Sulc",
      "Tomas Soucek",
@@ -463,17 +463,17 @@
    "team2": {
     "status": "projected",
     "xi": [
-     "Guillermo Ochoa",
+     "Jose Rangel",
      "Mateo Chavez",
-     "Cesar Montes",
-     "Johan Vasquez",
      "Israel Reyes",
+     "Cesar Montes",
+     "Jorge Eduardo Sanchez",
      "Edson Alvarez",
-     "Alexis Vega",
-     "Alvaro Fidalgo",
-     "Gilberto Mora",
-     "Cesar Huerta",
-     "Santiago Gimenez"
+     "Julian Quinones",
+     "Obed Vargas",
+     "Luis Romo",
+     "Roberto Alvarado",
+     "Raul Jimenez"
     ]
    }
   },
@@ -483,8 +483,8 @@
     "xi": [
      "Hernan Galindez",
      "Willian Pacho",
-     "Piero Hincapie",
      "Alan Franco",
+     "Piero Hincapie",
      "Jordy Alcivar",
      "Pervis Estupinan",
      "John Yeboah",
@@ -499,8 +499,8 @@
     "xi": [
      "Oliver Baumann",
      "David Raum",
-     "Malick Thiaw",
      "Antonio Rudiger",
+     "Malick Thiaw",
      "Joshua Kimmich",
      "Nadiem Amiri",
      "Leon Goretzka",
@@ -516,15 +516,15 @@
     "status": "projected",
     "xi": [
      "Abdelmouhib Chamakh",
-     "Dylan Bronn",
      "Montassar Talbi",
      "Omar Rekik",
+     "Dylan Bronn",
      "Ali El Abdi",
      "Ellyes Skhiri",
      "Rani Khedira",
      "Yan Valery",
-     "Hannibal",
      "Elias Saad",
+     "Hannibal",
      "Firas Chaouat"
     ]
    },
@@ -606,8 +606,8 @@
      "Harry Souttar",
      "Jacob Italiano",
      "Nestory Irankunda",
-     "Paul Okon",
      "Aiden O'Neill",
+     "Paul Okon",
      "Conor Metcalfe",
      "Mohamed Toure"
     ]
@@ -619,8 +619,8 @@
     "xi": [
      "Ugurcan Cakir",
      "Ferdi Kadioglu",
-     "Merih Demiral",
      "Abdulkerim Bardakci",
+     "Merih Demiral",
      "Mert Muldur",
      "Orkun Kokcu",
      "Hakan Calhanoglu",
@@ -653,8 +653,8 @@
     "xi": [
      "Vozinha",
      "Joao Paulo",
-     "Diney",
      "Pico",
+     "Diney",
      "Steven Moreira",
      "Kevin Pina",
      "Garry Rodrigues",
@@ -687,11 +687,11 @@
     "xi": [
      "Fernando Muslera",
      "Juan Sanabria",
-     "Mathias Olivera",
      "Sebastian Caceres",
+     "Mathias Olivera",
      "Guillermo Varela",
-     "Federico Valverde",
      "Rodrigo Bentancur",
+     "Federico Valverde",
      "Manuel Ugarte",
      "Maxi Araujo",
      "Agustin Canobbio",
