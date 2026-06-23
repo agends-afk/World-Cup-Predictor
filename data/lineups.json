@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-23T17:28:00Z",
+ "fetched_utc": "2026-06-23T19:05:00Z",
  "matches": {
   "47": {
    "team1": {
@@ -37,12 +37,12 @@
   },
   "45": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Jordan Pickford",
-     "Nico O'Reilly",
-     "John Stones",
+     "Djed Spence",
      "Ezri Konsa",
+     "Marc Guehi",
      "Reece James",
      "Declan Rice",
      "Elliot Anderson",
@@ -53,18 +53,18 @@
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Benjamin Asare",
      "Gideon Mensah",
      "Jonas Adjetey",
      "Jerome Opoku",
      "Marvin Senaya",
+     "Kwasi Sibo",
      "Caleb Yirenkyi",
-     "Elisha Owusu",
      "Thomas Partey",
+     "Inaki Williams",
      "Antoine Semenyo",
-     "Ernest Nuamah",
      "Jordan Ayew"
     ]
    }
@@ -180,8 +180,8 @@
      "Stjepan Radeljic",
      "Nikola Katic",
      "Amar Dedic",
-     "Ivan Sunjic",
      "Ivan Basic",
+     "Ivan Sunjic",
      "Kerim Alajbegovic",
      "Ermin Mahmic",
      "Esmir Bajraktarevic",
@@ -196,8 +196,8 @@
      "Pedro Miguel",
      "Boualem Khoukhi",
      "Ayoub Al Oui",
-     "Gueye Seydinaissa Laye",
      "Jassem Gaber",
+     "Gueye Seydinaissa Laye",
      "Karim Boudiaf",
      "Akram Afif",
      "Edmilson Junior",
@@ -265,11 +265,11 @@
      "Ricardo Ade",
      "Carlens Arcus",
      "Ruben Providence",
-     "Danley Jean Jacques",
      "Jean-Ricner Bellegarde",
+     "Danley Jean Jacques",
      "Louicius Deedson",
-     "Frantzdy Pierrot",
-     "Wilson Isidor"
+     "Wilson Isidor",
+     "Frantzdy Pierrot"
     ]
    }
   },
@@ -316,8 +316,8 @@
      "Tomas Holes",
      "Robin Hranac",
      "David Doudera",
-     "Michal Sadilek",
      "Lukas Cerv",
+     "Michal Sadilek",
      "Vladimir Coufal",
      "Pavel Sulc",
      "Denis Visinsky",
@@ -387,8 +387,8 @@
      "Ellyes Skhiri",
      "Rani Khedira",
      "Yan Valery",
-     "Hannibal",
      "Elias Saad",
+     "Hannibal",
      "Firas Chaouat"
     ]
    },
@@ -421,8 +421,8 @@
      "Ao Tanaka",
      "Kaishu Sano",
      "Yukinari Sugawara",
-     "Yuito Suzuki",
      "Ritsu Doan",
+     "Yuito Suzuki",
      "Koki Ogawa"
     ]
    },
@@ -431,8 +431,8 @@
     "xi": [
      "Kristoffer Nordfeldt",
      "Victor Lindelof",
-     "Gustaf Lagerbielke",
      "Isak Hien",
+     "Gustaf Lagerbielke",
      "Gabriel Gudmundsson",
      "Yasin Ayari",
      "Jesper Karlstrom",
@@ -449,8 +449,8 @@
     "xi": [
      "Orlando Gill",
      "Junior Alonso",
-     "Gustavo Gomez",
      "Omar Alderete",
+     "Gustavo Gomez",
      "Juan Jose Caceres",
      "Matias Galarza",
      "Andres Cubas",
@@ -470,8 +470,8 @@
      "Harry Souttar",
      "Jacob Italiano",
      "Nestory Irankunda",
-     "Paul Okon",
      "Aiden O'Neill",
+     "Paul Okon",
      "Conor Metcalfe",
      "Mohamed Toure"
     ]
@@ -483,11 +483,11 @@
     "xi": [
      "Ugurcan Cakir",
      "Ferdi Kadioglu",
-     "Merih Demiral",
      "Abdulkerim Bardakci",
+     "Merih Demiral",
      "Mert Muldur",
-     "Hakan Calhanoglu",
      "Orkun Kokcu",
+     "Hakan Calhanoglu",
      "Kenan Yildiz",
      "Arda Guler",
      "Baris Yilmaz",
@@ -521,8 +521,8 @@
      "Kristoffer Ajer",
      "Marcus Pedersen",
      "Patrick Berg",
-     "Sander Berge",
      "Kristian Thorstvedt",
+     "Sander Berge",
      "Andreas Schjelderup",
      "Oscar Bobb",
      "Jorgen Strand Larsen"
@@ -601,9 +601,9 @@
     "xi": [
      "Mohammed Al-Owais",
      "Moteb Al Harbi",
+     "Abdulelah Al-Amri",
      "Ali Lajami",
      "Hassan Al Tambakti",
-     "Abdulelah Al-Amri",
      "Saud Abdulhamid",
      "Salem Al-Dawsari",
      "Mohamed Kanno",
@@ -672,8 +672,8 @@
      "Koni De Winter",
      "Brandon Mechele",
      "Thomas Meunier",
-     "Nicolas Raskin",
      "Youri Tielemans",
+     "Nicolas Raskin",
      "Leandro Trossard",
      "Kevin De Bruyne",
      "Alexis Saelemaekers",
@@ -721,8 +721,8 @@
     "xi": [
      "Emiliano Martinez",
      "Facundo Medina",
-     "Marcos Senesi",
      "Nicolas Otamendi",
+     "Marcos Senesi",
      "Gonzalo Montiel",
      "Nicolas Gonzalez",
      "Leandro Paredes",

@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-24T03:28:55+10:00",
- "generated_aest": "Wed 24 Jun 2026, 3:28am AEST",
+ "generated": "2026-06-24T05:05:42+10:00",
+ "generated_aest": "Wed 24 Jun 2026, 5:05am AEST",
  "data_through": "2026-06-22",
  "sim_runs": 10000,
  "params": {
@@ -6878,49 +6878,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 2.918,
-    "lam_b": 0.519,
-    "p_win": 0.8497,
-    "p_draw": 0.1155,
-    "p_loss": 0.0349,
+    "lam_a": 2.746,
+    "lam_b": 0.552,
+    "p_win": 0.8235,
+    "p_draw": 0.1327,
+    "p_loss": 0.0438,
     "top_scores": [
      {
       "score": "2-0",
-      "p": 0.1369
+      "p": 0.1394
      },
      {
       "score": "3-0",
-      "p": 0.1332
-     },
-     {
-      "score": "4-0",
-      "p": 0.0971
+      "p": 0.1276
      },
      {
       "score": "1-0",
-      "p": 0.0875
+      "p": 0.0943
+     },
+     {
+      "score": "4-0",
+      "p": 0.0876
      },
      {
       "score": "2-1",
-      "p": 0.0711
+      "p": 0.0769
      }
     ],
     "outcome_scores": {
      "team1": {
       "score": "2-0",
-      "p": 0.1369
+      "p": 0.1394
      },
      "draw": {
       "score": "1-1",
-      "p": 0.0551
+      "p": 0.0633
      },
      "team2": {
       "score": "1-2",
-      "p": 0.0127
+      "p": 0.0155
      }
     },
     "modal_score": "2-0",
-    "modal_p": 0.1369
+    "modal_p": 0.1394
    },
    "prediction_base": {
     "lam_a": 2.978,
@@ -6969,24 +6969,24 @@
    },
    "lineup": {
     "team1": {
-     "elo": -10.7,
-     "delta_ovr": -1.43,
-     "status": "projected",
-     "xi_mean": 83.3,
+     "elo": -42.3,
+     "delta_ovr": -2.82,
+     "status": "confirmed",
+     "xi_mean": 81.9,
      "baseline_mean": 84.7,
-     "coverage": 0.91,
+     "coverage": 1.0,
      "missing": [
       {
        "name": "Bukayo Saka",
        "ovr": 87
       },
       {
-       "name": "Ollie Watkins",
+       "name": "John Stones",
        "ovr": 85
       },
       {
-       "name": "Marc Guéhi",
-       "ovr": 81
+       "name": "Ollie Watkins",
+       "ovr": 85
       },
       {
        "name": "Eberechi Eze",
@@ -12983,5 +12983,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "184b4116fcadb1cefb90062d4241798c31006e63"
+ "content_hash": "da2a1d2cfe463a664d187eb18adaf3d9a3fb22c5"
 }
