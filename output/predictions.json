@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-23T23:45:59+10:00",
- "generated_aest": "Tue 23 Jun 2026, 11:45pm AEST",
+ "generated": "2026-06-24T00:48:57+10:00",
+ "generated_aest": "Wed 24 Jun 2026, 12:48am AEST",
  "data_through": "2026-06-22",
  "sim_runs": 10000,
  "params": {
@@ -8281,23 +8281,23 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.881,
-    "lam_b": 0.805,
-    "p_win": 0.6145,
-    "p_draw": 0.2445,
-    "p_loss": 0.141,
+    "lam_a": 1.796,
+    "lam_b": 0.843,
+    "p_win": 0.5854,
+    "p_draw": 0.2562,
+    "p_loss": 0.1584,
     "top_scores": [
      {
-      "score": "2-0",
-      "p": 0.1205
+      "score": "1-1",
+      "p": 0.1222
      },
      {
-      "score": "1-1",
-      "p": 0.1166
+      "score": "2-0",
+      "p": 0.1152
      },
      {
       "score": "1-0",
-      "p": 0.1147
+      "p": 0.1142
      },
      {
       "score": "2-1",
@@ -8305,25 +8305,25 @@
      },
      {
       "score": "0-0",
-      "p": 0.0816
+      "p": 0.0855
      }
     ],
     "outcome_scores": {
-     "team1": {
-      "score": "2-0",
-      "p": 0.1205
-     },
      "draw": {
       "score": "1-1",
-      "p": 0.1166
+      "p": 0.1222
+     },
+     "team1": {
+      "score": "2-0",
+      "p": 0.1152
      },
      "team2": {
-      "score": "1-2",
-      "p": 0.0416
+      "score": "0-1",
+      "p": 0.0461
      }
     },
-    "modal_score": "2-0",
-    "modal_p": 0.1205
+    "modal_score": "1-1",
+    "modal_p": 0.1222
    },
    "prediction_base": {
     "lam_a": 1.832,
@@ -8372,24 +8372,28 @@
    },
    "lineup": {
     "team1": {
-     "elo": -11.6,
-     "delta_ovr": -1.55,
+     "elo": -35.5,
+     "delta_ovr": -4.73,
      "status": "projected",
-     "xi_mean": 75.5,
+     "xi_mean": 72.3,
      "baseline_mean": 77,
      "coverage": 1.0,
      "missing": [
+      {
+       "name": "Daichi Kamada",
+       "ovr": 81
+      },
       {
        "name": "Takefusa Kubo",
        "ovr": 81
       },
       {
-       "name": "Yukinari Sugawara",
-       "ovr": 77
+       "name": "Hiroki Ito",
+       "ovr": 79
       },
       {
-       "name": "Daizen Maeda",
-       "ovr": 74
+       "name": "Takehiro Tomiyasu",
+       "ovr": 78
       }
      ]
     },
@@ -12967,5 +12971,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "6a5810377bea63d4750071dd5074ce48d5a9e3db"
+ "content_hash": "0c6a29c8b09cadd94b5b1de5486e99f596108325"
 }
