@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-24T00:48:57+10:00",
- "generated_aest": "Wed 24 Jun 2026, 12:48am AEST",
+ "generated": "2026-06-24T01:50:57+10:00",
+ "generated_aest": "Wed 24 Jun 2026, 1:50am AEST",
  "data_through": "2026-06-22",
  "sim_runs": 10000,
  "params": {
@@ -7140,49 +7140,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.877,
-    "lam_b": 0.807,
-    "p_win": 0.6132,
-    "p_draw": 0.2451,
-    "p_loss": 0.1418,
+    "lam_a": 1.819,
+    "lam_b": 0.833,
+    "p_win": 0.5933,
+    "p_draw": 0.2531,
+    "p_loss": 0.1536,
     "top_scores": [
      {
-      "score": "2-0",
-      "p": 0.1203
+      "score": "1-1",
+      "p": 0.1207
      },
      {
-      "score": "1-1",
-      "p": 0.1169
+      "score": "2-0",
+      "p": 0.1167
      },
      {
       "score": "1-0",
-      "p": 0.1147
+      "p": 0.1144
      },
      {
       "score": "2-1",
-      "p": 0.0971
+      "p": 0.0972
      },
      {
       "score": "0-0",
-      "p": 0.0817
+      "p": 0.0844
      }
     ],
     "outcome_scores": {
-     "team1": {
-      "score": "2-0",
-      "p": 0.1203
-     },
      "draw": {
       "score": "1-1",
-      "p": 0.1169
+      "p": 0.1207
+     },
+     "team1": {
+      "score": "2-0",
+      "p": 0.1167
      },
      "team2": {
-      "score": "1-2",
-      "p": 0.0417
+      "score": "0-1",
+      "p": 0.0449
      }
     },
-    "modal_score": "2-0",
-    "modal_p": 0.1203
+    "modal_score": "1-1",
+    "modal_p": 0.1207
    },
    "prediction_base": {
     "lam_a": 1.947,
@@ -7231,10 +7231,10 @@
    },
    "lineup": {
     "team1": {
-     "elo": -19.1,
-     "delta_ovr": -2.55,
-     "status": "projected",
-     "xi_mean": 82.5,
+     "elo": -35.5,
+     "delta_ovr": -2.36,
+     "status": "confirmed",
+     "xi_mean": 82.6,
      "baseline_mean": 85,
      "coverage": 1.0,
      "missing": [
@@ -7247,8 +7247,8 @@
        "ovr": 86
       },
       {
-       "name": "Nuno Mendes",
-       "ovr": 83
+       "name": "Diogo Dalot",
+       "ovr": 82
       }
      ]
     },
@@ -12971,5 +12971,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "0c6a29c8b09cadd94b5b1de5486e99f596108325"
+ "content_hash": "ccf8b1ff963154f1760b0ba0f49f014777cd83d5"
 }
