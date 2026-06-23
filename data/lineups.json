@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-23T04:58:00Z",
+ "fetched_utc": "2026-06-23T06:30:00Z",
  "matches": {
   "43": {
    "team1": {
@@ -647,6 +647,74 @@
     ]
    }
   },
+  "61": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Orjan Nyland",
+     "David Moller Wolfe",
+     "Torbjorn Heggem",
+     "Kristoffer Ajer",
+     "Marcus Pedersen",
+     "Fredrik Aursnes",
+     "Sander Berge",
+     "Martin Odegaard",
+     "Antonio Nusa",
+     "Alexander Sorloth",
+     "Erling Haaland"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Mike Maignan",
+     "Theo Hernandez",
+     "Dayot Upamecano",
+     "William Saliba",
+     "Jules Kounde",
+     "Manu Kone",
+     "Aurelien Tchouameni",
+     "Desire Doue",
+     "Rayan Cherki",
+     "Michael Olise",
+     "Kylian Mbappe"
+    ]
+   }
+  },
+  "62": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Edouard Mendy",
+     "El Hadji Malick Diouf",
+     "Moussa Niakhate",
+     "Kalidou Koulibaly",
+     "Krepin Diatta",
+     "Pape Gueye",
+     "Idrissa Gueye",
+     "Sadio Mane",
+     "Lamine Camara",
+     "Ismaila Sarr",
+     "Nicolas Jackson"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Ahmed Basil",
+     "Merchas Doski",
+     "Zaid Tahseen",
+     "Akam Hashem",
+     "Hussein Ali",
+     "Amir Al-Ammari",
+     "Ibrahim Bayesh",
+     "Zidane Aamar Iqbal",
+     "Zaid Ismael",
+     "Ahmed Qasem",
+     "Ali Al Hamadi"
+    ]
+   }
+  },
   "65": {
    "team1": {
     "status": "projected",
@@ -670,8 +738,8 @@
      "Mohammed Al-Owais",
      "Moteb Al Harbi",
      "Ali Lajami",
-     "Abdulelah Al-Amri",
      "Hassan Al Tambakti",
+     "Abdulelah Al-Amri",
      "Saud Abdulhamid",
      "Salem Al-Dawsari",
      "Mohamed Kanno",
@@ -703,12 +771,12 @@
     "xi": [
      "Unai Simon",
      "Marc Cucurella",
-     "Pau Cubarsi",
      "Aymeric Laporte",
+     "Pau Cubarsi",
      "Pedro Porro",
-     "Pedri",
      "Dani Olmo",
      "Rodri",
+     "Pedri",
      "Nico Williams",
      "Lamine Yamal",
      "Mikel Oyarzabal"
@@ -721,8 +789,8 @@
     "xi": [
      "Maxime Teremoana Crocombe",
      "Liberato Cacace",
-     "Michael Boxall",
      "Finn Surman",
+     "Michael Boxall",
      "Tim Payne",
      "Marko Stamenic",
      "Joe Bell",
@@ -737,8 +805,8 @@
     "xi": [
      "Thibaut Courtois",
      "Maxim De Cuyper",
-     "Brandon Mechele",
      "Koni De Winter",
+     "Brandon Mechele",
      "Thomas Meunier",
      "Nicolas Raskin",
      "Youri Tielemans",
@@ -755,8 +823,8 @@
     "xi": [
      "Mostafa Shobeir",
      "Ahmed El Fotouh",
-     "Ramy Rabia",
      "Yasser Ibrahim",
+     "Ramy Rabia",
      "Mohamed Hany",
      "Mohanad Lasheen",
      "Marwan Ateya",
@@ -789,8 +857,8 @@
     "xi": [
      "Emiliano Martinez",
      "Facundo Medina",
-     "Marcos Senesi",
      "Nicolas Otamendi",
+     "Marcos Senesi",
      "Gonzalo Montiel",
      "Nicolas Gonzalez",
      "Leandro Paredes",
