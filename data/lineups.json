@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-24T11:10:00Z",
+ "fetched_utc": "2026-06-24T15:08:00Z",
  "matches": {
   "51": {
    "team1": {
@@ -316,12 +316,12 @@
      "Omar Alderete",
      "Gustavo Gomez",
      "Juan Jose Caceres",
-     "Matias Galarza",
-     "Damian Bobadilla",
+     "Mauricio",
      "Andres Cubas",
+     "Matias Galarza",
      "Diego Gomez",
      "Julio Enciso",
-     "Antonio Sanabria"
+     "Gabriel Avalos"
     ]
    },
    "team2": {
@@ -347,8 +347,8 @@
     "xi": [
      "Ugurcan Cakir",
      "Ferdi Kadioglu",
-     "Abdulkerim Bardakci",
      "Merih Demiral",
+     "Abdulkerim Bardakci",
      "Mert Muldur",
      "Orkun Kokcu",
      "Hakan Calhanoglu",
@@ -366,8 +366,8 @@
      "Miles Robinson",
      "Mark McKenzie",
      "Alex Freeman",
-     "Sebastian Berhalter",
      "Malik Tillman",
+     "Sebastian Berhalter",
      "Giovanni Reyna",
      "Weston McKennie",
      "Sergino Dest",
@@ -381,12 +381,12 @@
     "xi": [
      "Orjan Nyland",
      "David Moller Wolfe",
-     "Kristoffer Ajer",
      "Leo Ostigard",
+     "Kristoffer Ajer",
      "Marcus Pedersen",
      "Patrick Berg",
-     "Kristian Thorstvedt",
      "Sander Berge",
+     "Kristian Thorstvedt",
      "Andreas Schjelderup",
      "Oscar Bobb",
      "Jorgen Strand Larsen"
@@ -431,8 +431,8 @@
     "xi": [
      "Ahmed Basil",
      "Merchas Doski",
-     "Zaid Tahseen",
      "Akam Hashem",
+     "Zaid Tahseen",
      "Hussein Ali",
      "Amir Al-Ammari",
      "Ibrahim Bayesh",
@@ -449,8 +449,8 @@
     "xi": [
      "Vozinha",
      "Joao Paulo",
-     "Pico",
      "Diney",
+     "Pico",
      "Steven Moreira",
      "Kevin Pina",
      "Garry Rodrigues",
@@ -482,16 +482,16 @@
     "status": "projected",
     "xi": [
      "Fernando Muslera",
-     "Juan Sanabria",
-     "Sebastian Caceres",
      "Mathias Olivera",
+     "Sebastian Caceres",
+     "Jose Maria Gimenez",
      "Guillermo Varela",
      "Rodrigo Bentancur",
      "Federico Valverde",
      "Manuel Ugarte",
      "Maxi Araujo",
      "Agustin Canobbio",
-     "Federico Vinas"
+     "Darwin Nunez"
     ]
    },
    "team2": {
@@ -536,8 +536,8 @@
      "Brandon Mechele",
      "Koni De Winter",
      "Thomas Meunier",
-     "Nicolas Raskin",
      "Youri Tielemans",
+     "Nicolas Raskin",
      "Leandro Trossard",
      "Kevin De Bruyne",
      "Alexis Saelemaekers",
@@ -635,8 +635,8 @@
     "xi": [
      "Jordan Pickford",
      "Nico O'Reilly",
-     "Ezri Konsa",
      "Marc Guehi",
+     "Ezri Konsa",
      "Reece James",
      "Eberechi Eze",
      "Elliot Anderson",
@@ -653,11 +653,11 @@
     "xi": [
      "Camilo Vargas",
      "Johan Mojica",
-     "Davinson Sanchez",
      "Jhon Lucumi",
+     "Davinson Sanchez",
      "Daniel Munoz",
-     "Jefferson Lerma",
      "Jhon Arias",
+     "Jefferson Lerma",
      "Gustavo Puerta",
      "Luis Diaz",
      "James Rodriguez",
@@ -709,8 +709,8 @@
      "Akmal Mozgovoy",
      "Otabek Shukurov",
      "Bekhruz Karimov",
-     "Aziz Ganiev",
      "Abbosbek Fayzullaev",
+     "Aziz Ganiev",
      "Eldor Shomurodov"
     ]
    }
@@ -755,8 +755,8 @@
     "xi": [
      "Yazeed Mo'ien Hasan Abulaila",
      "Husam Ali Mohammad Abu Dahab",
-     "Yazan Al-Arab",
      "Abdallah Mousa Musallam Nasib",
+     "Yazan Al-Arab",
      "Mohannad Abu Taha",
      "Noor Al Rawabdeh",
      "Nizar Mahmoud Ahmed Al Rashdan",

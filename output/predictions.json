@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-24T21:10:56+10:00",
- "generated_aest": "Wed 24 Jun 2026, 9:10pm AEST",
+ "generated": "2026-06-25T01:09:05+10:00",
+ "generated_aest": "Thu 25 Jun 2026, 1:09am AEST",
  "data_through": "2026-06-23",
  "sim_runs": 10000,
  "params": {
@@ -8761,11 +8761,11 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.25,
-    "lam_b": 1.212,
-    "p_win": 0.3561,
-    "p_draw": 0.306,
-    "p_loss": 0.3379,
+    "lam_a": 1.244,
+    "lam_b": 1.218,
+    "p_win": 0.3532,
+    "p_draw": 0.3061,
+    "p_loss": 0.3407,
     "top_scores": [
      {
       "score": "1-1",
@@ -8777,15 +8777,15 @@
      },
      {
       "score": "1-0",
-      "p": 0.0898
+      "p": 0.0893
      },
      {
       "score": "0-1",
-      "p": 0.0866
+      "p": 0.0871
      },
      {
       "score": "2-1",
-      "p": 0.0807
+      "p": 0.0804
      }
     ],
     "outcome_scores": {
@@ -8795,11 +8795,11 @@
      },
      "team1": {
       "score": "1-0",
-      "p": 0.0898
+      "p": 0.0893
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0866
+      "p": 0.0871
      }
     },
     "modal_score": "1-1",
@@ -8852,10 +8852,10 @@
    },
    "lineup": {
     "team1": {
-     "elo": -26.5,
-     "delta_ovr": -3.54,
+     "elo": -29.0,
+     "delta_ovr": -3.87,
      "status": "projected",
-     "xi_mean": 70.6,
+     "xi_mean": 70.2,
      "baseline_mean": 74.1,
      "coverage": 0.82,
      "missing": [
@@ -8868,12 +8868,12 @@
        "ovr": 78
       },
       {
-       "name": "Ramón Sosa",
-       "ovr": 75
+       "name": "Antonio Sanabria",
+       "ovr": 77
       },
       {
-       "name": "Gabriel Ávalos",
-       "ovr": 74
+       "name": "Ramón Sosa",
+       "ovr": 75
       }
      ]
     },
@@ -9492,49 +9492,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 0.691,
-    "lam_b": 2.192,
-    "p_win": 0.0921,
-    "p_draw": 0.2008,
-    "p_loss": 0.7071,
+    "lam_a": 0.716,
+    "lam_b": 2.115,
+    "p_win": 0.1024,
+    "p_draw": 0.2116,
+    "p_loss": 0.6861,
     "top_scores": [
      {
       "score": "0-2",
-      "p": 0.1345
+      "p": 0.1318
      },
      {
       "score": "0-1",
-      "p": 0.1116
-     },
-     {
-      "score": "0-3",
-      "p": 0.0983
+      "p": 0.1131
      },
      {
       "score": "1-1",
-      "p": 0.0958
+      "p": 0.1009
      },
      {
       "score": "1-2",
+      "p": 0.0944
+     },
+     {
+      "score": "0-3",
       "p": 0.0929
      }
     ],
     "outcome_scores": {
      "team2": {
       "score": "0-2",
-      "p": 0.1345
+      "p": 0.1318
      },
      "draw": {
       "score": "1-1",
-      "p": 0.0958
+      "p": 0.1009
      },
      "team1": {
       "score": "2-1",
-      "p": 0.0293
+      "p": 0.032
      }
     },
     "modal_score": "0-2",
-    "modal_p": 0.1345
+    "modal_p": 0.1318
    },
    "prediction_base": {
     "lam_a": 0.73,
@@ -9583,21 +9583,13 @@
    },
    "lineup": {
     "team1": {
-     "elo": -28.8,
-     "delta_ovr": -3.84,
+     "elo": -10.0,
+     "delta_ovr": -1.33,
      "status": "projected",
-     "xi_mean": 76.9,
+     "xi_mean": 79.4,
      "baseline_mean": 80.7,
-     "coverage": 0.82,
+     "coverage": 0.91,
      "missing": [
-      {
-       "name": "José María Giménez",
-       "ovr": 83
-      },
-      {
-       "name": "Darwin Núñez",
-       "ovr": 82
-      },
       {
        "name": "Santiago Bueno",
        "ovr": 77
@@ -9605,6 +9597,10 @@
       {
        "name": "Jonathan Rodríguez",
        "ovr": 77
+      },
+      {
+       "name": "Rodrigo Zalazar",
+       "ovr": 76
       }
      ]
     },
@@ -13355,5 +13351,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "44327c8e080fd26a27f5a8651e6af62777772947"
+ "content_hash": "1cb7aba92d14b57be80a6091f490a2e308bcd56f"
 }

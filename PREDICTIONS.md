@@ -1,6 +1,6 @@
 # World Cup 2026: match predictions
 
-Generated Wed 24 Jun 2026, 9:10pm AEST. Results included through 2026-06-23. 48 of 104 matches played. 10,000 tournament simulations.
+Generated Thu 25 Jun 2026, 1:09am AEST. Results included through 2026-06-23. 48 of 104 matches played. 10,000 tournament simulations.
 
 Every probability below is a model estimate built only from match results and public squad news, not from betting odds or published predictions. A favourite can be 75% to win while its most likely exact score sits near 12 to 15%; goals spread across many scorelines, so read the two numbers separately.
 
@@ -148,7 +148,7 @@ A read-only comparison of the model's own rating order against the FIFA/Coca-Col
 - M31, Fri 19 Jun, Santa Clara: Turkey v Paraguay. **Played: Turkey 0-1 Paraguay.** Model said Turkey to win 48% (draw 29%, Paraguay win 23%); most likely Turkey 1-0 (11%); result miss, score miss
 - M32, Fri 19 Jun, Seattle: United States v Australia. **Played: United States 2-0 Australia.** Model said United States to win 38% (draw 30%, Australia win 31%); most likely United States 1-0 (9%); result hit, score miss
 - M59, Thu 25 Jun, Inglewood: Turkey v United States. **United States to win 47%** (draw 29%, Turkey win 24%); most likely United States 1-0 (11%)
-- M60, Thu 25 Jun, Santa Clara: Paraguay v Australia. **Paraguay to win 36%** (draw 31%, Australia win 34%); most likely Paraguay 1-0 (9%)
+- M60, Thu 25 Jun, Santa Clara: Paraguay v Australia. **Paraguay to win 35%** (draw 31%, Australia win 34%); most likely Paraguay 1-0 (9%)
 
 ### Group E
 
@@ -212,7 +212,7 @@ A read-only comparison of the model's own rating order against the FIFA/Coca-Col
 - M37, Sun 21 Jun, Miami Gardens: Uruguay v Cape Verde. **Played: Uruguay 2-2 Cape Verde.** Model said Uruguay to win 57% (draw 26%, Cape Verde win 17%); most likely Uruguay 1-0 (11%); result miss, score miss
 - M38, Sun 21 Jun, Atlanta: Spain v Saudi Arabia. **Played: Spain 4-0 Saudi Arabia.** Model said Spain to win 86% (draw 11%, Saudi Arabia win 3%); most likely Spain 2-0 (14%); result hit, score miss
 - M65, Fri 26 Jun, Houston: Cape Verde v Saudi Arabia. **Cape Verde to win 36%** (draw 31%, Saudi Arabia win 34%); most likely Cape Verde 1-0 (9%)
-- M66, Fri 26 Jun, Zapopan: Uruguay v Spain. **Spain to win 71%** (draw 20%, Uruguay win 9%); most likely Spain 2-0 (13%) *(low stakes for a settled side)*
+- M66, Fri 26 Jun, Zapopan: Uruguay v Spain. **Spain to win 69%** (draw 21%, Uruguay win 10%); most likely Spain 2-0 (13%) *(low stakes for a settled side)*
 
 ### Group I
 
