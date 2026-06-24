@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-24T01:10:00Z",
+ "fetched_utc": "2026-06-24T04:50:00Z",
  "matches": {
   "47": {
    "team1": {
@@ -715,18 +715,172 @@
     ]
    }
   },
+  "68": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Dominik Livakovic",
+     "Josko Gvardiol",
+     "Marin Pongracic",
+     "Josip Sutalo",
+     "Josip Stanisic",
+     "Luka Modric",
+     "Mateo Kovacic",
+     "Ivan Perisic",
+     "Martin Baturina",
+     "Marco Pasalic",
+     "Ante Budimir"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Benjamin Asare",
+     "Gideon Mensah",
+     "Jonas Adjetey",
+     "Jerome Opoku",
+     "Marvin Senaya",
+     "Thomas Partey",
+     "Antoine Semenyo",
+     "Caleb Yirenkyi",
+     "Kwasi Sibo",
+     "Inaki Williams",
+     "Jordan Ayew"
+    ]
+   }
+  },
+  "67": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Orlando Mosquera",
+     "Cesar Blackman",
+     "Jose Cordoba",
+     "Jiovany Ramos",
+     "Andres Andrade Cedeno",
+     "Amir Murillo",
+     "Jose Luis Rodriguez",
+     "Yoel Barcenas",
+     "Carlos Harvey",
+     "Cristian Martinez",
+     "Cecilio Waterman"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Jordan Pickford",
+     "Nico O'Reilly",
+     "Marc Guehi",
+     "Ezri Konsa",
+     "Reece James",
+     "Eberechi Eze",
+     "Elliot Anderson",
+     "Marcus Rashford",
+     "Jude Bellingham",
+     "Noni Madueke",
+     "Harry Kane"
+    ]
+   }
+  },
+  "71": {
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Diogo Costa",
+     "Nuno Mendes",
+     "Renato Veiga",
+     "Ruben Dias",
+     "Joao Cancelo",
+     "Vitinha",
+     "Joao Neves",
+     "Joao Felix",
+     "Bruno Fernandes",
+     "Pedro Neto",
+     "Cristiano Ronaldo"
+    ]
+   }
+  },
+  "72": {
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Abduvohid Ne'matov",
+     "Rustamjon Ashurmatov",
+     "Abdukodir Khusanov",
+     "Abdulla Abdullaev",
+     "Khojiakbar Alijonov",
+     "Akmal Mozgovoy",
+     "Otabek Shukurov",
+     "Bekhruz Karimov",
+     "Abbosbek Fayzullaev",
+     "Aziz Ganiev",
+     "Eldor Shomurodov"
+    ]
+   }
+  },
+  "69": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Luca Zidane",
+     "Rayan Ait-Nouri",
+     "Ramy Bensebaini",
+     "Aissa Mandi",
+     "Rafik Belghali",
+     "Nabil Bentaleb",
+     "Hicham Boudaoui",
+     "Fares Chaibi",
+     "Ibrahim Maza",
+     "Riyad Mahrez",
+     "Amine Gouiri"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Alexander Schlager",
+     "Konrad Laimer",
+     "Kevin Danso",
+     "David Alaba",
+     "Stefan Posch",
+     "Nicolas Seiwald",
+     "Xaver Schlager",
+     "Marcel Sabitzer",
+     "Paul Wanner",
+     "Romano Schmid",
+     "Marko Arnautovic"
+    ]
+   }
+  },
   "70": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Yazeed Mo'ien Hasan Abulaila",
+     "Husam Ali Mohammad Abu Dahab",
+     "Yazan Al-Arab",
+     "Abdallah Mousa Musallam Nasib",
+     "Mohannad Abu Taha",
+     "Noor Al Rawabdeh",
+     "Nizar Mahmoud Ahmed Al Rashdan",
+     "Ehsan Haddad",
+     "Mahmoud Al Mardi",
+     "Ali Olwan",
+     "Mousa Tamari"
+    ]
+   },
    "team2": {
     "status": "projected",
     "xi": [
      "Emiliano Martinez",
-     "Valentin Barco",
+     "Nicolas Tagliafico",
      "Marcos Senesi",
      "Nicolas Otamendi",
      "Gonzalo Montiel",
      "Nicolas Gonzalez",
-     "Exequiel Palacios",
      "Leandro Paredes",
+     "Exequiel Palacios",
      "Giuliano Simeone",
      "Julian Alvarez",
      "Jose Lopez"
