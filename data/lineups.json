@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-24T20:43:00Z",
+ "fetched_utc": "2026-06-24T21:19:00Z",
  "matches": {
   "51": {
    "team1": {
@@ -115,9 +115,9 @@
      "Sofyan Amrabat",
      "Neil El Aynaoui",
      "Bilal El Khannouss",
-     "Ayoub El Kaabi",
+     "Ismael Saibari",
      "Brahim Diaz",
-     "Ismael Saibari"
+     "Ayoub El Kaabi"
     ]
    },
    "team2": {
@@ -129,11 +129,11 @@
      "Ricardo Ade",
      "Jean-Kevin Duverne",
      "Ruben Providence",
-     "Jean-Ricner Bellegarde",
      "Danley Jean Jacques",
+     "Jean-Ricner Bellegarde",
      "Josue Casimir",
-     "Lenny Joseph",
-     "Wilson Isidor"
+     "Wilson Isidor",
+     "Lenny Joseph"
     ]
    }
   },
@@ -198,8 +198,8 @@
      "Jorge Eduardo Sanchez",
      "Edson Alvarez",
      "Julian Quinones",
-     "Luis Romo",
      "Obed Vargas",
+     "Luis Romo",
      "Roberto Alvarado",
      "Raul Jimenez"
     ]
@@ -244,15 +244,15 @@
     "status": "projected",
     "xi": [
      "Abdelmouhib Chamakh",
+     "Dylan Bronn",
      "Montassar Talbi",
      "Omar Rekik",
-     "Dylan Bronn",
      "Ali El Abdi",
      "Ellyes Skhiri",
      "Rani Khedira",
      "Yan Valery",
-     "Elias Saad",
      "Hannibal",
+     "Elias Saad",
      "Firas Chaouat"
     ]
    },
@@ -278,15 +278,15 @@
     "status": "projected",
     "xi": [
      "Zion Suzuki",
-     "Shogo Taniguchi",
      "Junnosuke Suzuki",
      "Tsuyoshi Watanabe",
+     "Shogo Taniguchi",
      "Daizen Maeda",
      "Ao Tanaka",
      "Kaishu Sano",
      "Yukinari Sugawara",
-     "Ritsu Doan",
      "Yuito Suzuki",
+     "Ritsu Doan",
      "Koki Ogawa"
     ]
    },
@@ -298,8 +298,8 @@
      "Isak Hien",
      "Gustaf Lagerbielke",
      "Gabriel Gudmundsson",
-     "Yasin Ayari",
      "Jesper Karlstrom",
+     "Yasin Ayari",
      "Alexander Bernhardsson",
      "Benjamin Nygren",
      "Alexander Isak",
@@ -313,12 +313,12 @@
     "xi": [
      "Orlando Gill",
      "Junior Alonso",
-     "Gustavo Gomez",
      "Omar Alderete",
+     "Gustavo Gomez",
      "Juan Jose Caceres",
      "Mauricio",
-     "Matias Galarza",
      "Andres Cubas",
+     "Matias Galarza",
      "Diego Gomez",
      "Julio Enciso",
      "Gabriel Avalos"
@@ -347,8 +347,8 @@
     "xi": [
      "Ugurcan Cakir",
      "Ferdi Kadioglu",
-     "Merih Demiral",
      "Abdulkerim Bardakci",
+     "Merih Demiral",
      "Mert Muldur",
      "Orkun Kokcu",
      "Hakan Calhanoglu",
@@ -483,8 +483,8 @@
     "xi": [
      "Fernando Muslera",
      "Mathias Olivera",
-     "Sebastian Caceres",
      "Jose Maria Gimenez",
+     "Sebastian Caceres",
      "Guillermo Varela",
      "Manuel Ugarte",
      "Rodrigo Bentancur",
@@ -502,9 +502,9 @@
      "Aymeric Laporte",
      "Pau Cubarsi",
      "Pedro Porro",
-     "Pedri",
      "Dani Olmo",
      "Rodri",
+     "Pedri",
      "Nico Williams",
      "Lamine Yamal",
      "Mikel Oyarzabal"
@@ -517,8 +517,8 @@
     "xi": [
      "Maxime Teremoana Crocombe",
      "Liberato Cacace",
-     "Finn Surman",
      "Michael Boxall",
+     "Finn Surman",
      "Tim Payne",
      "Marko Stamenic",
      "Joe Bell",
@@ -536,8 +536,8 @@
      "Brandon Mechele",
      "Koni De Winter",
      "Thomas Meunier",
-     "Youri Tielemans",
      "Nicolas Raskin",
+     "Youri Tielemans",
      "Jeremy Doku",
      "Kevin De Bruyne",
      "Leandro Trossard",
@@ -601,8 +601,8 @@
     "xi": [
      "Benjamin Asare",
      "Gideon Mensah",
-     "Jerome Opoku",
      "Jonas Adjetey",
+     "Jerome Opoku",
      "Marvin Senaya",
      "Thomas Partey",
      "Antoine Semenyo",
@@ -656,8 +656,8 @@
      "Davinson Sanchez",
      "Jhon Lucumi",
      "Daniel Munoz",
-     "Jefferson Lerma",
      "Jhon Arias",
+     "Jefferson Lerma",
      "Gustavo Puerta",
      "Luis Diaz",
      "James Rodriguez",
@@ -709,8 +709,8 @@
      "Akmal Mozgovoy",
      "Otabek Shukurov",
      "Bekhruz Karimov",
-     "Aziz Ganiev",
      "Abbosbek Fayzullaev",
+     "Aziz Ganiev",
      "Eldor Shomurodov"
     ]
    }
@@ -740,8 +740,8 @@
      "Kevin Danso",
      "David Alaba",
      "Stefan Posch",
-     "Nicolas Seiwald",
      "Xaver Schlager",
+     "Nicolas Seiwald",
      "Marcel Sabitzer",
      "Paul Wanner",
      "Romano Schmid",
@@ -755,11 +755,11 @@
     "xi": [
      "Yazeed Mo'ien Hasan Abulaila",
      "Husam Ali Mohammad Abu Dahab",
-     "Yazan Al-Arab",
      "Abdallah Mousa Musallam Nasib",
+     "Yazan Al-Arab",
      "Mohannad Abu Taha",
-     "Noor Al Rawabdeh",
      "Nizar Mahmoud Ahmed Al Rashdan",
+     "Noor Al Rawabdeh",
      "Ehsan Haddad",
      "Mahmoud Al Mardi",
      "Ali Olwan",
