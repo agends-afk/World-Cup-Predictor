@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-25T02:55:33+10:00",
- "generated_aest": "Thu 25 Jun 2026, 2:55am AEST",
+ "generated": "2026-06-25T03:44:40+10:00",
+ "generated_aest": "Thu 25 Jun 2026, 3:44am AEST",
  "data_through": "2026-06-23",
  "sim_runs": 10000,
  "params": {
@@ -7727,49 +7727,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.179,
-    "lam_b": 1.285,
-    "p_win": 0.3218,
-    "p_draw": 0.3054,
-    "p_loss": 0.3728,
+    "lam_a": 1.201,
+    "lam_b": 1.262,
+    "p_win": 0.3325,
+    "p_draw": 0.3059,
+    "p_loss": 0.3616,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1457
+      "p": 0.1459
      },
      {
       "score": "0-0",
-      "p": 0.1019
+      "p": 0.102
      },
      {
       "score": "0-1",
-      "p": 0.0926
+      "p": 0.0907
      },
      {
       "score": "1-0",
-      "p": 0.0836
+      "p": 0.0856
      },
      {
       "score": "1-2",
-      "p": 0.0828
+      "p": 0.0814
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1457
+      "p": 0.1459
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0926
+      "p": 0.0907
      },
      "team1": {
       "score": "1-0",
-      "p": 0.0836
+      "p": 0.0856
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1457
+    "modal_p": 0.1459
    },
    "prediction_base": {
     "lam_a": 1.157,
@@ -7818,10 +7818,10 @@
    },
    "lineup": {
     "team1": {
-     "elo": -15.0,
-     "delta_ovr": -2.0,
-     "status": "projected",
-     "xi_mean": 77.4,
+     "elo": -38.2,
+     "delta_ovr": -2.55,
+     "status": "confirmed",
+     "xi_mean": 76.8,
      "baseline_mean": 79.4,
      "coverage": 1.0,
      "missing": [
@@ -7834,22 +7834,30 @@
        "ovr": 78
       },
       {
+       "name": "Silvan Widmer",
+       "ovr": 74
+      },
+      {
        "name": "Zeki Amdouni",
        "ovr": 73
       }
      ]
     },
     "team2": {
-     "elo": -24.5,
-     "delta_ovr": -3.27,
-     "status": "projected",
-     "xi_mean": 71,
+     "elo": -57.3,
+     "delta_ovr": -3.82,
+     "status": "confirmed",
+     "xi_mean": 70.5,
      "baseline_mean": 74.3,
      "coverage": 1.0,
      "missing": [
       {
        "name": "Alphonso Davies",
        "ovr": 82
+      },
+      {
+       "name": "Stephen Eustáquio",
+       "ovr": 76
       },
       {
        "name": "Ismaël Koné",
@@ -13351,5 +13359,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "c9f0d416d267b0bc9f4673c9abb1dfcc1a854bd0"
+ "content_hash": "7924c459765a0c81789711d7a5b77ac5895b1e1a"
 }

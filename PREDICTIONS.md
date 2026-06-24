@@ -1,6 +1,6 @@
 # World Cup 2026: match predictions
 
-Generated Thu 25 Jun 2026, 2:55am AEST. Results included through 2026-06-23. 48 of 104 matches played. 10,000 tournament simulations.
+Generated Thu 25 Jun 2026, 3:44am AEST. Results included through 2026-06-23. 48 of 104 matches played. 10,000 tournament simulations.
 
 Every probability below is a model estimate built only from match results and public squad news, not from betting odds or published predictions. A favourite can be 75% to win while its most likely exact score sits near 12 to 15%; goals spread across many scorelines, so read the two numbers separately.
 
@@ -115,7 +115,7 @@ A read-only comparison of the model's own rating order against the FIFA/Coca-Col
 - M8, Sat 13 Jun, Santa Clara: Qatar v Switzerland. **Played: Qatar 1-1 Switzerland.** Model said Switzerland to win 84% (draw 12%, Qatar win 4%); most likely Switzerland 2-0 (14%); result miss, score miss
 - M26, Thu 18 Jun, Inglewood: Switzerland v Bosnia and Herzegovina. **Played: Switzerland 4-1 Bosnia and Herzegovina.** Model said Switzerland to win 62% (draw 24%, Bosnia and Herzegovina win 14%); most likely Switzerland 2-0 (12%); result hit, score miss
 - M27, Thu 18 Jun, Vancouver: Canada v Qatar. **Played: Canada 6-0 Qatar.** Model said Canada to win 79% (draw 15%, Qatar win 6%); most likely Canada 2-0 (14%); result hit, score miss
-- M51, Wed 24 Jun, Vancouver: Switzerland v Canada. **Canada to win 37%** (draw 31%, Switzerland win 32%); most likely Canada 1-0 (9%) *(low stakes for a settled side)*
+- M51, Wed 24 Jun, Vancouver: Switzerland v Canada. **Canada to win 36%** (draw 31%, Switzerland win 33%); most likely Canada 1-0 (9%) *(low stakes for a settled side)*
 - M52, Wed 24 Jun, Seattle: Bosnia and Herzegovina v Qatar. **Bosnia and Herzegovina to win 49%** (draw 29%, Qatar win 22%); most likely Bosnia and Herzegovina 1-0 (11%)
 
 ### Group C
