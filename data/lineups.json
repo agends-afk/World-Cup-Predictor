@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-24T17:44:00Z",
+ "fetched_utc": "2026-06-24T20:43:00Z",
  "matches": {
   "51": {
    "team1": {
@@ -63,31 +63,31 @@
      "Ahmed Fathy",
      "Karim Boudiaf",
      "Jassem Gaber",
-     "Akram Afif",
      "Edmilson Junior",
-     "Hassan Al-Haydos"
+     "Hassan Al-Haydos",
+     "Akram Afif"
     ]
    }
   },
   "49": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Angus Gunn",
      "Andrew Robertson",
-     "Grant Hanley",
      "Jack Hendry",
+     "Scott McKenna",
      "Nathan Patterson",
      "John McGinn",
+     "Kenny McLean",
      "Lewis Ferguson",
      "Scott McTominay",
-     "Ryan Christie",
      "Ben Gannon Doak",
-     "Che Adams"
+     "Lawrence Shankland"
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Alisson",
      "Douglas",
@@ -105,35 +105,35 @@
   },
   "50": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Bono",
-     "Noussair Mazraoui",
+     "Anass Salah-Eddine",
+     "Redouane Halhal",
      "Chadi Riad",
-     "Issa Diop",
      "Achraf Hakimi",
+     "Sofyan Amrabat",
      "Neil El Aynaoui",
-     "Ayyoub Bouaddi",
      "Bilal El Khannouss",
-     "Azzedine Ounahi",
+     "Ayoub El Kaabi",
      "Brahim Diaz",
      "Ismael Saibari"
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Johnny Placide",
      "Martin Experience",
      "Hannes Delcroix",
      "Ricardo Ade",
-     "Carlens Arcus",
+     "Jean-Kevin Duverne",
      "Ruben Providence",
      "Jean-Ricner Bellegarde",
      "Danley Jean Jacques",
-     "Louicius Deedson",
-     "Wilson Isidor",
-     "Frantzdy Pierrot"
+     "Josue Casimir",
+     "Lenny Joseph",
+     "Wilson Isidor"
     ]
    }
   },
