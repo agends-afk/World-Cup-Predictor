@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-24T14:50:22+10:00",
- "generated_aest": "Wed 24 Jun 2026, 2:50pm AEST",
+ "generated": "2026-06-24T21:10:56+10:00",
+ "generated_aest": "Wed 24 Jun 2026, 9:10pm AEST",
  "data_through": "2026-06-23",
  "sim_runs": 10000,
  "params": {
@@ -10211,49 +10211,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.273,
-    "lam_b": 1.19,
-    "p_win": 0.367,
-    "p_draw": 0.3057,
-    "p_loss": 0.3273,
+    "lam_a": 1.303,
+    "lam_b": 1.163,
+    "p_win": 0.381,
+    "p_draw": 0.3049,
+    "p_loss": 0.3141,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1458
+      "p": 0.1454
      },
      {
       "score": "0-0",
-      "p": 0.102
+      "p": 0.1017
      },
      {
       "score": "1-0",
-      "p": 0.0917
-     },
-     {
-      "score": "0-1",
-      "p": 0.0846
+      "p": 0.0939
      },
      {
       "score": "2-1",
+      "p": 0.0838
+     },
+     {
+      "score": "0-1",
       "p": 0.0821
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1458
+      "p": 0.1454
      },
      "team1": {
       "score": "1-0",
-      "p": 0.0917
+      "p": 0.0939
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0846
+      "p": 0.0821
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1458
+    "modal_p": 0.1454
    },
    "prediction_base": {
     "lam_a": 1.329,
@@ -10301,7 +10301,28 @@
     "modal_p": 0.145
    },
    "lineup": {
-    "team1": null,
+    "team1": {
+     "elo": -28.0,
+     "delta_ovr": -3.73,
+     "status": "projected",
+     "xi_mean": 74.5,
+     "baseline_mean": 78.2,
+     "coverage": 1.0,
+     "missing": [
+      {
+       "name": "David Ospina",
+       "ovr": 77
+      },
+      {
+       "name": "Juan Fernando Quintero",
+       "ovr": 77
+      },
+      {
+       "name": "Jaminton Campaz",
+       "ovr": 76
+      }
+     ]
+    },
     "team2": {
      "elo": -17.7,
      "delta_ovr": -2.36,
@@ -13334,5 +13355,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "2ee3ec377be3d0484c34fb16190468dfee2c0ee3"
+ "content_hash": "44327c8e080fd26a27f5a8651e6af62777772947"
 }
