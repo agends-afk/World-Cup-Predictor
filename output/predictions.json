@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-26T08:39:38+10:00",
- "generated_aest": "Fri 26 Jun 2026, 8:39am AEST",
+ "generated": "2026-06-26T09:18:31+10:00",
+ "generated_aest": "Fri 26 Jun 2026, 9:18am AEST",
  "data_through": "2026-06-25",
  "sim_runs": 10000,
  "params": {
@@ -9902,10 +9902,6 @@
       {
        "name": "Petar Musa",
        "ovr": 76
-      },
-      {
-       "name": "Duje Ćaleta-Car",
-       "ovr": 75
       }
      ]
     },
@@ -13416,5 +13412,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "19015976882417a6aaad4579380fb3d9c3e81530"
+ "content_hash": "e2b727464c80759342be3dbba63bce8fcc95991e"
 }
