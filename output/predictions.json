@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-25T13:21:43+10:00",
- "generated_aest": "Thu 25 Jun 2026, 1:21pm AEST",
+ "generated": "2026-06-25T16:17:19+10:00",
+ "generated_aest": "Thu 25 Jun 2026, 4:17pm AEST",
  "data_through": "2026-06-24",
  "sim_runs": 10000,
  "params": {
@@ -8765,11 +8765,11 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.244,
-    "lam_b": 1.218,
-    "p_win": 0.3532,
+    "lam_a": 1.235,
+    "lam_b": 1.227,
+    "p_win": 0.3489,
     "p_draw": 0.3061,
-    "p_loss": 0.3407,
+    "p_loss": 0.345,
     "top_scores": [
      {
       "score": "1-1",
@@ -8781,15 +8781,15 @@
      },
      {
       "score": "1-0",
-      "p": 0.0893
+      "p": 0.0885
      },
      {
       "score": "0-1",
-      "p": 0.0871
+      "p": 0.0878
      },
      {
       "score": "2-1",
-      "p": 0.0804
+      "p": 0.0798
      }
     ],
     "outcome_scores": {
@@ -8799,11 +8799,11 @@
      },
      "team1": {
       "score": "1-0",
-      "p": 0.0893
+      "p": 0.0885
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0871
+      "p": 0.0878
      }
     },
     "modal_score": "1-1",
@@ -8882,10 +8882,10 @@
      ]
     },
     "team2": {
-     "elo": -27.8,
-     "delta_ovr": -3.7,
+     "elo": -24.0,
+     "delta_ovr": -3.2,
      "status": "projected",
-     "xi_mean": 67.3,
+     "xi_mean": 67.8,
      "baseline_mean": 71,
      "coverage": 0.91,
      "missing": [
@@ -13341,5 +13341,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "3fd50836a96c2dafc7870886cda7c8da401a37bb"
+ "content_hash": "34fd5c73e824b3209121517b6a27f269d54a885e"
 }
