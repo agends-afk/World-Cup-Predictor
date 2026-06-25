@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-25T18:38:32+10:00",
- "generated_aest": "Thu 25 Jun 2026, 6:38pm AEST",
+ "generated": "2026-06-25T22:02:17+10:00",
+ "generated_aest": "Thu 25 Jun 2026, 10:02pm AEST",
  "data_through": "2026-06-24",
  "sim_runs": 10000,
  "params": {
@@ -8173,49 +8173,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.14,
-    "lam_b": 1.329,
-    "p_win": 0.3029,
-    "p_draw": 0.3039,
-    "p_loss": 0.3932,
+    "lam_a": 1.085,
+    "lam_b": 1.397,
+    "p_win": 0.2756,
+    "p_draw": 0.3001,
+    "p_loss": 0.4242,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.145
-     },
-     {
-      "score": "0-0",
-      "p": 0.1014
+      "p": 0.1432
      },
      {
       "score": "0-1",
-      "p": 0.0959
+      "p": 0.1003
+     },
+     {
+      "score": "0-0",
+      "p": 0.1001
      },
      {
       "score": "1-2",
-      "p": 0.0852
+      "p": 0.0885
      },
      {
-      "score": "1-0",
-      "p": 0.0799
+      "score": "0-2",
+      "p": 0.0816
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.145
+      "p": 0.1432
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0959
+      "p": 0.1003
      },
      "team1": {
       "score": "1-0",
-      "p": 0.0799
+      "p": 0.0742
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.145
+    "modal_p": 0.1432
    },
    "prediction_base": {
     "lam_a": 1.089,
@@ -8290,28 +8290,24 @@
      ]
     },
     "team2": {
-     "elo": -34.8,
-     "delta_ovr": -4.64,
+     "elo": -8.9,
+     "delta_ovr": -1.18,
      "status": "projected",
-     "xi_mean": 80.2,
+     "xi_mean": 83.6,
      "baseline_mean": 84.8,
      "coverage": 1.0,
      "missing": [
       {
-       "name": "Florian Wirtz",
-       "ovr": 88
-      },
-      {
-       "name": "Jamal Musiala",
-       "ovr": 87
-      },
-      {
-       "name": "Jonathan Tah",
-       "ovr": 86
-      },
-      {
        "name": "Nico Schlotterbeck",
        "ovr": 85
+      },
+      {
+       "name": "Deniz Undav",
+       "ovr": 81
+      },
+      {
+       "name": "Maximilian Beier",
+       "ovr": 78
       }
      ]
     }
@@ -13415,5 +13411,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "bac26be54e9118581274b4528aa4eeba8b4ea6f5"
+ "content_hash": "8898dd4e3c96dce08f049bd0d1262fefcea872f9"
 }
