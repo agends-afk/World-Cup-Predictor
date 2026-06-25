@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-25T00:01:00Z",
+ "fetched_utc": "2026-06-25T01:14:00Z",
  "matches": {
   "51": {
    "team1": {
@@ -146,10 +146,10 @@
      "Mbekezeli Mbokazi",
      "Ime Okon",
      "Khuliso Mudau",
-     "Relebohile Mofokeng",
      "Thalente Mbatha",
      "Sphephelo Sithole",
      "Oswin Appollis",
+     "Relebohile Mofokeng",
      "Thapelo Maseko",
      "Evidence Makgopa"
     ]
@@ -166,8 +166,8 @@
      "Hwang In-beom",
      "Seol Young-Woo",
      "Lee Kang-in",
-     "Hwang Hee-Chan",
-     "Oh Hyun-Gyu"
+     "Oh Hyun-Gyu",
+     "Hwang Hee-Chan"
     ]
    }
   },
@@ -225,7 +225,7 @@
    "team2": {
     "status": "projected",
     "xi": [
-     "Oliver Baumann",
+     "Manuel Neuer",
      "David Raum",
      "Malick Thiaw",
      "Antonio Rudiger",
@@ -566,15 +566,15 @@
     "status": "projected",
     "xi": [
      "Alireza Beiranvand",
-     "Ehsan Hajsafi",
+     "Ali Nemati",
      "Hossein Kanaanizadegan",
      "Shoja Khalilzadeh",
-     "Ali Nemati",
      "Ramin Rezaeian",
-     "Mohammad Mohebi",
      "Saeid Ezatolahi",
+     "Mohammad Ghorbani",
+     "Aria Yousefi",
      "Saman Ghoddos",
-     "Alireza Jahanbakhsh",
+     "Mohammad Mohebi",
      "Mehdi Taremi"
     ]
    }
@@ -606,8 +606,8 @@
      "Marvin Senaya",
      "Thomas Partey",
      "Antoine Semenyo",
-     "Caleb Yirenkyi",
      "Kwasi Sibo",
+     "Caleb Yirenkyi",
      "Inaki Williams",
      "Jordan Ayew"
     ]
@@ -656,9 +656,9 @@
      "Davinson Sanchez",
      "Jhon Lucumi",
      "Daniel Munoz",
-     "Jefferson Lerma",
-     "Jhon Arias",
      "Gustavo Puerta",
+     "Jhon Arias",
+     "Jefferson Lerma",
      "Luis Diaz",
      "James Rodriguez",
      "Luis Suarez"
@@ -672,8 +672,8 @@
      "Renato Veiga",
      "Ruben Dias",
      "Joao Cancelo",
-     "Vitinha",
      "Joao Neves",
+     "Vitinha",
      "Joao Felix",
      "Bruno Fernandes",
      "Pedro Neto",
@@ -692,8 +692,8 @@
      "Steve Kapuadi",
      "Aaron Wan-Bissaka",
      "Samuel Moutoussamy",
-     "Noah Sadiki",
      "Edo Kayembe",
+     "Noah Sadiki",
      "Cedric Bakambu",
      "Yoane Wissa"
     ]
@@ -703,8 +703,8 @@
     "xi": [
      "Abduvohid Ne'matov",
      "Abdukodir Khusanov",
-     "Abdulla Abdullaev",
      "Rustamjon Ashurmatov",
+     "Abdulla Abdullaev",
      "Khojiakbar Alijonov",
      "Akmal Mozgovoy",
      "Otabek Shukurov",
@@ -724,8 +724,8 @@
      "Aissa Mandi",
      "Ramy Bensebaini",
      "Rafik Belghali",
-     "Nabil Bentaleb",
      "Hicham Boudaoui",
+     "Nabil Bentaleb",
      "Fares Chaibi",
      "Ibrahim Maza",
      "Riyad Mahrez",
@@ -740,8 +740,8 @@
      "Kevin Danso",
      "David Alaba",
      "Stefan Posch",
-     "Nicolas Seiwald",
      "Xaver Schlager",
+     "Nicolas Seiwald",
      "Marcel Sabitzer",
      "Paul Wanner",
      "Romano Schmid",
@@ -771,8 +771,8 @@
     "xi": [
      "Emiliano Martinez",
      "Nicolas Tagliafico",
-     "Marcos Senesi",
      "Nicolas Otamendi",
+     "Marcos Senesi",
      "Gonzalo Montiel",
      "Nicolas Gonzalez",
      "Leandro Paredes",
