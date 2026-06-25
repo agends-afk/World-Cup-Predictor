@@ -1,6 +1,6 @@
 # World Cup 2026: match predictions
 
-Generated Fri 26 Jun 2026, 4:55am AEST. Results included through 2026-06-24. 54 of 104 matches played. 10,000 tournament simulations.
+Generated Fri 26 Jun 2026, 5:43am AEST. Results included through 2026-06-24. 54 of 104 matches played. 10,000 tournament simulations.
 
 Every probability below is a model estimate built only from match results and public squad news, not from betting odds or published predictions. A favourite can be 75% to win while its most likely exact score sits near 12 to 15%; goals spread across many scorelines, so read the two numbers separately.
 
@@ -212,7 +212,7 @@ A read-only comparison of the model's own rating order against the FIFA/Coca-Col
 - M37, Sun 21 Jun, Miami Gardens: Uruguay v Cape Verde. **Played: Uruguay 2-2 Cape Verde.** Model said Uruguay to win 57% (draw 26%, Cape Verde win 17%); most likely Uruguay 1-0 (11%); result miss, score miss
 - M38, Sun 21 Jun, Atlanta: Spain v Saudi Arabia. **Played: Spain 4-0 Saudi Arabia.** Model said Spain to win 86% (draw 11%, Saudi Arabia win 3%); most likely Spain 2-0 (14%); result hit, score miss
 - M65, Fri 26 Jun, Houston: Cape Verde v Saudi Arabia. **Cape Verde to win 36%** (draw 31%, Saudi Arabia win 34%); most likely Cape Verde 1-0 (9%)
-- M66, Fri 26 Jun, Zapopan: Uruguay v Spain. **Spain to win 69%** (draw 21%, Uruguay win 10%); most likely Spain 2-0 (13%) *(low stakes for a settled side)*
+- M66, Fri 26 Jun, Zapopan: Uruguay v Spain. **Spain to win 68%** (draw 21%, Uruguay win 10%); most likely Spain 2-0 (13%) *(low stakes for a settled side)*
 
 ### Group I
 
