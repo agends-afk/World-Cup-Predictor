@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-26T05:43:31+10:00",
- "generated_aest": "Fri 26 Jun 2026, 5:43am AEST",
+ "generated": "2026-06-26T07:54:19+10:00",
+ "generated_aest": "Fri 26 Jun 2026, 7:54am AEST",
  "data_through": "2026-06-24",
  "sim_runs": 10000,
  "params": {
@@ -8329,23 +8329,23 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.796,
-    "lam_b": 0.843,
-    "p_win": 0.5854,
-    "p_draw": 0.2562,
-    "p_loss": 0.1584,
+    "lam_a": 1.866,
+    "lam_b": 0.812,
+    "p_win": 0.6096,
+    "p_draw": 0.2465,
+    "p_loss": 0.1438,
     "top_scores": [
      {
-      "score": "1-1",
-      "p": 0.1222
+      "score": "2-0",
+      "p": 0.1197
      },
      {
-      "score": "2-0",
-      "p": 0.1152
+      "score": "1-1",
+      "p": 0.1176
      },
      {
       "score": "1-0",
-      "p": 0.1142
+      "p": 0.1147
      },
      {
       "score": "2-1",
@@ -8353,25 +8353,25 @@
      },
      {
       "score": "0-0",
-      "p": 0.0855
+      "p": 0.0822
      }
     ],
     "outcome_scores": {
-     "draw": {
-      "score": "1-1",
-      "p": 0.1222
-     },
      "team1": {
       "score": "2-0",
-      "p": 0.1152
+      "p": 0.1197
+     },
+     "draw": {
+      "score": "1-1",
+      "p": 0.1176
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0461
+      "p": 0.0422
      }
     },
-    "modal_score": "1-1",
-    "modal_p": 0.1222
+    "modal_score": "2-0",
+    "modal_p": 0.1197
    },
    "prediction_base": {
     "lam_a": 1.832,
@@ -8420,24 +8420,16 @@
    },
    "lineup": {
     "team1": {
-     "elo": -35.5,
-     "delta_ovr": -4.73,
-     "status": "projected",
-     "xi_mean": 72.3,
+     "elo": -32.7,
+     "delta_ovr": -2.18,
+     "status": "confirmed",
+     "xi_mean": 74.8,
      "baseline_mean": 77,
      "coverage": 1.0,
      "missing": [
       {
-       "name": "Daichi Kamada",
-       "ovr": 81
-      },
-      {
        "name": "Takefusa Kubo",
        "ovr": 81
-      },
-      {
-       "name": "Hiroki Ito",
-       "ovr": 79
       },
       {
        "name": "Takehiro Tomiyasu",
@@ -8446,10 +8438,10 @@
      ]
     },
     "team2": {
-     "elo": -25.2,
-     "delta_ovr": -3.36,
-     "status": "projected",
-     "xi_mean": 73.3,
+     "elo": -42.3,
+     "delta_ovr": -2.82,
+     "status": "confirmed",
+     "xi_mean": 73.8,
      "baseline_mean": 76.6,
      "coverage": 1.0,
      "missing": [
@@ -8458,16 +8450,16 @@
        "ovr": 77
       },
       {
-       "name": "Anthony Elanga",
-       "ovr": 76
-      },
-      {
        "name": "Viktor Johansson",
        "ovr": 74
       },
       {
        "name": "Carl Starfelt",
        "ovr": 74
+      },
+      {
+       "name": "Gustaf Nilsson",
+       "ovr": 73
       }
      ]
     }
@@ -8490,49 +8482,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 0.604,
-    "lam_b": 2.507,
-    "p_win": 0.0602,
-    "p_draw": 0.1599,
-    "p_loss": 0.7798,
+    "lam_a": 0.614,
+    "lam_b": 2.468,
+    "p_win": 0.0634,
+    "p_draw": 0.1646,
+    "p_loss": 0.772,
     "top_scores": [
      {
       "score": "0-2",
-      "p": 0.14
+      "p": 0.1397
      },
      {
       "score": "0-3",
-      "p": 0.117
+      "p": 0.115
      },
      {
       "score": "0-1",
-      "p": 0.1029
+      "p": 0.1042
      },
      {
       "score": "1-2",
-      "p": 0.0846
+      "p": 0.0858
      },
      {
       "score": "1-1",
-      "p": 0.0763
+      "p": 0.0785
      }
     ],
     "outcome_scores": {
      "team2": {
       "score": "0-2",
-      "p": 0.14
+      "p": 0.1397
      },
      "draw": {
       "score": "1-1",
-      "p": 0.0763
+      "p": 0.0785
      },
      "team1": {
       "score": "2-1",
-      "p": 0.0204
+      "p": 0.0213
      }
     },
     "modal_score": "0-2",
-    "modal_p": 0.14
+    "modal_p": 0.1397
    },
    "prediction_base": {
     "lam_a": 0.644,
@@ -8582,27 +8574,27 @@
    "lineup": {
     "team1": null,
     "team2": {
-     "elo": -7.0,
-     "delta_ovr": -0.93,
-     "status": "projected",
-     "xi_mean": 81.8,
+     "elo": -15.0,
+     "delta_ovr": -1.0,
+     "status": "confirmed",
+     "xi_mean": 81.7,
      "baseline_mean": 82.7,
-     "coverage": 0.91,
+     "coverage": 1.0,
      "missing": [
-      {
-       "name": "Nathan Aké",
-       "ovr": 84
-      },
       {
        "name": "Teun Koopmeiners",
        "ovr": 83
+      },
+      {
+       "name": "Micky van de Ven",
+       "ovr": 82
       },
       {
        "name": "Mark Flekken",
        "ovr": 79
       },
       {
-       "name": "Brian Brobbey",
+       "name": "Noa Lang",
        "ovr": 79
       }
      ]
@@ -13415,5 +13407,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "e1a33f530bc9d9619769f7ee5ef943c690f1cbce"
+ "content_hash": "c72b02f521c1616361eca89a825f0f3de7f7ea2a"
 }
