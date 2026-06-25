@@ -1,6 +1,6 @@
 # World Cup 2026: match predictions
 
-Generated Thu 25 Jun 2026, 4:17pm AEST. Results included through 2026-06-24. 54 of 104 matches played. 10,000 tournament simulations.
+Generated Thu 25 Jun 2026, 6:38pm AEST. Results included through 2026-06-24. 54 of 104 matches played. 10,000 tournament simulations.
 
 Every probability below is a model estimate built only from match results and public squad news, not from betting odds or published predictions. A favourite can be 75% to win while its most likely exact score sits near 12 to 15%; goals spread across many scorelines, so read the two numbers separately.
 
@@ -284,7 +284,7 @@ Until the groups finish, knockout pairings show the most frequent matchup across
 
 ### Round of 32
 
-- M73, Sun 28 Jun, Inglewood: Runner-up Group A v Runner-up Group B. **Canada to win 49%** (draw 29%, South Africa win 23%); most likely Canada 1-0 (11%); **Canada to advance 66%**
+- M73, Sun 28 Jun, Inglewood: Runner-up Group A v Runner-up Group B. **Canada to win 46%** (draw 29%, South Africa win 25%); most likely Canada 1-0 (10%); **Canada to advance 62%**
 - M74, Mon 29 Jun, Foxborough: Winner Group E v Third place Group A/B/C/D/F. Most likely pairing (27% of simulations): **Germany to win 73%** (draw 19%, Bosnia and Herzegovina win 8%); most likely Germany 2-0 (14%); **Germany to advance 87%**
 - M75, Mon 29 Jun, Guadalupe: Winner Group F v Runner-up Group C. Most likely pairing (66% of simulations): **Morocco to win 42%** (draw 30%, Netherlands win 28%); most likely Morocco 1-0 (10%); **Morocco to advance 59%**
 - M76, Mon 29 Jun, Houston: Winner Group C v Runner-up Group F. Most likely pairing (53% of simulations): **Brazil to win 43%** (draw 30%, Japan win 27%); most likely Brazil 1-0 (10%); **Brazil to advance 60%**

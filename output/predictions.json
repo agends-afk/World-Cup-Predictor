@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-25T16:17:19+10:00",
- "generated_aest": "Thu 25 Jun 2026, 4:17pm AEST",
+ "generated": "2026-06-25T18:38:32+10:00",
+ "generated_aest": "Thu 25 Jun 2026, 6:38pm AEST",
  "data_through": "2026-06-24",
  "sim_runs": 10000,
  "params": {
@@ -10426,6 +10426,55 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
+    "lam_a": 1.032,
+    "lam_b": 1.468,
+    "p_win": 0.2496,
+    "p_draw": 0.2946,
+    "p_loss": 0.4558,
+    "top_scores": [
+     {
+      "score": "1-1",
+      "p": 0.1405
+     },
+     {
+      "score": "0-1",
+      "p": 0.1044
+     },
+     {
+      "score": "0-0",
+      "p": 0.0983
+     },
+     {
+      "score": "1-2",
+      "p": 0.0913
+     },
+     {
+      "score": "0-2",
+      "p": 0.0885
+     }
+    ],
+    "outcome_scores": {
+     "draw": {
+      "score": "1-1",
+      "p": 0.1405
+     },
+     "team2": {
+      "score": "0-1",
+      "p": 0.1044
+     },
+     "team1": {
+      "score": "1-0",
+      "p": 0.0685
+     }
+    },
+    "modal_score": "1-1",
+    "modal_p": 0.1405,
+    "p_advance": 0.3761,
+    "p_et_win": 0.0496,
+    "p_pens": 0.1687,
+    "pen_edge": 0.456
+   },
+   "prediction_base": {
     "lam_a": 0.984,
     "lam_b": 1.539,
     "p_win": 0.2262,
@@ -10473,6 +10522,31 @@
     "p_et_win": 0.0455,
     "p_pens": 0.1637,
     "pen_edge": 0.444
+   },
+   "lineup": {
+    "team1": null,
+    "team2": {
+     "elo": -24.5,
+     "delta_ovr": -3.27,
+     "status": "projected",
+     "xi_mean": 71,
+     "baseline_mean": 74.3,
+     "coverage": 1.0,
+     "missing": [
+      {
+       "name": "Alphonso Davies",
+       "ovr": 82
+      },
+      {
+       "name": "Ismaël Koné",
+       "ovr": 72
+      },
+      {
+       "name": "Jayden Nelson",
+       "ovr": 66
+      }
+     ]
+    }
    }
   },
   {
@@ -13341,5 +13415,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "34fd5c73e824b3209121517b6a27f269d54a885e"
+ "content_hash": "bac26be54e9118581274b4528aa4eeba8b4ea6f5"
 }
