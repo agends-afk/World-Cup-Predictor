@@ -51,3 +51,5 @@ date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
 2026-06-24,Morocco,Haiti,4,2,FIFA World Cup,Atlanta,United States,TRUE
 2026-06-24,Canada,Switzerland,1,2,FIFA World Cup,Vancouver,Canada,FALSE
 2026-06-24,Bosnia and Herzegovina,Qatar,3,1,FIFA World Cup,Seattle,United States,TRUE
+2026-06-24,Mexico,Czech Republic,3,0,FIFA World Cup,Mexico City,Mexico,FALSE
+2026-06-24,South Africa,South Korea,1,0,FIFA World Cup,Guadalupe,Mexico,TRUE
