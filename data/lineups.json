@@ -1,18 +1,18 @@
 {
- "fetched_utc": "2026-06-26T10:53:00Z",
+ "fetched_utc": "2026-06-26T15:35:00Z",
  "matches": {
   "61": {
    "team1": {
     "status": "projected",
     "xi": [
-     "Orjan Nyland",
+     "Egil Selvik",
      "Fredrik Andre Bjorkan",
-     "Kristoffer Ajer",
      "Leo Ostigard",
-     "Marcus Pedersen",
+     "Henrik Falchener",
+     "Fredrik Aursnes",
      "Patrick Berg",
-     "Martin Odegaard",
-     "Sander Berge",
+     "Kristian Thorstvedt",
+     "Thelo Aasgaard",
      "Andreas Schjelderup",
      "Oscar Bobb",
      "Jorgen Strand Larsen"
@@ -23,8 +23,8 @@
     "xi": [
      "Mike Maignan",
      "Theo Hernandez",
-     "Maxence Lacroix",
      "Dayot Upamecano",
+     "Maxence Lacroix",
      "Jules Kounde",
      "Aurelien Tchouameni",
      "Manu Kone",
@@ -178,14 +178,14 @@
      "Mostafa Shobeir",
      "Ahmed El Fotouh",
      "Ramy Rabia",
-     "Yasser Ibrahim",
+     "Mohamed Abdelmonem",
      "Mohamed Hany",
      "Mohanad Lasheen",
-     "Marwan Ateya",
+     "Mahmoud Saber",
+     "Trezeguet",
      "Emam Ashour",
      "Mohamed Salah",
-     "Mostafa Ziko",
-     "Omar Marmoush"
+     "Mostafa Ziko"
     ]
    },
    "team2": {
@@ -263,7 +263,7 @@
      "Nico O'Reilly",
      "Ezri Konsa",
      "Marc Guehi",
-     "Reece James",
+     "Djed Spence",
      "Eberechi Eze",
      "Elliot Anderson",
      "Marcus Rashford",
@@ -282,9 +282,9 @@
      "Davinson Sanchez",
      "Jhon Lucumi",
      "Daniel Munoz",
-     "Gustavo Puerta",
      "Jhon Arias",
      "Jefferson Lerma",
+     "Gustavo Puerta",
      "Luis Diaz",
      "James Rodriguez",
      "Luis Suarez"
@@ -298,8 +298,8 @@
      "Renato Veiga",
      "Ruben Dias",
      "Joao Cancelo",
-     "Joao Neves",
      "Vitinha",
+     "Joao Neves",
      "Joao Felix",
      "Bruno Fernandes",
      "Pedro Neto",
@@ -328,15 +328,15 @@
     "status": "projected",
     "xi": [
      "Abduvohid Ne'matov",
-     "Abdulla Abdullaev",
      "Abdukodir Khusanov",
      "Rustamjon Ashurmatov",
+     "Abdulla Abdullaev",
      "Khojiakbar Alijonov",
      "Akmal Mozgovoy",
      "Otabek Shukurov",
      "Bekhruz Karimov",
-     "Aziz Ganiev",
      "Abbosbek Fayzullaev",
+     "Aziz Ganiev",
      "Eldor Shomurodov"
     ]
    }
@@ -366,8 +366,8 @@
      "Philipp Lienhart",
      "Kevin Danso",
      "Marco Friedl",
-     "Nicolas Seiwald",
      "Xaver Schlager",
+     "Nicolas Seiwald",
      "Marcel Sabitzer",
      "Michael Gregoritsch",
      "Romano Schmid",
@@ -381,8 +381,8 @@
     "xi": [
      "Yazeed Mo'ien Hasan Abulaila",
      "Husam Ali Mohammad Abu Dahab",
-     "Abdallah Mousa Musallam Nasib",
      "Yazan Al-Arab",
+     "Abdallah Mousa Musallam Nasib",
      "Mohannad Abu Taha",
      "Noor Al Rawabdeh",
      "Nizar Mahmoud Ahmed Al Rashdan",
@@ -401,8 +401,8 @@
      "Nicolas Otamendi",
      "Gonzalo Montiel",
      "Giovani Lo Celso",
-     "Leandro Paredes",
      "Exequiel Palacios",
+     "Leandro Paredes",
      "Giuliano Simeone",
      "Julian Alvarez",
      "Jose Lopez"
@@ -483,8 +483,8 @@
     "xi": [
      "Bart Verbruggen",
      "Micky van de Ven",
-     "Virgil van Dijk",
      "Jan Paul van Hecke",
+     "Virgil van Dijk",
      "Denzel Dumfries",
      "Ryan Gravenberch",
      "Frenkie de Jong",
@@ -499,8 +499,8 @@
     "xi": [
      "Bono",
      "Noussair Mazraoui",
-     "Issa Diop",
      "Chadi Riad",
+     "Issa Diop",
      "Achraf Hakimi",
      "Neil El Aynaoui",
      "Ayyoub Bouaddi",
@@ -516,16 +516,16 @@
     "status": "projected",
     "xi": [
      "Matt Freese",
-     "Chris Richards",
-     "Alex Freeman",
-     "Tim Ream",
      "Antonee Robinson",
-     "Weston McKennie",
-     "Tyler Adams",
+     "Chris Richards",
+     "Tim Ream",
+     "Alex Freeman",
      "Malik Tillman",
+     "Tyler Adams",
+     "Christian Pulisic",
+     "Weston McKennie",
      "Sergino Dest",
-     "Folarin Balogun",
-     "Christian Pulisic"
+     "Folarin Balogun"
     ]
    },
    "team2": {
@@ -535,13 +535,13 @@
      "Sead Kolasinac",
      "Tarik Muharemovic",
      "Nikola Katic",
-     "Amar Dedic",
+     "Amar Memic",
      "Kerim Alajbegovic",
-     "Ivan Basic",
      "Ivan Sunjic",
+     "Ivan Basic",
      "Esmir Bajraktarevic",
-     "Ermedin Demirovic",
-     "Edin Dzeko"
+     "Edin Dzeko",
+     "Ermedin Demirovic"
     ]
    }
   }
