@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-26T11:24:56+10:00",
- "generated_aest": "Fri 26 Jun 2026, 11:24am AEST",
+ "generated": "2026-06-26T12:28:00+10:00",
+ "generated_aest": "Fri 26 Jun 2026, 12:28pm AEST",
  "data_through": "2026-06-25",
  "sim_runs": 10000,
  "params": {
@@ -9296,49 +9296,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 0.745,
-    "lam_b": 2.034,
-    "p_win": 0.1142,
-    "p_draw": 0.2229,
-    "p_loss": 0.6629,
+    "lam_a": 0.74,
+    "lam_b": 2.048,
+    "p_win": 0.1122,
+    "p_draw": 0.221,
+    "p_loss": 0.6668,
     "top_scores": [
      {
       "score": "0-2",
-      "p": 0.1285
+      "p": 0.1291
      },
      {
       "score": "0-1",
-      "p": 0.1141
+      "p": 0.114
      },
      {
       "score": "1-1",
-      "p": 0.1063
+      "p": 0.1054
      },
      {
       "score": "1-2",
-      "p": 0.0957
+      "p": 0.0955
      },
      {
       "score": "0-3",
-      "p": 0.0871
+      "p": 0.0881
      }
     ],
     "outcome_scores": {
      "team2": {
       "score": "0-2",
-      "p": 0.1285
+      "p": 0.1291
      },
      "draw": {
       "score": "1-1",
-      "p": 0.1063
+      "p": 0.1054
      },
      "team1": {
       "score": "2-1",
-      "p": 0.035
+      "p": 0.0345
      }
     },
     "modal_score": "0-2",
-    "modal_p": 0.1285
+    "modal_p": 0.1291
    },
    "prediction_base": {
     "lam_a": 0.731,
@@ -9413,10 +9413,10 @@
      ]
     },
     "team2": {
-     "elo": -10.9,
-     "delta_ovr": -1.45,
+     "elo": -7.5,
+     "delta_ovr": -1.0,
      "status": "projected",
-     "xi_mean": 79.9,
+     "xi_mean": 80.4,
      "baseline_mean": 81.4,
      "coverage": 1.0,
      "missing": [
@@ -9430,10 +9430,6 @@
       },
       {
        "name": "Timothy Castagne",
-       "ovr": 77
-      },
-      {
-       "name": "Arthur Theate",
        "ovr": 77
       }
      ]
@@ -13377,5 +13373,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "248ac63140adc875b19aa5fea370722f548d8689"
+ "content_hash": "b51b338016b2d3726cbb43e76af1c9528827b98d"
 }
