@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-25T23:18:00Z",
+ "fetched_utc": "2026-06-26T01:24:00Z",
  "matches": {
   "56": {
    "team1": {
@@ -105,69 +105,69 @@
   },
   "60": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Orlando Gill",
-     "Junior Alonso",
+     "Alexandro Maidana",
      "Gustavo Gomez",
+     "Victor Gustavo Velazquez",
      "Omar Alderete",
      "Juan Jose Caceres",
-     "Mauricio",
+     "Julio Enciso",
      "Andres Cubas",
      "Matias Galarza",
      "Diego Gomez",
-     "Gabriel Avalos",
-     "Julio Enciso"
+     "Gabriel Avalos"
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Patrick Beach",
-     "Jordan Bos",
+     "Lucas Herrington",
      "Harry Souttar",
-     "Cameron Burgess",
      "Alessandro Circati",
-     "Jason Geria",
-     "Nestory Irankunda",
+     "Jordan Bos",
+     "Jackson Irvine",
      "Aiden O'Neill",
-     "Paul Okon",
+     "Aziz Behich",
      "Conor Metcalfe",
-     "Mohamed Toure"
+     "Cristian Volpato",
+     "Nestory Irankunda"
     ]
    }
   },
   "59": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Ugurcan Cakir",
-     "Ferdi Kadioglu",
+     "Eren Elmali",
      "Abdulkerim Bardakci",
-     "Merih Demiral",
-     "Mert Muldur",
-     "Hakan Calhanoglu",
+     "Ozan Kabak",
+     "Zeki Celik",
+     "Salih Ozcan",
      "Orkun Kokcu",
      "Kenan Yildiz",
      "Arda Guler",
      "Baris Yilmaz",
-     "Deniz Gul"
+     "Oguz Aydin"
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
-     "Matt Freese",
+     "Matt Turner",
      "Auston Trusty",
      "Miles Robinson",
      "Mark McKenzie",
-     "Alex Freeman",
-     "Sebastian Berhalter",
-     "Malik Tillman",
-     "Giovanni Reyna",
+     "Joe Scally",
      "Weston McKennie",
-     "Sergino Dest",
-     "Haji Wright"
+     "Sebastian Berhalter",
+     "Brenden Aaronson",
+     "Giovanni Reyna",
+     "Timothy Weah",
+     "Ricardo Pepi"
     ]
    }
   },
@@ -193,8 +193,8 @@
     "xi": [
      "Mike Maignan",
      "Theo Hernandez",
-     "Dayot Upamecano",
      "Maxence Lacroix",
+     "Dayot Upamecano",
      "Malo Gusto",
      "Aurelien Tchouameni",
      "Manu Kone",
@@ -282,8 +282,8 @@
      "Sebastian Caceres",
      "Jose Maria Gimenez",
      "Guillermo Varela",
-     "Rodrigo Bentancur",
      "Federico Valverde",
+     "Rodrigo Bentancur",
      "Manuel Ugarte",
      "Maxi Araujo",
      "Agustin Canobbio",
@@ -332,8 +332,8 @@
      "Brandon Mechele",
      "Koni De Winter",
      "Thomas Meunier",
-     "Youri Tielemans",
      "Nicolas Raskin",
+     "Youri Tielemans",
      "Jeremy Doku",
      "Kevin De Bruyne",
      "Leandro Trossard",
@@ -381,8 +381,8 @@
     "xi": [
      "Dominik Livakovic",
      "Josko Gvardiol",
-     "Josip Sutalo",
      "Duje Caleta-Car",
+     "Josip Sutalo",
      "Josip Stanisic",
      "Luka Modric",
      "Mateo Kovacic",
@@ -431,8 +431,8 @@
     "xi": [
      "Jordan Pickford",
      "Nico O'Reilly",
-     "Marc Guehi",
      "Ezri Konsa",
+     "Marc Guehi",
      "Reece James",
      "Eberechi Eze",
      "Elliot Anderson",
@@ -449,12 +449,12 @@
     "xi": [
      "Camilo Vargas",
      "Johan Mojica",
-     "Jhon Lucumi",
      "Davinson Sanchez",
+     "Jhon Lucumi",
      "Daniel Munoz",
      "Gustavo Puerta",
-     "Jhon Arias",
      "Jefferson Lerma",
+     "Jhon Arias",
      "Luis Diaz",
      "James Rodriguez",
      "Luis Suarez"
@@ -498,15 +498,15 @@
     "status": "projected",
     "xi": [
      "Abduvohid Ne'matov",
-     "Rustamjon Ashurmatov",
      "Abdukodir Khusanov",
      "Abdulla Abdullaev",
+     "Rustamjon Ashurmatov",
      "Khojiakbar Alijonov",
      "Akmal Mozgovoy",
      "Otabek Shukurov",
      "Bekhruz Karimov",
-     "Abbosbek Fayzullaev",
      "Aziz Ganiev",
+     "Abbosbek Fayzullaev",
      "Eldor Shomurodov"
     ]
    }
@@ -571,8 +571,8 @@
      "Nicolas Otamendi",
      "Gonzalo Montiel",
      "Giovani Lo Celso",
-     "Exequiel Palacios",
      "Leandro Paredes",
+     "Exequiel Palacios",
      "Giuliano Simeone",
      "Julian Alvarez",
      "Jose Lopez"
@@ -608,8 +608,8 @@
      "Nathan Saliba",
      "Stephen Eustaquio",
      "Tajon Buchanan",
-     "Cyle Larin",
-     "Jonathan David"
+     "Jonathan David",
+     "Cyle Larin"
     ]
    }
   }
