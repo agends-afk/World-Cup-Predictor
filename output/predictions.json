@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-26T17:05:58+10:00",
- "generated_aest": "Fri 26 Jun 2026, 5:05pm AEST",
+ "generated": "2026-06-26T18:22:26+10:00",
+ "generated_aest": "Fri 26 Jun 2026, 6:22pm AEST",
  "data_through": "2026-06-25",
  "sim_runs": 10000,
  "params": {
@@ -9308,49 +9308,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 0.74,
-    "lam_b": 2.048,
-    "p_win": 0.1122,
-    "p_draw": 0.221,
-    "p_loss": 0.6668,
+    "lam_a": 0.745,
+    "lam_b": 2.034,
+    "p_win": 0.1142,
+    "p_draw": 0.2229,
+    "p_loss": 0.6629,
     "top_scores": [
      {
       "score": "0-2",
-      "p": 0.1291
+      "p": 0.1285
      },
      {
       "score": "0-1",
-      "p": 0.114
+      "p": 0.1141
      },
      {
       "score": "1-1",
-      "p": 0.1054
+      "p": 0.1063
      },
      {
       "score": "1-2",
-      "p": 0.0955
+      "p": 0.0957
      },
      {
       "score": "0-3",
-      "p": 0.0881
+      "p": 0.0871
      }
     ],
     "outcome_scores": {
      "team2": {
       "score": "0-2",
-      "p": 0.1291
+      "p": 0.1285
      },
      "draw": {
       "score": "1-1",
-      "p": 0.1054
+      "p": 0.1063
      },
      "team1": {
       "score": "2-1",
-      "p": 0.0345
+      "p": 0.035
      }
     },
     "modal_score": "0-2",
-    "modal_p": 0.1291
+    "modal_p": 0.1285
    },
    "prediction_base": {
     "lam_a": 0.731,
@@ -9425,13 +9425,17 @@
      ]
     },
     "team2": {
-     "elo": -7.5,
-     "delta_ovr": -1.0,
+     "elo": -10.9,
+     "delta_ovr": -1.45,
      "status": "projected",
-     "xi_mean": 80.4,
+     "xi_mean": 79.9,
      "baseline_mean": 81.4,
      "coverage": 1.0,
      "missing": [
+      {
+       "name": "Romelu Lukaku",
+       "ovr": 82
+      },
       {
        "name": "Axel Witsel",
        "ovr": 80
@@ -9441,8 +9445,8 @@
        "ovr": 80
       },
       {
-       "name": "Timothy Castagne",
-       "ovr": 77
+       "name": "Jérémy Doku",
+       "ovr": 80
       }
      ]
     }
@@ -9816,49 +9820,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.952,
-    "lam_b": 0.776,
-    "p_win": 0.6376,
-    "p_draw": 0.2345,
-    "p_loss": 0.1279,
+    "lam_a": 1.902,
+    "lam_b": 0.796,
+    "p_win": 0.6214,
+    "p_draw": 0.2416,
+    "p_loss": 0.137,
     "top_scores": [
      {
       "score": "2-0",
-      "p": 0.1245
-     },
-     {
-      "score": "1-0",
-      "p": 0.1147
+      "p": 0.1217
      },
      {
       "score": "1-1",
-      "p": 0.1119
+      "p": 0.1152
+     },
+     {
+      "score": "1-0",
+      "p": 0.1148
      },
      {
       "score": "2-1",
-      "p": 0.0966
+      "p": 0.097
      },
      {
-      "score": "3-0",
-      "p": 0.081
+      "score": "0-0",
+      "p": 0.0806
      }
     ],
     "outcome_scores": {
      "team1": {
       "score": "2-0",
-      "p": 0.1245
+      "p": 0.1217
      },
      "draw": {
       "score": "1-1",
-      "p": 0.1119
+      "p": 0.1152
      },
      "team2": {
       "score": "1-2",
-      "p": 0.0384
+      "p": 0.0406
      }
     },
     "modal_score": "2-0",
-    "modal_p": 0.1245
+    "modal_p": 0.1217
    },
    "prediction_base": {
     "lam_a": 1.956,
@@ -9907,16 +9911,24 @@
    },
    "lineup": {
     "team1": {
-     "elo": -1.0,
-     "delta_ovr": -0.14,
+     "elo": -14.5,
+     "delta_ovr": -1.94,
      "status": "projected",
-     "xi_mean": 79.5,
+     "xi_mean": 77.7,
      "baseline_mean": 79.6,
      "coverage": 0.91,
      "missing": [
       {
+       "name": "Joško Gvardiol",
+       "ovr": 83
+      },
+      {
        "name": "Andrej Kramarić",
        "ovr": 81
+      },
+      {
+       "name": "Mario Pašalić",
+       "ovr": 80
       },
       {
        "name": "Petar Musa",
@@ -9943,49 +9955,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.263,
-    "lam_b": 1.199,
-    "p_win": 0.3625,
-    "p_draw": 0.3059,
-    "p_loss": 0.3317,
+    "lam_a": 1.281,
+    "lam_b": 1.182,
+    "p_win": 0.3709,
+    "p_draw": 0.3055,
+    "p_loss": 0.3236,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1459
+      "p": 0.1457
      },
      {
       "score": "0-0",
-      "p": 0.102
+      "p": 0.1019
      },
      {
       "score": "1-0",
-      "p": 0.0909
+      "p": 0.0923
      },
      {
       "score": "0-1",
-      "p": 0.0854
+      "p": 0.0839
      },
      {
       "score": "2-1",
-      "p": 0.0816
+      "p": 0.0826
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1459
+      "p": 0.1457
      },
      "team1": {
       "score": "1-0",
-      "p": 0.0909
+      "p": 0.0923
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0854
+      "p": 0.0839
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1459
+    "modal_p": 0.1457
    },
    "prediction_base": {
     "lam_a": 1.259,
@@ -10056,19 +10068,19 @@
      ]
     },
     "team2": {
-     "elo": -1.6,
-     "delta_ovr": -0.21,
+     "elo": -8.9,
+     "delta_ovr": -1.18,
      "status": "projected",
-     "xi_mean": 79.7,
+     "xi_mean": 78.7,
      "baseline_mean": 79.9,
-     "coverage": 0.91,
+     "coverage": 1.0,
      "missing": [
       {
-       "name": "Philipp Lienhart",
-       "ovr": 79
+       "name": "David Alaba",
+       "ovr": 85
       },
       {
-       "name": "Michael Gregoritsch",
+       "name": "Stefan Posch",
        "ovr": 78
       },
       {
@@ -10653,6 +10665,55 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
+    "lam_a": 1.093,
+    "lam_b": 1.386,
+    "p_win": 0.2797,
+    "p_draw": 0.3008,
+    "p_loss": 0.4194,
+    "top_scores": [
+     {
+      "score": "1-1",
+      "p": 0.1435
+     },
+     {
+      "score": "0-0",
+      "p": 0.1003
+     },
+     {
+      "score": "0-1",
+      "p": 0.0997
+     },
+     {
+      "score": "1-2",
+      "p": 0.088
+     },
+     {
+      "score": "0-2",
+      "p": 0.0805
+     }
+    ],
+    "outcome_scores": {
+     "draw": {
+      "score": "1-1",
+      "p": 0.1435
+     },
+     "team2": {
+      "score": "0-1",
+      "p": 0.0997
+     },
+     "team1": {
+      "score": "1-0",
+      "p": 0.0751
+     }
+    },
+    "modal_score": "1-1",
+    "modal_p": 0.1435,
+    "p_advance": 0.4158,
+    "p_et_win": 0.0546,
+    "p_pens": 0.1733,
+    "pen_edge": 0.47
+   },
+   "prediction_base": {
     "lam_a": 1.11,
     "lam_b": 1.365,
     "p_win": 0.2882,
@@ -10700,6 +10761,60 @@
     "p_et_win": 0.0559,
     "p_pens": 0.1743,
     "pen_edge": 0.474
+   },
+   "lineup": {
+    "team1": {
+     "elo": -8.9,
+     "delta_ovr": -1.18,
+     "status": "projected",
+     "xi_mean": 81.5,
+     "baseline_mean": 82.7,
+     "coverage": 1.0,
+     "missing": [
+      {
+       "name": "Nathan Aké",
+       "ovr": 84
+      },
+      {
+       "name": "Teun Koopmeiners",
+       "ovr": 83
+      },
+      {
+       "name": "Mark Flekken",
+       "ovr": 79
+      },
+      {
+       "name": "Noa Lang",
+       "ovr": 79
+      }
+     ]
+    },
+    "team2": {
+     "elo": -0.8,
+     "delta_ovr": -0.1,
+     "status": "projected",
+     "xi_mean": 77.4,
+     "baseline_mean": 77.5,
+     "coverage": 0.82,
+     "missing": [
+      {
+       "name": "Yassine Bounou",
+       "ovr": 84
+      },
+      {
+       "name": "Soufiane Rahimi",
+       "ovr": 79
+      },
+      {
+       "name": "Sofyan Amrabat",
+       "ovr": 78
+      },
+      {
+       "name": "Ayoub El Kaabi",
+       "ovr": 78
+      }
+     ]
+    }
    }
   },
   {
@@ -10718,6 +10833,55 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
+    "lam_a": 1.51,
+    "lam_b": 1.003,
+    "p_win": 0.4737,
+    "p_draw": 0.2907,
+    "p_loss": 0.2356,
+    "top_scores": [
+     {
+      "score": "1-1",
+      "p": 0.1387
+     },
+     {
+      "score": "1-0",
+      "p": 0.1064
+     },
+     {
+      "score": "0-0",
+      "p": 0.097
+     },
+     {
+      "score": "2-1",
+      "p": 0.0926
+     },
+     {
+      "score": "2-0",
+      "p": 0.0923
+     }
+    ],
+    "outcome_scores": {
+     "draw": {
+      "score": "1-1",
+      "p": 0.1387
+     },
+     "team1": {
+      "score": "1-0",
+      "p": 0.1064
+     },
+     "team2": {
+      "score": "0-1",
+      "p": 0.0653
+     }
+    },
+    "modal_score": "1-1",
+    "modal_p": 0.1387,
+    "p_advance": 0.6428,
+    "p_et_win": 0.0777,
+    "p_pens": 0.1659,
+    "pen_edge": 0.551
+   },
+   "prediction_base": {
     "lam_a": 1.476,
     "lam_b": 1.026,
     "p_win": 0.4594,
@@ -10765,6 +10929,48 @@
     "p_et_win": 0.0766,
     "p_pens": 0.1682,
     "pen_edge": 0.545
+   },
+   "lineup": {
+    "team1": {
+     "elo": 0.0,
+     "delta_ovr": 0.25,
+     "status": "projected",
+     "xi_mean": 84.9,
+     "baseline_mean": 84.6,
+     "coverage": 0.82,
+     "missing": [
+      {
+       "name": "Raphinha",
+       "ovr": 84
+      },
+      {
+       "name": "Dante",
+       "ovr": 79
+      }
+     ]
+    },
+    "team2": {
+     "elo": -11.6,
+     "delta_ovr": -1.55,
+     "status": "projected",
+     "xi_mean": 75.5,
+     "baseline_mean": 77,
+     "coverage": 1.0,
+     "missing": [
+      {
+       "name": "Takefusa Kubo",
+       "ovr": 81
+      },
+      {
+       "name": "Yukinari Sugawara",
+       "ovr": 77
+      },
+      {
+       "name": "Daizen Maeda",
+       "ovr": 74
+      }
+     ]
+    }
    }
   },
   {
@@ -11047,6 +11253,55 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
+    "lam_a": 2.014,
+    "lam_b": 0.752,
+    "p_win": 0.6568,
+    "p_draw": 0.2258,
+    "p_loss": 0.1175,
+    "top_scores": [
+     {
+      "score": "2-0",
+      "p": 0.1276
+     },
+     {
+      "score": "1-0",
+      "p": 0.1143
+     },
+     {
+      "score": "1-1",
+      "p": 0.1077
+     },
+     {
+      "score": "2-1",
+      "p": 0.096
+     },
+     {
+      "score": "3-0",
+      "p": 0.0856
+     }
+    ],
+    "outcome_scores": {
+     "team1": {
+      "score": "2-0",
+      "p": 0.1276
+     },
+     "draw": {
+      "score": "1-1",
+      "p": 0.1077
+     },
+     "team2": {
+      "score": "1-2",
+      "p": 0.0358
+     }
+    },
+    "modal_score": "2-0",
+    "modal_p": 0.1276,
+    "p_advance": 0.8128,
+    "p_et_win": 0.0815,
+    "p_pens": 0.12,
+    "pen_edge": 0.62
+   },
+   "prediction_base": {
     "lam_a": 2.092,
     "lam_b": 0.724,
     "p_win": 0.6797,
@@ -11094,6 +11349,31 @@
     "p_et_win": 0.0805,
     "p_pens": 0.1126,
     "pen_edge": 0.629
+   },
+   "lineup": {
+    "team1": {
+     "elo": -19.8,
+     "delta_ovr": -2.64,
+     "status": "projected",
+     "xi_mean": 74.4,
+     "baseline_mean": 77,
+     "coverage": 1.0,
+     "missing": [
+      {
+       "name": "Matt Turner",
+       "ovr": 74
+      },
+      {
+       "name": "Mark McKenzie",
+       "ovr": 74
+      },
+      {
+       "name": "Ricardo Pepi",
+       "ovr": 73
+      }
+     ]
+    },
+    "team2": null
    }
   },
   {
@@ -13385,5 +13665,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "b2a139eea5bcc762a624897a30be7f1f05d52005"
+ "content_hash": "9a3d0dd30632f41cbdf0c8201a6615f6cdfd8839"
 }
