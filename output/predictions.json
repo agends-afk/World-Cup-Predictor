@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-26T15:37:30+10:00",
- "generated_aest": "Fri 26 Jun 2026, 3:37pm AEST",
+ "generated": "2026-06-26T17:05:58+10:00",
+ "generated_aest": "Fri 26 Jun 2026, 5:05pm AEST",
  "data_through": "2026-06-25",
  "sim_runs": 10000,
  "params": {
@@ -8959,49 +8959,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 0.952,
-    "lam_b": 1.592,
-    "p_win": 0.2102,
-    "p_draw": 0.2821,
-    "p_loss": 0.5077,
+    "lam_a": 0.945,
+    "lam_b": 1.602,
+    "p_win": 0.2072,
+    "p_draw": 0.2809,
+    "p_loss": 0.512,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1345
+      "p": 0.134
      },
      {
       "score": "0-1",
-      "p": 0.1096
+      "p": 0.11
      },
      {
       "score": "0-2",
-      "p": 0.0996
+      "p": 0.1005
      },
      {
       "score": "1-2",
-      "p": 0.0948
+      "p": 0.095
      },
      {
       "score": "0-0",
-      "p": 0.0941
+      "p": 0.0937
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1345
+      "p": 0.134
      },
      "team2": {
       "score": "0-1",
-      "p": 0.1096
+      "p": 0.11
      },
      "team1": {
       "score": "1-0",
-      "p": 0.0593
+      "p": 0.0586
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1345
+    "modal_p": 0.134
    },
    "prediction_base": {
     "lam_a": 0.986,
@@ -9076,20 +9076,16 @@
      ]
     },
     "team2": {
-     "elo": -22.5,
-     "delta_ovr": -3.0,
+     "elo": -19.1,
+     "delta_ovr": -2.55,
      "status": "projected",
-     "xi_mean": 82.5,
+     "xi_mean": 83,
      "baseline_mean": 85.5,
      "coverage": 1.0,
      "missing": [
       {
        "name": "William Saliba",
        "ovr": 87
-      },
-      {
-       "name": "Jules Koundé",
-       "ovr": 85
       },
       {
        "name": "N'Golo Kanté",
@@ -13389,5 +13385,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "39b553718576c868cc662f8f6650d1b179e41eb7"
+ "content_hash": "b2a139eea5bcc762a624897a30be7f1f05d52005"
 }
