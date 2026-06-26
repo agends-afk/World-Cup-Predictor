@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-26T18:22:26+10:00",
- "generated_aest": "Fri 26 Jun 2026, 6:22pm AEST",
+ "generated": "2026-06-26T20:53:21+10:00",
+ "generated_aest": "Fri 26 Jun 2026, 8:53pm AEST",
  "data_through": "2026-06-25",
  "sim_runs": 10000,
  "params": {
@@ -8959,49 +8959,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 0.945,
-    "lam_b": 1.602,
-    "p_win": 0.2072,
-    "p_draw": 0.2809,
-    "p_loss": 0.512,
+    "lam_a": 0.947,
+    "lam_b": 1.599,
+    "p_win": 0.2081,
+    "p_draw": 0.2812,
+    "p_loss": 0.5107,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.134
+      "p": 0.1341
      },
      {
       "score": "0-1",
-      "p": 0.11
+      "p": 0.1099
      },
      {
       "score": "0-2",
-      "p": 0.1005
+      "p": 0.1002
      },
      {
       "score": "1-2",
-      "p": 0.095
+      "p": 0.0949
      },
      {
       "score": "0-0",
-      "p": 0.0937
+      "p": 0.0938
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.134
+      "p": 0.1341
      },
      "team2": {
       "score": "0-1",
-      "p": 0.11
+      "p": 0.1099
      },
      "team1": {
       "score": "1-0",
-      "p": 0.0586
+      "p": 0.0588
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.134
+    "modal_p": 0.1341
    },
    "prediction_base": {
     "lam_a": 0.986,
@@ -9049,32 +9049,7 @@
     "modal_p": 0.1374
    },
    "lineup": {
-    "team1": {
-     "elo": -41.0,
-     "delta_ovr": -5.46,
-     "status": "projected",
-     "xi_mean": 73.9,
-     "baseline_mean": 79.4,
-     "coverage": 0.91,
-     "missing": [
-      {
-       "name": "Erling Haaland",
-       "ovr": 91
-      },
-      {
-       "name": "Martin Ødegaard",
-       "ovr": 89
-      },
-      {
-       "name": "Alexander Sørloth",
-       "ovr": 82
-      },
-      {
-       "name": "Fredrik Aursnes",
-       "ovr": 80
-      }
-     ]
-    },
+    "team1": null,
     "team2": {
      "elo": -19.1,
      "delta_ovr": -2.55,
@@ -13665,5 +13640,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "9a3d0dd30632f41cbdf0c8201a6615f6cdfd8839"
+ "content_hash": "ee192ae9a50c7d95352fc7a76a7151ea02946dc5"
 }

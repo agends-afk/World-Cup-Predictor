@@ -1,17 +1,17 @@
 {
- "fetched_utc": "2026-06-26T08:22:00Z",
+ "fetched_utc": "2026-06-26T10:53:00Z",
  "matches": {
   "61": {
    "team1": {
     "status": "projected",
     "xi": [
      "Orjan Nyland",
-     "David Moller Wolfe",
+     "Fredrik Andre Bjorkan",
      "Kristoffer Ajer",
      "Leo Ostigard",
      "Marcus Pedersen",
      "Patrick Berg",
-     "Kristian Thorstvedt",
+     "Martin Odegaard",
      "Sander Berge",
      "Andreas Schjelderup",
      "Oscar Bobb",
@@ -23,8 +23,8 @@
     "xi": [
      "Mike Maignan",
      "Theo Hernandez",
-     "Dayot Upamecano",
      "Maxence Lacroix",
+     "Dayot Upamecano",
      "Jules Kounde",
      "Aurelien Tchouameni",
      "Manu Kone",
@@ -75,8 +75,8 @@
     "xi": [
      "Vozinha",
      "Stopira",
-     "Pico",
      "Diney",
+     "Pico",
      "Steven Moreira",
      "Kevin Pina",
      "Garry Rodrigues",
@@ -109,8 +109,8 @@
     "xi": [
      "Fernando Muslera",
      "Mathias Olivera",
-     "Sebastian Caceres",
      "Jose Maria Gimenez",
+     "Sebastian Caceres",
      "Guillermo Varela",
      "Manuel Ugarte",
      "Rodrigo Bentancur",
@@ -143,8 +143,8 @@
     "xi": [
      "Maxime Crocombe",
      "Liberato Cacace",
-     "Finn Surman",
      "Michael Boxall",
+     "Finn Surman",
      "Tim Payne",
      "Marko Stamenic",
      "Joe Bell",
@@ -162,8 +162,8 @@
      "Brandon Mechele",
      "Arthur Theate",
      "Thomas Meunier",
-     "Youri Tielemans",
      "Nicolas Raskin",
+     "Youri Tielemans",
      "Leandro Trossard",
      "Kevin De Bruyne",
      "Alexis Saelemaekers",
@@ -232,8 +232,8 @@
      "Marvin Senaya",
      "Thomas Partey",
      "Antoine Semenyo",
-     "Caleb Yirenkyi",
      "Kwasi Sibo",
+     "Caleb Yirenkyi",
      "Inaki Williams",
      "Jordan Ayew"
     ]
@@ -282,9 +282,9 @@
      "Davinson Sanchez",
      "Jhon Lucumi",
      "Daniel Munoz",
+     "Gustavo Puerta",
      "Jhon Arias",
      "Jefferson Lerma",
-     "Gustavo Puerta",
      "Luis Diaz",
      "James Rodriguez",
      "Luis Suarez"
@@ -298,8 +298,8 @@
      "Renato Veiga",
      "Ruben Dias",
      "Joao Cancelo",
-     "Vitinha",
      "Joao Neves",
+     "Vitinha",
      "Joao Felix",
      "Bruno Fernandes",
      "Pedro Neto",
@@ -328,15 +328,15 @@
     "status": "projected",
     "xi": [
      "Abduvohid Ne'matov",
+     "Abdulla Abdullaev",
      "Abdukodir Khusanov",
      "Rustamjon Ashurmatov",
-     "Abdulla Abdullaev",
      "Khojiakbar Alijonov",
      "Akmal Mozgovoy",
      "Otabek Shukurov",
      "Bekhruz Karimov",
-     "Abbosbek Fayzullaev",
      "Aziz Ganiev",
+     "Abbosbek Fayzullaev",
      "Eldor Shomurodov"
     ]
    }
@@ -366,8 +366,8 @@
      "Philipp Lienhart",
      "Kevin Danso",
      "Marco Friedl",
-     "Xaver Schlager",
      "Nicolas Seiwald",
+     "Xaver Schlager",
      "Marcel Sabitzer",
      "Michael Gregoritsch",
      "Romano Schmid",
@@ -381,8 +381,8 @@
     "xi": [
      "Yazeed Mo'ien Hasan Abulaila",
      "Husam Ali Mohammad Abu Dahab",
-     "Yazan Al-Arab",
      "Abdallah Mousa Musallam Nasib",
+     "Yazan Al-Arab",
      "Mohannad Abu Taha",
      "Noor Al Rawabdeh",
      "Nizar Mahmoud Ahmed Al Rashdan",
@@ -401,8 +401,8 @@
      "Nicolas Otamendi",
      "Gonzalo Montiel",
      "Giovani Lo Celso",
-     "Exequiel Palacios",
      "Leandro Paredes",
+     "Exequiel Palacios",
      "Giuliano Simeone",
      "Julian Alvarez",
      "Jose Lopez"
@@ -483,8 +483,8 @@
     "xi": [
      "Bart Verbruggen",
      "Micky van de Ven",
-     "Jan Paul van Hecke",
      "Virgil van Dijk",
+     "Jan Paul van Hecke",
      "Denzel Dumfries",
      "Ryan Gravenberch",
      "Frenkie de Jong",
@@ -499,8 +499,8 @@
     "xi": [
      "Bono",
      "Noussair Mazraoui",
-     "Chadi Riad",
      "Issa Diop",
+     "Chadi Riad",
      "Achraf Hakimi",
      "Neil El Aynaoui",
      "Ayyoub Bouaddi",
@@ -516,8 +516,8 @@
     "status": "projected",
     "xi": [
      "Matt Freese",
-     "Alex Freeman",
      "Chris Richards",
+     "Alex Freeman",
      "Tim Ream",
      "Antonee Robinson",
      "Weston McKennie",
@@ -533,15 +533,15 @@
     "xi": [
      "Nikola Vasilj",
      "Sead Kolasinac",
-     "Nikola Katic",
      "Tarik Muharemovic",
+     "Nikola Katic",
      "Amar Dedic",
      "Kerim Alajbegovic",
      "Ivan Basic",
      "Ivan Sunjic",
      "Esmir Bajraktarevic",
-     "Edin Dzeko",
-     "Ermedin Demirovic"
+     "Ermedin Demirovic",
+     "Edin Dzeko"
     ]
    }
   }
