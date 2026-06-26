@@ -1,9 +1,9 @@
 {
- "fetched_utc": "2026-06-26T15:35:00Z",
+ "fetched_utc": "2026-06-26T18:00:00Z",
  "matches": {
   "61": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Egil Selvik",
      "Fredrik Andre Bjorkan",
@@ -19,7 +19,7 @@
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Mike Maignan",
      "Theo Hernandez",
@@ -37,32 +37,32 @@
   },
   "62": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Mory Diaw",
-     "El Hadji Malick Diouf",
+     "Ismail Jakobs",
+     "Abdoulaye Seck",
      "Moussa Niakhate",
-     "Kalidou Koulibaly",
      "Krepin Diatta",
-     "Pape Gueye",
      "Idrissa Gueye",
-     "Sadio Mane",
      "Lamine Camara",
-     "Ismaila Sarr",
-     "Nicolas Jackson"
+     "Sadio Mane",
+     "Habib Diarra",
+     "Ibrahim Mbaye",
+     "Ismaila Sarr"
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Ahmed Basil",
      "Merchas Doski",
      "Akam Hashem",
-     "Zaid Tahseen",
-     "Hussein Ali",
+     "Rebin Sulaka",
+     "Frans Dhia Jirjis Haddad",
      "Amir Al-Ammari",
+     "Ali Jasim",
      "Ibrahim Bayesh",
-     "Zaid Ismael",
      "Zidane Aamar Iqbal",
      "Ahmed Qasem",
      "Ali Al Hamadi"
@@ -112,9 +112,9 @@
      "Jose Maria Gimenez",
      "Sebastian Caceres",
      "Guillermo Varela",
-     "Manuel Ugarte",
-     "Rodrigo Bentancur",
      "Federico Valverde",
+     "Rodrigo Bentancur",
+     "Manuel Ugarte",
      "Maxi Araujo",
      "Agustin Canobbio",
      "Darwin Nunez"
@@ -162,8 +162,8 @@
      "Brandon Mechele",
      "Arthur Theate",
      "Thomas Meunier",
-     "Nicolas Raskin",
      "Youri Tielemans",
+     "Nicolas Raskin",
      "Leandro Trossard",
      "Kevin De Bruyne",
      "Alexis Saelemaekers",
@@ -177,8 +177,8 @@
     "xi": [
      "Mostafa Shobeir",
      "Ahmed El Fotouh",
-     "Ramy Rabia",
      "Mohamed Abdelmonem",
+     "Ramy Rabia",
      "Mohamed Hany",
      "Mohanad Lasheen",
      "Mahmoud Saber",
@@ -210,15 +210,15 @@
     "status": "projected",
     "xi": [
      "Dominik Livakovic",
-     "Josip Stanisic",
-     "Josip Sutalo",
+     "Ivan Perisic",
      "Duje Caleta-Car",
-     "Kristijan Jakic",
-     "Petar Sucic",
+     "Josip Sutalo",
+     "Josip Stanisic",
      "Luka Modric",
      "Mateo Kovacic",
-     "Ivan Perisic",
      "Martin Baturina",
+     "Andrej Kramaric",
+     "Marco Pasalic",
      "Ante Budimir"
     ]
    },
@@ -264,8 +264,8 @@
      "Ezri Konsa",
      "Marc Guehi",
      "Djed Spence",
-     "Eberechi Eze",
      "Elliot Anderson",
+     "Kobbie Mainoo",
      "Marcus Rashford",
      "Jude Bellingham",
      "Noni Madueke",

@@ -1,6 +1,6 @@
 # World Cup 2026: match predictions
 
-Generated Sat 27 Jun 2026, 1:35am AEST. Results included through 2026-06-25. 60 of 104 matches played. 10,000 tournament simulations.
+Generated Sat 27 Jun 2026, 4:00am AEST. Results included through 2026-06-25. 60 of 104 matches played. 10,000 tournament simulations.
 
 Every probability below is a model estimate built only from match results and public squad news, not from betting odds or published predictions. A favourite can be 75% to win while its most likely exact score sits near 12 to 15%; goals spread across many scorelines, so read the two numbers separately.
 
@@ -227,8 +227,8 @@ A read-only comparison of the model's own rating order against the FIFA/Coca-Col
 - M18, Tue 16 Jun, Foxborough: Iraq v Norway. **Played: Iraq 1-4 Norway.** Model said Norway to win 60% (draw 25%, Iraq win 15%); most likely Norway 2-0 (12%); result hit, score miss
 - M41, Mon 22 Jun, East Rutherford: Norway v Senegal. **Played: Norway 3-2 Senegal.** Model said Norway to win 45% (draw 30%, Senegal win 25%); most likely Norway 1-0 (10%); result hit, score miss
 - M42, Mon 22 Jun, Philadelphia: France v Iraq. **Played: France 3-0 Iraq.** Model said France to win 81% (draw 14%, Iraq win 5%); most likely France 2-0 (14%); result hit, score miss
-- M61, Fri 26 Jun, Foxborough: Norway v France. **France to win 51%** (draw 28%, Norway win 21%); most likely France 1-0 (11%) *(low stakes for a settled side)*
-- M62, Fri 26 Jun, Toronto: Senegal v Iraq. **Senegal to win 53%** (draw 27%, Iraq win 19%); most likely Senegal 1-0 (11%)
+- M61, Fri 26 Jun, Foxborough: Norway v France. **France to win 49%** (draw 29%, Norway win 23%); most likely France 1-0 (11%) *(low stakes for a settled side)*
+- M62, Fri 26 Jun, Toronto: Senegal v Iraq. **Senegal to win 47%** (draw 29%, Iraq win 24%); most likely Senegal 1-0 (11%)
 
 ### Group J
 
@@ -275,8 +275,8 @@ A read-only comparison of the model's own rating order against the FIFA/Coca-Col
 - M22, Wed 17 Jun, Arlington: England v Croatia. **Played: England 4-2 Croatia.** Model said England to win 54% (draw 27%, Croatia win 19%); most likely England 1-0 (11%); result hit, score miss
 - M45, Tue 23 Jun, Foxborough: England v Ghana. **Played: England 0-0 Ghana.** Model said England to win 82% (draw 13%, Ghana win 4%); most likely England 2-0 (14%); result miss, score miss
 - M46, Tue 23 Jun, Toronto: Panama v Croatia. **Played: Panama 0-1 Croatia.** Model said Croatia to win 49% (draw 29%, Panama win 22%); most likely Croatia 1-0 (11%); result hit, score miss
-- M67, Sat 27 Jun, East Rutherford: Panama v England. **England to win 71%** (draw 20%, Panama win 9%); most likely England 2-0 (14%)
-- M68, Sat 27 Jun, Philadelphia: Croatia v Ghana. **Croatia to win 62%** (draw 24%, Ghana win 14%); most likely Croatia 2-0 (12%)
+- M67, Sat 27 Jun, East Rutherford: Panama v England. **England to win 71%** (draw 20%, Panama win 9%); most likely England 2-0 (13%)
+- M68, Sat 27 Jun, Philadelphia: Croatia v Ghana. **Croatia to win 64%** (draw 24%, Ghana win 13%); most likely Croatia 2-0 (12%)
 
 ## Knockout projection
 
