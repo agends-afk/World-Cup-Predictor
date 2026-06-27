@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-27T22:13:00Z",
+ "fetched_utc": "2026-06-27T23:14:00Z",
  "matches": {
   "68": {
    "team1": {
@@ -79,11 +79,11 @@
      "Jhon Lucumi",
      "Santiago Arias",
      "Jefferson Lerma",
-     "Luis Diaz",
+     "Jhon Arias",
      "Gustavo Puerta",
-     "Jhon Cordoba",
+     "Luis Diaz",
      "James Rodriguez",
-     "Jhon Arias"
+     "Jhon Cordoba"
     ]
    },
    "team2": {
@@ -121,17 +121,17 @@
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Abduvohid Ne'matov",
      "Abdukodir Khusanov",
-     "Abdulla Abdullaev",
      "Rustamjon Ashurmatov",
+     "Jakhongir Urozov",
      "Khojiakbar Alijonov",
      "Akmal Mozgovoy",
      "Otabek Shukurov",
      "Sherzod Nasrullayev",
-     "Aziz Ganiev",
+     "Dostonbek Khamdamov",
      "Abbosbek Fayzullaev",
      "Eldor Shomurodov"
     ]
@@ -143,11 +143,11 @@
     "xi": [
      "Luca Zidane",
      "Rayan Ait-Nouri",
-     "Aissa Mandi",
      "Ramy Bensebaini",
+     "Aissa Mandi",
      "Rafik Belghali",
-     "Hicham Boudaoui",
      "Nabil Bentaleb",
+     "Hicham Boudaoui",
      "Fares Chaibi",
      "Ibrahim Maza",
      "Riyad Mahrez",
@@ -162,8 +162,8 @@
      "Philipp Lienhart",
      "Kevin Danso",
      "Marco Friedl",
-     "Nicolas Seiwald",
      "Xaver Schlager",
+     "Nicolas Seiwald",
      "Marcel Sabitzer",
      "Michael Gregoritsch",
      "Romano Schmid",
@@ -197,8 +197,8 @@
      "Nicolas Otamendi",
      "Gonzalo Montiel",
      "Giovani Lo Celso",
-     "Leandro Paredes",
      "Exequiel Palacios",
+     "Leandro Paredes",
      "Giuliano Simeone",
      "Julian Alvarez",
      "Jose Lopez"
@@ -234,8 +234,8 @@
      "Nathan Saliba",
      "Stephen Eustaquio",
      "Tajon Buchanan",
-     "Cyle Larin",
-     "Jonathan David"
+     "Jonathan David",
+     "Cyle Larin"
     ]
    }
   },
@@ -249,8 +249,8 @@
      "Marquinhos",
      "Danilo",
      "Casemiro",
-     "Lucas Paqueta",
      "Bruno Guimaraes",
+     "Lucas Paqueta",
      "Vinicius Junior",
      "Rayan",
      "Matheus Cunha"
@@ -260,9 +260,9 @@
     "status": "projected",
     "xi": [
      "Zion Suzuki",
+     "Hiroki Ito",
      "Takehiro Tomiyasu",
      "Ko Itakura",
-     "Hiroki Ito",
      "Keito Nakamura",
      "Kaishu Sano",
      "Ao Tanaka",
@@ -295,8 +295,8 @@
     "xi": [
      "Orlando Gill",
      "Junior Alonso",
-     "Victor Gustavo Velazquez",
      "Gustavo Gomez",
+     "Victor Gustavo Velazquez",
      "Juan Jose Caceres",
      "Mauricio",
      "Matias Galarza",
@@ -313,8 +313,8 @@
     "xi": [
      "Bart Verbruggen",
      "Micky van de Ven",
-     "Jan Paul van Hecke",
      "Virgil van Dijk",
+     "Jan Paul van Hecke",
      "Denzel Dumfries",
      "Ryan Gravenberch",
      "Frenkie de Jong",
@@ -329,8 +329,8 @@
     "xi": [
      "Bono",
      "Noussair Mazraoui",
-     "Issa Diop",
      "Chadi Riad",
+     "Issa Diop",
      "Achraf Hakimi",
      "Neil El Aynaoui",
      "Ayyoub Bouaddi",
@@ -362,9 +362,9 @@
     "status": "projected",
     "xi": [
      "Kristoffer Nordfeldt",
-     "Gustaf Lagerbielke",
      "Victor Lindelof",
      "Gabriel Gudmundsson",
+     "Gustaf Lagerbielke",
      "Elliot Stroud",
      "Jesper Karlstrom",
      "Yasin Ayari",
