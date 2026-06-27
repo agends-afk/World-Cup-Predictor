@@ -1,210 +1,6 @@
 {
- "fetched_utc": "2026-06-27T06:17:00Z",
+ "fetched_utc": "2026-06-27T08:27:00Z",
  "matches": {
-  "61": {
-   "team1": {
-    "status": "confirmed",
-    "xi": [
-     "Egil Selvik",
-     "Fredrik Andre Bjorkan",
-     "Leo Ostigard",
-     "Henrik Falchener",
-     "Fredrik Aursnes",
-     "Patrick Berg",
-     "Kristian Thorstvedt",
-     "Thelo Aasgaard",
-     "Andreas Schjelderup",
-     "Oscar Bobb",
-     "Jorgen Strand Larsen"
-    ]
-   },
-   "team2": {
-    "status": "confirmed",
-    "xi": [
-     "Mike Maignan",
-     "Theo Hernandez",
-     "Dayot Upamecano",
-     "Maxence Lacroix",
-     "Jules Kounde",
-     "Aurelien Tchouameni",
-     "Manu Kone",
-     "Desire Doue",
-     "Michael Olise",
-     "Ousmane Dembele",
-     "Kylian Mbappe"
-    ]
-   }
-  },
-  "62": {
-   "team1": {
-    "status": "confirmed",
-    "xi": [
-     "Mory Diaw",
-     "Ismail Jakobs",
-     "Abdoulaye Seck",
-     "Moussa Niakhate",
-     "Krepin Diatta",
-     "Idrissa Gueye",
-     "Lamine Camara",
-     "Sadio Mane",
-     "Habib Diarra",
-     "Ibrahim Mbaye",
-     "Ismaila Sarr"
-    ]
-   },
-   "team2": {
-    "status": "confirmed",
-    "xi": [
-     "Ahmed Basil",
-     "Merchas Doski",
-     "Akam Hashem",
-     "Rebin Sulaka",
-     "Frans Dhia Jirjis Haddad",
-     "Amir Al-Ammari",
-     "Ali Jasim",
-     "Ibrahim Bayesh",
-     "Zidane Aamar Iqbal",
-     "Ahmed Qasem",
-     "Ali Al Hamadi"
-    ]
-   }
-  },
-  "65": {
-   "team1": {
-    "status": "confirmed",
-    "xi": [
-     "Vozinha",
-     "Joao Paulo",
-     "Diney",
-     "Pico",
-     "Wagner Pina",
-     "Kevin Pina",
-     "Willy Semedo",
-     "Deroy Duarte",
-     "Jamiro Monteiro",
-     "Ryan Mendes",
-     "Dailon Livramento"
-    ]
-   },
-   "team2": {
-    "status": "confirmed",
-    "xi": [
-     "Mohammed Al-Owais",
-     "Nawaf Bu Washl",
-     "Hassan Al Tambakti",
-     "Abdulelah Al-Amri",
-     "Saud Abdulhamid",
-     "Nasser Al Dawsari",
-     "Mohamed Kanno",
-     "Abdullah Al-Khaibari",
-     "Salem Al-Dawsari",
-     "Sultan bin Ahmed bin Mohammed Mandash",
-     "Firas Al Buraikan"
-    ]
-   }
-  },
-  "66": {
-   "team1": {
-    "status": "confirmed",
-    "xi": [
-     "Fernando Muslera",
-     "Juan Sanabria",
-     "Sebastian Caceres",
-     "Mathias Olivera",
-     "Guillermo Varela",
-     "Federico Valverde",
-     "Rodrigo Bentancur",
-     "Manuel Ugarte",
-     "Maxi Araujo",
-     "Agustin Canobbio",
-     "Darwin Nunez"
-    ]
-   },
-   "team2": {
-    "status": "confirmed",
-    "xi": [
-     "Unai Simon",
-     "Marc Cucurella",
-     "Pau Cubarsi",
-     "Aymeric Laporte",
-     "Marcos Llorente",
-     "Mikel Merino",
-     "Rodri",
-     "Pedri",
-     "Alex Baena",
-     "Lamine Yamal",
-     "Mikel Oyarzabal"
-    ]
-   }
-  },
-  "64": {
-   "team1": {
-    "status": "confirmed",
-    "xi": [
-     "Maxime Crocombe",
-     "Liberato Cacace",
-     "Tyler Bindon",
-     "Finn Surman",
-     "Tim Payne",
-     "Marko Stamenic",
-     "Joe Bell",
-     "Elijah Just",
-     "Sarpreet Singh",
-     "Ryan Thomas",
-     "Chris Wood"
-    ]
-   },
-   "team2": {
-    "status": "confirmed",
-    "xi": [
-     "Thibaut Courtois",
-     "Maxim De Cuyper",
-     "Brandon Mechele",
-     "Arthur Theate",
-     "Timothy Castagne",
-     "Hans Vanaken",
-     "Youri Tielemans",
-     "Jeremy Doku",
-     "Kevin De Bruyne",
-     "Leandro Trossard",
-     "Charles De Ketelaere"
-    ]
-   }
-  },
-  "63": {
-   "team1": {
-    "status": "confirmed",
-    "xi": [
-     "Mostafa Shobeir",
-     "Ahmed El Fotouh",
-     "Mohamed Abdelmonem",
-     "Ramy Rabia",
-     "Mohamed Hany",
-     "Mohanad Lasheen",
-     "Mahmoud Saber",
-     "Emam Ashour",
-     "Mohamed Salah",
-     "Mostafa Ziko",
-     "Trezeguet"
-    ]
-   },
-   "team2": {
-    "status": "confirmed",
-    "xi": [
-     "Alireza Beiranvand",
-     "Ali Nemati",
-     "Hossein Kanaanizadegan",
-     "Shoja Khalilzadeh",
-     "Milad Mohammadi",
-     "Ramin Rezaeian",
-     "Mohammad Mohebi",
-     "Mohammad Ghorbani",
-     "Saeid Ezatolahi",
-     "Saman Ghoddos",
-     "Mehdi Taremi"
-    ]
-   }
-  },
   "68": {
    "team1": {
     "status": "projected",
@@ -227,8 +23,8 @@
     "xi": [
      "Benjamin Asare",
      "Gideon Mensah",
-     "Jonas Adjetey",
      "Jerome Opoku",
+     "Jonas Adjetey",
      "Marvin Senaya",
      "Thomas Partey",
      "Antoine Semenyo",
@@ -283,8 +79,8 @@
      "Jhon Lucumi",
      "Daniel Munoz",
      "Gustavo Puerta",
-     "Jhon Arias",
      "Jefferson Lerma",
+     "Jhon Arias",
      "Luis Diaz",
      "James Rodriguez",
      "Luis Suarez"
@@ -298,8 +94,8 @@
      "Renato Veiga",
      "Ruben Dias",
      "Joao Cancelo",
-     "Joao Neves",
      "Vitinha",
+     "Joao Neves",
      "Joao Felix",
      "Bruno Fernandes",
      "Pedro Neto",
@@ -328,9 +124,9 @@
     "status": "projected",
     "xi": [
      "Abduvohid Ne'matov",
+     "Abdulla Abdullaev",
      "Abdukodir Khusanov",
      "Rustamjon Ashurmatov",
-     "Abdulla Abdullaev",
      "Khojiakbar Alijonov",
      "Akmal Mozgovoy",
      "Otabek Shukurov",
@@ -347,8 +143,8 @@
     "xi": [
      "Luca Zidane",
      "Rayan Ait-Nouri",
-     "Aissa Mandi",
      "Ramy Bensebaini",
+     "Aissa Mandi",
      "Rafik Belghali",
      "Hicham Boudaoui",
      "Nabil Bentaleb",
@@ -366,8 +162,8 @@
      "Philipp Lienhart",
      "Kevin Danso",
      "Marco Friedl",
-     "Xaver Schlager",
      "Nicolas Seiwald",
+     "Xaver Schlager",
      "Marcel Sabitzer",
      "Michael Gregoritsch",
      "Romano Schmid",
@@ -381,8 +177,8 @@
     "xi": [
      "Yazeed Mo'ien Hasan Abulaila",
      "Husam Ali Mohammad Abu Dahab",
-     "Abdallah Mousa Musallam Nasib",
      "Yazan Al-Arab",
+     "Abdallah Mousa Musallam Nasib",
      "Mohannad Abu Taha",
      "Noor Al Rawabdeh",
      "Nizar Mahmoud Ahmed Al Rashdan",
@@ -401,8 +197,8 @@
      "Nicolas Otamendi",
      "Gonzalo Montiel",
      "Giovani Lo Celso",
-     "Exequiel Palacios",
      "Leandro Paredes",
+     "Exequiel Palacios",
      "Giuliano Simeone",
      "Julian Alvarez",
      "Jose Lopez"
@@ -438,8 +234,8 @@
      "Nathan Saliba",
      "Stephen Eustaquio",
      "Tajon Buchanan",
-     "Cyle Larin",
-     "Jonathan David"
+     "Jonathan David",
+     "Cyle Larin"
     ]
    }
   },
@@ -477,6 +273,40 @@
     ]
    }
   },
+  "74": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Manuel Neuer",
+     "Nathaniel Brown",
+     "Antonio Rudiger",
+     "Jonathan Tah",
+     "Joshua Kimmich",
+     "Felix Nmecha",
+     "Aleksandar Pavlovic",
+     "Florian Wirtz",
+     "Jamal Musiala",
+     "Leroy Sane",
+     "Kai Havertz"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Orlando Gill",
+     "Junior Alonso",
+     "Victor Gustavo Velazquez",
+     "Gustavo Gomez",
+     "Juan Jose Caceres",
+     "Mauricio",
+     "Andres Cubas",
+     "Matias Galarza",
+     "Miguel Almiron",
+     "Gabriel Avalos",
+     "Julio Enciso"
+    ]
+   }
+  },
   "75": {
    "team1": {
     "status": "projected",
@@ -499,8 +329,8 @@
     "xi": [
      "Bono",
      "Noussair Mazraoui",
-     "Issa Diop",
      "Chadi Riad",
+     "Issa Diop",
      "Achraf Hakimi",
      "Neil El Aynaoui",
      "Ayyoub Bouaddi",
@@ -508,6 +338,40 @@
      "Azzedine Ounahi",
      "Brahim Diaz",
      "Ismael Saibari"
+    ]
+   }
+  },
+  "77": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Mike Maignan",
+     "Theo Hernandez",
+     "Dayot Upamecano",
+     "William Saliba",
+     "Jules Kounde",
+     "Aurelien Tchouameni",
+     "Manu Kone",
+     "Desire Doue",
+     "Michael Olise",
+     "Ousmane Dembele",
+     "Kylian Mbappe"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Kristoffer Nordfeldt",
+     "Victor Lindelof",
+     "Gustaf Lagerbielke",
+     "Gabriel Gudmundsson",
+     "Elliot Stroud",
+     "Jesper Karlstrom",
+     "Yasin Ayari",
+     "Alexander Bernhardsson",
+     "Alexander Isak",
+     "Anthony Elanga",
+     "Viktor Gyokeres"
     ]
    }
   },
@@ -540,8 +404,26 @@
      "Ivan Basic",
      "Ivan Sunjic",
      "Esmir Bajraktarevic",
-     "Ermedin Demirovic",
-     "Edin Dzeko"
+     "Edin Dzeko",
+     "Ermedin Demirovic"
+    ]
+   }
+  },
+  "86": {
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Vozinha",
+     "Sidny Lopes Cabral",
+     "Diney",
+     "Pico",
+     "Steven Moreira",
+     "Kevin Pina",
+     "Willy Semedo",
+     "Deroy Duarte",
+     "Jamiro Monteiro",
+     "Ryan Mendes",
+     "Dailon Livramento"
     ]
    }
   }

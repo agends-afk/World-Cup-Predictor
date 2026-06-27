@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-27T16:17:11+10:00",
- "generated_aest": "Sat 27 Jun 2026, 4:17pm AEST",
+ "generated": "2026-06-27T18:27:39+10:00",
+ "generated_aest": "Sat 27 Jun 2026, 6:27pm AEST",
  "data_through": "2026-06-26",
  "sim_runs": 10000,
  "params": {
@@ -10613,6 +10613,55 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
+    "lam_a": 1.43,
+    "lam_b": 1.059,
+    "p_win": 0.439,
+    "p_draw": 0.2978,
+    "p_loss": 0.2632,
+    "top_scores": [
+     {
+      "score": "1-1",
+      "p": 0.142
+     },
+     {
+      "score": "1-0",
+      "p": 0.1023
+     },
+     {
+      "score": "0-0",
+      "p": 0.0993
+     },
+     {
+      "score": "2-1",
+      "p": 0.0899
+     },
+     {
+      "score": "2-0",
+      "p": 0.0848
+     }
+    ],
+    "outcome_scores": {
+     "draw": {
+      "score": "1-1",
+      "p": 0.142
+     },
+     "team1": {
+      "score": "1-0",
+      "p": 0.1023
+     },
+     "team2": {
+      "score": "0-1",
+      "p": 0.0716
+     }
+    },
+    "modal_score": "1-1",
+    "modal_p": 0.142,
+    "p_advance": 0.6058,
+    "p_et_win": 0.0749,
+    "p_pens": 0.171,
+    "pen_edge": 0.537
+   },
+   "prediction_base": {
     "lam_a": 1.411,
     "lam_b": 1.074,
     "p_win": 0.4305,
@@ -10660,6 +10709,56 @@
     "p_et_win": 0.0741,
     "p_pens": 0.1721,
     "pen_edge": 0.534
+   },
+   "lineup": {
+    "team1": {
+     "elo": -17.0,
+     "delta_ovr": -2.27,
+     "status": "projected",
+     "xi_mean": 82.5,
+     "baseline_mean": 84.8,
+     "coverage": 1.0,
+     "missing": [
+      {
+       "name": "Nico Schlotterbeck",
+       "ovr": 85
+      },
+      {
+       "name": "Deniz Undav",
+       "ovr": 81
+      },
+      {
+       "name": "Maximilian Beier",
+       "ovr": 78
+      }
+     ]
+    },
+    "team2": {
+     "elo": -24.0,
+     "delta_ovr": -3.2,
+     "status": "projected",
+     "xi_mean": 70.9,
+     "baseline_mean": 74.1,
+     "coverage": 0.82,
+     "missing": [
+      {
+       "name": "Kaku",
+       "ovr": 79
+      },
+      {
+       "name": "Omar Alderete",
+       "ovr": 77
+      },
+      {
+       "name": "Antonio Sanabria",
+       "ovr": 77
+      },
+      {
+       "name": "Ramón Sosa",
+       "ovr": 75
+      }
+     ]
+    }
    }
   },
   {
@@ -11002,6 +11101,55 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
+    "lam_a": 2.675,
+    "lam_b": 0.566,
+    "p_win": 0.8116,
+    "p_draw": 0.1403,
+    "p_loss": 0.0481,
+    "top_scores": [
+     {
+      "score": "2-0",
+      "p": 0.14
+     },
+     {
+      "score": "3-0",
+      "p": 0.1248
+     },
+     {
+      "score": "1-0",
+      "p": 0.0969
+     },
+     {
+      "score": "4-0",
+      "p": 0.0835
+     },
+     {
+      "score": "2-1",
+      "p": 0.0792
+     }
+    ],
+    "outcome_scores": {
+     "team1": {
+      "score": "2-0",
+      "p": 0.14
+     },
+     "draw": {
+      "score": "1-1",
+      "p": 0.0669
+     },
+     "team2": {
+      "score": "1-2",
+      "p": 0.0168
+     }
+    },
+    "modal_score": "2-0",
+    "modal_p": 0.14,
+    "p_advance": 0.9219,
+    "p_et_win": 0.0656,
+    "p_pens": 0.0653,
+    "pen_edge": 0.685
+   },
+   "prediction_base": {
     "lam_a": 2.589,
     "lam_b": 0.585,
     "p_win": 0.796,
@@ -11049,6 +11197,52 @@
     "p_et_win": 0.0682,
     "p_pens": 0.0712,
     "pen_edge": 0.677
+   },
+   "lineup": {
+    "team1": {
+     "elo": -11.6,
+     "delta_ovr": -1.55,
+     "status": "projected",
+     "xi_mean": 84,
+     "baseline_mean": 85.5,
+     "coverage": 1.0,
+     "missing": [
+      {
+       "name": "N'Golo Kanté",
+       "ovr": 85
+      },
+      {
+       "name": "Marcus Thuram",
+       "ovr": 83
+      }
+     ]
+    },
+    "team2": {
+     "elo": -28.6,
+     "delta_ovr": -3.82,
+     "status": "projected",
+     "xi_mean": 72.8,
+     "baseline_mean": 76.6,
+     "coverage": 1.0,
+     "missing": [
+      {
+       "name": "Isak Hien",
+       "ovr": 78
+      },
+      {
+       "name": "Mattias Svanberg",
+       "ovr": 77
+      },
+      {
+       "name": "Viktor Johansson",
+       "ovr": 74
+      },
+      {
+       "name": "Carl Starfelt",
+       "ovr": 74
+      }
+     ]
+    }
    }
   },
   {
@@ -13611,5 +13805,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "ded5822098a5cbd5f68339077d6c07d26bad1a30"
+ "content_hash": "1fe2c230c465ed2becf64bf3f17fef3ca6d1a172"
 }
