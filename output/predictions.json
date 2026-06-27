@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-28T03:57:14+10:00",
- "generated_aest": "Sun 28 Jun 2026, 3:57am AEST",
+ "generated": "2026-06-28T05:41:08+10:00",
+ "generated_aest": "Sun 28 Jun 2026, 5:41am AEST",
  "data_through": "2026-06-26",
  "sim_runs": 10000,
  "params": {
@@ -9707,49 +9707,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 0.689,
-    "lam_b": 2.199,
-    "p_win": 0.0912,
-    "p_draw": 0.1998,
-    "p_loss": 0.709,
+    "lam_a": 0.708,
+    "lam_b": 2.139,
+    "p_win": 0.099,
+    "p_draw": 0.2081,
+    "p_loss": 0.6929,
     "top_scores": [
      {
       "score": "0-2",
-      "p": 0.1347
+      "p": 0.1327
      },
      {
       "score": "0-1",
-      "p": 0.1115
-     },
-     {
-      "score": "0-3",
-      "p": 0.0987
+      "p": 0.1127
      },
      {
       "score": "1-1",
-      "p": 0.0953
+      "p": 0.0993
+     },
+     {
+      "score": "0-3",
+      "p": 0.0946
      },
      {
       "score": "1-2",
-      "p": 0.0928
+      "p": 0.094
      }
     ],
     "outcome_scores": {
      "team2": {
       "score": "0-2",
-      "p": 0.1347
+      "p": 0.1327
      },
      "draw": {
       "score": "1-1",
-      "p": 0.0953
+      "p": 0.0993
      },
      "team1": {
       "score": "2-1",
-      "p": 0.029
+      "p": 0.0311
      }
     },
     "modal_score": "0-2",
-    "modal_p": 0.1347
+    "modal_p": 0.1327
    },
    "prediction_base": {
     "lam_a": 0.651,
@@ -9799,19 +9799,15 @@
    "lineup": {
     "team1": null,
     "team2": {
-     "elo": -29.5,
-     "delta_ovr": -3.93,
-     "status": "projected",
-     "xi_mean": 80.8,
+     "elo": -43.9,
+     "delta_ovr": -2.93,
+     "status": "confirmed",
+     "xi_mean": 81.8,
      "baseline_mean": 84.7,
      "coverage": 0.91,
      "missing": [
       {
        "name": "Declan Rice",
-       "ovr": 87
-      },
-      {
-       "name": "Bukayo Saka",
        "ovr": 87
       },
       {
@@ -9821,6 +9817,10 @@
       {
        "name": "Ollie Watkins",
        "ovr": 85
+      },
+      {
+       "name": "Reece James",
+       "ovr": 82
       }
      ]
     }
@@ -9842,49 +9842,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.946,
-    "lam_b": 0.778,
-    "p_win": 0.6358,
-    "p_draw": 0.2353,
-    "p_loss": 0.1289,
+    "lam_a": 1.871,
+    "lam_b": 0.81,
+    "p_win": 0.6112,
+    "p_draw": 0.2459,
+    "p_loss": 0.1429,
     "top_scores": [
      {
       "score": "2-0",
-      "p": 0.1242
+      "p": 0.1199
+     },
+     {
+      "score": "1-1",
+      "p": 0.1173
      },
      {
       "score": "1-0",
       "p": 0.1147
      },
      {
-      "score": "1-1",
-      "p": 0.1122
-     },
-     {
       "score": "2-1",
-      "p": 0.0967
+      "p": 0.0971
      },
      {
-      "score": "3-0",
-      "p": 0.0806
+      "score": "0-0",
+      "p": 0.082
      }
     ],
     "outcome_scores": {
      "team1": {
       "score": "2-0",
-      "p": 0.1242
+      "p": 0.1199
      },
      "draw": {
       "score": "1-1",
-      "p": 0.1122
+      "p": 0.1173
      },
      "team2": {
       "score": "1-2",
-      "p": 0.0387
+      "p": 0.042
      }
     },
     "modal_score": "2-0",
-    "modal_p": 0.1242
+    "modal_p": 0.1199
    },
    "prediction_base": {
     "lam_a": 1.956,
@@ -9933,16 +9933,24 @@
    },
    "lineup": {
     "team1": {
-     "elo": -2.5,
-     "delta_ovr": -0.34,
-     "status": "projected",
-     "xi_mean": 79.3,
+     "elo": -23.0,
+     "delta_ovr": -1.54,
+     "status": "confirmed",
+     "xi_mean": 78.1,
      "baseline_mean": 79.6,
      "coverage": 0.91,
      "missing": [
       {
        "name": "Joško Gvardiol",
        "ovr": 83
+      },
+      {
+       "name": "Andrej Kramarić",
+       "ovr": 81
+      },
+      {
+       "name": "Mario Pašalić",
+       "ovr": 80
       },
       {
        "name": "Petar Musa",
@@ -13883,5 +13891,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "6c9cc3bb92472167b6529fd5d167bba720c61791"
+ "content_hash": "3e85c5548210d3ec2df1ace6ea3f73e29f6db9e4"
 }

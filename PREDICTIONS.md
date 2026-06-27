@@ -1,6 +1,6 @@
 # World Cup 2026: match predictions
 
-Generated Sun 28 Jun 2026, 3:57am AEST. Results included through 2026-06-26. 66 of 104 matches played. 10,000 tournament simulations.
+Generated Sun 28 Jun 2026, 5:41am AEST. Results included through 2026-06-26. 66 of 104 matches played. 10,000 tournament simulations.
 
 Every probability below is a model estimate built only from match results and public squad news, not from betting odds or published predictions. A favourite can be 75% to win while its most likely exact score sits near 12 to 15%; goals spread across many scorelines, so read the two numbers separately.
 
@@ -275,8 +275,8 @@ A read-only comparison of the model's own rating order against the FIFA/Coca-Col
 - M22, Wed 17 Jun, Arlington: England v Croatia. **Played: England 4-2 Croatia.** Model said England to win 54% (draw 27%, Croatia win 19%); most likely England 1-0 (11%); result hit, score miss
 - M45, Tue 23 Jun, Foxborough: England v Ghana. **Played: England 0-0 Ghana.** Model said England to win 82% (draw 13%, Ghana win 4%); most likely England 2-0 (14%); result miss, score miss
 - M46, Tue 23 Jun, Toronto: Panama v Croatia. **Played: Panama 0-1 Croatia.** Model said Croatia to win 49% (draw 29%, Panama win 22%); most likely Croatia 1-0 (11%); result hit, score miss
-- M67, Sat 27 Jun, East Rutherford: Panama v England. **England to win 71%** (draw 20%, Panama win 9%); most likely England 2-0 (13%)
-- M68, Sat 27 Jun, Philadelphia: Croatia v Ghana. **Croatia to win 64%** (draw 24%, Ghana win 13%); most likely Croatia 2-0 (12%)
+- M67, Sat 27 Jun, East Rutherford: Panama v England. **England to win 69%** (draw 21%, Panama win 10%); most likely England 2-0 (13%)
+- M68, Sat 27 Jun, Philadelphia: Croatia v Ghana. **Croatia to win 61%** (draw 25%, Ghana win 14%); most likely Croatia 2-0 (12%)
 
 ## Knockout projection
 
