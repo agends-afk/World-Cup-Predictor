@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-28T05:41:08+10:00",
- "generated_aest": "Sun 28 Jun 2026, 5:41am AEST",
+ "generated": "2026-06-28T08:14:01+10:00",
+ "generated_aest": "Sun 28 Jun 2026, 8:14am AEST",
  "data_through": "2026-06-26",
  "sim_runs": 10000,
  "params": {
@@ -10268,49 +10268,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.303,
-    "lam_b": 1.163,
-    "p_win": 0.381,
-    "p_draw": 0.3049,
-    "p_loss": 0.3141,
+    "lam_a": 1.219,
+    "lam_b": 1.242,
+    "p_win": 0.3415,
+    "p_draw": 0.3061,
+    "p_loss": 0.3524,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1454
+      "p": 0.146
      },
      {
       "score": "0-0",
-      "p": 0.1017
-     },
-     {
-      "score": "1-0",
-      "p": 0.0939
-     },
-     {
-      "score": "2-1",
-      "p": 0.0838
+      "p": 0.1021
      },
      {
       "score": "0-1",
-      "p": 0.0821
+      "p": 0.0892
+     },
+     {
+      "score": "1-0",
+      "p": 0.0872
+     },
+     {
+      "score": "1-2",
+      "p": 0.0802
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1454
-     },
-     "team1": {
-      "score": "1-0",
-      "p": 0.0939
+      "p": 0.146
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0821
+      "p": 0.0892
+     },
+     "team1": {
+      "score": "1-0",
+      "p": 0.0872
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1454
+    "modal_p": 0.146
    },
    "prediction_base": {
     "lam_a": 1.329,
@@ -10359,32 +10359,36 @@
    },
    "lineup": {
     "team1": {
-     "elo": -28.0,
-     "delta_ovr": -3.73,
-     "status": "projected",
-     "xi_mean": 74.5,
+     "elo": -73.2,
+     "delta_ovr": -4.88,
+     "status": "confirmed",
+     "xi_mean": 73.3,
      "baseline_mean": 78.2,
-     "coverage": 1.0,
+     "coverage": 0.91,
      "missing": [
+      {
+       "name": "Daniel Muñoz",
+       "ovr": 80
+      },
+      {
+       "name": "Cucho Hernández",
+       "ovr": 78
+      },
       {
        "name": "David Ospina",
        "ovr": 77
       },
       {
-       "name": "Juan Fernando Quintero",
+       "name": "Johan Mojica",
        "ovr": 77
-      },
-      {
-       "name": "Jaminton Campaz",
-       "ovr": 76
       }
      ]
     },
     "team2": {
-     "elo": -17.7,
-     "delta_ovr": -2.36,
-     "status": "projected",
-     "xi_mean": 82.6,
+     "elo": -28.6,
+     "delta_ovr": -1.91,
+     "status": "confirmed",
+     "xi_mean": 83.1,
      "baseline_mean": 85,
      "coverage": 1.0,
      "missing": [
@@ -13891,5 +13895,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "3e85c5548210d3ec2df1ace6ea3f73e29f6db9e4"
+ "content_hash": "f8903dc3a786a0abcc5b4983df17824e2a913f30"
 }

@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-27T19:41:00Z",
+ "fetched_utc": "2026-06-27T22:13:00Z",
  "matches": {
   "68": {
    "team1": {
@@ -71,30 +71,30 @@
   },
   "71": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Camilo Vargas",
-     "Johan Mojica",
+     "Deiver Andres Machado",
      "Davinson Sanchez",
      "Jhon Lucumi",
-     "Daniel Munoz",
-     "Gustavo Puerta",
-     "Jhon Arias",
+     "Santiago Arias",
      "Jefferson Lerma",
      "Luis Diaz",
+     "Gustavo Puerta",
+     "Jhon Cordoba",
      "James Rodriguez",
-     "Luis Suarez"
+     "Jhon Arias"
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Diogo Costa",
      "Nuno Mendes",
      "Renato Veiga",
      "Ruben Dias",
      "Joao Cancelo",
-     "Joao Neves",
+     "Ruben Neves",
      "Vitinha",
      "Joao Felix",
      "Bruno Fernandes",
@@ -105,17 +105,17 @@
   },
   "72": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Lionel Mpasi",
      "Arthur Masuaku",
      "Chancel Mbemba",
      "Axel Tuanzebe",
-     "Steve Kapuadi",
+     "Nathanael Mbuku",
      "Aaron Wan-Bissaka",
      "Samuel Moutoussamy",
-     "Edo Kayembe",
      "Noah Sadiki",
+     "Brian Cipenga",
      "Cedric Bakambu",
      "Yoane Wissa"
     ]
@@ -124,13 +124,13 @@
     "status": "projected",
     "xi": [
      "Abduvohid Ne'matov",
-     "Abdulla Abdullaev",
      "Abdukodir Khusanov",
+     "Abdulla Abdullaev",
      "Rustamjon Ashurmatov",
      "Khojiakbar Alijonov",
      "Akmal Mozgovoy",
      "Otabek Shukurov",
-     "Bekhruz Karimov",
+     "Sherzod Nasrullayev",
      "Aziz Ganiev",
      "Abbosbek Fayzullaev",
      "Eldor Shomurodov"
@@ -143,11 +143,11 @@
     "xi": [
      "Luca Zidane",
      "Rayan Ait-Nouri",
-     "Ramy Bensebaini",
      "Aissa Mandi",
+     "Ramy Bensebaini",
      "Rafik Belghali",
-     "Nabil Bentaleb",
      "Hicham Boudaoui",
+     "Nabil Bentaleb",
      "Fares Chaibi",
      "Ibrahim Maza",
      "Riyad Mahrez",
@@ -162,8 +162,8 @@
      "Philipp Lienhart",
      "Kevin Danso",
      "Marco Friedl",
-     "Xaver Schlager",
      "Nicolas Seiwald",
+     "Xaver Schlager",
      "Marcel Sabitzer",
      "Michael Gregoritsch",
      "Romano Schmid",
@@ -197,8 +197,8 @@
      "Nicolas Otamendi",
      "Gonzalo Montiel",
      "Giovani Lo Celso",
-     "Exequiel Palacios",
      "Leandro Paredes",
+     "Exequiel Palacios",
      "Giuliano Simeone",
      "Julian Alvarez",
      "Jose Lopez"
@@ -234,8 +234,8 @@
      "Nathan Saliba",
      "Stephen Eustaquio",
      "Tajon Buchanan",
-     "Jonathan David",
-     "Cyle Larin"
+     "Cyle Larin",
+     "Jonathan David"
     ]
    }
   },
@@ -249,8 +249,8 @@
      "Marquinhos",
      "Danilo",
      "Casemiro",
-     "Bruno Guimaraes",
      "Lucas Paqueta",
+     "Bruno Guimaraes",
      "Vinicius Junior",
      "Rayan",
      "Matheus Cunha"
@@ -260,9 +260,9 @@
     "status": "projected",
     "xi": [
      "Zion Suzuki",
-     "Hiroki Ito",
      "Takehiro Tomiyasu",
      "Ko Itakura",
+     "Hiroki Ito",
      "Keito Nakamura",
      "Kaishu Sano",
      "Ao Tanaka",
@@ -295,8 +295,8 @@
     "xi": [
      "Orlando Gill",
      "Junior Alonso",
-     "Gustavo Gomez",
      "Victor Gustavo Velazquez",
+     "Gustavo Gomez",
      "Juan Jose Caceres",
      "Mauricio",
      "Matias Galarza",
@@ -313,8 +313,8 @@
     "xi": [
      "Bart Verbruggen",
      "Micky van de Ven",
-     "Virgil van Dijk",
      "Jan Paul van Hecke",
+     "Virgil van Dijk",
      "Denzel Dumfries",
      "Ryan Gravenberch",
      "Frenkie de Jong",
@@ -329,8 +329,8 @@
     "xi": [
      "Bono",
      "Noussair Mazraoui",
-     "Chadi Riad",
      "Issa Diop",
+     "Chadi Riad",
      "Achraf Hakimi",
      "Neil El Aynaoui",
      "Ayyoub Bouaddi",
@@ -362,9 +362,9 @@
     "status": "projected",
     "xi": [
      "Kristoffer Nordfeldt",
+     "Gustaf Lagerbielke",
      "Victor Lindelof",
      "Gabriel Gudmundsson",
-     "Gustaf Lagerbielke",
      "Elliot Stroud",
      "Jesper Karlstrom",
      "Yasin Ayari",

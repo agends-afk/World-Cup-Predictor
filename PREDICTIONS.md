@@ -1,6 +1,6 @@
 # World Cup 2026: match predictions
 
-Generated Sun 28 Jun 2026, 5:41am AEST. Results included through 2026-06-26. 66 of 104 matches played. 10,000 tournament simulations.
+Generated Sun 28 Jun 2026, 8:14am AEST. Results included through 2026-06-26. 66 of 104 matches played. 10,000 tournament simulations.
 
 Every probability below is a model estimate built only from match results and public squad news, not from betting odds or published predictions. A favourite can be 75% to win while its most likely exact score sits near 12 to 15%; goals spread across many scorelines, so read the two numbers separately.
 
@@ -259,7 +259,7 @@ A read-only comparison of the model's own rating order against the FIFA/Coca-Col
 - M24, Wed 17 Jun, Mexico City: Uzbekistan v Colombia. **Played: Uzbekistan 1-3 Colombia.** Model said Colombia to win 59% (draw 26%, Uzbekistan win 16%); most likely Colombia 2-0 (12%); result hit, score miss
 - M47, Tue 23 Jun, Houston: Portugal v Uzbekistan. **Played: Portugal 5-0 Uzbekistan.** Model said Portugal to win 59% (draw 25%, Uzbekistan win 15%); most likely Portugal 2-0 (12%); result hit, score miss
 - M48, Tue 23 Jun, Zapopan: Colombia v DR Congo. **Played: Colombia 1-0 DR Congo.** Model said Colombia to win 62% (draw 24%, DR Congo win 14%); most likely Colombia 2-0 (12%); result hit, score miss
-- M71, Sat 27 Jun, Miami Gardens: Colombia v Portugal. **Colombia to win 38%** (draw 30%, Portugal win 31%); most likely Colombia 1-0 (9%) *(low stakes for a settled side)*
+- M71, Sat 27 Jun, Miami Gardens: Colombia v Portugal. **Portugal to win 35%** (draw 31%, Colombia win 34%); most likely Portugal 1-0 (9%) *(low stakes for a settled side)*
 - M72, Sat 27 Jun, Atlanta: DR Congo v Uzbekistan. **DR Congo to win 38%** (draw 30%, Uzbekistan win 31%); most likely DR Congo 1-0 (9%)
 
 ### Group L
