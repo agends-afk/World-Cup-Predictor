@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-27T08:27:00Z",
+ "fetched_utc": "2026-06-27T17:57:00Z",
  "matches": {
   "68": {
    "team1": {
@@ -409,6 +409,40 @@
     ]
    }
   },
+  "88": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Patrick Beach",
+     "Lucas Herrington",
+     "Harry Souttar",
+     "Alessandro Circati",
+     "Aziz Behich",
+     "Jackson Irvine",
+     "Aiden O'Neill",
+     "Jordan Bos",
+     "Cristian Volpato",
+     "Conor Metcalfe",
+     "Nestory Irankunda"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Mostafa Shobeir",
+     "Ahmed El Fotouh",
+     "Ramy Rabia",
+     "Yasser Ibrahim",
+     "Mohamed Hany",
+     "Marwan Ateya",
+     "Mahmoud Saber",
+     "Emam Ashour",
+     "Mohamed Salah",
+     "Mostafa Ziko",
+     "Omar Marmoush"
+    ]
+   }
+  },
   "86": {
    "team2": {
     "status": "projected",
@@ -420,8 +454,8 @@
      "Steven Moreira",
      "Kevin Pina",
      "Willy Semedo",
-     "Deroy Duarte",
      "Jamiro Monteiro",
+     "Deroy Duarte",
      "Ryan Mendes",
      "Dailon Livramento"
     ]

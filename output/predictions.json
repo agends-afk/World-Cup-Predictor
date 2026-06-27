@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-27T18:27:39+10:00",
- "generated_aest": "Sat 27 Jun 2026, 6:27pm AEST",
+ "generated": "2026-06-28T03:57:14+10:00",
+ "generated_aest": "Sun 28 Jun 2026, 3:57am AEST",
  "data_through": "2026-06-26",
  "sim_runs": 10000,
  "params": {
@@ -11992,6 +11992,55 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
+    "lam_a": 1.202,
+    "lam_b": 1.26,
+    "p_win": 0.333,
+    "p_draw": 0.3059,
+    "p_loss": 0.3611,
+    "top_scores": [
+     {
+      "score": "1-1",
+      "p": 0.1459
+     },
+     {
+      "score": "0-0",
+      "p": 0.102
+     },
+     {
+      "score": "0-1",
+      "p": 0.0907
+     },
+     {
+      "score": "1-0",
+      "p": 0.0857
+     },
+     {
+      "score": "1-2",
+      "p": 0.0814
+     }
+    ],
+    "outcome_scores": {
+     "draw": {
+      "score": "1-1",
+      "p": 0.1459
+     },
+     "team2": {
+      "score": "0-1",
+      "p": 0.0907
+     },
+     "team1": {
+      "score": "1-0",
+      "p": 0.0857
+     }
+    },
+    "modal_score": "1-1",
+    "modal_p": 0.1459,
+    "p_advance": 0.483,
+    "p_et_win": 0.0626,
+    "p_pens": 0.177,
+    "pen_edge": 0.494
+   },
+   "prediction_base": {
     "lam_a": 1.245,
     "lam_b": 1.217,
     "p_win": 0.3537,
@@ -12039,6 +12088,35 @@
     "p_et_win": 0.0653,
     "p_pens": 0.1772,
     "pen_edge": 0.503
+   },
+   "lineup": {
+    "team1": {
+     "elo": -18.3,
+     "delta_ovr": -2.44,
+     "status": "projected",
+     "xi_mean": 68.6,
+     "baseline_mean": 71,
+     "coverage": 0.82,
+     "missing": [
+      {
+       "name": "Mathew Ryan",
+       "ovr": 78
+      },
+      {
+       "name": "Mathew Leckie",
+       "ovr": 73
+      },
+      {
+       "name": "Cameron Burgess",
+       "ovr": 72
+      },
+      {
+       "name": "Cameron Devlin",
+       "ovr": 72
+      }
+     ]
+    },
+    "team2": null
    }
   },
   {
@@ -13805,5 +13883,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "1fe2c230c465ed2becf64bf3f17fef3ca6d1a172"
+ "content_hash": "6c9cc3bb92472167b6529fd5d167bba720c61791"
 }
