@@ -1,6 +1,6 @@
 # World Cup 2026: match predictions
 
-Generated Sun 28 Jun 2026, 9:58pm AEST. Results included through 2026-06-27. 72 of 104 matches played. 10,000 tournament simulations.
+Generated Mon 29 Jun 2026, 12:06am AEST. Results included through 2026-06-27. 72 of 104 matches played. 10,000 tournament simulations.
 
 Every probability below is a model estimate built only from match results and public squad news, not from betting odds or published predictions. A favourite can be 75% to win while its most likely exact score sits near 12 to 15%; goals spread across many scorelines, so read the two numbers separately.
 
@@ -293,7 +293,7 @@ Until the groups finish, knockout pairings show the most frequent matchup across
 - M79, Tue 30 Jun, Mexico City: Winner Group A v Third place Group C/E/F/H/I. **Mexico to win 52%** (draw 28%, Ecuador win 20%); most likely Mexico 1-0 (11%); **Mexico to advance 69%**
 - M80, Wed 01 Jul, Atlanta: Winner Group L v Third place Group E/H/I/J/K. **England to win 64%** (draw 23%, DR Congo win 12%); most likely England 2-0 (13%); **England to advance 80%**
 - M81, Wed 01 Jul, Santa Clara: Winner Group D v Third place Group B/E/F/I/J. **United States to win 66%** (draw 23%, Bosnia and Herzegovina win 12%); most likely United States 2-0 (13%); **United States to advance 81%**
-- M82, Wed 01 Jul, Seattle: Winner Group G v Third place Group A/E/H/I/J. **Belgium to win 43%** (draw 30%, Senegal win 27%); most likely Belgium 1-0 (10%); **Belgium to advance 60%**
+- M82, Wed 01 Jul, Seattle: Winner Group G v Third place Group A/E/H/I/J. **Belgium to win 46%** (draw 29%, Senegal win 25%); most likely Belgium 1-0 (10%); **Belgium to advance 63%**
 - M83, Thu 02 Jul, Toronto: Runner-up Group K v Runner-up Group L. **Portugal to win 47%** (draw 29%, Croatia win 24%); most likely Portugal 1-0 (11%); **Portugal to advance 63%**
 - M84, Thu 02 Jul, Inglewood: Winner Group H v Runner-up Group J. **Spain to win 68%** (draw 21%, Austria win 11%); most likely Spain 2-0 (13%); **Spain to advance 83%**
 - M85, Thu 02 Jul, Vancouver: Winner Group B v Third place Group E/F/G/I/J. **Switzerland to win 41%** (draw 30%, Algeria win 29%); most likely Switzerland 1-0 (10%); **Switzerland to advance 57%**

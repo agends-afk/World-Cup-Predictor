@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-28T21:58:39+10:00",
- "generated_aest": "Sun 28 Jun 2026, 9:58pm AEST",
+ "generated": "2026-06-29T00:06:31+10:00",
+ "generated_aest": "Mon 29 Jun 2026, 12:06am AEST",
  "data_through": "2026-06-27",
  "sim_runs": 10000,
  "params": {
@@ -11814,53 +11814,53 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.416,
-    "lam_b": 1.069,
-    "p_win": 0.4331,
-    "p_draw": 0.2988,
-    "p_loss": 0.2681,
+    "lam_a": 1.471,
+    "lam_b": 1.029,
+    "p_win": 0.4573,
+    "p_draw": 0.2943,
+    "p_loss": 0.2484,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1425
+      "p": 0.1404
      },
      {
       "score": "1-0",
-      "p": 0.1015
+      "p": 0.1045
      },
      {
       "score": "0-0",
-      "p": 0.0996
+      "p": 0.0982
      },
      {
       "score": "2-1",
-      "p": 0.0893
+      "p": 0.0914
      },
      {
       "score": "2-0",
-      "p": 0.0835
+      "p": 0.0888
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1425
+      "p": 0.1404
      },
      "team1": {
       "score": "1-0",
-      "p": 0.1015
+      "p": 0.1045
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0726
+      "p": 0.0683
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1425,
-    "p_advance": 0.5993,
-    "p_et_win": 0.0743,
-    "p_pens": 0.1718,
-    "pen_edge": 0.535
+    "modal_p": 0.1404,
+    "p_advance": 0.6254,
+    "p_et_win": 0.0764,
+    "p_pens": 0.1685,
+    "pen_edge": 0.544
    },
    "prediction_base": {
     "lam_a": 1.432,
@@ -11930,7 +11930,32 @@
       }
      ]
     },
-    "team2": null
+    "team2": {
+     "elo": -19.8,
+     "delta_ovr": -2.64,
+     "status": "projected",
+     "xi_mean": 75,
+     "baseline_mean": 77.6,
+     "coverage": 1.0,
+     "missing": [
+      {
+       "name": "Kalidou Koulibaly",
+       "ovr": 84
+      },
+      {
+       "name": "Édouard Mendy",
+       "ovr": 80
+      },
+      {
+       "name": "Nicolas Jackson",
+       "ovr": 79
+      },
+      {
+       "name": "El Hadji Malick Diouf",
+       "ovr": 71
+      }
+     ]
+    }
    }
   },
   {
@@ -14524,5 +14549,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "7aaca513c610adceb182f5440b8f212f8a19b563"
+ "content_hash": "08c609c367e5e63ec31ca2ae11a5e13b0d59cfae"
 }
