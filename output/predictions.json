@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-29T01:18:59+10:00",
- "generated_aest": "Mon 29 Jun 2026, 1:18am AEST",
+ "generated": "2026-06-29T02:21:13+10:00",
+ "generated_aest": "Mon 29 Jun 2026, 2:21am AEST",
  "data_through": "2026-06-27",
  "sim_runs": 10000,
  "params": {
@@ -10676,53 +10676,53 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.43,
-    "lam_b": 1.059,
-    "p_win": 0.439,
-    "p_draw": 0.2978,
-    "p_loss": 0.2632,
+    "lam_a": 1.365,
+    "lam_b": 1.109,
+    "p_win": 0.41,
+    "p_draw": 0.3021,
+    "p_loss": 0.2879,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.142
-     },
-     {
-      "score": "1-0",
-      "p": 0.1023
+      "p": 0.1441
      },
      {
       "score": "0-0",
-      "p": 0.0993
+      "p": 0.1008
+     },
+     {
+      "score": "1-0",
+      "p": 0.0984
      },
      {
       "score": "2-1",
-      "p": 0.0899
+      "p": 0.0871
      },
      {
       "score": "2-0",
-      "p": 0.0848
+      "p": 0.0785
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.142
+      "p": 0.1441
      },
      "team1": {
       "score": "1-0",
-      "p": 0.1023
+      "p": 0.0984
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0716
+      "p": 0.0768
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.142,
-    "p_advance": 0.6058,
-    "p_et_win": 0.0749,
-    "p_pens": 0.171,
-    "pen_edge": 0.537
+    "modal_p": 0.1441,
+    "p_advance": 0.5737,
+    "p_et_win": 0.072,
+    "p_pens": 0.1742,
+    "pen_edge": 0.526
    },
    "prediction_base": {
     "lam_a": 1.411,
@@ -10796,32 +10796,7 @@
       }
      ]
     },
-    "team2": {
-     "elo": -24.0,
-     "delta_ovr": -3.2,
-     "status": "projected",
-     "xi_mean": 70.9,
-     "baseline_mean": 74.1,
-     "coverage": 0.82,
-     "missing": [
-      {
-       "name": "Kaku",
-       "ovr": 79
-      },
-      {
-       "name": "Omar Alderete",
-       "ovr": 77
-      },
-      {
-       "name": "Antonio Sanabria",
-       "ovr": 77
-      },
-      {
-       "name": "Ramón Sosa",
-       "ovr": 75
-      }
-     ]
-    }
+    "team2": null
    }
   },
   {
@@ -14553,5 +14528,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "f9ce6c159f3ab8d47af60e229114218d05d748f1"
+ "content_hash": "e181ea8f1b8a3e5a22fd932cdae32db5326fce8d"
 }
