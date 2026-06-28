@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-28T17:47:00Z",
+ "fetched_utc": "2026-06-28T19:18:00Z",
  "matches": {
   "73": {
    "team1": {
@@ -414,8 +414,8 @@
     "status": "projected",
     "xi": [
      "Patrick Beach",
-     "Lucas Herrington",
      "Alessandro Circati",
+     "Lucas Herrington",
      "Harry Souttar",
      "Aziz Behich",
      "Jackson Irvine",
@@ -430,12 +430,12 @@
     "status": "projected",
     "xi": [
      "Mostafa Shobeir",
-     "Ahmed El Fotouh",
-     "Ramy Rabia",
+     "Karim Hafez",
      "Yasser Ibrahim",
+     "Ramy Rabia",
      "Mohamed Hany",
-     "Marwan Ateya",
      "Mahmoud Saber",
+     "Marwan Ateya",
      "Emam Ashour",
      "Mohamed Salah",
      "Mostafa Ziko",
@@ -448,7 +448,7 @@
     "status": "projected",
     "xi": [
      "Emiliano Martinez",
-     "Nicolas Tagliafico",
+     "Facundo Medina",
      "Lisandro Martinez",
      "Nicolas Otamendi",
      "Nahuel Molina",
@@ -456,8 +456,8 @@
      "Enzo Fernandez",
      "Alexis Mac Allister",
      "Rodrigo De Paul",
-     "Lautaro Martinez",
-     "Lionel Messi"
+     "Lionel Messi",
+     "Lautaro Martinez"
     ]
    },
    "team2": {
@@ -504,8 +504,8 @@
      "Marvin Senaya",
      "Thomas Partey",
      "Antoine Semenyo",
-     "Elisha Owusu",
      "Kwasi Sibo",
+     "Elisha Owusu",
      "Kamaldeen Sulemana",
      "Jordan Ayew"
     ]

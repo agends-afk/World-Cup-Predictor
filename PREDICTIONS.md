@@ -1,6 +1,6 @@
 # World Cup 2026: match predictions
 
-Generated Mon 29 Jun 2026, 3:47am AEST. Results included through 2026-06-27. 72 of 104 matches played. 10,000 tournament simulations.
+Generated Mon 29 Jun 2026, 5:18am AEST. Results included through 2026-06-27. 72 of 104 matches played. 10,000 tournament simulations.
 
 Every probability below is a model estimate built only from match results and public squad news, not from betting odds or published predictions. A favourite can be 75% to win while its most likely exact score sits near 12 to 15%; goals spread across many scorelines, so read the two numbers separately.
 
@@ -297,7 +297,7 @@ Until the groups finish, knockout pairings show the most frequent matchup across
 - M83, Thu 02 Jul, Toronto: Runner-up Group K v Runner-up Group L. **Portugal to win 46%** (draw 29%, Croatia win 24%); most likely Portugal 1-0 (11%); **Portugal to advance 63%**
 - M84, Thu 02 Jul, Inglewood: Winner Group H v Runner-up Group J. **Spain to win 68%** (draw 21%, Austria win 11%); most likely Spain 2-0 (13%); **Spain to advance 83%**
 - M85, Thu 02 Jul, Vancouver: Winner Group B v Third place Group E/F/G/I/J. **Switzerland to win 41%** (draw 30%, Algeria win 29%); most likely Switzerland 1-0 (10%); **Switzerland to advance 58%**
-- M86, Fri 03 Jul, Miami Gardens: Winner Group J v Runner-up Group H. **Argentina to win 90%** (draw 8%, Cape Verde win 2%); most likely Argentina 3-0 (14%); **Argentina to advance 97%**
+- M86, Fri 03 Jul, Miami Gardens: Winner Group J v Runner-up Group H. **Argentina to win 91%** (draw 8%, Cape Verde win 2%); most likely Argentina 3-0 (14%); **Argentina to advance 97%**
 - M87, Fri 03 Jul, Kansas City: Winner Group K v Third place Group D/E/I/J/L. **Colombia to win 79%** (draw 15%, Ghana win 6%); most likely Colombia 2-0 (14%); **Colombia to advance 91%**
 - M88, Fri 03 Jul, Arlington: Runner-up Group D v Runner-up Group G. **Egypt to win 36%** (draw 31%, Australia win 33%); most likely Egypt 1-0 (9%); **Egypt to advance 52%**
 
