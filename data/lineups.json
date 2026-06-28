@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-28T11:18:00Z",
+ "fetched_utc": "2026-06-28T11:58:00Z",
  "matches": {
   "73": {
    "team1": {
@@ -171,14 +171,48 @@
     ]
    }
   },
+  "79": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Jose Rangel",
+     "Jesus Gallardo",
+     "Edson Alvarez",
+     "Johan Vasquez",
+     "Jorge Eduardo Sanchez",
+     "Luis Romo",
+     "Brian Gutierrez",
+     "Erik Lira",
+     "Julian Quinones",
+     "Roberto Alvarado",
+     "Raul Jimenez"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Hernan Galindez",
+     "Piero Hincapie",
+     "Willian Pacho",
+     "Joel Ordonez",
+     "Alan Franco",
+     "Nilson Angulo",
+     "Moises Caicedo",
+     "Pedro Vite",
+     "John Yeboah",
+     "Gonzalo Plata",
+     "Enner Valencia"
+    ]
+   }
+  },
   "80": {
    "team1": {
     "status": "projected",
     "xi": [
      "Jordan Pickford",
      "Nico O'Reilly",
-     "Marc Guehi",
      "Ezri Konsa",
+     "Marc Guehi",
      "Djed Spence",
      "Elliot Anderson",
      "Declan Rice",
@@ -205,6 +239,24 @@
     ]
    }
   },
+  "82": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Thibaut Courtois",
+     "Maxim De Cuyper",
+     "Brandon Mechele",
+     "Arthur Theate",
+     "Timothy Castagne",
+     "Hans Vanaken",
+     "Youri Tielemans",
+     "Leandro Trossard",
+     "Kevin De Bruyne",
+     "Jeremy Doku",
+     "Charles De Ketelaere"
+    ]
+   }
+  },
   "81": {
    "team1": {
     "status": "projected",
@@ -227,15 +279,117 @@
     "xi": [
      "Nikola Vasilj",
      "Sead Kolasinac",
-     "Nikola Katic",
      "Tarik Muharemovic",
+     "Nikola Katic",
      "Amar Memic",
      "Kerim Alajbegovic",
-     "Ivan Basic",
      "Ivan Sunjic",
+     "Ivan Basic",
      "Esmir Bajraktarevic",
-     "Ermedin Demirovic",
-     "Edin Dzeko"
+     "Edin Dzeko",
+     "Ermedin Demirovic"
+    ]
+   }
+  },
+  "84": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Unai Simon",
+     "Marc Cucurella",
+     "Aymeric Laporte",
+     "Pau Cubarsi",
+     "Pedro Porro",
+     "Dani Olmo",
+     "Rodri",
+     "Pedri",
+     "Alex Baena",
+     "Lamine Yamal",
+     "Mikel Oyarzabal"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Alexander Schlager",
+     "Phillipp Mwene",
+     "Philipp Lienhart",
+     "David Alaba",
+     "Stefan Posch",
+     "Xaver Schlager",
+     "Nicolas Seiwald",
+     "Marcel Sabitzer",
+     "Romano Schmid",
+     "Konrad Laimer",
+     "Marko Arnautovic"
+    ]
+   }
+  },
+  "83": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Diogo Costa",
+     "Nuno Mendes",
+     "Renato Veiga",
+     "Ruben Dias",
+     "Joao Cancelo",
+     "Vitinha",
+     "Joao Neves",
+     "Joao Felix",
+     "Bruno Fernandes",
+     "Pedro Neto",
+     "Cristiano Ronaldo"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Dominik Livakovic",
+     "Josko Gvardiol",
+     "Marin Pongracic",
+     "Josip Sutalo",
+     "Josip Stanisic",
+     "Petar Sucic",
+     "Luka Modric",
+     "Mateo Kovacic",
+     "Ivan Perisic",
+     "Martin Baturina",
+     "Petar Musa"
+    ]
+   }
+  },
+  "85": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Gregor Kobel",
+     "Ricardo Rodriguez",
+     "Nico Elvedi",
+     "Manuel Akanji",
+     "Luca Jaquez",
+     "Remo Freuler",
+     "Granit Xhaka",
+     "Ruben Vargas",
+     "Johan Manzambi",
+     "Djibril Sow",
+     "Breel Embolo"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Luca Zidane",
+     "Jaouen Hadjam",
+     "Ramy Bensebaini",
+     "Aissa Mandi",
+     "Rafik Belghali",
+     "Fares Chaibi",
+     "Nabil Bentaleb",
+     "Houssem Aouar",
+     "Ibrahim Maza",
+     "Riyad Mahrez",
+     "Amine Gouiri"
     ]
    }
   },
@@ -244,9 +398,9 @@
     "status": "projected",
     "xi": [
      "Patrick Beach",
-     "Lucas Herrington",
      "Harry Souttar",
      "Alessandro Circati",
+     "Lucas Herrington",
      "Aziz Behich",
      "Jackson Irvine",
      "Aiden O'Neill",
@@ -261,8 +415,8 @@
     "xi": [
      "Mostafa Shobeir",
      "Ahmed El Fotouh",
-     "Ramy Rabia",
      "Yasser Ibrahim",
+     "Ramy Rabia",
      "Mohamed Hany",
      "Marwan Ateya",
      "Mahmoud Saber",
@@ -274,6 +428,22 @@
    }
   },
   "86": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Emiliano Martinez",
+     "Facundo Medina",
+     "Nicolas Otamendi",
+     "Lisandro Martinez",
+     "Nahuel Molina",
+     "Thiago Almada",
+     "Enzo Fernandez",
+     "Alexis Mac Allister",
+     "Rodrigo De Paul",
+     "Lionel Messi",
+     "Lautaro Martinez"
+    ]
+   },
    "team2": {
     "status": "projected",
     "xi": [
@@ -288,6 +458,40 @@
      "Jamiro Monteiro",
      "Ryan Mendes",
      "Dailon Livramento"
+    ]
+   }
+  },
+  "87": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Camilo Vargas",
+     "Johan Mojica",
+     "Davinson Sanchez",
+     "Jhon Lucumi",
+     "Daniel Munoz",
+     "Gustavo Puerta",
+     "Jefferson Lerma",
+     "Jhon Arias",
+     "Luis Diaz",
+     "James Rodriguez",
+     "Jhon Cordoba"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Benjamin Asare",
+     "Gideon Mensah",
+     "Derrick Luckassen",
+     "Jonas Adjetey",
+     "Marvin Senaya",
+     "Thomas Partey",
+     "Kamaldeen Sulemana",
+     "Kwasi Sibo",
+     "Elisha Owusu",
+     "Antoine Semenyo",
+     "Jordan Ayew"
     ]
    }
   }

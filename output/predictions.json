@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-28T21:18:59+10:00",
- "generated_aest": "Sun 28 Jun 2026, 9:18pm AEST",
+ "generated": "2026-06-28T21:58:39+10:00",
+ "generated_aest": "Sun 28 Jun 2026, 9:58pm AEST",
  "data_through": "2026-06-27",
  "sim_runs": 10000,
  "params": {
@@ -11389,6 +11389,55 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
+    "lam_a": 1.615,
+    "lam_b": 0.938,
+    "p_win": 0.5173,
+    "p_draw": 0.2793,
+    "p_loss": 0.2034,
+    "top_scores": [
+     {
+      "score": "1-1",
+      "p": 0.1332
+     },
+     {
+      "score": "1-0",
+      "p": 0.1104
+     },
+     {
+      "score": "2-0",
+      "p": 0.1016
+     },
+     {
+      "score": "2-1",
+      "p": 0.0952
+     },
+     {
+      "score": "0-0",
+      "p": 0.0932
+     }
+    ],
+    "outcome_scores": {
+     "draw": {
+      "score": "1-1",
+      "p": 0.1332
+     },
+     "team1": {
+      "score": "1-0",
+      "p": 0.1104
+     },
+     "team2": {
+      "score": "0-1",
+      "p": 0.0577
+     }
+    },
+    "modal_score": "1-1",
+    "modal_p": 0.1332,
+    "p_advance": 0.6871,
+    "p_et_win": 0.0804,
+    "p_pens": 0.1576,
+    "pen_edge": 0.567
+   },
+   "prediction_base": {
     "lam_a": 1.574,
     "lam_b": 0.962,
     "p_win": 0.5004,
@@ -11436,6 +11485,35 @@
     "p_et_win": 0.0795,
     "p_pens": 0.161,
     "pen_edge": 0.561
+   },
+   "lineup": {
+    "team1": null,
+    "team2": {
+     "elo": -13.6,
+     "delta_ovr": -1.81,
+     "status": "projected",
+     "xi_mean": 72.6,
+     "baseline_mean": 74.4,
+     "coverage": 0.82,
+     "missing": [
+      {
+       "name": "Pervis Estupiñán",
+       "ovr": 80
+      },
+      {
+       "name": "Ángelo Preciado",
+       "ovr": 75
+      },
+      {
+       "name": "Kendry Páez",
+       "ovr": 72
+      },
+      {
+       "name": "Alan Minda",
+       "ovr": 70
+      }
+     ]
+    }
    }
   },
   {
@@ -11736,6 +11814,55 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
+    "lam_a": 1.416,
+    "lam_b": 1.069,
+    "p_win": 0.4331,
+    "p_draw": 0.2988,
+    "p_loss": 0.2681,
+    "top_scores": [
+     {
+      "score": "1-1",
+      "p": 0.1425
+     },
+     {
+      "score": "1-0",
+      "p": 0.1015
+     },
+     {
+      "score": "0-0",
+      "p": 0.0996
+     },
+     {
+      "score": "2-1",
+      "p": 0.0893
+     },
+     {
+      "score": "2-0",
+      "p": 0.0835
+     }
+    ],
+    "outcome_scores": {
+     "draw": {
+      "score": "1-1",
+      "p": 0.1425
+     },
+     "team1": {
+      "score": "1-0",
+      "p": 0.1015
+     },
+     "team2": {
+      "score": "0-1",
+      "p": 0.0726
+     }
+    },
+    "modal_score": "1-1",
+    "modal_p": 0.1425,
+    "p_advance": 0.5993,
+    "p_et_win": 0.0743,
+    "p_pens": 0.1718,
+    "pen_edge": 0.535
+   },
+   "prediction_base": {
     "lam_a": 1.432,
     "lam_b": 1.058,
     "p_win": 0.4398,
@@ -11783,6 +11910,27 @@
     "p_et_win": 0.0749,
     "p_pens": 0.1709,
     "pen_edge": 0.538
+   },
+   "lineup": {
+    "team1": {
+     "elo": -5.5,
+     "delta_ovr": -0.73,
+     "status": "projected",
+     "xi_mean": 80.6,
+     "baseline_mean": 81.4,
+     "coverage": 1.0,
+     "missing": [
+      {
+       "name": "Romelu Lukaku",
+       "ovr": 82
+      },
+      {
+       "name": "Axel Witsel",
+       "ovr": 80
+      }
+     ]
+    },
+    "team2": null
    }
   },
   {
@@ -11801,6 +11949,55 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
+    "lam_a": 1.491,
+    "lam_b": 1.016,
+    "p_win": 0.4658,
+    "p_draw": 0.2925,
+    "p_loss": 0.2417,
+    "top_scores": [
+     {
+      "score": "1-1",
+      "p": 0.1395
+     },
+     {
+      "score": "1-0",
+      "p": 0.1055
+     },
+     {
+      "score": "0-0",
+      "p": 0.0976
+     },
+     {
+      "score": "2-1",
+      "p": 0.0921
+     },
+     {
+      "score": "2-0",
+      "p": 0.0906
+     }
+    ],
+    "outcome_scores": {
+     "draw": {
+      "score": "1-1",
+      "p": 0.1395
+     },
+     "team1": {
+      "score": "1-0",
+      "p": 0.1055
+     },
+     "team2": {
+      "score": "0-1",
+      "p": 0.0668
+     }
+    },
+    "modal_score": "1-1",
+    "modal_p": 0.1395,
+    "p_advance": 0.6345,
+    "p_et_win": 0.0771,
+    "p_pens": 0.1672,
+    "pen_edge": 0.548
+   },
+   "prediction_base": {
     "lam_a": 1.513,
     "lam_b": 1.001,
     "p_win": 0.4753,
@@ -11848,6 +12045,56 @@
     "p_et_win": 0.0778,
     "p_pens": 0.1656,
     "pen_edge": 0.551
+   },
+   "lineup": {
+    "team1": {
+     "elo": -17.7,
+     "delta_ovr": -2.36,
+     "status": "projected",
+     "xi_mean": 82.6,
+     "baseline_mean": 85,
+     "coverage": 1.0,
+     "missing": [
+      {
+       "name": "Bernardo Silva",
+       "ovr": 88
+      },
+      {
+       "name": "Rafael Leão",
+       "ovr": 86
+      },
+      {
+       "name": "Diogo Dalot",
+       "ovr": 82
+      }
+     ]
+    },
+    "team2": {
+     "elo": -10.0,
+     "delta_ovr": -1.34,
+     "status": "projected",
+     "xi_mean": 78.3,
+     "baseline_mean": 79.6,
+     "coverage": 0.91,
+     "missing": [
+      {
+       "name": "Andrej Kramarić",
+       "ovr": 81
+      },
+      {
+       "name": "Mario Pašalić",
+       "ovr": 80
+      },
+      {
+       "name": "Ante Budimir",
+       "ovr": 78
+      },
+      {
+       "name": "Duje Ćaleta-Car",
+       "ovr": 75
+      }
+     ]
+    }
    }
   },
   {
@@ -11866,6 +12113,55 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
+    "lam_a": 2.092,
+    "lam_b": 0.724,
+    "p_win": 0.6797,
+    "p_draw": 0.2147,
+    "p_loss": 0.1056,
+    "top_scores": [
+     {
+      "score": "2-0",
+      "p": 0.1309
+     },
+     {
+      "score": "1-0",
+      "p": 0.1134
+     },
+     {
+      "score": "1-1",
+      "p": 0.1024
+     },
+     {
+      "score": "2-1",
+      "p": 0.0948
+     },
+     {
+      "score": "3-0",
+      "p": 0.0913
+     }
+    ],
+    "outcome_scores": {
+     "team1": {
+      "score": "2-0",
+      "p": 0.1309
+     },
+     "draw": {
+      "score": "1-1",
+      "p": 0.1024
+     },
+     "team2": {
+      "score": "1-2",
+      "p": 0.0328
+     }
+    },
+    "modal_score": "2-0",
+    "modal_p": 0.1309,
+    "p_advance": 0.831,
+    "p_et_win": 0.0805,
+    "p_pens": 0.1126,
+    "pen_edge": 0.629
+   },
+   "prediction_base": {
     "lam_a": 2.074,
     "lam_b": 0.73,
     "p_win": 0.6745,
@@ -11913,6 +12209,60 @@
     "p_et_win": 0.0807,
     "p_pens": 0.1143,
     "pen_edge": 0.627
+   },
+   "lineup": {
+    "team1": {
+     "elo": -1.6,
+     "delta_ovr": -0.21,
+     "status": "projected",
+     "xi_mean": 82.7,
+     "baseline_mean": 82.9,
+     "coverage": 0.91,
+     "missing": [
+      {
+       "name": "Mikel Merino",
+       "ovr": 85
+      },
+      {
+       "name": "Nico Williams",
+       "ovr": 85
+      },
+      {
+       "name": "Ferran Torres",
+       "ovr": 80
+      },
+      {
+       "name": "Eric García",
+       "ovr": 78
+      }
+     ]
+    },
+    "team2": {
+     "elo": -6.1,
+     "delta_ovr": -0.82,
+     "status": "projected",
+     "xi_mean": 79.1,
+     "baseline_mean": 79.9,
+     "coverage": 1.0,
+     "missing": [
+      {
+       "name": "Kevin Danso",
+       "ovr": 80
+      },
+      {
+       "name": "Michael Gregoritsch",
+       "ovr": 78
+      },
+      {
+       "name": "Saša Kalajdžić",
+       "ovr": 77
+      },
+      {
+       "name": "Patrick Pentz",
+       "ovr": 74
+      }
+     ]
+    }
    }
   },
   {
@@ -11931,6 +12281,55 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
+    "lam_a": 1.367,
+    "lam_b": 1.108,
+    "p_win": 0.4107,
+    "p_draw": 0.302,
+    "p_loss": 0.2873,
+    "top_scores": [
+     {
+      "score": "1-1",
+      "p": 0.1441
+     },
+     {
+      "score": "0-0",
+      "p": 0.1007
+     },
+     {
+      "score": "1-0",
+      "p": 0.0985
+     },
+     {
+      "score": "2-1",
+      "p": 0.0871
+     },
+     {
+      "score": "2-0",
+      "p": 0.0786
+     }
+    ],
+    "outcome_scores": {
+     "draw": {
+      "score": "1-1",
+      "p": 0.1441
+     },
+     "team1": {
+      "score": "1-0",
+      "p": 0.0985
+     },
+     "team2": {
+      "score": "0-1",
+      "p": 0.0767
+     }
+    },
+    "modal_score": "1-1",
+    "modal_p": 0.1441,
+    "p_advance": 0.5744,
+    "p_et_win": 0.0721,
+    "p_pens": 0.1742,
+    "pen_edge": 0.526
+   },
+   "prediction_base": {
     "lam_a": 1.407,
     "lam_b": 1.077,
     "p_win": 0.4289,
@@ -11978,6 +12377,60 @@
     "p_et_win": 0.0739,
     "p_pens": 0.1723,
     "pen_edge": 0.533
+   },
+   "lineup": {
+    "team1": {
+     "elo": -19.1,
+     "delta_ovr": -2.55,
+     "status": "projected",
+     "xi_mean": 76.8,
+     "baseline_mean": 79.4,
+     "coverage": 1.0,
+     "missing": [
+      {
+       "name": "Denis Zakaria",
+       "ovr": 79
+      },
+      {
+       "name": "Noah Okafor",
+       "ovr": 78
+      },
+      {
+       "name": "Silvan Widmer",
+       "ovr": 74
+      },
+      {
+       "name": "Zeki Amdouni",
+       "ovr": 73
+      }
+     ]
+    },
+    "team2": {
+     "elo": -4.0,
+     "delta_ovr": -0.54,
+     "status": "projected",
+     "xi_mean": 75.6,
+     "baseline_mean": 76.1,
+     "coverage": 0.82,
+     "missing": [
+      {
+       "name": "Rayan Aït-Nouri",
+       "ovr": 79
+      },
+      {
+       "name": "Hicham Boudaoui",
+       "ovr": 76
+      },
+      {
+       "name": "Mohamed Amoura",
+       "ovr": 75
+      },
+      {
+       "name": "Anis Hadj-Moussa",
+       "ovr": 67
+      }
+     ]
+    }
    }
   },
   {
@@ -11996,6 +12449,55 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
+    "lam_a": 3.407,
+    "lam_b": 0.445,
+    "p_win": 0.9053,
+    "p_draw": 0.0763,
+    "p_loss": 0.0184,
+    "top_scores": [
+     {
+      "score": "3-0",
+      "p": 0.1402
+     },
+     {
+      "score": "2-0",
+      "p": 0.1234
+     },
+     {
+      "score": "4-0",
+      "p": 0.1194
+     },
+     {
+      "score": "5-0",
+      "p": 0.0813
+     },
+     {
+      "score": "1-0",
+      "p": 0.0683
+     }
+    ],
+    "outcome_scores": {
+     "team1": {
+      "score": "3-0",
+      "p": 0.1402
+     },
+     "draw": {
+      "score": "1-1",
+      "p": 0.0364
+     },
+     "team2": {
+      "score": "1-2",
+      "p": 0.0072
+     }
+    },
+    "modal_score": "3-0",
+    "modal_p": 0.1402,
+    "p_advance": 0.9704,
+    "p_et_win": 0.0431,
+    "p_pens": 0.03,
+    "pen_edge": 0.734
+   },
+   "prediction_base": {
     "lam_a": 3.432,
     "lam_b": 0.441,
     "p_win": 0.9076,
@@ -12043,6 +12545,31 @@
     "p_et_win": 0.0424,
     "p_pens": 0.0291,
     "pen_edge": 0.736
+   },
+   "lineup": {
+    "team1": {
+     "elo": -3.9,
+     "delta_ovr": -0.52,
+     "status": "projected",
+     "xi_mean": 84.3,
+     "baseline_mean": 84.8,
+     "coverage": 0.91,
+     "missing": [
+      {
+       "name": "Cristian Romero",
+       "ovr": 84
+      },
+      {
+       "name": "Exequiel Palacios",
+       "ovr": 84
+      },
+      {
+       "name": "Julián Álvarez",
+       "ovr": 84
+      }
+     ]
+    },
+    "team2": null
    }
   },
   {
@@ -12061,6 +12588,55 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
+    "lam_a": 2.572,
+    "lam_b": 0.589,
+    "p_win": 0.7927,
+    "p_draw": 0.1521,
+    "p_loss": 0.0552,
+    "top_scores": [
+     {
+      "score": "2-0",
+      "p": 0.1402
+     },
+     {
+      "score": "3-0",
+      "p": 0.1202
+     },
+     {
+      "score": "1-0",
+      "p": 0.1007
+     },
+     {
+      "score": "2-1",
+      "p": 0.0826
+     },
+     {
+      "score": "4-0",
+      "p": 0.0773
+     }
+    ],
+    "outcome_scores": {
+     "team1": {
+      "score": "2-0",
+      "p": 0.1402
+     },
+     "draw": {
+      "score": "1-1",
+      "p": 0.0726
+     },
+     "team2": {
+      "score": "1-2",
+      "p": 0.0189
+     }
+    },
+    "modal_score": "2-0",
+    "modal_p": 0.1402,
+    "p_advance": 0.9104,
+    "p_et_win": 0.0688,
+    "p_pens": 0.0724,
+    "pen_edge": 0.676
+   },
+   "prediction_base": {
     "lam_a": 2.716,
     "lam_b": 0.558,
     "p_win": 0.8186,
@@ -12108,6 +12684,35 @@
     "p_et_win": 0.0643,
     "p_pens": 0.0626,
     "pen_edge": 0.688
+   },
+   "lineup": {
+    "team1": {
+     "elo": -28.4,
+     "delta_ovr": -3.78,
+     "status": "projected",
+     "xi_mean": 74.4,
+     "baseline_mean": 78.2,
+     "coverage": 0.91,
+     "missing": [
+      {
+       "name": "Cucho Hernández",
+       "ovr": 78
+      },
+      {
+       "name": "David Ospina",
+       "ovr": 77
+      },
+      {
+       "name": "Juan Fernando Quintero",
+       "ovr": 77
+      },
+      {
+       "name": "Jaminton Campaz",
+       "ovr": 76
+      }
+     ]
+    },
+    "team2": null
    }
   },
   {
@@ -13919,5 +14524,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "5054ec036a3cb0dddee60cfeb7265a57d74d6c7e"
+ "content_hash": "7aaca513c610adceb182f5440b8f212f8a19b563"
 }
