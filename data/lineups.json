@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-28T16:21:00Z",
+ "fetched_utc": "2026-06-28T16:47:00Z",
  "matches": {
   "73": {
    "team1": {
@@ -177,12 +177,12 @@
     "xi": [
      "Jose Rangel",
      "Jesus Gallardo",
-     "Edson Alvarez",
+     "Cesar Montes",
      "Johan Vasquez",
-     "Jorge Eduardo Sanchez",
-     "Luis Romo",
-     "Brian Gutierrez",
+     "Israel Reyes",
      "Erik Lira",
+     "Alvaro Fidalgo",
+     "Gilberto Mora",
      "Julian Quinones",
      "Roberto Alvarado",
      "Raul Jimenez"
@@ -193,8 +193,8 @@
     "xi": [
      "Hernan Galindez",
      "Piero Hincapie",
-     "Willian Pacho",
      "Joel Ordonez",
+     "Willian Pacho",
      "Alan Franco",
      "Nilson Angulo",
      "Moises Caicedo",
@@ -214,11 +214,11 @@
      "Marc Guehi",
      "Ezri Konsa",
      "Djed Spence",
-     "Elliot Anderson",
      "Declan Rice",
-     "Anthony Gordon",
+     "Elliot Anderson",
+     "Marcus Rashford",
      "Jude Bellingham",
-     "Noni Madueke",
+     "Bukayo Saka",
      "Harry Kane"
     ]
    },
@@ -229,11 +229,11 @@
      "Arthur Masuaku",
      "Chancel Mbemba",
      "Axel Tuanzebe",
+     "Steve Kapuadi",
      "Aaron Wan-Bissaka",
-     "Brian Cipenga",
-     "Noah Sadiki",
      "Samuel Moutoussamy",
-     "Nathanael Mbuku",
+     "Noah Sadiki",
+     "Ngal'ayel Mukau",
      "Cedric Bakambu",
      "Yoane Wissa"
     ]
@@ -245,8 +245,8 @@
     "xi": [
      "Thibaut Courtois",
      "Maxim De Cuyper",
-     "Arthur Theate",
      "Brandon Mechele",
+     "Arthur Theate",
      "Timothy Castagne",
      "Hans Vanaken",
      "Youri Tielemans",
@@ -261,12 +261,12 @@
     "xi": [
      "Mory Diaw",
      "Ismail Jakobs",
-     "Moussa Niakhate",
      "Abdoulaye Seck",
+     "Moussa Niakhate",
      "Krepin Diatta",
-     "Idrissa Gueye",
      "Pape Gueye",
      "Lamine Camara",
+     "Idrissa Gueye",
      "Sadio Mane",
      "Iliman Ndiaye",
      "Ismaila Sarr"
@@ -295,15 +295,15 @@
     "xi": [
      "Nikola Vasilj",
      "Sead Kolasinac",
-     "Nikola Katic",
      "Tarik Muharemovic",
+     "Nikola Katic",
      "Amar Memic",
      "Kerim Alajbegovic",
      "Ivan Basic",
      "Ivan Sunjic",
      "Esmir Bajraktarevic",
-     "Ermedin Demirovic",
-     "Edin Dzeko"
+     "Edin Dzeko",
+     "Ermedin Demirovic"
     ]
    }
   },
@@ -350,8 +350,8 @@
      "Renato Veiga",
      "Ruben Dias",
      "Joao Cancelo",
-     "Joao Neves",
      "Vitinha",
+     "Joao Neves",
      "Joao Felix",
      "Bruno Fernandes",
      "Pedro Neto",
@@ -448,7 +448,7 @@
     "status": "projected",
     "xi": [
      "Emiliano Martinez",
-     "Facundo Medina",
+     "Nicolas Tagliafico",
      "Nicolas Otamendi",
      "Lisandro Martinez",
      "Nahuel Molina",
@@ -470,8 +470,8 @@
      "Steven Moreira",
      "Kevin Pina",
      "Willy Semedo",
-     "Jamiro Monteiro",
      "Deroy Duarte",
+     "Jamiro Monteiro",
      "Ryan Mendes",
      "Dailon Livramento"
     ]

@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-29T02:21:13+10:00",
- "generated_aest": "Mon 29 Jun 2026, 2:21am AEST",
+ "generated": "2026-06-29T02:47:47+10:00",
+ "generated_aest": "Mon 29 Jun 2026, 2:47am AEST",
  "data_through": "2026-06-27",
  "sim_runs": 10000,
  "params": {
@@ -11511,53 +11511,53 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.969,
-    "lam_b": 0.769,
-    "p_win": 0.6431,
-    "p_draw": 0.2321,
-    "p_loss": 0.1249,
+    "lam_a": 1.992,
+    "lam_b": 0.76,
+    "p_win": 0.6502,
+    "p_draw": 0.2288,
+    "p_loss": 0.121,
     "top_scores": [
      {
       "score": "2-0",
-      "p": 0.1254
+      "p": 0.1265
      },
      {
       "score": "1-0",
-      "p": 0.1146
+      "p": 0.1145
      },
      {
       "score": "1-1",
-      "p": 0.1107
+      "p": 0.1091
      },
      {
       "score": "2-1",
-      "p": 0.0965
+      "p": 0.0962
      },
      {
       "score": "3-0",
-      "p": 0.0823
+      "p": 0.084
      }
     ],
     "outcome_scores": {
      "team1": {
       "score": "2-0",
-      "p": 0.1254
+      "p": 0.1265
      },
      "draw": {
       "score": "1-1",
-      "p": 0.1107
+      "p": 0.1091
      },
      "team2": {
       "score": "1-2",
-      "p": 0.0377
+      "p": 0.0367
      }
     },
     "modal_score": "2-0",
-    "modal_p": 0.1254,
-    "p_advance": 0.8016,
-    "p_et_win": 0.082,
-    "p_pens": 0.1243,
-    "pen_edge": 0.615
+    "modal_p": 0.1265,
+    "p_advance": 0.8074,
+    "p_et_win": 0.0818,
+    "p_pens": 0.1221,
+    "pen_edge": 0.618
    },
    "prediction_base": {
     "lam_a": 2.051,
@@ -11610,17 +11610,13 @@
    },
    "lineup": {
     "team1": {
-     "elo": -21.2,
-     "delta_ovr": -2.83,
+     "elo": -15.2,
+     "delta_ovr": -2.03,
      "status": "projected",
-     "xi_mean": 81.9,
+     "xi_mean": 82.7,
      "baseline_mean": 84.7,
      "coverage": 0.91,
      "missing": [
-      {
-       "name": "Bukayo Saka",
-       "ovr": 87
-      },
       {
        "name": "John Stones",
        "ovr": 85
@@ -11632,6 +11628,10 @@
       {
        "name": "Reece James",
        "ovr": 82
+      },
+      {
+       "name": "Eberechi Eze",
+       "ovr": 81
       }
      ]
     },
@@ -12453,41 +12453,41 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 3.407,
-    "lam_b": 0.445,
-    "p_win": 0.9053,
-    "p_draw": 0.0763,
-    "p_loss": 0.0184,
+    "lam_a": 3.397,
+    "lam_b": 0.446,
+    "p_win": 0.9044,
+    "p_draw": 0.077,
+    "p_loss": 0.0186,
     "top_scores": [
      {
       "score": "3-0",
-      "p": 0.1402
+      "p": 0.1401
      },
      {
       "score": "2-0",
-      "p": 0.1234
+      "p": 0.1238
      },
      {
       "score": "4-0",
-      "p": 0.1194
+      "p": 0.119
      },
      {
       "score": "5-0",
-      "p": 0.0813
+      "p": 0.0808
      },
      {
       "score": "1-0",
-      "p": 0.0683
+      "p": 0.0686
      }
     ],
     "outcome_scores": {
      "team1": {
       "score": "3-0",
-      "p": 0.1402
+      "p": 0.1401
      },
      "draw": {
       "score": "1-1",
-      "p": 0.0364
+      "p": 0.0367
      },
      "team2": {
       "score": "1-2",
@@ -12495,10 +12495,10 @@
      }
     },
     "modal_score": "3-0",
-    "modal_p": 0.1402,
-    "p_advance": 0.9704,
-    "p_et_win": 0.0431,
-    "p_pens": 0.03,
+    "modal_p": 0.1401,
+    "p_advance": 0.97,
+    "p_et_win": 0.0434,
+    "p_pens": 0.0303,
     "pen_edge": 0.734
    },
    "prediction_base": {
@@ -12552,10 +12552,10 @@
    },
    "lineup": {
     "team1": {
-     "elo": -3.9,
-     "delta_ovr": -0.52,
+     "elo": -5.4,
+     "delta_ovr": -0.72,
      "status": "projected",
-     "xi_mean": 84.3,
+     "xi_mean": 84.1,
      "baseline_mean": 84.8,
      "coverage": 0.91,
      "missing": [
@@ -14528,5 +14528,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "e181ea8f1b8a3e5a22fd932cdae32db5326fce8d"
+ "content_hash": "8838e1492e78509b184c15ba271fb303dc5a228f"
 }
