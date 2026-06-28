@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-28T16:47:00Z",
+ "fetched_utc": "2026-06-28T17:18:00Z",
  "matches": {
   "73": {
    "team1": {
@@ -246,7 +246,7 @@
      "Thibaut Courtois",
      "Maxim De Cuyper",
      "Brandon Mechele",
-     "Arthur Theate",
+     "Nathan Ngoy",
      "Timothy Castagne",
      "Hans Vanaken",
      "Youri Tielemans",
@@ -260,7 +260,7 @@
     "status": "projected",
     "xi": [
      "Mory Diaw",
-     "Ismail Jakobs",
+     "El Hadji Malick Diouf",
      "Abdoulaye Seck",
      "Moussa Niakhate",
      "Krepin Diatta",
@@ -350,8 +350,8 @@
      "Renato Veiga",
      "Ruben Dias",
      "Joao Cancelo",
-     "Vitinha",
      "Joao Neves",
+     "Vitinha",
      "Joao Felix",
      "Bruno Fernandes",
      "Pedro Neto",
@@ -371,7 +371,7 @@
      "Mateo Kovacic",
      "Ivan Perisic",
      "Martin Baturina",
-     "Petar Musa"
+     "Ante Budimir"
     ]
    }
   },
@@ -383,7 +383,7 @@
      "Ricardo Rodriguez",
      "Nico Elvedi",
      "Manuel Akanji",
-     "Luca Jaquez",
+     "Silvan Widmer",
      "Remo Freuler",
      "Granit Xhaka",
      "Ruben Vargas",
@@ -396,7 +396,7 @@
     "status": "projected",
     "xi": [
      "Luca Zidane",
-     "Jaouen Hadjam",
+     "Rayan Ait-Nouri",
      "Aissa Mandi",
      "Ramy Bensebaini",
      "Rafik Belghali",
@@ -449,15 +449,15 @@
     "xi": [
      "Emiliano Martinez",
      "Nicolas Tagliafico",
-     "Nicolas Otamendi",
      "Lisandro Martinez",
+     "Nicolas Otamendi",
      "Nahuel Molina",
      "Thiago Almada",
      "Enzo Fernandez",
      "Alexis Mac Allister",
      "Rodrigo De Paul",
-     "Lionel Messi",
-     "Lautaro Martinez"
+     "Lautaro Martinez",
+     "Lionel Messi"
     ]
    },
    "team2": {
@@ -491,7 +491,7 @@
      "Jhon Arias",
      "Luis Diaz",
      "James Rodriguez",
-     "Jhon Cordoba"
+     "Luis Suarez"
     ]
    },
    "team2": {
@@ -503,10 +503,10 @@
      "Derrick Luckassen",
      "Marvin Senaya",
      "Thomas Partey",
-     "Kamaldeen Sulemana",
-     "Kwasi Sibo",
-     "Elisha Owusu",
      "Antoine Semenyo",
+     "Elisha Owusu",
+     "Kwasi Sibo",
+     "Kamaldeen Sulemana",
      "Jordan Ayew"
     ]
    }
