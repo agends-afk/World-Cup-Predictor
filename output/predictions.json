@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-28T15:41:04+10:00",
- "generated_aest": "Sun 28 Jun 2026, 3:41pm AEST",
+ "generated": "2026-06-28T21:18:59+10:00",
+ "generated_aest": "Sun 28 Jun 2026, 9:18pm AEST",
  "data_through": "2026-06-27",
  "sim_runs": 10000,
  "params": {
@@ -11454,6 +11454,55 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
+    "lam_a": 1.969,
+    "lam_b": 0.769,
+    "p_win": 0.6431,
+    "p_draw": 0.2321,
+    "p_loss": 0.1249,
+    "top_scores": [
+     {
+      "score": "2-0",
+      "p": 0.1254
+     },
+     {
+      "score": "1-0",
+      "p": 0.1146
+     },
+     {
+      "score": "1-1",
+      "p": 0.1107
+     },
+     {
+      "score": "2-1",
+      "p": 0.0965
+     },
+     {
+      "score": "3-0",
+      "p": 0.0823
+     }
+    ],
+    "outcome_scores": {
+     "team1": {
+      "score": "2-0",
+      "p": 0.1254
+     },
+     "draw": {
+      "score": "1-1",
+      "p": 0.1107
+     },
+     "team2": {
+      "score": "1-2",
+      "p": 0.0377
+     }
+    },
+    "modal_score": "2-0",
+    "modal_p": 0.1254,
+    "p_advance": 0.8016,
+    "p_et_win": 0.082,
+    "p_pens": 0.1243,
+    "pen_edge": 0.615
+   },
+   "prediction_base": {
     "lam_a": 2.051,
     "lam_b": 0.738,
     "p_win": 0.6679,
@@ -11501,6 +11550,35 @@
     "p_et_win": 0.0811,
     "p_pens": 0.1164,
     "pen_edge": 0.625
+   },
+   "lineup": {
+    "team1": {
+     "elo": -21.2,
+     "delta_ovr": -2.83,
+     "status": "projected",
+     "xi_mean": 81.9,
+     "baseline_mean": 84.7,
+     "coverage": 0.91,
+     "missing": [
+      {
+       "name": "Bukayo Saka",
+       "ovr": 87
+      },
+      {
+       "name": "John Stones",
+       "ovr": 85
+      },
+      {
+       "name": "Ollie Watkins",
+       "ovr": 85
+      },
+      {
+       "name": "Reece James",
+       "ovr": 82
+      }
+     ]
+    },
+    "team2": null
    }
   },
   {
@@ -13841,5 +13919,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "e79f500a52cfbacaeed1848b92cba52f6d7a0cca"
+ "content_hash": "5054ec036a3cb0dddee60cfeb7265a57d74d6c7e"
 }

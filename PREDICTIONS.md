@@ -1,6 +1,6 @@
 # World Cup 2026: match predictions
 
-Generated Sun 28 Jun 2026, 3:41pm AEST. Results included through 2026-06-27. 72 of 104 matches played. 10,000 tournament simulations.
+Generated Sun 28 Jun 2026, 9:18pm AEST. Results included through 2026-06-27. 72 of 104 matches played. 10,000 tournament simulations.
 
 Every probability below is a model estimate built only from match results and public squad news, not from betting odds or published predictions. A favourite can be 75% to win while its most likely exact score sits near 12 to 15%; goals spread across many scorelines, so read the two numbers separately.
 
@@ -291,7 +291,7 @@ Until the groups finish, knockout pairings show the most frequent matchup across
 - M77, Tue 30 Jun, East Rutherford: Winner Group I v Third place Group C/D/F/G/H. **France to win 81%** (draw 14%, Sweden win 5%); most likely France 2-0 (14%); **France to advance 92%**
 - M78, Tue 30 Jun, Arlington: Runner-up Group E v Runner-up Group I. **Norway to win 44%** (draw 30%, Ivory Coast win 26%); most likely Norway 1-0 (10%); **Norway to advance 61%**
 - M79, Tue 30 Jun, Mexico City: Winner Group A v Third place Group C/E/F/H/I. **Mexico to win 50%** (draw 28%, Ecuador win 22%); most likely Mexico 1-0 (11%); **Mexico to advance 67%**
-- M80, Wed 01 Jul, Atlanta: Winner Group L v Third place Group E/H/I/J/K. **England to win 67%** (draw 22%, DR Congo win 11%); most likely England 2-0 (13%); **England to advance 82%**
+- M80, Wed 01 Jul, Atlanta: Winner Group L v Third place Group E/H/I/J/K. **England to win 64%** (draw 23%, DR Congo win 12%); most likely England 2-0 (13%); **England to advance 80%**
 - M81, Wed 01 Jul, Santa Clara: Winner Group D v Third place Group B/E/F/I/J. **United States to win 66%** (draw 23%, Bosnia and Herzegovina win 12%); most likely United States 2-0 (13%); **United States to advance 81%**
 - M82, Wed 01 Jul, Seattle: Winner Group G v Third place Group A/E/H/I/J. **Belgium to win 44%** (draw 30%, Senegal win 26%); most likely Belgium 1-0 (10%); **Belgium to advance 61%**
 - M83, Thu 02 Jul, Toronto: Runner-up Group K v Runner-up Group L. **Portugal to win 48%** (draw 29%, Croatia win 23%); most likely Portugal 1-0 (11%); **Portugal to advance 64%**
