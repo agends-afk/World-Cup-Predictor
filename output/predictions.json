@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-29T03:18:27+10:00",
- "generated_aest": "Mon 29 Jun 2026, 3:18am AEST",
+ "generated": "2026-06-29T03:47:24+10:00",
+ "generated_aest": "Mon 29 Jun 2026, 3:47am AEST",
  "data_through": "2026-06-27",
  "sim_runs": 10000,
  "params": {
@@ -10537,53 +10537,53 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.032,
-    "lam_b": 1.468,
-    "p_win": 0.2496,
-    "p_draw": 0.2946,
-    "p_loss": 0.4558,
+    "lam_a": 1.042,
+    "lam_b": 1.454,
+    "p_win": 0.2546,
+    "p_draw": 0.2958,
+    "p_loss": 0.4496,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1405
+      "p": 0.1411
      },
      {
       "score": "0-1",
-      "p": 0.1044
+      "p": 0.1036
      },
      {
       "score": "0-0",
-      "p": 0.0983
+      "p": 0.0987
      },
      {
       "score": "1-2",
-      "p": 0.0913
+      "p": 0.0908
      },
      {
       "score": "0-2",
-      "p": 0.0885
+      "p": 0.0871
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1405
+      "p": 0.1411
      },
      "team2": {
       "score": "0-1",
-      "p": 0.1044
+      "p": 0.1036
      },
      "team1": {
       "score": "1-0",
-      "p": 0.0685
+      "p": 0.0697
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1405,
-    "p_advance": 0.3761,
-    "p_et_win": 0.0496,
-    "p_pens": 0.1687,
-    "pen_edge": 0.456
+    "modal_p": 0.1411,
+    "p_advance": 0.3828,
+    "p_et_win": 0.0504,
+    "p_pens": 0.1696,
+    "pen_edge": 0.459
    },
    "prediction_base": {
     "lam_a": 0.984,
@@ -10637,16 +10637,20 @@
    "lineup": {
     "team1": null,
     "team2": {
-     "elo": -24.5,
-     "delta_ovr": -3.27,
-     "status": "projected",
-     "xi_mean": 71,
+     "elo": -29.6,
+     "delta_ovr": -1.97,
+     "status": "confirmed",
+     "xi_mean": 72.3,
      "baseline_mean": 74.3,
-     "coverage": 1.0,
+     "coverage": 0.91,
      "missing": [
       {
        "name": "Alphonso Davies",
        "ovr": 82
+      },
+      {
+       "name": "Cyle Larin",
+       "ovr": 75
       },
       {
        "name": "Ismaël Koné",
@@ -14524,5 +14528,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "fa198fbed9741b90649575e94a49f2b375c4455f"
+ "content_hash": "d33e5e94d9c37d96a0386a4f838845120d4b811f"
 }

@@ -1,16 +1,16 @@
 {
- "fetched_utc": "2026-06-28T17:18:00Z",
+ "fetched_utc": "2026-06-28T17:47:00Z",
  "matches": {
   "73": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Ronwen Hayden Williams",
      "Aubrey Modiba",
      "Mbekezeli Mbokazi",
      "Ime Okon",
      "Khuliso Mudau",
-     "Thalente Mbatha",
+     "Sphephelo Sithole",
      "Teboho Mokoena",
      "Oswin Appollis",
      "Relebohile Mofokeng",
@@ -19,19 +19,19 @@
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Maxime Crepeau",
      "Richie Laryea",
      "Derek Cornelius",
-     "Luc De Fougerolles",
+     "Moise Bombito",
      "Alistair Johnston",
-     "Ali Ahmed",
+     "Liam Millar",
      "Nathan Saliba",
      "Stephen Eustaquio",
      "Tajon Buchanan",
      "Jonathan David",
-     "Cyle Larin"
+     "Tani Oluwaseyi"
     ]
    }
   },
