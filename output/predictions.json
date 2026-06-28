@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-29T00:06:31+10:00",
- "generated_aest": "Mon 29 Jun 2026, 12:06am AEST",
+ "generated": "2026-06-29T01:18:59+10:00",
+ "generated_aest": "Mon 29 Jun 2026, 1:18am AEST",
  "data_through": "2026-06-27",
  "sim_runs": 10000,
  "params": {
@@ -11008,53 +11008,53 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.51,
-    "lam_b": 1.003,
-    "p_win": 0.4737,
-    "p_draw": 0.2907,
-    "p_loss": 0.2356,
+    "lam_a": 1.518,
+    "lam_b": 0.998,
+    "p_win": 0.477,
+    "p_draw": 0.29,
+    "p_loss": 0.233,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1387
+      "p": 0.1383
      },
      {
       "score": "1-0",
-      "p": 0.1064
+      "p": 0.1067
      },
      {
       "score": "0-0",
-      "p": 0.097
-     },
-     {
-      "score": "2-1",
-      "p": 0.0926
+      "p": 0.0967
      },
      {
       "score": "2-0",
-      "p": 0.0923
+      "p": 0.093
+     },
+     {
+      "score": "2-1",
+      "p": 0.0929
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1387
+      "p": 0.1383
      },
      "team1": {
       "score": "1-0",
-      "p": 0.1064
+      "p": 0.1067
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0653
+      "p": 0.0647
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1387,
-    "p_advance": 0.6428,
-    "p_et_win": 0.0777,
-    "p_pens": 0.1659,
-    "pen_edge": 0.551
+    "modal_p": 0.1383,
+    "p_advance": 0.6463,
+    "p_et_win": 0.078,
+    "p_pens": 0.1653,
+    "pen_edge": 0.552
    },
    "prediction_base": {
     "lam_a": 1.476,
@@ -11125,10 +11125,10 @@
      ]
     },
     "team2": {
-     "elo": -11.6,
-     "delta_ovr": -1.55,
+     "elo": -14.3,
+     "delta_ovr": -1.91,
      "status": "projected",
-     "xi_mean": 75.5,
+     "xi_mean": 75.1,
      "baseline_mean": 77,
      "coverage": 1.0,
      "missing": [
@@ -11139,6 +11139,10 @@
       {
        "name": "Yukinari Sugawara",
        "ovr": 77
+      },
+      {
+       "name": "Ko Itakura",
+       "ovr": 76
       },
       {
        "name": "Daizen Maeda",
@@ -14549,5 +14553,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "08c609c367e5e63ec31ca2ae11a5e13b0d59cfae"
+ "content_hash": "f9ce6c159f3ab8d47af60e229114218d05d748f1"
 }
