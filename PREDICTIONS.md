@@ -1,6 +1,6 @@
 # World Cup 2026: match predictions
 
-Generated Sun 28 Jun 2026, 9:14am AEST. Results included through 2026-06-27. 68 of 104 matches played. 10,000 tournament simulations.
+Generated Sun 28 Jun 2026, 11:25am AEST. Results included through 2026-06-27. 68 of 104 matches played. 10,000 tournament simulations.
 
 Every probability below is a model estimate built only from match results and public squad news, not from betting odds or published predictions. A favourite can be 75% to win while its most likely exact score sits near 12 to 15%; goals spread across many scorelines, so read the two numbers separately.
 
@@ -243,8 +243,8 @@ A read-only comparison of the model's own rating order against the FIFA/Coca-Col
 - M20, Tue 16 Jun, Santa Clara: Austria v Jordan. **Played: Austria 3-1 Jordan.** Model said Austria to win 48% (draw 29%, Jordan win 23%); most likely Austria 1-0 (11%); result hit, score miss
 - M43, Mon 22 Jun, Arlington: Argentina v Austria. **Played: Argentina 2-0 Austria.** Model said Argentina to win 69% (draw 21%, Austria win 10%); most likely Argentina 2-0 (13%); result hit, score hit
 - M44, Mon 22 Jun, Santa Clara: Jordan v Algeria. **Played: Jordan 1-2 Algeria.** Model said Algeria to win 56% (draw 27%, Jordan win 17%); most likely Algeria 1-0 (11%); result hit, score miss
-- M69, Sat 27 Jun, Kansas City: Algeria v Austria. **Algeria to win 37%** (draw 31%, Austria win 32%); most likely Algeria 1-0 (9%)
-- M70, Sat 27 Jun, Arlington: Jordan v Argentina. **Argentina to win 87%** (draw 10%, Jordan win 3%); most likely Argentina 3-0 (14%)
+- M69, Sat 27 Jun, Kansas City: Algeria v Austria. **Algeria to win 37%** (draw 31%, Austria win 33%); most likely Algeria 1-0 (9%)
+- M70, Sat 27 Jun, Arlington: Jordan v Argentina. **Argentina to win 85%** (draw 11%, Jordan win 3%); most likely Argentina 2-0 (14%)
 
 ### Group K
 

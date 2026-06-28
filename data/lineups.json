@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-27T23:14:00Z",
+ "fetched_utc": "2026-06-28T01:25:00Z",
  "matches": {
   "68": {
    "team1": {
@@ -139,15 +139,15 @@
   },
   "69": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
-     "Luca Zidane",
-     "Rayan Ait-Nouri",
-     "Ramy Bensebaini",
+     "Oussama Benbot",
+     "Jaouen Hadjam",
      "Aissa Mandi",
+     "Ramy Bensebaini",
      "Rafik Belghali",
+     "Houssem Aouar",
      "Nabil Bentaleb",
-     "Hicham Boudaoui",
      "Fares Chaibi",
      "Ibrahim Maza",
      "Riyad Mahrez",
@@ -155,17 +155,17 @@
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Alexander Schlager",
-     "Konrad Laimer",
+     "Phillipp Mwene",
+     "Stefan Posch",
      "Philipp Lienhart",
-     "Kevin Danso",
-     "Marco Friedl",
+     "David Alaba",
      "Xaver Schlager",
      "Nicolas Seiwald",
      "Marcel Sabitzer",
-     "Michael Gregoritsch",
+     "Konrad Laimer",
      "Romano Schmid",
      "Marko Arnautovic"
     ]
@@ -173,35 +173,35 @@
   },
   "70": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Yazeed Mo'ien Hasan Abulaila",
      "Husam Ali Mohammad Abu Dahab",
-     "Abdallah Mousa Musallam Nasib",
      "Yazan Al-Arab",
+     "Abdallah Mousa Musallam Nasib",
      "Mohannad Abu Taha",
-     "Nizar Mahmoud Ahmed Al Rashdan",
      "Noor Al Rawabdeh",
+     "Nizar Mahmoud Ahmed Al Rashdan",
      "Ehsan Haddad",
-     "Mahmoud Al Mardi",
      "Ali Olwan",
-     "Mousa Tamari"
+     "Odeh Fakhoury",
+     "Ali Azaizeh"
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Emiliano Martinez",
      "Nicolas Tagliafico",
-     "Marcos Senesi",
      "Nicolas Otamendi",
-     "Gonzalo Montiel",
+     "Marcos Senesi",
+     "Nico Paz",
      "Giovani Lo Celso",
      "Exequiel Palacios",
      "Leandro Paredes",
      "Giuliano Simeone",
      "Julian Alvarez",
-     "Jose Lopez"
+     "Lautaro Martinez"
     ]
    }
   },
@@ -211,8 +211,8 @@
     "xi": [
      "Ronwen Hayden Williams",
      "Aubrey Modiba",
-     "Ime Okon",
      "Mbekezeli Mbokazi",
+     "Ime Okon",
      "Khuliso Mudau",
      "Thalente Mbatha",
      "Teboho Mokoena",
@@ -234,8 +234,8 @@
      "Nathan Saliba",
      "Stephen Eustaquio",
      "Tajon Buchanan",
-     "Jonathan David",
-     "Cyle Larin"
+     "Cyle Larin",
+     "Jonathan David"
     ]
    }
   },
@@ -295,12 +295,12 @@
     "xi": [
      "Orlando Gill",
      "Junior Alonso",
-     "Gustavo Gomez",
      "Victor Gustavo Velazquez",
+     "Gustavo Gomez",
      "Juan Jose Caceres",
      "Mauricio",
-     "Matias Galarza",
      "Andres Cubas",
+     "Matias Galarza",
      "Miguel Almiron",
      "Gabriel Avalos",
      "Julio Enciso"
@@ -415,8 +415,8 @@
     "xi": [
      "Patrick Beach",
      "Lucas Herrington",
-     "Harry Souttar",
      "Alessandro Circati",
+     "Harry Souttar",
      "Aziz Behich",
      "Jackson Irvine",
      "Aiden O'Neill",
@@ -431,11 +431,11 @@
     "xi": [
      "Mostafa Shobeir",
      "Ahmed El Fotouh",
-     "Ramy Rabia",
      "Yasser Ibrahim",
+     "Ramy Rabia",
      "Mohamed Hany",
-     "Marwan Ateya",
      "Mahmoud Saber",
+     "Marwan Ateya",
      "Emam Ashour",
      "Mohamed Salah",
      "Mostafa Ziko",

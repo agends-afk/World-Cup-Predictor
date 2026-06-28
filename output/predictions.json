@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-28T09:14:26+10:00",
- "generated_aest": "Sun 28 Jun 2026, 9:14am AEST",
+ "generated": "2026-06-28T11:25:52+10:00",
+ "generated_aest": "Sun 28 Jun 2026, 11:25am AEST",
  "data_through": "2026-06-27",
  "sim_runs": 10000,
  "params": {
@@ -9993,49 +9993,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.281,
-    "lam_b": 1.182,
-    "p_win": 0.3709,
-    "p_draw": 0.3055,
-    "p_loss": 0.3236,
+    "lam_a": 1.27,
+    "lam_b": 1.193,
+    "p_win": 0.3656,
+    "p_draw": 0.3058,
+    "p_loss": 0.3287,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1457
+      "p": 0.1458
      },
      {
       "score": "0-0",
-      "p": 0.1019
+      "p": 0.102
      },
      {
       "score": "1-0",
-      "p": 0.0923
+      "p": 0.0914
      },
      {
       "score": "0-1",
-      "p": 0.0839
+      "p": 0.0849
      },
      {
       "score": "2-1",
-      "p": 0.0826
+      "p": 0.0819
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1457
+      "p": 0.1458
      },
      "team1": {
       "score": "1-0",
-      "p": 0.0923
+      "p": 0.0914
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0839
+      "p": 0.0849
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1457
+    "modal_p": 0.1458
    },
    "prediction_base": {
     "lam_a": 1.259,
@@ -10084,20 +10084,24 @@
    },
    "lineup": {
     "team1": {
-     "elo": 0.0,
-     "delta_ovr": 0.8,
-     "status": "projected",
-     "xi_mean": 76.9,
+     "elo": -8.0,
+     "delta_ovr": -0.54,
+     "status": "confirmed",
+     "xi_mean": 75.6,
      "baseline_mean": 76.1,
      "coverage": 0.82,
      "missing": [
       {
-       "name": "Mohamed Amoura",
-       "ovr": 75
+       "name": "Rayan Aït-Nouri",
+       "ovr": 79
       },
       {
-       "name": "Jaouen Hadjam",
-       "ovr": 68
+       "name": "Hicham Boudaoui",
+       "ovr": 76
+      },
+      {
+       "name": "Mohamed Amoura",
+       "ovr": 75
       },
       {
        "name": "Anis Hadj-Moussa",
@@ -10106,19 +10110,19 @@
      ]
     },
     "team2": {
-     "elo": -8.9,
-     "delta_ovr": -1.18,
-     "status": "projected",
-     "xi_mean": 78.7,
+     "elo": -12.3,
+     "delta_ovr": -0.82,
+     "status": "confirmed",
+     "xi_mean": 79.1,
      "baseline_mean": 79.9,
      "coverage": 1.0,
      "missing": [
       {
-       "name": "David Alaba",
-       "ovr": 85
+       "name": "Kevin Danso",
+       "ovr": 80
       },
       {
-       "name": "Stefan Posch",
+       "name": "Michael Gregoritsch",
        "ovr": 78
       },
       {
@@ -10149,49 +10153,49 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 0.488,
-    "lam_b": 3.101,
-    "p_win": 0.0274,
-    "p_draw": 0.0991,
-    "p_loss": 0.8735,
+    "lam_a": 0.516,
+    "lam_b": 2.938,
+    "p_win": 0.0339,
+    "p_draw": 0.1135,
+    "p_loss": 0.8526,
     "top_scores": [
      {
-      "score": "0-3",
-      "p": 0.1373
+      "score": "0-2",
+      "p": 0.1365
      },
      {
-      "score": "0-2",
-      "p": 0.1328
+      "score": "0-3",
+      "p": 0.1337
      },
      {
       "score": "0-4",
-      "p": 0.1064
+      "p": 0.0982
      },
      {
       "score": "0-1",
-      "p": 0.0802
+      "p": 0.0867
      },
      {
-      "score": "1-3",
-      "p": 0.0671
+      "score": "1-2",
+      "p": 0.0704
      }
     ],
     "outcome_scores": {
      "team2": {
-      "score": "0-3",
-      "p": 0.1373
+      "score": "0-2",
+      "p": 0.1365
      },
      "draw": {
       "score": "1-1",
-      "p": 0.0473
+      "p": 0.0541
      },
      "team1": {
       "score": "2-1",
-      "p": 0.0102
+      "p": 0.0123
      }
     },
-    "modal_score": "0-3",
-    "modal_p": 0.1373
+    "modal_score": "0-2",
+    "modal_p": 0.1365
    },
    "prediction_base": {
     "lam_a": 0.449,
@@ -10241,10 +10245,10 @@
    "lineup": {
     "team1": null,
     "team2": {
-     "elo": -44.3,
-     "delta_ovr": -5.91,
-     "status": "projected",
-     "xi_mean": 78.9,
+     "elo": -72.3,
+     "delta_ovr": -4.82,
+     "status": "confirmed",
+     "xi_mean": 80,
      "baseline_mean": 84.8,
      "coverage": 1.0,
      "missing": [
@@ -13889,5 +13893,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "480c3ee6cb5b0c686eae1d7ebed2f02a56685a96"
+ "content_hash": "589193772d5caba510e25c324ba08912da6ecb8e"
 }
