@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-29T15:47:46+10:00",
- "generated_aest": "Mon 29 Jun 2026, 3:47pm AEST",
+ "generated": "2026-06-29T20:47:22+10:00",
+ "generated_aest": "Mon 29 Jun 2026, 8:47pm AEST",
  "data_through": "2026-06-28",
  "sim_runs": 10000,
  "params": {
@@ -11155,53 +11155,53 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 2.648,
-    "lam_b": 0.572,
-    "p_win": 0.8067,
-    "p_draw": 0.1434,
-    "p_loss": 0.0499,
+    "lam_a": 2.691,
+    "lam_b": 0.563,
+    "p_win": 0.8143,
+    "p_draw": 0.1386,
+    "p_loss": 0.0471,
     "top_scores": [
      {
       "score": "2-0",
-      "p": 0.1401
+      "p": 0.1399
      },
      {
       "score": "3-0",
-      "p": 0.1236
+      "p": 0.1255
      },
      {
       "score": "1-0",
-      "p": 0.0979
+      "p": 0.0963
      },
      {
       "score": "4-0",
-      "p": 0.0818
+      "p": 0.0844
      },
      {
       "score": "2-1",
-      "p": 0.0801
+      "p": 0.0787
      }
     ],
     "outcome_scores": {
      "team1": {
       "score": "2-0",
-      "p": 0.1401
+      "p": 0.1399
      },
      "draw": {
       "score": "1-1",
-      "p": 0.0684
+      "p": 0.0661
      },
      "team2": {
       "score": "1-2",
-      "p": 0.0173
+      "p": 0.0165
      }
     },
     "modal_score": "2-0",
-    "modal_p": 0.1401,
-    "p_advance": 0.919,
-    "p_et_win": 0.0665,
-    "p_pens": 0.0671,
-    "pen_edge": 0.682
+    "modal_p": 0.1399,
+    "p_advance": 0.9235,
+    "p_et_win": 0.0651,
+    "p_pens": 0.0643,
+    "pen_edge": 0.686
    },
    "prediction_base": {
     "lam_a": 2.589,
@@ -11254,12 +11254,12 @@
    },
    "lineup": {
     "team1": {
-     "elo": -17.0,
-     "delta_ovr": -2.27,
+     "elo": -8.6,
+     "delta_ovr": -1.15,
      "status": "projected",
-     "xi_mean": 83.3,
+     "xi_mean": 84.4,
      "baseline_mean": 85.5,
-     "coverage": 1.0,
+     "coverage": 0.91,
      "missing": [
       {
        "name": "Theo Hernández",
@@ -14537,5 +14537,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "20392248c09527bbf1fc3a104578bf44353a27ba"
+ "content_hash": "c9bc55387f0de1f96b94deaf855805193aae060e"
 }
