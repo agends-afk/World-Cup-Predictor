@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-29T20:47:22+10:00",
- "generated_aest": "Mon 29 Jun 2026, 8:47pm AEST",
+ "generated": "2026-06-30T02:37:28+10:00",
+ "generated_aest": "Tue 30 Jun 2026, 2:37am AEST",
  "data_through": "2026-06-28",
  "sim_runs": 10000,
  "params": {
@@ -10995,53 +10995,53 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.518,
-    "lam_b": 0.998,
-    "p_win": 0.477,
-    "p_draw": 0.29,
-    "p_loss": 0.233,
+    "lam_a": 1.556,
+    "lam_b": 0.973,
+    "p_win": 0.4931,
+    "p_draw": 0.286,
+    "p_loss": 0.2209,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1383
+      "p": 0.1364
      },
      {
       "score": "1-0",
-      "p": 0.1067
-     },
-     {
-      "score": "0-0",
-      "p": 0.0967
+      "p": 0.1083
      },
      {
       "score": "2-0",
-      "p": 0.093
+      "p": 0.0965
+     },
+     {
+      "score": "0-0",
+      "p": 0.0954
      },
      {
       "score": "2-1",
-      "p": 0.0929
+      "p": 0.0939
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1383
+      "p": 0.1364
      },
      "team1": {
       "score": "1-0",
-      "p": 0.1067
+      "p": 0.1083
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0647
+      "p": 0.0619
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1383,
-    "p_advance": 0.6463,
-    "p_et_win": 0.078,
-    "p_pens": 0.1653,
-    "pen_edge": 0.552
+    "modal_p": 0.1364,
+    "p_advance": 0.6628,
+    "p_et_win": 0.0791,
+    "p_pens": 0.1624,
+    "pen_edge": 0.558
    },
    "prediction_base": {
     "lam_a": 1.476,
@@ -11096,7 +11096,7 @@
     "team1": {
      "elo": 0.0,
      "delta_ovr": 0.25,
-     "status": "projected",
+     "status": "confirmed",
      "xi_mean": 84.9,
      "baseline_mean": 84.6,
      "coverage": 0.82,
@@ -11112,10 +11112,10 @@
      ]
     },
     "team2": {
-     "elo": -14.3,
-     "delta_ovr": -1.91,
-     "status": "projected",
-     "xi_mean": 75.1,
+     "elo": -27.3,
+     "delta_ovr": -1.82,
+     "status": "confirmed",
+     "xi_mean": 75.2,
      "baseline_mean": 77,
      "coverage": 1.0,
      "missing": [
@@ -11130,10 +11130,6 @@
       {
        "name": "Ko Itakura",
        "ovr": 76
-      },
-      {
-       "name": "Daizen Maeda",
-       "ovr": 74
       }
      ]
     }
@@ -14537,5 +14533,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "c9bc55387f0de1f96b94deaf855805193aae060e"
+ "content_hash": "e84da869c6dd046cf2ca54832f0af1763c2cfae9"
 }
