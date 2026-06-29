@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-29T19:16:00Z",
+ "fetched_utc": "2026-06-29T23:41:00Z",
  "matches": {
   "76": {
    "team1": {
@@ -60,34 +60,34 @@
      "Gustavo Gomez",
      "Jose Canale",
      "Juan Jose Caceres",
+     "Julio Enciso",
+     "Andres Cubas",
      "Matias Galarza",
      "Damian Bobadilla",
-     "Andres Cubas",
      "Miguel Almiron",
-     "Julio Enciso",
      "Gabriel Avalos"
     ]
    }
   },
   "75": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Bart Verbruggen",
-     "Micky van de Ven",
-     "Virgil van Dijk",
      "Jan Paul van Hecke",
-     "Denzel Dumfries",
-     "Frenkie de Jong",
-     "Tijjani Reijnders",
+     "Nathan Ake",
+     "Virgil van Dijk",
+     "Micky van de Ven",
      "Ryan Gravenberch",
+     "Frenkie de Jong",
+     "Denzel Dumfries",
      "Cody Gakpo",
-     "Donyell Malen",
+     "Crysencio Summerville",
      "Brian Brobbey"
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Bono",
      "Noussair Mazraoui",
