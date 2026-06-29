@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-29T16:37:00Z",
+ "fetched_utc": "2026-06-29T19:16:00Z",
  "matches": {
   "76": {
    "team1": {
@@ -37,7 +37,7 @@
   },
   "74": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Manuel Neuer",
      "Nathaniel Brown",
@@ -47,22 +47,22 @@
      "Felix Nmecha",
      "Aleksandar Pavlovic",
      "Florian Wirtz",
-     "Jamal Musiala",
+     "Kai Havertz",
      "Leroy Sane",
-     "Kai Havertz"
+     "Deniz Undav"
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Orlando Gill",
      "Junior Alonso",
      "Gustavo Gomez",
      "Jose Canale",
      "Juan Jose Caceres",
-     "Mauricio",
-     "Andres Cubas",
      "Matias Galarza",
+     "Damian Bobadilla",
+     "Andres Cubas",
      "Miguel Almiron",
      "Julio Enciso",
      "Gabriel Avalos"
@@ -75,8 +75,8 @@
     "xi": [
      "Bart Verbruggen",
      "Micky van de Ven",
-     "Jan Paul van Hecke",
      "Virgil van Dijk",
+     "Jan Paul van Hecke",
      "Denzel Dumfries",
      "Frenkie de Jong",
      "Tijjani Reijnders",
@@ -125,8 +125,8 @@
     "xi": [
      "Kristoffer Nordfeldt",
      "Victor Lindelof",
-     "Gustaf Lagerbielke",
      "Gabriel Gudmundsson",
+     "Gustaf Lagerbielke",
      "Elliot Stroud",
      "Jesper Karlstrom",
      "Yasin Ayari",
@@ -143,8 +143,8 @@
     "xi": [
      "Jose Rangel",
      "Jesus Gallardo",
-     "Johan Vasquez",
      "Cesar Montes",
+     "Johan Vasquez",
      "Israel Reyes",
      "Erik Lira",
      "Alvaro Fidalgo",
@@ -230,9 +230,9 @@
      "Abdoulaye Seck",
      "Moussa Niakhate",
      "Krepin Diatta",
-     "Idrissa Gueye",
-     "Lamine Camara",
      "Pape Gueye",
+     "Lamine Camara",
+     "Idrissa Gueye",
      "Sadio Mane",
      "Iliman Ndiaye",
      "Ismaila Sarr"
@@ -268,8 +268,8 @@
      "Ivan Basic",
      "Ivan Sunjic",
      "Esmir Bajraktarevic",
-     "Edin Dzeko",
-     "Ermedin Demirovic"
+     "Ermedin Demirovic",
+     "Edin Dzeko"
     ]
    }
   },
@@ -387,8 +387,8 @@
      "Jackson Irvine",
      "Aiden O'Neill",
      "Jordan Bos",
-     "Cristian Volpato",
      "Conor Metcalfe",
+     "Cristian Volpato",
      "Nestory Irankunda"
     ]
    },
@@ -436,8 +436,8 @@
      "Steven Moreira",
      "Kevin Pina",
      "Willy Semedo",
-     "Jamiro Monteiro",
      "Deroy Duarte",
+     "Jamiro Monteiro",
      "Ryan Mendes",
      "Dailon Livramento"
     ]
