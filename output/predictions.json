@@ -1,6 +1,6 @@
 {
- "generated": "2026-06-30T14:59:31+10:00",
- "generated_aest": "Tue 30 Jun 2026, 2:59pm AEST",
+ "generated": "2026-06-30T16:33:18+10:00",
+ "generated_aest": "Tue 30 Jun 2026, 4:33pm AEST",
  "data_through": "2026-06-29",
  "sim_runs": 10000,
  "params": {
@@ -12493,11 +12493,11 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 3.407,
-    "lam_b": 0.445,
-    "p_win": 0.9053,
-    "p_draw": 0.0763,
-    "p_loss": 0.0184,
+    "lam_a": 3.422,
+    "lam_b": 0.443,
+    "p_win": 0.9067,
+    "p_draw": 0.0753,
+    "p_loss": 0.018,
     "top_scores": [
      {
       "score": "3-0",
@@ -12505,19 +12505,19 @@
      },
      {
       "score": "2-0",
-      "p": 0.1234
+      "p": 0.1229
      },
      {
       "score": "4-0",
-      "p": 0.1194
+      "p": 0.1199
      },
      {
       "score": "5-0",
-      "p": 0.0813
+      "p": 0.0821
      },
      {
       "score": "1-0",
-      "p": 0.0683
+      "p": 0.0677
      }
     ],
     "outcome_scores": {
@@ -12527,19 +12527,19 @@
      },
      "draw": {
       "score": "1-1",
-      "p": 0.0364
+      "p": 0.0359
      },
      "team2": {
       "score": "1-2",
-      "p": 0.0072
+      "p": 0.007
      }
     },
     "modal_score": "3-0",
     "modal_p": 0.1402,
-    "p_advance": 0.9704,
-    "p_et_win": 0.0431,
-    "p_pens": 0.03,
-    "pen_edge": 0.734
+    "p_advance": 0.971,
+    "p_et_win": 0.0427,
+    "p_pens": 0.0295,
+    "pen_edge": 0.735
    },
    "prediction_base": {
     "lam_a": 3.432,
@@ -12592,17 +12592,13 @@
    },
    "lineup": {
     "team1": {
-     "elo": -3.9,
-     "delta_ovr": -0.52,
+     "elo": -1.6,
+     "delta_ovr": -0.22,
      "status": "projected",
-     "xi_mean": 84.3,
+     "xi_mean": 84.6,
      "baseline_mean": 84.8,
      "coverage": 0.91,
      "missing": [
-      {
-       "name": "Cristian Romero",
-       "ovr": 84
-      },
       {
        "name": "Exequiel Palacios",
        "ovr": 84
@@ -12610,6 +12606,10 @@
       {
        "name": "Julián Álvarez",
        "ovr": 84
+      },
+      {
+       "name": "Nicolás Otamendi",
+       "ovr": 81
       }
      ]
     },
@@ -14535,5 +14535,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "7b695d9c4d7461e362353748c665b53bab7d478e"
+ "content_hash": "5102561100546cd958d820ded761eba764d31740"
 }
