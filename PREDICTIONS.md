@@ -1,6 +1,6 @@
 # World Cup 2026: match predictions
 
-Generated Wed 1 Jul 2026, 5:13am AEST. Results included through 2026-06-30. 77 of 104 matches played. 10,000 tournament simulations.
+Generated Wed 1 Jul 2026, 6:03am AEST. Results included through 2026-06-30. 77 of 104 matches played. 10,000 tournament simulations.
 
 Every probability below is a model estimate built only from match results and public squad news, not from betting odds or published predictions. A favourite can be 75% to win while its most likely exact score sits near 12 to 15%; goals spread across many scorelines, so read the two numbers separately.
 
@@ -288,7 +288,7 @@ Until the groups finish, knockout pairings show the most frequent matchup across
 - M74, Mon 29 Jun, Foxborough: Winner Group E v Third place Group A/B/C/D/F. **Played: Germany 1-1 Paraguay aet.** Model said Germany to win 38% (draw 30%, Paraguay win 32%); most likely Germany 1-0 (9%); result miss, score hit
 - M75, Mon 29 Jun, Guadalupe: Winner Group F v Runner-up Group C. **Played: Netherlands 1-1 Morocco aet.** Model said Morocco to win 44% (draw 30%, Netherlands win 26%); most likely Morocco 1-0 (10%); result miss, score hit
 - M76, Mon 29 Jun, Houston: Winner Group C v Runner-up Group F. **Played: Brazil 2-1 Japan.** Model said Brazil to win 49% (draw 29%, Japan win 22%); most likely Brazil 1-0 (11%); result hit, score miss
-- M77, Tue 30 Jun, East Rutherford: Winner Group I v Third place Group C/D/F/G/H. **France to win 81%** (draw 14%, Sweden win 5%); most likely France 2-0 (14%); **France to advance 92%**
+- M77, Tue 30 Jun, East Rutherford: Winner Group I v Third place Group C/D/F/G/H. **France to win 83%** (draw 13%, Sweden win 4%); most likely France 2-0 (14%); **France to advance 93%**
 - M78, Tue 30 Jun, Arlington: Runner-up Group E v Runner-up Group I. **Played: Ivory Coast 1-2 Norway.** Model said Norway to win 44% (draw 30%, Ivory Coast win 26%); most likely Norway 1-0 (10%); result hit, score miss
 - M79, Tue 30 Jun, Mexico City: Winner Group A v Third place Group C/E/F/H/I. **Mexico to win 52%** (draw 28%, Ecuador win 20%); most likely Mexico 1-0 (11%); **Mexico to advance 69%**
 - M80, Wed 01 Jul, Atlanta: Winner Group L v Third place Group E/H/I/J/K. **England to win 65%** (draw 23%, DR Congo win 12%); most likely England 2-0 (13%); **England to advance 81%**

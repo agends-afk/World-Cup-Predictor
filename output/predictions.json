@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-01T05:13:22+10:00",
- "generated_aest": "Wed 1 Jul 2026, 5:13am AEST",
+ "generated": "2026-07-01T06:03:21+10:00",
+ "generated_aest": "Wed 1 Jul 2026, 6:03am AEST",
  "data_through": "2026-06-30",
  "sim_runs": 10000,
  "params": {
@@ -11175,53 +11175,53 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 2.691,
-    "lam_b": 0.563,
-    "p_win": 0.8143,
-    "p_draw": 0.1386,
-    "p_loss": 0.0471,
+    "lam_a": 2.775,
+    "lam_b": 0.546,
+    "p_win": 0.8282,
+    "p_draw": 0.1296,
+    "p_loss": 0.0421,
     "top_scores": [
      {
       "score": "2-0",
-      "p": 0.1399
+      "p": 0.1391
      },
      {
       "score": "3-0",
-      "p": 0.1255
+      "p": 0.1287
      },
      {
       "score": "1-0",
-      "p": 0.0963
+      "p": 0.0931
      },
      {
       "score": "4-0",
-      "p": 0.0844
+      "p": 0.0893
      },
      {
       "score": "2-1",
-      "p": 0.0787
+      "p": 0.0759
      }
     ],
     "outcome_scores": {
      "team1": {
       "score": "2-0",
-      "p": 0.1399
+      "p": 0.1391
      },
      "draw": {
       "score": "1-1",
-      "p": 0.0661
+      "p": 0.0618
      },
      "team2": {
       "score": "1-2",
-      "p": 0.0165
+      "p": 0.0149
      }
     },
     "modal_score": "2-0",
-    "modal_p": 0.1399,
-    "p_advance": 0.9235,
-    "p_et_win": 0.0651,
-    "p_pens": 0.0643,
-    "pen_edge": 0.686
+    "modal_p": 0.1391,
+    "p_advance": 0.9316,
+    "p_et_win": 0.0625,
+    "p_pens": 0.059,
+    "pen_edge": 0.692
    },
    "prediction_base": {
     "lam_a": 2.589,
@@ -11274,9 +11274,9 @@
    },
    "lineup": {
     "team1": {
-     "elo": -8.6,
+     "elo": -17.2,
      "delta_ovr": -1.15,
-     "status": "projected",
+     "status": "confirmed",
      "xi_mean": 84.4,
      "baseline_mean": 85.5,
      "coverage": 0.91,
@@ -11300,10 +11300,10 @@
      ]
     },
     "team2": {
-     "elo": -28.6,
-     "delta_ovr": -3.82,
-     "status": "projected",
-     "xi_mean": 72.8,
+     "elo": -53.2,
+     "delta_ovr": -3.55,
+     "status": "confirmed",
+     "xi_mean": 73.1,
      "baseline_mean": 76.6,
      "coverage": 1.0,
      "missing": [
@@ -14638,5 +14638,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "aec5e98bbcca96bb8306044c13bf95d0ff24aa74"
+ "content_hash": "7d8316ce15de5425c4a73ced1a36899a587bdfe6"
 }
