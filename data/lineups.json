@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-30T20:03:00Z",
+ "fetched_utc": "2026-06-30T23:03:00Z",
  "matches": {
   "77": {
    "team1": {
@@ -43,9 +43,9 @@
      "Jesus Gallardo",
      "Cesar Montes",
      "Johan Vasquez",
-     "Israel Reyes",
+     "Jorge Eduardo Sanchez",
+     "Luis Romo",
      "Erik Lira",
-     "Alvaro Fidalgo",
      "Gilberto Mora",
      "Julian Quinones",
      "Roberto Alvarado",
@@ -57,15 +57,15 @@
     "xi": [
      "Hernan Galindez",
      "Piero Hincapie",
-     "Joel Ordonez",
      "Willian Pacho",
+     "Joel Ordonez",
      "Alan Franco",
      "Nilson Angulo",
      "Moises Caicedo",
      "Pedro Vite",
      "John Yeboah",
-     "Enner Valencia",
-     "Gonzalo Plata"
+     "Gonzalo Plata",
+     "Enner Valencia"
     ]
    }
   },
@@ -75,8 +75,8 @@
     "xi": [
      "Jordan Pickford",
      "Nico O'Reilly",
-     "Marc Guehi",
      "Ezri Konsa",
+     "Marc Guehi",
      "Djed Spence",
      "Elliot Anderson",
      "Declan Rice",
@@ -94,9 +94,9 @@
      "Chancel Mbemba",
      "Axel Tuanzebe",
      "Arthur Masuaku",
+     "Samuel Moutoussamy",
      "Noah Sadiki",
      "Ngal'ayel Mukau",
-     "Samuel Moutoussamy",
      "Aaron Wan-Bissaka",
      "Cedric Bakambu",
      "Yoane Wissa"
@@ -125,8 +125,8 @@
     "xi": [
      "Mory Diaw",
      "El Hadji Malick Diouf",
-     "Moussa Niakhate",
      "Abdoulaye Seck",
+     "Moussa Niakhate",
      "Krepin Diatta",
      "Idrissa Gueye",
      "Pape Gueye",
@@ -163,8 +163,8 @@
      "Tarik Muharemovic",
      "Amar Memic",
      "Kerim Alajbegovic",
-     "Ivan Sunjic",
      "Ivan Basic",
+     "Ivan Sunjic",
      "Esmir Bajraktarevic",
      "Ermedin Demirovic",
      "Edin Dzeko"
@@ -214,8 +214,8 @@
      "Renato Veiga",
      "Ruben Dias",
      "Joao Cancelo",
-     "Vitinha",
      "Joao Neves",
+     "Vitinha",
      "Joao Felix",
      "Bruno Fernandes",
      "Pedro Neto",
@@ -278,15 +278,15 @@
     "status": "projected",
     "xi": [
      "Patrick Beach",
-     "Lucas Herrington",
-     "Alessandro Circati",
      "Harry Souttar",
+     "Alessandro Circati",
+     "Lucas Herrington",
      "Aziz Behich",
      "Jackson Irvine",
      "Aiden O'Neill",
      "Jordan Bos",
-     "Cristian Volpato",
      "Conor Metcalfe",
+     "Cristian Volpato",
      "Nestory Irankunda"
     ]
    },
@@ -295,11 +295,11 @@
     "xi": [
      "Mostafa Shobeir",
      "Karim Hafez",
-     "Ramy Rabia",
      "Yasser Ibrahim",
+     "Ramy Rabia",
      "Mohamed Hany",
-     "Mahmoud Saber",
      "Marwan Ateya",
+     "Mahmoud Saber",
      "Emam Ashour",
      "Mohamed Salah",
      "Mostafa Ziko",
@@ -385,8 +385,8 @@
      "Moise Bombito",
      "Alistair Johnston",
      "Liam Millar",
-     "Nathan Saliba",
      "Stephen Eustaquio",
+     "Nathan Saliba",
      "Tajon Buchanan",
      "Jonathan David",
      "Tani Oluwaseyi"
@@ -397,8 +397,8 @@
     "xi": [
      "Bono",
      "Noussair Mazraoui",
-     "Issa Diop",
      "Chadi Riad",
+     "Issa Diop",
      "Achraf Hakimi",
      "Neil El Aynaoui",
      "Ayyoub Bouaddi",

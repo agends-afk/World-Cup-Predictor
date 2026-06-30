@@ -1,6 +1,6 @@
 # World Cup 2026: match predictions
 
-Generated Wed 1 Jul 2026, 6:03am AEST. Results included through 2026-06-30. 77 of 104 matches played. 10,000 tournament simulations.
+Generated Wed 1 Jul 2026, 9:03am AEST. Results included through 2026-06-30. 78 of 104 matches played. 10,000 tournament simulations.
 
 Every probability below is a model estimate built only from match results and public squad news, not from betting odds or published predictions. A favourite can be 75% to win while its most likely exact score sits near 12 to 15%; goals spread across many scorelines, so read the two numbers separately.
 
@@ -10,24 +10,24 @@ Refresh after new results with: `python3 update.py` (regenerates this document).
 
 | Team | Group | Rating | Last 32 | Quarterfinal | Semifinal | Final | Champion |
 | - | - | - | - | - | - | - | - |
-| Argentina | J | 2245 | 100% | 87% | 64% | 46% | **29.3%** |
-| France | I | 2205 | 100% | 77% | 57% | 37% | **20.7%** |
-| Spain | H | 2191 | 100% | 58% | 46% | 28% | **15.0%** |
-| Brazil | C | 2101 | 100% | 60% | 34% | 14% | **6.8%** |
-| Colombia | K | 2100 | 100% | 62% | 24% | 13% | **5.9%** |
-| Morocco | C | 2059 | 100% | 75% | 29% | 13% | **4.9%** |
-| England | L | 2114 | 100% | 43% | 23% | 10% | **4.6%** |
-| Portugal | K | 2068 | 100% | 26% | 16% | 7% | **2.8%** |
-| Mexico | A | 2042 | 100% | 39% | 18% | 5% | **2.1%** |
-| Norway | I | 2033 | 100% | 40% | 18% | 6% | **2.0%** |
-| United States | D | 1882 | 100% | 45% | 15% | 5% | **1.4%** |
-| Belgium | G | 1990 | 100% | 33% | 11% | 4% | **1.2%** |
+| Argentina | J | 2245 | 100% | 87% | 64% | 46% | **29.2%** |
+| France | I | 2217 | 100% | 85% | 64% | 43% | **24.6%** |
+| Spain | H | 2191 | 100% | 59% | 46% | 26% | **14.0%** |
+| Brazil | C | 2101 | 100% | 60% | 34% | 14% | **6.3%** |
+| Colombia | K | 2100 | 100% | 63% | 23% | 12% | **5.3%** |
+| England | L | 2114 | 100% | 42% | 23% | 10% | **4.5%** |
+| Morocco | C | 2059 | 100% | 74% | 26% | 12% | **4.5%** |
+| Portugal | K | 2068 | 100% | 25% | 16% | 6% | **2.4%** |
+| Norway | I | 2033 | 100% | 40% | 19% | 6% | **2.4%** |
+| Mexico | A | 2042 | 100% | 40% | 18% | 6% | **2.0%** |
+| Belgium | G | 1990 | 100% | 34% | 11% | 3% | **0.9%** |
+| United States | D | 1882 | 100% | 45% | 15% | 4% | **0.8%** |
 | Switzerland | B | 1999 | 100% | 23% | 6% | 2% | **0.8%** |
-| Paraguay | D | 1923 | 100% | 21% | 8% | 3% | **0.7%** |
-| Ecuador | E | 2014 | 100% | 14% | 5% | 2% | **0.5%** |
-| Croatia | L | 1961 | 100% | 9% | 5% | 1% | **0.4%** |
+| Ecuador | E | 2014 | 100% | 15% | 6% | 2% | **0.6%** |
+| Paraguay | D | 1923 | 100% | 15% | 6% | 2% | **0.4%** |
+| Croatia | L | 1961 | 100% | 10% | 5% | 1% | **0.4%** |
 
-Model record so far: 46/77 correct results, 10/77 exact scorelines.
+Model record so far: 47/78 correct results, 10/78 exact scorelines.
 
 ## Ratings cross-check (model vs FIFA)
 
@@ -36,7 +36,7 @@ A read-only comparison of the model's own rating order against the FIFA/Coca-Col
 | Model # | Team | Model rating | FIFA # | FIFA pts | vs FIFA |
 | - | - | - | - | - | - |
 | 1 | Argentina | 2245 | 1 | 1877.27 | +0 |
-| 2 | France | 2205 | 3 | 1870.7 | +1 |
+| 2 | France | 2217 | 3 | 1870.7 | +1 |
 | 3 | Spain | 2191 | 2 | 1874.71 | -1 |
 | 4 | England | 2114 | 4 | 1828.02 | +0 |
 | 5 | Brazil | 2101 | 6 | 1765.86 | +1 |
@@ -66,8 +66,8 @@ A read-only comparison of the model's own rating order against the FIFA/Coca-Col
 | 29 | Canada | 1871 | 30 | 1559.48 | +1 |
 | 30 | DR Congo | 1848 | 46 | 1474.43 | +16 |
 | 31 | South Korea | 1833 | 25 | 1591.63 | -6 |
-| 32 | Sweden | 1818 | 38 | 1509.79 | +6 |
-| 33 | Scotland | 1810 | 42 | 1503.34 | +9 |
+| 32 | Scotland | 1810 | 42 | 1503.34 | +10 |
+| 33 | Sweden | 1806 | 38 | 1509.79 | +5 |
 | 34 | Czech Republic | 1756 | 40 | 1505.74 | +6 |
 | 35 | Panama | 1753 | 34 | 1539.16 | -1 |
 | 36 | Uzbekistan | 1714 | 50 | 1458.73 | +14 |
@@ -288,7 +288,7 @@ Until the groups finish, knockout pairings show the most frequent matchup across
 - M74, Mon 29 Jun, Foxborough: Winner Group E v Third place Group A/B/C/D/F. **Played: Germany 1-1 Paraguay aet.** Model said Germany to win 38% (draw 30%, Paraguay win 32%); most likely Germany 1-0 (9%); result miss, score hit
 - M75, Mon 29 Jun, Guadalupe: Winner Group F v Runner-up Group C. **Played: Netherlands 1-1 Morocco aet.** Model said Morocco to win 44% (draw 30%, Netherlands win 26%); most likely Morocco 1-0 (10%); result miss, score hit
 - M76, Mon 29 Jun, Houston: Winner Group C v Runner-up Group F. **Played: Brazil 2-1 Japan.** Model said Brazil to win 49% (draw 29%, Japan win 22%); most likely Brazil 1-0 (11%); result hit, score miss
-- M77, Tue 30 Jun, East Rutherford: Winner Group I v Third place Group C/D/F/G/H. **France to win 83%** (draw 13%, Sweden win 4%); most likely France 2-0 (14%); **France to advance 93%**
+- M77, Tue 30 Jun, East Rutherford: Winner Group I v Third place Group C/D/F/G/H. **Played: France 3-0 Sweden.** Model said France to win 83% (draw 13%, Sweden win 4%); most likely France 2-0 (14%); result hit, score miss
 - M78, Tue 30 Jun, Arlington: Runner-up Group E v Runner-up Group I. **Played: Ivory Coast 1-2 Norway.** Model said Norway to win 44% (draw 30%, Ivory Coast win 26%); most likely Norway 1-0 (10%); result hit, score miss
 - M79, Tue 30 Jun, Mexico City: Winner Group A v Third place Group C/E/F/H/I. **Mexico to win 52%** (draw 28%, Ecuador win 20%); most likely Mexico 1-0 (11%); **Mexico to advance 69%**
 - M80, Wed 01 Jul, Atlanta: Winner Group L v Third place Group E/H/I/J/K. **England to win 65%** (draw 23%, DR Congo win 12%); most likely England 2-0 (13%); **England to advance 81%**
@@ -303,34 +303,34 @@ Until the groups finish, knockout pairings show the most frequent matchup across
 
 ### Round of 16
 
-- M89, Sat 04 Jul, Philadelphia: Winner Match 74 v Winner Match 77. Most likely pairing (92% of simulations): **France to win 69%** (draw 21%, Paraguay win 10%); most likely France 2-0 (13%); **France to advance 84%**
+- M89, Sat 04 Jul, Philadelphia: Winner Match 74 v Winner Match 77. **France to win 70%** (draw 20%, Paraguay win 10%); most likely France 2-0 (13%); **France to advance 85%**
 - M90, Sat 04 Jul, Houston: Winner Match 73 v Winner Match 75. **Morocco to win 59%** (draw 25%, Canada win 15%); most likely Morocco 2-0 (12%); **Morocco to advance 76%**
 - M91, Sun 05 Jul, East Rutherford: Winner Match 76 v Winner Match 78. **Brazil to win 43%** (draw 30%, Norway win 27%); most likely Brazil 1-0 (10%); **Brazil to advance 59%**
-- M92, Sun 05 Jul, Mexico City: Winner Match 79 v Winner Match 80. Most likely pairing (55% of simulations): **Mexico to win 38%** (draw 30%, England win 32%); most likely Mexico 1-0 (9%); **Mexico to advance 54%**
-- M93, Mon 06 Jul, Arlington: Winner Match 83 v Winner Match 84. Most likely pairing (54% of simulations): **Spain to win 49%** (draw 29%, Portugal win 22%); most likely Spain 1-0 (11%); **Spain to advance 66%**
-- M94, Mon 06 Jul, Seattle: Winner Match 81 v Winner Match 82. Most likely pairing (50% of simulations): **Belgium to win 36%** (draw 31%, United States win 34%); most likely Belgium 1-0 (9%); **Belgium to advance 51%**
+- M92, Sun 05 Jul, Mexico City: Winner Match 79 v Winner Match 80. Most likely pairing (54% of simulations): **Mexico to win 38%** (draw 30%, England win 32%); most likely Mexico 1-0 (9%); **Mexico to advance 54%**
+- M93, Mon 06 Jul, Arlington: Winner Match 83 v Winner Match 84. Most likely pairing (53% of simulations): **Spain to win 49%** (draw 29%, Portugal win 22%); most likely Spain 1-0 (11%); **Spain to advance 66%**
+- M94, Mon 06 Jul, Seattle: Winner Match 81 v Winner Match 82. Most likely pairing (51% of simulations): **Belgium to win 36%** (draw 31%, United States win 34%); most likely Belgium 1-0 (9%); **Belgium to advance 51%**
 - M95, Tue 07 Jul, Atlanta: Winner Match 86 v Winner Match 88. Most likely pairing (49% of simulations): **Argentina to win 75%** (draw 18%, Australia win 7%); most likely Argentina 2-0 (14%); **Argentina to advance 88%**
-- M96, Tue 07 Jul, Vancouver: Winner Match 85 v Winner Match 87. Most likely pairing (56% of simulations): **Colombia to win 47%** (draw 29%, Switzerland win 24%); most likely Colombia 1-0 (11%); **Colombia to advance 64%**
+- M96, Tue 07 Jul, Vancouver: Winner Match 85 v Winner Match 87. Most likely pairing (55% of simulations): **Colombia to win 47%** (draw 29%, Switzerland win 24%); most likely Colombia 1-0 (11%); **Colombia to advance 64%**
 
 ### Quarterfinals
 
-- M97, Thu 09 Jul, Foxborough: Winner Match 89 v Winner Match 90. Most likely pairing (58% of simulations): **France to win 52%** (draw 28%, Morocco win 20%); most likely France 1-0 (11%); **France to advance 69%**
-- M98, Fri 10 Jul, Inglewood: Winner Match 93 v Winner Match 94. Most likely pairing (25% of simulations): **Spain to win 60%** (draw 25%, United States win 15%); most likely Spain 2-0 (12%); **Spain to advance 77%**
+- M97, Thu 09 Jul, Foxborough: Winner Match 89 v Winner Match 90. Most likely pairing (62% of simulations): **France to win 54%** (draw 27%, Morocco win 19%); most likely France 1-0 (11%); **France to advance 71%**
+- M98, Fri 10 Jul, Inglewood: Winner Match 93 v Winner Match 94. Most likely pairing (26% of simulations): **Spain to win 60%** (draw 25%, United States win 15%); most likely Spain 2-0 (12%); **Spain to advance 77%**
 - M99, Sat 11 Jul, Miami Gardens: Winner Match 91 v Winner Match 92. Most likely pairing (26% of simulations): **England to win 36%** (draw 31%, Brazil win 33%); most likely England 1-0 (9%); **England to advance 52%**
-- M100, Sat 11 Jul, Kansas City: Winner Match 95 v Winner Match 96. Most likely pairing (54% of simulations): **Argentina to win 52%** (draw 28%, Colombia win 20%); most likely Argentina 1-0 (11%); **Argentina to advance 69%**
+- M100, Sat 11 Jul, Kansas City: Winner Match 95 v Winner Match 96. Most likely pairing (55% of simulations): **Argentina to win 52%** (draw 28%, Colombia win 20%); most likely Argentina 1-0 (11%); **Argentina to advance 69%**
 
 ### Semifinals
 
-- M101, Tue 14 Jul, Arlington: Winner Match 97 v Winner Match 98. Most likely pairing (26% of simulations): **France to win 36%** (draw 31%, Spain win 33%); most likely France 1-0 (9%); **France to advance 52%**
+- M101, Tue 14 Jul, Arlington: Winner Match 97 v Winner Match 98. Most likely pairing (29% of simulations): **France to win 38%** (draw 31%, Spain win 32%); most likely France 1-0 (9%); **France to advance 54%**
 - M102, Wed 15 Jul, Atlanta: Winner Match 99 v Winner Match 100. Most likely pairing (21% of simulations): **Argentina to win 52%** (draw 28%, Brazil win 20%); most likely Argentina 1-0 (11%); **Argentina to advance 69%**
 
 ### Third place playoff
 
-- M103, Sat 18 Jul, Miami Gardens: Loser Match 101 v Loser Match 102. Most likely pairing (4% of simulations): **France to win 47%** (draw 29%, Brazil win 24%); most likely France 1-0 (11%); **France to advance 64%**
+- M103, Sat 18 Jul, Miami Gardens: Loser Match 101 v Loser Match 102. Most likely pairing (4% of simulations): **France to win 49%** (draw 29%, Brazil win 23%); most likely France 1-0 (11%); **France to advance 66%**
 
 ### Final
 
-- M104, Sun 19 Jul, East Rutherford: Winner Match 101 v Winner Match 102. Most likely pairing (17% of simulations): **Argentina to win 39%** (draw 30%, France win 30%); most likely Argentina 1-0 (10%); **Argentina to advance 56%**
+- M104, Sun 19 Jul, East Rutherford: Winner Match 101 v Winner Match 102. Most likely pairing (19% of simulations): **Argentina to win 38%** (draw 30%, France win 32%); most likely Argentina 1-0 (9%); **Argentina to advance 54%**
 
 ## Method in brief
 
