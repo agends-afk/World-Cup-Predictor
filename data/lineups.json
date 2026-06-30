@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-06-30T11:34:00Z",
+ "fetched_utc": "2026-06-30T19:13:00Z",
  "matches": {
   "77": {
    "team1": {
@@ -26,8 +26,8 @@
      "Gabriel Gudmundsson",
      "Gustaf Lagerbielke",
      "Elliot Stroud",
-     "Jesper Karlstrom",
      "Yasin Ayari",
+     "Jesper Karlstrom",
      "Alexander Bernhardsson",
      "Alexander Isak",
      "Anthony Elanga",
@@ -44,9 +44,9 @@
      "Cesar Montes",
      "Johan Vasquez",
      "Israel Reyes",
-     "Gilberto Mora",
      "Erik Lira",
      "Alvaro Fidalgo",
+     "Gilberto Mora",
      "Julian Quinones",
      "Roberto Alvarado",
      "Raul Jimenez"
@@ -75,8 +75,8 @@
     "xi": [
      "Jordan Pickford",
      "Nico O'Reilly",
-     "Ezri Konsa",
      "Marc Guehi",
+     "Ezri Konsa",
      "Djed Spence",
      "Elliot Anderson",
      "Declan Rice",
@@ -109,8 +109,8 @@
     "xi": [
      "Thibaut Courtois",
      "Maxim De Cuyper",
-     "Brandon Mechele",
      "Nathan Ngoy",
+     "Brandon Mechele",
      "Timothy Castagne",
      "Hans Vanaken",
      "Youri Tielemans",
@@ -125,12 +125,12 @@
     "xi": [
      "Mory Diaw",
      "El Hadji Malick Diouf",
-     "Abdoulaye Seck",
      "Moussa Niakhate",
+     "Abdoulaye Seck",
      "Krepin Diatta",
      "Idrissa Gueye",
-     "Lamine Camara",
      "Pape Gueye",
+     "Lamine Camara",
      "Sadio Mane",
      "Iliman Ndiaye",
      "Ismaila Sarr"
@@ -159,15 +159,15 @@
     "xi": [
      "Nikola Vasilj",
      "Sead Kolasinac",
-     "Tarik Muharemovic",
      "Nikola Katic",
+     "Tarik Muharemovic",
      "Amar Memic",
      "Kerim Alajbegovic",
      "Ivan Sunjic",
      "Ivan Basic",
      "Esmir Bajraktarevic",
-     "Edin Dzeko",
-     "Ermedin Demirovic"
+     "Ermedin Demirovic",
+     "Edin Dzeko"
     ]
    }
   },
@@ -245,8 +245,8 @@
     "xi": [
      "Gregor Kobel",
      "Ricardo Rodriguez",
-     "Manuel Akanji",
      "Nico Elvedi",
+     "Manuel Akanji",
      "Silvan Widmer",
      "Remo Freuler",
      "Granit Xhaka",
@@ -347,8 +347,8 @@
     "xi": [
      "Camilo Vargas",
      "Johan Mojica",
-     "Jhon Lucumi",
      "Davinson Sanchez",
+     "Jhon Lucumi",
      "Daniel Munoz",
      "Gustavo Puerta",
      "Jefferson Lerma",
@@ -363,13 +363,13 @@
     "xi": [
      "Benjamin Asare",
      "Gideon Mensah",
-     "Jonas Adjetey",
      "Derrick Luckassen",
+     "Jonas Adjetey",
      "Marvin Senaya",
      "Thomas Partey",
      "Antoine Semenyo",
-     "Elisha Owusu",
      "Kwasi Sibo",
+     "Elisha Owusu",
      "Kamaldeen Sulemana",
      "Jordan Ayew"
     ]
@@ -397,8 +397,8 @@
     "xi": [
      "Bono",
      "Noussair Mazraoui",
-     "Chadi Riad",
      "Issa Diop",
+     "Chadi Riad",
      "Achraf Hakimi",
      "Neil El Aynaoui",
      "Ayyoub Bouaddi",
