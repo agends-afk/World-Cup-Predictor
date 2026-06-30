@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-01T09:03:46+10:00",
- "generated_aest": "Wed 1 Jul 2026, 9:03am AEST",
+ "generated": "2026-07-01T09:37:02+10:00",
+ "generated_aest": "Wed 1 Jul 2026, 9:37am AEST",
  "data_through": "2026-06-30",
  "sim_runs": 10000,
  "params": {
@@ -11424,53 +11424,53 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.615,
-    "lam_b": 0.938,
-    "p_win": 0.5173,
-    "p_draw": 0.2793,
-    "p_loss": 0.2034,
+    "lam_a": 1.658,
+    "lam_b": 0.914,
+    "p_win": 0.534,
+    "p_draw": 0.2742,
+    "p_loss": 0.1918,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1332
+      "p": 0.1308
      },
      {
       "score": "1-0",
-      "p": 0.1104
+      "p": 0.1116
      },
      {
       "score": "2-0",
-      "p": 0.1016
+      "p": 0.105
      },
      {
       "score": "2-1",
-      "p": 0.0952
+      "p": 0.096
      },
      {
       "score": "0-0",
-      "p": 0.0932
+      "p": 0.0915
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1332
+      "p": 0.1308
      },
      "team1": {
       "score": "1-0",
-      "p": 0.1104
+      "p": 0.1116
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0577
+      "p": 0.0548
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1332,
-    "p_advance": 0.6871,
-    "p_et_win": 0.0804,
-    "p_pens": 0.1576,
-    "pen_edge": 0.567
+    "modal_p": 0.1308,
+    "p_advance": 0.7035,
+    "p_et_win": 0.0812,
+    "p_pens": 0.1539,
+    "pen_edge": 0.574
    },
    "prediction_base": {
     "lam_a": 1.574,
@@ -11524,9 +11524,9 @@
    "lineup": {
     "team1": null,
     "team2": {
-     "elo": -13.6,
+     "elo": -27.1,
      "delta_ovr": -1.81,
-     "status": "projected",
+     "status": "confirmed",
      "xi_mean": 72.6,
      "baseline_mean": 74.4,
      "coverage": 0.82,
@@ -14638,5 +14638,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "4da5befdb340ebbcfdd98092e9e2ee5a0f730cd6"
+ "content_hash": "6c81aae7fb98b4bb1fc7b4029338a767c99c4e01"
 }
