@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-02T02:11:20+10:00",
- "generated_aest": "Thu 2 Jul 2026, 2:11am AEST",
+ "generated": "2026-07-02T03:47:33+10:00",
+ "generated_aest": "Thu 2 Jul 2026, 3:47am AEST",
  "data_through": "2026-06-30",
  "sim_runs": 10000,
  "params": {
@@ -11857,53 +11857,53 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.452,
-    "lam_b": 1.043,
-    "p_win": 0.4489,
-    "p_draw": 0.2959,
-    "p_loss": 0.2551,
+    "lam_a": 1.437,
+    "lam_b": 1.054,
+    "p_win": 0.4422,
+    "p_draw": 0.2972,
+    "p_loss": 0.2606,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1412
+      "p": 0.1418
      },
      {
       "score": "1-0",
-      "p": 0.1035
+      "p": 0.1027
      },
      {
       "score": "0-0",
-      "p": 0.0987
+      "p": 0.0991
      },
      {
       "score": "2-1",
-      "p": 0.0907
+      "p": 0.0901
      },
      {
       "score": "2-0",
-      "p": 0.087
+      "p": 0.0855
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1412
+      "p": 0.1418
      },
      "team1": {
       "score": "1-0",
-      "p": 0.1035
+      "p": 0.1027
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0698
+      "p": 0.071
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1412,
-    "p_advance": 0.6165,
-    "p_et_win": 0.0757,
-    "p_pens": 0.1697,
-    "pen_edge": 0.541
+    "modal_p": 0.1418,
+    "p_advance": 0.6093,
+    "p_et_win": 0.0751,
+    "p_pens": 0.1706,
+    "pen_edge": 0.539
    },
    "prediction_base": {
     "lam_a": 1.432,
@@ -11978,10 +11978,10 @@
      ]
     },
     "team2": {
-     "elo": -19.8,
-     "delta_ovr": -2.64,
+     "elo": -14.3,
+     "delta_ovr": -1.91,
      "status": "projected",
-     "xi_mean": 75,
+     "xi_mean": 75.7,
      "baseline_mean": 77.6,
      "coverage": 1.0,
      "missing": [
@@ -14837,5 +14837,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "911670a4b3d63c9533fdba164b4cc51110fbce11"
+ "content_hash": "09999f9a129ff86268fbef8beff10be3909e6536"
 }
