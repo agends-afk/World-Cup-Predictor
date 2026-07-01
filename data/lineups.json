@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-07-01T18:28:00Z",
+ "fetched_utc": "2026-07-01T19:14:00Z",
  "matches": {
   "80": {
    "team1": {
@@ -37,11 +37,11 @@
   },
   "82": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Thibaut Courtois",
      "Maxim De Cuyper",
-     "Nathan Ngoy",
+     "Arthur Theate",
      "Brandon Mechele",
      "Timothy Castagne",
      "Hans Vanaken",
@@ -53,7 +53,7 @@
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Mory Diaw",
      "Ismail Jakobs",
@@ -61,7 +61,7 @@
      "Pathe Ciss",
      "Krepin Diatta",
      "Idrissa Gueye",
-     "Lamine Camara",
+     "Habib Diarra",
      "Pape Gueye",
      "Sadio Mane",
      "Iliman Ndiaye",

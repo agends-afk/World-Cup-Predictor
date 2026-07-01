@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-02T04:29:01+10:00",
- "generated_aest": "Thu 2 Jul 2026, 4:29am AEST",
+ "generated": "2026-07-02T05:14:36+10:00",
+ "generated_aest": "Thu 2 Jul 2026, 5:14am AEST",
  "data_through": "2026-07-01",
  "sim_runs": 10000,
  "params": {
@@ -11865,53 +11865,53 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.437,
-    "lam_b": 1.054,
-    "p_win": 0.4422,
-    "p_draw": 0.2972,
-    "p_loss": 0.2606,
+    "lam_a": 1.481,
+    "lam_b": 1.023,
+    "p_win": 0.4614,
+    "p_draw": 0.2934,
+    "p_loss": 0.2451,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1418
+      "p": 0.14
      },
      {
       "score": "1-0",
-      "p": 0.1027
+      "p": 0.105
      },
      {
       "score": "0-0",
-      "p": 0.0991
+      "p": 0.0979
      },
      {
       "score": "2-1",
-      "p": 0.0901
+      "p": 0.0917
      },
      {
       "score": "2-0",
-      "p": 0.0855
+      "p": 0.0897
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1418
+      "p": 0.14
      },
      "team1": {
       "score": "1-0",
-      "p": 0.1027
+      "p": 0.105
      },
      "team2": {
       "score": "0-1",
-      "p": 0.071
+      "p": 0.0675
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1418,
-    "p_advance": 0.6093,
-    "p_et_win": 0.0751,
-    "p_pens": 0.1706,
-    "pen_edge": 0.539
+    "modal_p": 0.14,
+    "p_advance": 0.6299,
+    "p_et_win": 0.0768,
+    "p_pens": 0.1679,
+    "pen_edge": 0.546
    },
    "prediction_base": {
     "lam_a": 1.432,
@@ -11964,10 +11964,10 @@
    },
    "lineup": {
     "team1": {
-     "elo": -12.3,
-     "delta_ovr": -1.64,
-     "status": "projected",
-     "xi_mean": 79.7,
+     "elo": -10.9,
+     "delta_ovr": -0.73,
+     "status": "confirmed",
+     "xi_mean": 80.6,
      "baseline_mean": 81.4,
      "coverage": 1.0,
      "missing": [
@@ -11978,17 +11978,13 @@
       {
        "name": "Axel Witsel",
        "ovr": 80
-      },
-      {
-       "name": "Arthur Theate",
-       "ovr": 77
       }
      ]
     },
     "team2": {
-     "elo": -14.3,
+     "elo": -28.6,
      "delta_ovr": -1.91,
-     "status": "projected",
+     "status": "confirmed",
      "xi_mean": 75.7,
      "baseline_mean": 77.6,
      "coverage": 1.0,
@@ -14837,5 +14833,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "b5360dc3e89bfb9d70b5090931cc8ffc3c119420"
+ "content_hash": "9c35480e95370118e148237a6c8fd004573cebc0"
 }
