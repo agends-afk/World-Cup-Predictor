@@ -1989,11 +1989,11 @@
    "team2": "DR Congo",
    "slot1": "Winner Group L",
    "slot2": "Third place Group E/H/I/J/K",
-   "score1": null,
-   "score2": null,
+   "score1": 2,
+   "score2": 1,
    "aet": false,
    "pens": null,
-   "status": "scheduled",
+   "status": "played",
    "notes": "",
    "order": 79,
    "kickoff_utc": "2026-07-01T16:00:00Z"
@@ -2238,7 +2238,7 @@
    "stadium": "Estadio Azteca",
    "country": "Mexico",
    "team1": "Mexico",
-   "team2": null,
+   "team2": "England",
    "slot1": "Winner Match 79",
    "slot2": "Winner Match 80",
    "score1": null,
@@ -2248,7 +2248,7 @@
    "status": "scheduled",
    "notes": "",
    "order": 91,
-   "kickoff_utc": "2026-07-06T00:00:00Z"
+   "kickoff_utc": "2026-07-06T01:00:00Z"
   },
   {
    "match": 93,
