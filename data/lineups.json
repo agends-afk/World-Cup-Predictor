@@ -1,9 +1,9 @@
 {
- "fetched_utc": "2026-07-01T14:10:00Z",
+ "fetched_utc": "2026-07-01T15:19:00Z",
  "matches": {
   "80": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Jordan Pickford",
      "Nico O'Reilly",
@@ -19,18 +19,18 @@
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Lionel Mpasi",
-     "Steve Kapuadi",
+     "Arthur Masuaku",
      "Chancel Mbemba",
      "Axel Tuanzebe",
-     "Arthur Masuaku",
+     "Aaron Wan-Bissaka",
      "Samuel Moutoussamy",
      "Noah Sadiki",
      "Ngal'ayel Mukau",
-     "Aaron Wan-Bissaka",
-     "Cedric Bakambu",
+     "Brian Cipenga",
+     "Nathanael Mbuku",
      "Yoane Wissa"
     ]
    }
@@ -57,8 +57,8 @@
     "xi": [
      "Mory Diaw",
      "El Hadji Malick Diouf",
-     "Moussa Niakhate",
      "Abdoulaye Seck",
+     "Moussa Niakhate",
      "Krepin Diatta",
      "Idrissa Gueye",
      "Pape Gueye",
@@ -91,8 +91,8 @@
     "xi": [
      "Nikola Vasilj",
      "Sead Kolasinac",
-     "Tarik Muharemovic",
      "Nikola Katic",
+     "Tarik Muharemovic",
      "Amar Dedic",
      "Kerim Alajbegovic",
      "Ivan Basic",
@@ -111,10 +111,10 @@
      "Marc Cucurella",
      "Pau Cubarsi",
      "Aymeric Laporte",
-     "Pedro Porro",
-     "Pedri",
+     "Marcos Llorente",
      "Dani Olmo",
      "Rodri",
+     "Pedri",
      "Alex Baena",
      "Lamine Yamal",
      "Mikel Oyarzabal"
@@ -146,8 +146,8 @@
      "Renato Veiga",
      "Ruben Dias",
      "Joao Cancelo",
-     "Vitinha",
      "Joao Neves",
+     "Vitinha",
      "Joao Felix",
      "Bruno Fernandes",
      "Pedro Neto",
@@ -159,12 +159,12 @@
     "xi": [
      "Dominik Livakovic",
      "Ivan Perisic",
-     "Josko Gvardiol",
      "Josip Sutalo",
+     "Josko Gvardiol",
      "Josip Stanisic",
-     "Luka Sucic",
      "Luka Modric",
      "Mateo Kovacic",
+     "Petar Sucic",
      "Martin Baturina",
      "Nikola Vlasic",
      "Ante Budimir"
@@ -210,15 +210,15 @@
     "status": "projected",
     "xi": [
      "Patrick Beach",
-     "Lucas Herrington",
      "Alessandro Circati",
+     "Lucas Herrington",
      "Harry Souttar",
      "Aziz Behich",
      "Jackson Irvine",
      "Aiden O'Neill",
      "Jordan Bos",
-     "Cristian Volpato",
      "Conor Metcalfe",
+     "Cristian Volpato",
      "Nestory Irankunda"
     ]
    },
@@ -230,8 +230,8 @@
      "Ramy Rabia",
      "Yasser Ibrahim",
      "Mohamed Hany",
-     "Mahmoud Saber",
      "Marwan Ateya",
+     "Mahmoud Saber",
      "Emam Ashour",
      "Mohamed Salah",
      "Mostafa Ziko",
@@ -317,8 +317,8 @@
      "Moise Bombito",
      "Alistair Johnston",
      "Liam Millar",
-     "Nathan Saliba",
      "Stephen Eustaquio",
+     "Nathan Saliba",
      "Tajon Buchanan",
      "Jonathan David",
      "Tani Oluwaseyi"
@@ -329,8 +329,8 @@
     "xi": [
      "Bono",
      "Noussair Mazraoui",
-     "Issa Diop",
      "Chadi Riad",
+     "Issa Diop",
      "Achraf Hakimi",
      "Neil El Aynaoui",
      "Ayyoub Bouaddi",
@@ -354,8 +354,8 @@
      "Diego Gomez",
      "Andres Cubas",
      "Miguel Almiron",
-     "Julio Enciso",
-     "Gabriel Avalos"
+     "Gabriel Avalos",
+     "Julio Enciso"
     ]
    },
    "team2": {
@@ -363,8 +363,8 @@
     "xi": [
      "Mike Maignan",
      "Lucas Digne",
-     "Dayot Upamecano",
      "William Saliba",
+     "Dayot Upamecano",
      "Jules Kounde",
      "Aurelien Tchouameni",
      "Adrien Rabiot",

@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-02T00:10:04+10:00",
- "generated_aest": "Thu 2 Jul 2026, 12:10am AEST",
+ "generated": "2026-07-02T01:19:06+10:00",
+ "generated_aest": "Thu 2 Jul 2026, 1:19am AEST",
  "data_through": "2026-06-30",
  "sim_runs": 10000,
  "params": {
@@ -11575,53 +11575,53 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.966,
-    "lam_b": 0.77,
-    "p_win": 0.6421,
-    "p_draw": 0.2325,
-    "p_loss": 0.1254,
+    "lam_a": 1.885,
+    "lam_b": 0.803,
+    "p_win": 0.616,
+    "p_draw": 0.2439,
+    "p_loss": 0.1401,
     "top_scores": [
      {
       "score": "2-0",
-      "p": 0.1252
-     },
-     {
-      "score": "1-0",
-      "p": 0.1146
+      "p": 0.1208
      },
      {
       "score": "1-1",
-      "p": 0.1109
+      "p": 0.1163
+     },
+     {
+      "score": "1-0",
+      "p": 0.1148
      },
      {
       "score": "2-1",
-      "p": 0.0965
+      "p": 0.097
      },
      {
-      "score": "3-0",
-      "p": 0.0821
+      "score": "0-0",
+      "p": 0.0814
      }
     ],
     "outcome_scores": {
      "team1": {
       "score": "2-0",
-      "p": 0.1252
+      "p": 0.1208
      },
      "draw": {
       "score": "1-1",
-      "p": 0.1109
+      "p": 0.1163
      },
      "team2": {
       "score": "1-2",
-      "p": 0.0378
+      "p": 0.0414
      }
     },
     "modal_score": "2-0",
-    "modal_p": 0.1252,
-    "p_advance": 0.8008,
-    "p_et_win": 0.082,
-    "p_pens": 0.1246,
-    "pen_edge": 0.615
+    "modal_p": 0.1208,
+    "p_advance": 0.7786,
+    "p_et_win": 0.0825,
+    "p_pens": 0.1325,
+    "pen_edge": 0.605
    },
    "prediction_base": {
     "lam_a": 2.051,
@@ -11674,9 +11674,9 @@
    },
    "lineup": {
     "team1": {
-     "elo": -22.0,
+     "elo": -43.9,
      "delta_ovr": -2.93,
-     "status": "projected",
+     "status": "confirmed",
      "xi_mean": 81.8,
      "baseline_mean": 84.7,
      "coverage": 0.91,
@@ -12021,53 +12021,53 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.47,
-    "lam_b": 1.031,
-    "p_win": 0.4566,
-    "p_draw": 0.2944,
-    "p_loss": 0.249,
+    "lam_a": 1.478,
+    "lam_b": 1.025,
+    "p_win": 0.4603,
+    "p_draw": 0.2937,
+    "p_loss": 0.2461,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1404
+      "p": 0.1401
      },
      {
       "score": "1-0",
-      "p": 0.1044
+      "p": 0.1049
      },
      {
       "score": "0-0",
-      "p": 0.0982
+      "p": 0.098
      },
      {
       "score": "2-1",
-      "p": 0.0913
+      "p": 0.0916
      },
      {
       "score": "2-0",
-      "p": 0.0886
+      "p": 0.0894
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1404
+      "p": 0.1401
      },
      "team1": {
       "score": "1-0",
-      "p": 0.1044
+      "p": 0.1049
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0684
+      "p": 0.0677
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1404,
-    "p_advance": 0.6247,
-    "p_et_win": 0.0764,
-    "p_pens": 0.1686,
-    "pen_edge": 0.544
+    "modal_p": 0.1401,
+    "p_advance": 0.6286,
+    "p_et_win": 0.0767,
+    "p_pens": 0.168,
+    "pen_edge": 0.546
    },
    "prediction_base": {
     "lam_a": 1.513,
@@ -12142,10 +12142,10 @@
      ]
     },
     "team2": {
-     "elo": -2.5,
-     "delta_ovr": -0.34,
+     "elo": -5.5,
+     "delta_ovr": -0.74,
      "status": "projected",
-     "xi_mean": 79.3,
+     "xi_mean": 78.9,
      "baseline_mean": 79.6,
      "coverage": 0.91,
      "missing": [
@@ -12300,12 +12300,12 @@
        "ovr": 85
       },
       {
-       "name": "Ferran Torres",
-       "ovr": 80
+       "name": "Pedro Porro",
+       "ovr": 83
       },
       {
-       "name": "Eric García",
-       "ovr": 78
+       "name": "Ferran Torres",
+       "ovr": 80
       }
      ]
     },
@@ -14837,5 +14837,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "affd7e6aab0aaa69c68f45354775c08880b1c07b"
+ "content_hash": "270aa17ea406206fb165f7ae65ee7559de34e529"
 }
