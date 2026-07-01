@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-07-01T02:10:00Z",
+ "fetched_utc": "2026-07-01T03:34:00Z",
  "matches": {
   "77": {
    "team1": {
@@ -161,7 +161,7 @@
      "Sead Kolasinac",
      "Nikola Katic",
      "Tarik Muharemovic",
-     "Amar Memic",
+     "Amar Dedic",
      "Kerim Alajbegovic",
      "Ivan Basic",
      "Ivan Sunjic",
@@ -261,8 +261,8 @@
     "xi": [
      "Luca Zidane",
      "Rayan Ait-Nouri",
-     "Ramy Bensebaini",
      "Aissa Mandi",
+     "Ramy Bensebaini",
      "Rafik Belghali",
      "Fares Chaibi",
      "Nabil Bentaleb",
@@ -285,8 +285,8 @@
      "Jackson Irvine",
      "Aiden O'Neill",
      "Jordan Bos",
-     "Conor Metcalfe",
      "Cristian Volpato",
+     "Conor Metcalfe",
      "Nestory Irankunda"
     ]
    },
@@ -298,8 +298,8 @@
      "Yasser Ibrahim",
      "Ramy Rabia",
      "Mohamed Hany",
-     "Marwan Ateya",
      "Mahmoud Saber",
+     "Marwan Ateya",
      "Emam Ashour",
      "Mohamed Salah",
      "Mostafa Ziko",
@@ -363,8 +363,8 @@
     "xi": [
      "Benjamin Asare",
      "Gideon Mensah",
-     "Derrick Luckassen",
      "Jonas Adjetey",
+     "Derrick Luckassen",
      "Marvin Senaya",
      "Thomas Partey",
      "Antoine Semenyo",
@@ -397,8 +397,8 @@
     "xi": [
      "Bono",
      "Noussair Mazraoui",
-     "Chadi Riad",
      "Issa Diop",
+     "Chadi Riad",
      "Achraf Hakimi",
      "Neil El Aynaoui",
      "Ayyoub Bouaddi",
@@ -406,6 +406,74 @@
      "Azzedine Ounahi",
      "Brahim Diaz",
      "Ismael Saibari"
+    ]
+   }
+  },
+  "89": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Orlando Gill",
+     "Junior Alonso",
+     "Gustavo Gomez",
+     "Jose Canale",
+     "Juan Jose Caceres",
+     "Matias Galarza",
+     "Andres Cubas",
+     "Diego Gomez",
+     "Miguel Almiron",
+     "Julio Enciso",
+     "Gabriel Avalos"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Mike Maignan",
+     "Lucas Digne",
+     "Dayot Upamecano",
+     "William Saliba",
+     "Jules Kounde",
+     "Aurelien Tchouameni",
+     "Adrien Rabiot",
+     "Bradley Barcola",
+     "Michael Olise",
+     "Ousmane Dembele",
+     "Kylian Mbappe"
+    ]
+   }
+  },
+  "91": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Alisson",
+     "Douglas",
+     "Gabriel",
+     "Marquinhos",
+     "Danilo",
+     "Casemiro",
+     "Bruno Guimaraes",
+     "Vinicius Junior",
+     "Rayan",
+     "Matheus Cunha",
+     "Raphinha"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Orjan Nyland",
+     "David Moller Wolfe",
+     "Torbjorn Heggem",
+     "Kristoffer Ajer",
+     "Marcus Pedersen",
+     "Sander Berge",
+     "Patrick Berg",
+     "Martin Odegaard",
+     "Antonio Nusa",
+     "Alexander Sorloth",
+     "Erling Haaland"
     ]
    }
   }
