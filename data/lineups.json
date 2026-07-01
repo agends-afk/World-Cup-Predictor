@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-07-01T22:37:00Z",
+ "fetched_utc": "2026-07-01T23:18:00Z",
  "matches": {
   "80": {
    "team1": {
@@ -87,19 +87,19 @@
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Nikola Vasilj",
-     "Sead Kolasinac",
+     "Stjepan Radeljic",
      "Nikola Katic",
      "Tarik Muharemovic",
-     "Amar Dedic",
-     "Kerim Alajbegovic",
-     "Ivan Basic",
+     "Sead Kolasinac",
+     "Armin Gigovic",
      "Ivan Sunjic",
-     "Esmir Bajraktarevic",
-     "Ermedin Demirovic",
-     "Edin Dzeko"
+     "Amar Dedic",
+     "Edin Dzeko",
+     "Kerim Alajbegovic",
+     "Ermedin Demirovic"
     ]
    }
   },
