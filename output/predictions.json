@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-02T01:19:06+10:00",
- "generated_aest": "Thu 2 Jul 2026, 1:19am AEST",
+ "generated": "2026-07-02T02:11:20+10:00",
+ "generated_aest": "Thu 2 Jul 2026, 2:11am AEST",
  "data_through": "2026-06-30",
  "sim_runs": 10000,
  "params": {
@@ -11857,53 +11857,53 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.458,
-    "lam_b": 1.039,
-    "p_win": 0.4514,
-    "p_draw": 0.2955,
-    "p_loss": 0.2531,
+    "lam_a": 1.452,
+    "lam_b": 1.043,
+    "p_win": 0.4489,
+    "p_draw": 0.2959,
+    "p_loss": 0.2551,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1409
+      "p": 0.1412
      },
      {
       "score": "1-0",
-      "p": 0.1038
+      "p": 0.1035
      },
      {
       "score": "0-0",
-      "p": 0.0986
+      "p": 0.0987
      },
      {
       "score": "2-1",
-      "p": 0.0909
+      "p": 0.0907
      },
      {
       "score": "2-0",
-      "p": 0.0875
+      "p": 0.087
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1409
+      "p": 0.1412
      },
      "team1": {
       "score": "1-0",
-      "p": 0.1038
+      "p": 0.1035
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0693
+      "p": 0.0698
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1409,
-    "p_advance": 0.6191,
-    "p_et_win": 0.0759,
-    "p_pens": 0.1694,
-    "pen_edge": 0.542
+    "modal_p": 0.1412,
+    "p_advance": 0.6165,
+    "p_et_win": 0.0757,
+    "p_pens": 0.1697,
+    "pen_edge": 0.541
    },
    "prediction_base": {
     "lam_a": 1.432,
@@ -11978,10 +11978,10 @@
      ]
     },
     "team2": {
-     "elo": -21.8,
-     "delta_ovr": -2.91,
+     "elo": -19.8,
+     "delta_ovr": -2.64,
      "status": "projected",
-     "xi_mean": 74.7,
+     "xi_mean": 75,
      "baseline_mean": 77.6,
      "coverage": 1.0,
      "missing": [
@@ -11998,8 +11998,8 @@
        "ovr": 79
       },
       {
-       "name": "Ismail Jakobs",
-       "ovr": 74
+       "name": "El Hadji Malick Diouf",
+       "ovr": 71
       }
      ]
     }
@@ -14837,5 +14837,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "270aa17ea406206fb165f7ae65ee7559de34e529"
+ "content_hash": "911670a4b3d63c9533fdba164b4cc51110fbce11"
 }

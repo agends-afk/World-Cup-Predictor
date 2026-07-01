@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-07-01T15:19:00Z",
+ "fetched_utc": "2026-07-01T16:11:00Z",
  "matches": {
   "80": {
    "team1": {
@@ -56,9 +56,9 @@
     "status": "projected",
     "xi": [
      "Mory Diaw",
-     "El Hadji Malick Diouf",
-     "Abdoulaye Seck",
+     "Ismail Jakobs",
      "Moussa Niakhate",
+     "Abdoulaye Seck",
      "Krepin Diatta",
      "Idrissa Gueye",
      "Pape Gueye",
@@ -98,8 +98,8 @@
      "Ivan Basic",
      "Ivan Sunjic",
      "Esmir Bajraktarevic",
-     "Ermedin Demirovic",
-     "Edin Dzeko"
+     "Edin Dzeko",
+     "Ermedin Demirovic"
     ]
    }
   },
@@ -193,8 +193,8 @@
     "xi": [
      "Luca Zidane",
      "Rayan Ait-Nouri",
-     "Ramy Bensebaini",
      "Aissa Mandi",
+     "Ramy Bensebaini",
      "Rafik Belghali",
      "Fares Chaibi",
      "Nabil Bentaleb",
@@ -210,15 +210,15 @@
     "status": "projected",
     "xi": [
      "Patrick Beach",
-     "Alessandro Circati",
      "Lucas Herrington",
      "Harry Souttar",
+     "Alessandro Circati",
      "Aziz Behich",
      "Jackson Irvine",
      "Aiden O'Neill",
      "Jordan Bos",
-     "Conor Metcalfe",
      "Cristian Volpato",
+     "Conor Metcalfe",
      "Nestory Irankunda"
     ]
    },
@@ -266,8 +266,8 @@
      "Steven Moreira",
      "Kevin Pina",
      "Willy Semedo",
-     "Deroy Duarte",
      "Jamiro Monteiro",
+     "Deroy Duarte",
      "Ryan Mendes",
      "Dailon Livramento"
     ]
@@ -282,9 +282,9 @@
      "Davinson Sanchez",
      "Jhon Lucumi",
      "Daniel Munoz",
-     "Gustavo Puerta",
      "Jefferson Lerma",
      "Jhon Arias",
+     "Gustavo Puerta",
      "Luis Diaz",
      "James Rodriguez",
      "Luis Suarez"
@@ -300,8 +300,8 @@
      "Marvin Senaya",
      "Thomas Partey",
      "Antoine Semenyo",
-     "Elisha Owusu",
      "Kwasi Sibo",
+     "Elisha Owusu",
      "Kamaldeen Sulemana",
      "Jordan Ayew"
     ]
@@ -329,8 +329,8 @@
     "xi": [
      "Bono",
      "Noussair Mazraoui",
-     "Chadi Riad",
      "Issa Diop",
+     "Chadi Riad",
      "Achraf Hakimi",
      "Neil El Aynaoui",
      "Ayyoub Bouaddi",
@@ -354,8 +354,8 @@
      "Diego Gomez",
      "Andres Cubas",
      "Miguel Almiron",
-     "Gabriel Avalos",
-     "Julio Enciso"
+     "Julio Enciso",
+     "Gabriel Avalos"
     ]
    },
    "team2": {
@@ -363,8 +363,8 @@
     "xi": [
      "Mike Maignan",
      "Lucas Digne",
-     "William Saliba",
      "Dayot Upamecano",
+     "William Saliba",
      "Jules Kounde",
      "Aurelien Tchouameni",
      "Adrien Rabiot",
