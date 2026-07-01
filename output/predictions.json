@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-01T15:09:35+10:00",
- "generated_aest": "Wed 1 Jul 2026, 3:09pm AEST",
+ "generated": "2026-07-02T00:10:04+10:00",
+ "generated_aest": "Thu 2 Jul 2026, 12:10am AEST",
  "data_through": "2026-06-30",
  "sim_runs": 10000,
  "params": {
@@ -11575,53 +11575,53 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.992,
-    "lam_b": 0.76,
-    "p_win": 0.6502,
-    "p_draw": 0.2288,
-    "p_loss": 0.121,
+    "lam_a": 1.966,
+    "lam_b": 0.77,
+    "p_win": 0.6421,
+    "p_draw": 0.2325,
+    "p_loss": 0.1254,
     "top_scores": [
      {
       "score": "2-0",
-      "p": 0.1265
+      "p": 0.1252
      },
      {
       "score": "1-0",
-      "p": 0.1145
+      "p": 0.1146
      },
      {
       "score": "1-1",
-      "p": 0.1091
+      "p": 0.1109
      },
      {
       "score": "2-1",
-      "p": 0.0962
+      "p": 0.0965
      },
      {
       "score": "3-0",
-      "p": 0.084
+      "p": 0.0821
      }
     ],
     "outcome_scores": {
      "team1": {
       "score": "2-0",
-      "p": 0.1265
+      "p": 0.1252
      },
      "draw": {
       "score": "1-1",
-      "p": 0.1091
+      "p": 0.1109
      },
      "team2": {
       "score": "1-2",
-      "p": 0.0367
+      "p": 0.0378
      }
     },
     "modal_score": "2-0",
-    "modal_p": 0.1265,
-    "p_advance": 0.8074,
-    "p_et_win": 0.0818,
-    "p_pens": 0.1221,
-    "pen_edge": 0.618
+    "modal_p": 0.1252,
+    "p_advance": 0.8008,
+    "p_et_win": 0.082,
+    "p_pens": 0.1246,
+    "pen_edge": 0.615
    },
    "prediction_base": {
     "lam_a": 2.051,
@@ -11674,13 +11674,17 @@
    },
    "lineup": {
     "team1": {
-     "elo": -15.2,
-     "delta_ovr": -2.03,
+     "elo": -22.0,
+     "delta_ovr": -2.93,
      "status": "projected",
-     "xi_mean": 82.7,
+     "xi_mean": 81.8,
      "baseline_mean": 84.7,
      "coverage": 0.91,
      "missing": [
+      {
+       "name": "Bukayo Saka",
+       "ovr": 87
+      },
       {
        "name": "John Stones",
        "ovr": 85
@@ -11692,10 +11696,6 @@
       {
        "name": "Reece James",
        "ovr": 82
-      },
-      {
-       "name": "Eberechi Eze",
-       "ovr": 81
       }
      ]
     },
@@ -12021,53 +12021,53 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.487,
-    "lam_b": 1.019,
-    "p_win": 0.4639,
-    "p_draw": 0.2929,
-    "p_loss": 0.2431,
+    "lam_a": 1.47,
+    "lam_b": 1.031,
+    "p_win": 0.4566,
+    "p_draw": 0.2944,
+    "p_loss": 0.249,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1397
+      "p": 0.1404
      },
      {
       "score": "1-0",
-      "p": 0.1053
+      "p": 0.1044
      },
      {
       "score": "0-0",
-      "p": 0.0977
+      "p": 0.0982
      },
      {
       "score": "2-1",
-      "p": 0.0919
+      "p": 0.0913
      },
      {
       "score": "2-0",
-      "p": 0.0902
+      "p": 0.0886
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1397
+      "p": 0.1404
      },
      "team1": {
       "score": "1-0",
-      "p": 0.1053
+      "p": 0.1044
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0671
+      "p": 0.0684
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1397,
-    "p_advance": 0.6325,
-    "p_et_win": 0.077,
-    "p_pens": 0.1675,
-    "pen_edge": 0.547
+    "modal_p": 0.1404,
+    "p_advance": 0.6247,
+    "p_et_win": 0.0764,
+    "p_pens": 0.1686,
+    "pen_edge": 0.544
    },
    "prediction_base": {
     "lam_a": 1.513,
@@ -12142,10 +12142,10 @@
      ]
     },
     "team2": {
-     "elo": -8.5,
-     "delta_ovr": -1.14,
+     "elo": -2.5,
+     "delta_ovr": -0.34,
      "status": "projected",
-     "xi_mean": 78.5,
+     "xi_mean": 79.3,
      "baseline_mean": 79.6,
      "coverage": 0.91,
      "missing": [
@@ -14837,5 +14837,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "8ce825610fab5e3468063fb20ccbb6d02d182423"
+ "content_hash": "affd7e6aab0aaa69c68f45354775c08880b1c07b"
 }

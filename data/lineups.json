@@ -1,74 +1,6 @@
 {
- "fetched_utc": "2026-07-01T05:09:00Z",
+ "fetched_utc": "2026-07-01T14:10:00Z",
  "matches": {
-  "77": {
-   "team1": {
-    "status": "confirmed",
-    "xi": [
-     "Mike Maignan",
-     "Lucas Digne",
-     "Dayot Upamecano",
-     "William Saliba",
-     "Jules Kounde",
-     "Aurelien Tchouameni",
-     "Adrien Rabiot",
-     "Bradley Barcola",
-     "Michael Olise",
-     "Ousmane Dembele",
-     "Kylian Mbappe"
-    ]
-   },
-   "team2": {
-    "status": "confirmed",
-    "xi": [
-     "Jacob Widell Zetterstrom",
-     "Gustaf Lagerbielke",
-     "Victor Lindelof",
-     "Gabriel Gudmundsson",
-     "Elliot Stroud",
-     "Lucas Bergvall",
-     "Yasin Ayari",
-     "Daniel Svensson",
-     "Alexander Isak",
-     "Anthony Elanga",
-     "Viktor Gyokeres"
-    ]
-   }
-  },
-  "79": {
-   "team1": {
-    "status": "confirmed",
-    "xi": [
-     "Jose Rangel",
-     "Jesus Gallardo",
-     "Cesar Montes",
-     "Johan Vasquez",
-     "Jorge Eduardo Sanchez",
-     "Erik Lira",
-     "Julian Quinones",
-     "Luis Romo",
-     "Gilberto Mora",
-     "Roberto Alvarado",
-     "Raul Jimenez"
-    ]
-   },
-   "team2": {
-    "status": "confirmed",
-    "xi": [
-     "Hernan Galindez",
-     "Piero Hincapie",
-     "Willian Pacho",
-     "Joel Ordonez",
-     "Alan Franco",
-     "Nilson Angulo",
-     "Moises Caicedo",
-     "Pedro Vite",
-     "John Yeboah",
-     "Gonzalo Plata",
-     "Enner Valencia"
-    ]
-   }
-  },
   "80": {
    "team1": {
     "status": "projected",
@@ -82,7 +14,7 @@
      "Declan Rice",
      "Marcus Rashford",
      "Jude Bellingham",
-     "Bukayo Saka",
+     "Noni Madueke",
      "Harry Kane"
     ]
    },
@@ -125,8 +57,8 @@
     "xi": [
      "Mory Diaw",
      "El Hadji Malick Diouf",
-     "Abdoulaye Seck",
      "Moussa Niakhate",
+     "Abdoulaye Seck",
      "Krepin Diatta",
      "Idrissa Gueye",
      "Pape Gueye",
@@ -159,8 +91,8 @@
     "xi": [
      "Nikola Vasilj",
      "Sead Kolasinac",
-     "Nikola Katic",
      "Tarik Muharemovic",
+     "Nikola Katic",
      "Amar Dedic",
      "Kerim Alajbegovic",
      "Ivan Basic",
@@ -177,12 +109,12 @@
     "xi": [
      "Unai Simon",
      "Marc Cucurella",
-     "Aymeric Laporte",
      "Pau Cubarsi",
+     "Aymeric Laporte",
      "Pedro Porro",
+     "Pedri",
      "Dani Olmo",
      "Rodri",
-     "Pedri",
      "Alex Baena",
      "Lamine Yamal",
      "Mikel Oyarzabal"
@@ -214,8 +146,8 @@
      "Renato Veiga",
      "Ruben Dias",
      "Joao Cancelo",
-     "Joao Neves",
      "Vitinha",
+     "Joao Neves",
      "Joao Felix",
      "Bruno Fernandes",
      "Pedro Neto",
@@ -226,15 +158,15 @@
     "status": "projected",
     "xi": [
      "Dominik Livakovic",
+     "Ivan Perisic",
      "Josko Gvardiol",
-     "Marin Pongracic",
      "Josip Sutalo",
      "Josip Stanisic",
-     "Petar Sucic",
+     "Luka Sucic",
      "Luka Modric",
      "Mateo Kovacic",
-     "Ivan Perisic",
      "Martin Baturina",
+     "Nikola Vlasic",
      "Ante Budimir"
     ]
    }
@@ -261,8 +193,8 @@
     "xi": [
      "Luca Zidane",
      "Rayan Ait-Nouri",
-     "Aissa Mandi",
      "Ramy Bensebaini",
+     "Aissa Mandi",
      "Rafik Belghali",
      "Fares Chaibi",
      "Nabil Bentaleb",
@@ -278,9 +210,9 @@
     "status": "projected",
     "xi": [
      "Patrick Beach",
-     "Harry Souttar",
-     "Alessandro Circati",
      "Lucas Herrington",
+     "Alessandro Circati",
+     "Harry Souttar",
      "Aziz Behich",
      "Jackson Irvine",
      "Aiden O'Neill",
@@ -295,8 +227,8 @@
     "xi": [
      "Mostafa Shobeir",
      "Karim Hafez",
-     "Yasser Ibrahim",
      "Ramy Rabia",
+     "Yasser Ibrahim",
      "Mohamed Hany",
      "Mahmoud Saber",
      "Marwan Ateya",
@@ -363,13 +295,13 @@
     "xi": [
      "Benjamin Asare",
      "Gideon Mensah",
-     "Jonas Adjetey",
      "Derrick Luckassen",
+     "Jonas Adjetey",
      "Marvin Senaya",
      "Thomas Partey",
      "Antoine Semenyo",
-     "Kwasi Sibo",
      "Elisha Owusu",
+     "Kwasi Sibo",
      "Kamaldeen Sulemana",
      "Jordan Ayew"
     ]
@@ -385,8 +317,8 @@
      "Moise Bombito",
      "Alistair Johnston",
      "Liam Millar",
-     "Stephen Eustaquio",
      "Nathan Saliba",
+     "Stephen Eustaquio",
      "Tajon Buchanan",
      "Jonathan David",
      "Tani Oluwaseyi"
@@ -415,12 +347,12 @@
     "xi": [
      "Orlando Gill",
      "Junior Alonso",
-     "Gustavo Gomez",
      "Jose Canale",
+     "Gustavo Gomez",
      "Juan Jose Caceres",
      "Matias Galarza",
-     "Andres Cubas",
      "Diego Gomez",
+     "Andres Cubas",
      "Miguel Almiron",
      "Julio Enciso",
      "Gabriel Avalos"
