@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-01T09:37:02+10:00",
- "generated_aest": "Wed 1 Jul 2026, 9:37am AEST",
+ "generated": "2026-07-01T12:10:48+10:00",
+ "generated_aest": "Wed 1 Jul 2026, 12:10pm AEST",
  "data_through": "2026-06-30",
  "sim_runs": 10000,
  "params": {
@@ -11416,7 +11416,7 @@
    "city": "Mexico City",
    "stadium": "Estadio Azteca",
    "country": "Mexico",
-   "kickoff_utc": "2026-07-01T01:00:00Z",
+   "kickoff_utc": "2026-07-01T02:00:00Z",
    "team1": "Mexico",
    "team2": "Ecuador",
    "slot1": "Winner Group A",
@@ -14638,5 +14638,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "6c81aae7fb98b4bb1fc7b4029338a767c99c4e01"
+ "content_hash": "f8c7a5dd3e867511ddb51af5517db159c590798c"
 }
