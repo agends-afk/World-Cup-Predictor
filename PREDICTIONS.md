@@ -1,6 +1,6 @@
 # World Cup 2026: match predictions
 
-Generated Thu 2 Jul 2026, 6:49pm AEST. Results included through 2026-07-01. 82 of 104 matches played. 10,000 tournament simulations.
+Generated Fri 3 Jul 2026, 2:59am AEST. Results included through 2026-07-01. 82 of 104 matches played. 10,000 tournament simulations.
 
 Every probability below is a model estimate built only from match results and public squad news, not from betting odds or published predictions. A favourite can be 75% to win while its most likely exact score sits near 12 to 15%; goals spread across many scorelines, so read the two numbers separately.
 
@@ -294,7 +294,7 @@ Until the groups finish, knockout pairings show the most frequent matchup across
 - M80, Wed 01 Jul, Atlanta: Winner Group L v Third place Group E/H/I/J/K. **Played: England 2-1 DR Congo.** Model said England to win 62% (draw 24%, DR Congo win 14%); most likely England 2-0 (12%); result hit, score miss
 - M81, Wed 01 Jul, Santa Clara: Winner Group D v Third place Group B/E/F/I/J. **Played: United States 2-0 Bosnia and Herzegovina.** Model said United States to win 63% (draw 24%, Bosnia and Herzegovina win 13%); most likely United States 2-0 (12%); result hit, score hit
 - M82, Wed 01 Jul, Seattle: Winner Group G v Third place Group A/E/H/I/J. **Played: Belgium 3-2 Senegal aet.** Model said Belgium to win 46% (draw 29%, Senegal win 25%); most likely Belgium 1-0 (10%); result hit, score miss
-- M83, Thu 02 Jul, Toronto: Runner-up Group K v Runner-up Group L. **Portugal to win 46%** (draw 29%, Croatia win 25%); most likely Portugal 1-0 (10%); **Portugal to advance 63%**
+- M83, Thu 02 Jul, Toronto: Runner-up Group K v Runner-up Group L. **Portugal to win 47%** (draw 29%, Croatia win 24%); most likely Portugal 1-0 (11%); **Portugal to advance 64%**
 - M84, Thu 02 Jul, Inglewood: Winner Group H v Runner-up Group J. **Spain to win 68%** (draw 21%, Austria win 11%); most likely Spain 2-0 (13%); **Spain to advance 83%**
 - M85, Thu 02 Jul, Vancouver: Winner Group B v Third place Group E/F/G/I/J. **Switzerland to win 41%** (draw 30%, Algeria win 29%); most likely Switzerland 1-0 (10%); **Switzerland to advance 58%**
 - M86, Fri 03 Jul, Miami Gardens: Winner Group J v Runner-up Group H. **Argentina to win 91%** (draw 8%, Cape Verde win 2%); most likely Argentina 3-0 (14%); **Argentina to advance 97%**
