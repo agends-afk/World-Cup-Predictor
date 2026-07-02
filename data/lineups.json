@@ -1,15 +1,15 @@
 {
- "fetched_utc": "2026-07-02T16:59:00Z",
+ "fetched_utc": "2026-07-02T17:41:00Z",
  "matches": {
   "84": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Unai Simon",
      "Marc Cucurella",
      "Aymeric Laporte",
      "Pau Cubarsi",
-     "Marcos Llorente",
+     "Pedro Porro",
      "Dani Olmo",
      "Rodri",
      "Pedri",
@@ -19,19 +19,19 @@
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Alexander Schlager",
-     "Phillipp Mwene",
-     "Philipp Lienhart",
+     "Konrad Laimer",
+     "Kevin Danso",
      "David Alaba",
      "Stefan Posch",
      "Xaver Schlager",
      "Nicolas Seiwald",
      "Marcel Sabitzer",
+     "Paul Wanner",
      "Romano Schmid",
-     "Konrad Laimer",
-     "Marko Arnautovic"
+     "Michael Gregoritsch"
     ]
    }
   },

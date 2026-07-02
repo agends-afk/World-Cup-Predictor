@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-03T02:59:22+10:00",
- "generated_aest": "Fri 3 Jul 2026, 2:59am AEST",
+ "generated": "2026-07-03T03:41:57+10:00",
+ "generated_aest": "Fri 3 Jul 2026, 3:41am AEST",
  "data_through": "2026-07-01",
  "sim_runs": 10000,
  "params": {
@@ -12205,52 +12205,52 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 2.092,
-    "lam_b": 0.724,
-    "p_win": 0.6797,
-    "p_draw": 0.2147,
-    "p_loss": 0.1056,
+    "lam_a": 2.086,
+    "lam_b": 0.726,
+    "p_win": 0.678,
+    "p_draw": 0.2156,
+    "p_loss": 0.1064,
     "top_scores": [
      {
       "score": "2-0",
-      "p": 0.1309
+      "p": 0.1307
      },
      {
       "score": "1-0",
-      "p": 0.1134
+      "p": 0.1135
      },
      {
       "score": "1-1",
-      "p": 0.1024
+      "p": 0.1028
      },
      {
       "score": "2-1",
-      "p": 0.0948
+      "p": 0.0949
      },
      {
       "score": "3-0",
-      "p": 0.0913
+      "p": 0.0909
      }
     ],
     "outcome_scores": {
      "team1": {
       "score": "2-0",
-      "p": 0.1309
+      "p": 0.1307
      },
      "draw": {
       "score": "1-1",
-      "p": 0.1024
+      "p": 0.1028
      },
      "team2": {
       "score": "1-2",
-      "p": 0.0328
+      "p": 0.033
      }
     },
     "modal_score": "2-0",
-    "modal_p": 0.1309,
-    "p_advance": 0.831,
-    "p_et_win": 0.0805,
-    "p_pens": 0.1126,
+    "modal_p": 0.1307,
+    "p_advance": 0.8296,
+    "p_et_win": 0.0806,
+    "p_pens": 0.1131,
     "pen_edge": 0.629
    },
    "prediction_base": {
@@ -12304,9 +12304,9 @@
    },
    "lineup": {
     "team1": {
-     "elo": -1.6,
+     "elo": -3.1,
      "delta_ovr": -0.21,
-     "status": "projected",
+     "status": "confirmed",
      "xi_mean": 82.7,
      "baseline_mean": 82.9,
      "coverage": 0.91,
@@ -12320,30 +12320,30 @@
        "ovr": 85
       },
       {
-       "name": "Pedro Porro",
-       "ovr": 83
-      },
-      {
        "name": "Ferran Torres",
        "ovr": 80
+      },
+      {
+       "name": "Eric García",
+       "ovr": 78
       }
      ]
     },
     "team2": {
      "elo": -6.1,
-     "delta_ovr": -0.82,
-     "status": "projected",
-     "xi_mean": 79.1,
+     "delta_ovr": -0.41,
+     "status": "confirmed",
+     "xi_mean": 79.5,
      "baseline_mean": 79.9,
-     "coverage": 1.0,
+     "coverage": 0.91,
      "missing": [
       {
-       "name": "Kevin Danso",
+       "name": "Marko Arnautović",
        "ovr": 80
       },
       {
-       "name": "Michael Gregoritsch",
-       "ovr": 78
+       "name": "Philipp Lienhart",
+       "ovr": 79
       },
       {
        "name": "Saša Kalajdžić",
@@ -15003,5 +15003,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "339917610f8064581de6b595c2726f1e684fa102"
+ "content_hash": "9e4c443de18fbe2c8715af6c20d6cc0c9d78e691"
 }
