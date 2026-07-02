@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-03T07:17:12+10:00",
- "generated_aest": "Fri 3 Jul 2026, 7:17am AEST",
+ "generated": "2026-07-03T07:46:55+10:00",
+ "generated_aest": "Fri 3 Jul 2026, 7:46am AEST",
  "data_through": "2026-07-02",
  "sim_runs": 10000,
  "params": {
@@ -12041,53 +12041,53 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.495,
-    "lam_b": 1.013,
-    "p_win": 0.4676,
-    "p_draw": 0.2921,
-    "p_loss": 0.2403,
+    "lam_a": 1.501,
+    "lam_b": 1.009,
+    "p_win": 0.47,
+    "p_draw": 0.2916,
+    "p_loss": 0.2384,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1393
+      "p": 0.1391
      },
      {
       "score": "1-0",
-      "p": 0.1057
+      "p": 0.106
      },
      {
       "score": "0-0",
-      "p": 0.0974
+      "p": 0.0973
      },
      {
       "score": "2-1",
-      "p": 0.0922
+      "p": 0.0924
      },
      {
       "score": "2-0",
-      "p": 0.091
+      "p": 0.0915
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1393
+      "p": 0.1391
      },
      "team1": {
       "score": "1-0",
-      "p": 0.1057
+      "p": 0.106
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0664
+      "p": 0.066
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1393,
-    "p_advance": 0.6364,
-    "p_et_win": 0.0773,
-    "p_pens": 0.1669,
-    "pen_edge": 0.548
+    "modal_p": 0.1391,
+    "p_advance": 0.6389,
+    "p_et_win": 0.0774,
+    "p_pens": 0.1665,
+    "pen_edge": 0.549
    },
    "prediction_base": {
     "lam_a": 1.513,
@@ -12140,10 +12140,10 @@
    },
    "lineup": {
     "team1": {
-     "elo": -17.7,
-     "delta_ovr": -2.36,
-     "status": "projected",
-     "xi_mean": 82.6,
+     "elo": -27.3,
+     "delta_ovr": -1.82,
+     "status": "confirmed",
+     "xi_mean": 83.2,
      "baseline_mean": 85,
      "coverage": 1.0,
      "missing": [
@@ -12152,19 +12152,19 @@
        "ovr": 88
       },
       {
-       "name": "Rafael Leão",
-       "ovr": 86
-      },
-      {
        "name": "Diogo Dalot",
        "ovr": 82
+      },
+      {
+       "name": "João Félix",
+       "ovr": 80
       }
      ]
     },
     "team2": {
-     "elo": -11.5,
+     "elo": -23.0,
      "delta_ovr": -1.54,
-     "status": "projected",
+     "status": "confirmed",
      "xi_mean": 78.1,
      "baseline_mean": 79.6,
      "coverage": 0.91,
@@ -15004,5 +15004,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "37c50db00bceae12997deacf464e1ceeb5562678"
+ "content_hash": "01e18fe6749d12c45d6eca39b404828aa0e8d112"
 }

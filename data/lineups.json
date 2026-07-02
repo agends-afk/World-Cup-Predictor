@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-07-02T21:17:00Z",
+ "fetched_utc": "2026-07-02T21:46:00Z",
  "matches": {
   "84": {
    "team1": {
@@ -37,7 +37,7 @@
   },
   "83": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Diogo Costa",
      "Nuno Mendes",
@@ -46,14 +46,14 @@
      "Joao Cancelo",
      "Joao Neves",
      "Vitinha",
-     "Joao Felix",
+     "Rafael Leao",
      "Bruno Fernandes",
      "Pedro Neto",
      "Cristiano Ronaldo"
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Dominik Livakovic",
      "Ivan Perisic",
