@@ -1,116 +1,14 @@
 {
- "fetched_utc": "2026-07-02T02:11:00Z",
+ "fetched_utc": "2026-07-02T08:49:00Z",
  "matches": {
-  "80": {
-   "team1": {
-    "status": "confirmed",
-    "xi": [
-     "Jordan Pickford",
-     "Nico O'Reilly",
-     "Ezri Konsa",
-     "Marc Guehi",
-     "Djed Spence",
-     "Elliot Anderson",
-     "Declan Rice",
-     "Marcus Rashford",
-     "Jude Bellingham",
-     "Noni Madueke",
-     "Harry Kane"
-    ]
-   },
-   "team2": {
-    "status": "confirmed",
-    "xi": [
-     "Lionel Mpasi",
-     "Arthur Masuaku",
-     "Chancel Mbemba",
-     "Axel Tuanzebe",
-     "Aaron Wan-Bissaka",
-     "Samuel Moutoussamy",
-     "Noah Sadiki",
-     "Ngal'ayel Mukau",
-     "Brian Cipenga",
-     "Nathanael Mbuku",
-     "Yoane Wissa"
-    ]
-   }
-  },
-  "82": {
-   "team1": {
-    "status": "confirmed",
-    "xi": [
-     "Thibaut Courtois",
-     "Maxim De Cuyper",
-     "Arthur Theate",
-     "Brandon Mechele",
-     "Timothy Castagne",
-     "Hans Vanaken",
-     "Youri Tielemans",
-     "Leandro Trossard",
-     "Kevin De Bruyne",
-     "Jeremy Doku",
-     "Charles De Ketelaere"
-    ]
-   },
-   "team2": {
-    "status": "confirmed",
-    "xi": [
-     "Mory Diaw",
-     "Ismail Jakobs",
-     "Moussa Niakhate",
-     "Pathe Ciss",
-     "Krepin Diatta",
-     "Idrissa Gueye",
-     "Habib Diarra",
-     "Pape Gueye",
-     "Sadio Mane",
-     "Iliman Ndiaye",
-     "Ismaila Sarr"
-    ]
-   }
-  },
-  "81": {
-   "team1": {
-    "status": "confirmed",
-    "xi": [
-     "Matt Freese",
-     "Antonee Robinson",
-     "Chris Richards",
-     "Tim Ream",
-     "Alex Freeman",
-     "Malik Tillman",
-     "Tyler Adams",
-     "Christian Pulisic",
-     "Weston McKennie",
-     "Sergino Dest",
-     "Folarin Balogun"
-    ]
-   },
-   "team2": {
-    "status": "confirmed",
-    "xi": [
-     "Nikola Vasilj",
-     "Stjepan Radeljic",
-     "Nikola Katic",
-     "Tarik Muharemovic",
-     "Sead Kolasinac",
-     "Armin Gigovic",
-     "Ivan Sunjic",
-     "Amar Dedic",
-     "Kerim Alajbegovic",
-     "Ermedin Demirovic",
-     "Edin Dzeko"
-    ]
-   }
-  },
   "84": {
    "team1": {
     "status": "projected",
     "xi": [
      "Unai Simon",
      "Marc Cucurella",
-     "Pau Cubarsi",
      "Aymeric Laporte",
+     "Pau Cubarsi",
      "Marcos Llorente",
      "Dani Olmo",
      "Rodri",
@@ -162,9 +60,9 @@
      "Josip Sutalo",
      "Josko Gvardiol",
      "Josip Stanisic",
+     "Petar Sucic",
      "Luka Modric",
      "Mateo Kovacic",
-     "Petar Sucic",
      "Martin Baturina",
      "Nikola Vlasic",
      "Ante Budimir"
@@ -210,9 +108,9 @@
     "status": "projected",
     "xi": [
      "Patrick Beach",
+     "Harry Souttar",
      "Alessandro Circati",
      "Lucas Herrington",
-     "Harry Souttar",
      "Aziz Behich",
      "Jackson Irvine",
      "Aiden O'Neill",
@@ -227,8 +125,8 @@
     "xi": [
      "Mostafa Shobeir",
      "Karim Hafez",
-     "Ramy Rabia",
      "Yasser Ibrahim",
+     "Ramy Rabia",
      "Mohamed Hany",
      "Hamdy Fathy",
      "Marwan Ateya",
@@ -266,8 +164,8 @@
      "Steven Moreira",
      "Kevin Pina",
      "Willy Semedo",
-     "Jamiro Monteiro",
      "Deroy Duarte",
+     "Jamiro Monteiro",
      "Ryan Mendes",
      "Dailon Livramento"
     ]
@@ -282,9 +180,9 @@
      "Davinson Sanchez",
      "Jhon Lucumi",
      "Daniel Munoz",
+     "Gustavo Puerta",
      "Jefferson Lerma",
      "Jhon Arias",
-     "Gustavo Puerta",
      "Luis Diaz",
      "James Rodriguez",
      "Luis Suarez"
@@ -295,8 +193,8 @@
     "xi": [
      "Benjamin Asare",
      "Gideon Mensah",
-     "Derrick Luckassen",
      "Jonas Adjetey",
+     "Derrick Luckassen",
      "Marvin Senaya",
      "Thomas Partey",
      "Antoine Semenyo",
@@ -329,8 +227,8 @@
     "xi": [
      "Bono",
      "Noussair Mazraoui",
-     "Issa Diop",
      "Chadi Riad",
+     "Issa Diop",
      "Achraf Hakimi",
      "Neil El Aynaoui",
      "Ayyoub Bouaddi",
@@ -347,12 +245,12 @@
     "xi": [
      "Orlando Gill",
      "Junior Alonso",
-     "Jose Canale",
      "Gustavo Gomez",
+     "Jose Canale",
      "Juan Jose Caceres",
      "Matias Galarza",
-     "Diego Gomez",
      "Andres Cubas",
+     "Diego Gomez",
      "Miguel Almiron",
      "Julio Enciso",
      "Gabriel Avalos"
@@ -406,6 +304,74 @@
      "Antonio Nusa",
      "Alexander Sorloth",
      "Erling Haaland"
+    ]
+   }
+  },
+  "92": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Jose Rangel",
+     "Jesus Gallardo",
+     "Johan Vasquez",
+     "Cesar Montes",
+     "Jorge Eduardo Sanchez",
+     "Luis Romo",
+     "Gilberto Mora",
+     "Erik Lira",
+     "Julian Quinones",
+     "Roberto Alvarado",
+     "Raul Jimenez"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Jordan Pickford",
+     "Nico O'Reilly",
+     "Ezri Konsa",
+     "Marc Guehi",
+     "Djed Spence",
+     "Elliot Anderson",
+     "Declan Rice",
+     "Marcus Rashford",
+     "Jude Bellingham",
+     "Noni Madueke",
+     "Harry Kane"
+    ]
+   }
+  },
+  "94": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Matt Freese",
+     "Antonee Robinson",
+     "Chris Richards",
+     "Tim Ream",
+     "Alex Freeman",
+     "Malik Tillman",
+     "Weston McKennie",
+     "Tyler Adams",
+     "Christian Pulisic",
+     "Sergino Dest",
+     "Ricardo Pepi"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Thibaut Courtois",
+     "Maxim De Cuyper",
+     "Arthur Theate",
+     "Brandon Mechele",
+     "Timothy Castagne",
+     "Hans Vanaken",
+     "Youri Tielemans",
+     "Jeremy Doku",
+     "Kevin De Bruyne",
+     "Leandro Trossard",
+     "Charles De Ketelaere"
     ]
    }
   }

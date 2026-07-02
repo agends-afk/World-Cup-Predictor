@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-02T12:11:21+10:00",
- "generated_aest": "Thu 2 Jul 2026, 12:11pm AEST",
+ "generated": "2026-07-02T18:49:30+10:00",
+ "generated_aest": "Thu 2 Jul 2026, 6:49pm AEST",
  "data_through": "2026-07-01",
  "sim_runs": 10000,
  "params": {
@@ -13454,6 +13454,55 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
+    "lam_a": 1.417,
+    "lam_b": 1.069,
+    "p_win": 0.4333,
+    "p_draw": 0.2987,
+    "p_loss": 0.268,
+    "top_scores": [
+     {
+      "score": "1-1",
+      "p": 0.1425
+     },
+     {
+      "score": "1-0",
+      "p": 0.1016
+     },
+     {
+      "score": "0-0",
+      "p": 0.0996
+     },
+     {
+      "score": "2-1",
+      "p": 0.0893
+     },
+     {
+      "score": "2-0",
+      "p": 0.0836
+     }
+    ],
+    "outcome_scores": {
+     "draw": {
+      "score": "1-1",
+      "p": 0.1425
+     },
+     "team1": {
+      "score": "1-0",
+      "p": 0.1016
+     },
+     "team2": {
+      "score": "0-1",
+      "p": 0.0726
+     }
+    },
+    "modal_score": "1-1",
+    "modal_p": 0.1425,
+    "p_advance": 0.5995,
+    "p_et_win": 0.0743,
+    "p_pens": 0.1717,
+    "pen_edge": 0.535
+   },
+   "prediction_base": {
     "lam_a": 1.358,
     "lam_b": 1.115,
     "p_win": 0.4068,
@@ -13501,6 +13550,35 @@
     "p_et_win": 0.0717,
     "p_pens": 0.1745,
     "pen_edge": 0.525
+   },
+   "lineup": {
+    "team1": null,
+    "team2": {
+     "elo": -22.0,
+     "delta_ovr": -2.93,
+     "status": "projected",
+     "xi_mean": 81.8,
+     "baseline_mean": 84.7,
+     "coverage": 0.91,
+     "missing": [
+      {
+       "name": "Bukayo Saka",
+       "ovr": 87
+      },
+      {
+       "name": "John Stones",
+       "ovr": 85
+      },
+      {
+       "name": "Ollie Watkins",
+       "ovr": 85
+      },
+      {
+       "name": "Reece James",
+       "ovr": 82
+      }
+     ]
+    }
    }
   },
   {
@@ -13585,6 +13663,55 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
+    "lam_a": 1.149,
+    "lam_b": 1.319,
+    "p_win": 0.3072,
+    "p_draw": 0.3043,
+    "p_loss": 0.3885,
+    "top_scores": [
+     {
+      "score": "1-1",
+      "p": 0.1452
+     },
+     {
+      "score": "0-0",
+      "p": 0.1015
+     },
+     {
+      "score": "0-1",
+      "p": 0.0951
+     },
+     {
+      "score": "1-2",
+      "p": 0.0847
+     },
+     {
+      "score": "1-0",
+      "p": 0.0807
+     }
+    ],
+    "outcome_scores": {
+     "draw": {
+      "score": "1-1",
+      "p": 0.1452
+     },
+     "team2": {
+      "score": "0-1",
+      "p": 0.0951
+     },
+     "team1": {
+      "score": "1-0",
+      "p": 0.0807
+     }
+    },
+    "modal_score": "1-1",
+    "modal_p": 0.1452,
+    "p_advance": 0.4509,
+    "p_et_win": 0.0588,
+    "p_pens": 0.1759,
+    "pen_edge": 0.483
+   },
+   "prediction_base": {
     "lam_a": 1.187,
     "lam_b": 1.276,
     "p_win": 0.3258,
@@ -13632,6 +13759,48 @@
     "p_et_win": 0.0615,
     "p_pens": 0.1768,
     "pen_edge": 0.491
+   },
+   "lineup": {
+    "team1": {
+     "elo": -22.5,
+     "delta_ovr": -3,
+     "status": "projected",
+     "xi_mean": 74,
+     "baseline_mean": 77,
+     "coverage": 1.0,
+     "missing": [
+      {
+       "name": "Folarin Balogun",
+       "ovr": 77
+      },
+      {
+       "name": "Matt Turner",
+       "ovr": 74
+      },
+      {
+       "name": "Mark McKenzie",
+       "ovr": 74
+      }
+     ]
+    },
+    "team2": {
+     "elo": -5.5,
+     "delta_ovr": -0.73,
+     "status": "projected",
+     "xi_mean": 80.6,
+     "baseline_mean": 81.4,
+     "coverage": 1.0,
+     "missing": [
+      {
+       "name": "Romelu Lukaku",
+       "ovr": 82
+      },
+      {
+       "name": "Axel Witsel",
+       "ovr": 80
+      }
+     ]
+    }
    }
   },
   {
@@ -14834,5 +15003,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "98d754875275ff0df8dc6221cc229878d685db6f"
+ "content_hash": "2868fefe5d561ec46b19412d5063435ef78a14ad"
 }

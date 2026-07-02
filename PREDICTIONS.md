@@ -1,6 +1,6 @@
 # World Cup 2026: match predictions
 
-Generated Thu 2 Jul 2026, 12:11pm AEST. Results included through 2026-07-01. 82 of 104 matches played. 10,000 tournament simulations.
+Generated Thu 2 Jul 2026, 6:49pm AEST. Results included through 2026-07-01. 82 of 104 matches played. 10,000 tournament simulations.
 
 Every probability below is a model estimate built only from match results and public squad news, not from betting odds or published predictions. A favourite can be 75% to win while its most likely exact score sits near 12 to 15%; goals spread across many scorelines, so read the two numbers separately.
 
@@ -306,9 +306,9 @@ Until the groups finish, knockout pairings show the most frequent matchup across
 - M89, Sat 04 Jul, Philadelphia: Winner Match 74 v Winner Match 77. **France to win 72%** (draw 19%, Paraguay win 9%); most likely France 2-0 (14%); **France to advance 86%**
 - M90, Sat 04 Jul, Houston: Winner Match 73 v Winner Match 75. **Morocco to win 59%** (draw 25%, Canada win 15%); most likely Morocco 2-0 (12%); **Morocco to advance 76%**
 - M91, Sun 05 Jul, East Rutherford: Winner Match 76 v Winner Match 78. **Brazil to win 47%** (draw 29%, Norway win 24%); most likely Brazil 1-0 (11%); **Brazil to advance 64%**
-- M92, Sun 05 Jul, Mexico City: Winner Match 79 v Winner Match 80. **Mexico to win 41%** (draw 30%, England win 29%); most likely Mexico 1-0 (10%); **Mexico to advance 57%**
+- M92, Sun 05 Jul, Mexico City: Winner Match 79 v Winner Match 80. **Mexico to win 43%** (draw 30%, England win 27%); most likely Mexico 1-0 (10%); **Mexico to advance 60%**
 - M93, Mon 06 Jul, Arlington: Winner Match 83 v Winner Match 84. Most likely pairing (53% of simulations): **Spain to win 49%** (draw 29%, Portugal win 22%); most likely Spain 1-0 (11%); **Spain to advance 66%**
-- M94, Mon 06 Jul, Seattle: Winner Match 81 v Winner Match 82. **Belgium to win 37%** (draw 31%, United States win 33%); most likely Belgium 1-0 (9%); **Belgium to advance 53%**
+- M94, Mon 06 Jul, Seattle: Winner Match 81 v Winner Match 82. **Belgium to win 39%** (draw 30%, United States win 31%); most likely Belgium 1-0 (10%); **Belgium to advance 55%**
 - M95, Tue 07 Jul, Atlanta: Winner Match 86 v Winner Match 88. Most likely pairing (50% of simulations): **Argentina to win 75%** (draw 18%, Australia win 7%); most likely Argentina 2-0 (14%); **Argentina to advance 88%**
 - M96, Tue 07 Jul, Vancouver: Winner Match 85 v Winner Match 87. Most likely pairing (55% of simulations): **Colombia to win 47%** (draw 29%, Switzerland win 24%); most likely Colombia 1-0 (11%); **Colombia to advance 64%**
 
