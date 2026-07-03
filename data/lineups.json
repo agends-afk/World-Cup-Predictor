@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-07-03T05:37:00Z",
+ "fetched_utc": "2026-07-03T06:51:00Z",
  "matches": {
   "84": {
    "team1": {
@@ -338,6 +338,40 @@
      "Jude Bellingham",
      "Noni Madueke",
      "Harry Kane"
+    ]
+   }
+  },
+  "93": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Diogo Costa",
+     "Nuno Mendes",
+     "Renato Veiga",
+     "Ruben Dias",
+     "Joao Cancelo",
+     "Joao Neves",
+     "Vitinha",
+     "Rafael Leao",
+     "Bruno Fernandes",
+     "Pedro Neto",
+     "Cristiano Ronaldo"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Unai Simon",
+     "Marc Cucurella",
+     "Aymeric Laporte",
+     "Pau Cubarsi",
+     "Pedro Porro",
+     "Rodri",
+     "Pedri",
+     "Alex Baena",
+     "Dani Olmo",
+     "Lamine Yamal",
+     "Mikel Oyarzabal"
     ]
    }
   },

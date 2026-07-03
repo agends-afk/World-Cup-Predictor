@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-03T15:37:34+10:00",
- "generated_aest": "Fri 3 Jul 2026, 3:37pm AEST",
+ "generated": "2026-07-03T16:51:39+10:00",
+ "generated_aest": "Fri 3 Jul 2026, 4:51pm AEST",
  "data_through": "2026-07-02",
  "sim_runs": 10000,
  "params": {
@@ -13621,6 +13621,55 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
+    "lam_a": 0.96,
+    "lam_b": 1.579,
+    "p_win": 0.2141,
+    "p_draw": 0.2835,
+    "p_loss": 0.5024,
+    "top_scores": [
+     {
+      "score": "1-1",
+      "p": 0.1352
+     },
+     {
+      "score": "0-1",
+      "p": 0.1092
+     },
+     {
+      "score": "0-2",
+      "p": 0.0984
+     },
+     {
+      "score": "0-0",
+      "p": 0.0946
+     },
+     {
+      "score": "1-2",
+      "p": 0.0945
+     }
+    ],
+    "outcome_scores": {
+     "draw": {
+      "score": "1-1",
+      "p": 0.1352
+     },
+     "team2": {
+      "score": "0-1",
+      "p": 0.1092
+     },
+     "team1": {
+      "score": "1-0",
+      "p": 0.0603
+     }
+    },
+    "modal_score": "1-1",
+    "modal_p": 0.1352,
+    "p_advance": 0.3278,
+    "p_et_win": 0.0433,
+    "p_pens": 0.1606,
+    "pen_edge": 0.438
+   },
+   "prediction_base": {
     "lam_a": 0.982,
     "lam_b": 1.543,
     "p_win": 0.2251,
@@ -13668,6 +13717,56 @@
     "p_et_win": 0.0453,
     "p_pens": 0.1635,
     "pen_edge": 0.444
+   },
+   "lineup": {
+    "team1": {
+     "elo": -13.6,
+     "delta_ovr": -1.82,
+     "status": "projected",
+     "xi_mean": 83.2,
+     "baseline_mean": 85,
+     "coverage": 1.0,
+     "missing": [
+      {
+       "name": "Bernardo Silva",
+       "ovr": 88
+      },
+      {
+       "name": "Diogo Dalot",
+       "ovr": 82
+      },
+      {
+       "name": "João Félix",
+       "ovr": 80
+      }
+     ]
+    },
+    "team2": {
+     "elo": -1.6,
+     "delta_ovr": -0.21,
+     "status": "projected",
+     "xi_mean": 82.7,
+     "baseline_mean": 82.9,
+     "coverage": 0.91,
+     "missing": [
+      {
+       "name": "Mikel Merino",
+       "ovr": 85
+      },
+      {
+       "name": "Nico Williams",
+       "ovr": 85
+      },
+      {
+       "name": "Ferran Torres",
+       "ovr": 80
+      },
+      {
+       "name": "Eric García",
+       "ovr": 78
+      }
+     ]
+    }
    }
   },
   {
@@ -15005,5 +15104,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "5eb0771bf8600c53638ee5736e4ec2dcaf0588a6"
+ "content_hash": "dd6080839cc741abf4a760e8a90b12f570764922"
 }
