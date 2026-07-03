@@ -1,111 +1,9 @@
 {
- "fetched_utc": "2026-07-03T06:51:00Z",
+ "fetched_utc": "2026-07-03T16:39:00Z",
  "matches": {
-  "84": {
-   "team1": {
-    "status": "confirmed",
-    "xi": [
-     "Unai Simon",
-     "Marc Cucurella",
-     "Aymeric Laporte",
-     "Pau Cubarsi",
-     "Pedro Porro",
-     "Dani Olmo",
-     "Rodri",
-     "Pedri",
-     "Alex Baena",
-     "Lamine Yamal",
-     "Mikel Oyarzabal"
-    ]
-   },
-   "team2": {
-    "status": "confirmed",
-    "xi": [
-     "Alexander Schlager",
-     "Konrad Laimer",
-     "Kevin Danso",
-     "David Alaba",
-     "Stefan Posch",
-     "Xaver Schlager",
-     "Nicolas Seiwald",
-     "Marcel Sabitzer",
-     "Paul Wanner",
-     "Romano Schmid",
-     "Michael Gregoritsch"
-    ]
-   }
-  },
-  "83": {
-   "team1": {
-    "status": "confirmed",
-    "xi": [
-     "Diogo Costa",
-     "Nuno Mendes",
-     "Renato Veiga",
-     "Ruben Dias",
-     "Joao Cancelo",
-     "Joao Neves",
-     "Vitinha",
-     "Rafael Leao",
-     "Bruno Fernandes",
-     "Pedro Neto",
-     "Cristiano Ronaldo"
-    ]
-   },
-   "team2": {
-    "status": "confirmed",
-    "xi": [
-     "Dominik Livakovic",
-     "Ivan Perisic",
-     "Josip Sutalo",
-     "Marin Pongracic",
-     "Josip Stanisic",
-     "Luka Modric",
-     "Mateo Kovacic",
-     "Martin Baturina",
-     "Petar Sucic",
-     "Nikola Vlasic",
-     "Ante Budimir"
-    ]
-   }
-  },
-  "85": {
-   "team1": {
-    "status": "confirmed",
-    "xi": [
-     "Gregor Kobel",
-     "Ricardo Rodriguez",
-     "Nico Elvedi",
-     "Manuel Akanji",
-     "Denis Zakaria",
-     "Remo Freuler",
-     "Granit Xhaka",
-     "Ruben Vargas",
-     "Johan Manzambi",
-     "Dan Ndoye",
-     "Breel Embolo"
-    ]
-   },
-   "team2": {
-    "status": "confirmed",
-    "xi": [
-     "Luca Zidane",
-     "Rayan Ait-Nouri",
-     "Ramy Bensebaini",
-     "Aissa Mandi",
-     "Rafik Belghali",
-     "Ramiz Zerrouki",
-     "Nabil Bentaleb",
-     "Fares Chaibi",
-     "Ibrahim Maza",
-     "Riyad Mahrez",
-     "Houssem Aouar"
-    ]
-   }
-  },
   "88": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Patrick Beach",
      "Lucas Herrington",
@@ -115,13 +13,13 @@
      "Jackson Irvine",
      "Aiden O'Neill",
      "Jordan Bos",
-     "Cristian Volpato",
      "Conor Metcalfe",
+     "Cristian Volpato",
      "Nestory Irankunda"
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Mostafa Shobeir",
      "Karim Hafez",
@@ -177,8 +75,8 @@
     "xi": [
      "Camilo Vargas",
      "Johan Mojica",
-     "Davinson Sanchez",
      "Jhon Lucumi",
+     "Davinson Sanchez",
      "Daniel Munoz",
      "Gustavo Puerta",
      "Jefferson Lerma",
@@ -193,13 +91,13 @@
     "xi": [
      "Benjamin Asare",
      "Gideon Mensah",
-     "Derrick Luckassen",
      "Jonas Adjetey",
+     "Derrick Luckassen",
      "Marvin Senaya",
      "Thomas Partey",
      "Antoine Semenyo",
-     "Kwasi Sibo",
      "Elisha Owusu",
+     "Kwasi Sibo",
      "Kamaldeen Sulemana",
      "Jordan Ayew"
     ]
@@ -245,15 +143,15 @@
     "xi": [
      "Orlando Gill",
      "Junior Alonso",
-     "Jose Canale",
      "Gustavo Gomez",
+     "Jose Canale",
      "Juan Jose Caceres",
      "Matias Galarza",
      "Diego Gomez",
      "Andres Cubas",
      "Miguel Almiron",
-     "Julio Enciso",
-     "Gabriel Avalos"
+     "Gabriel Avalos",
+     "Julio Enciso"
     ]
    },
    "team2": {
@@ -299,8 +197,8 @@
      "Kristoffer Ajer",
      "Marcus Pedersen",
      "Sander Berge",
-     "Martin Odegaard",
      "Patrick Berg",
+     "Martin Odegaard",
      "Antonio Nusa",
      "Alexander Sorloth",
      "Erling Haaland"
@@ -385,8 +283,8 @@
      "Tim Ream",
      "Alex Freeman",
      "Malik Tillman",
-     "Weston McKennie",
      "Tyler Adams",
+     "Weston McKennie",
      "Christian Pulisic",
      "Sergino Dest",
      "Ricardo Pepi"

@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-03T16:51:39+10:00",
- "generated_aest": "Fri 3 Jul 2026, 4:51pm AEST",
+ "generated": "2026-07-04T02:39:53+10:00",
+ "generated_aest": "Sat 4 Jul 2026, 2:39am AEST",
  "data_through": "2026-07-02",
  "sim_runs": 10000,
  "params": {
@@ -12839,53 +12839,53 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.202,
-    "lam_b": 1.26,
-    "p_win": 0.333,
-    "p_draw": 0.3059,
-    "p_loss": 0.3611,
+    "lam_a": 1.16,
+    "lam_b": 1.306,
+    "p_win": 0.3127,
+    "p_draw": 0.3048,
+    "p_loss": 0.3825,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1459
+      "p": 0.1454
      },
      {
       "score": "0-0",
-      "p": 0.102
+      "p": 0.1017
      },
      {
       "score": "0-1",
-      "p": 0.0907
-     },
-     {
-      "score": "1-0",
-      "p": 0.0857
+      "p": 0.0942
      },
      {
       "score": "1-2",
-      "p": 0.0814
+      "p": 0.084
+     },
+     {
+      "score": "1-0",
+      "p": 0.0818
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1459
+      "p": 0.1454
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0907
+      "p": 0.0942
      },
      "team1": {
       "score": "1-0",
-      "p": 0.0857
+      "p": 0.0818
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1459,
-    "p_advance": 0.483,
-    "p_et_win": 0.0626,
-    "p_pens": 0.177,
-    "pen_edge": 0.494
+    "modal_p": 0.1454,
+    "p_advance": 0.4578,
+    "p_et_win": 0.0596,
+    "p_pens": 0.1762,
+    "pen_edge": 0.485
    },
    "prediction_base": {
     "lam_a": 1.245,
@@ -12938,9 +12938,9 @@
    },
    "lineup": {
     "team1": {
-     "elo": -18.3,
+     "elo": -36.7,
      "delta_ovr": -2.44,
-     "status": "projected",
+     "status": "confirmed",
      "xi_mean": 68.6,
      "baseline_mean": 71,
      "coverage": 0.82,
@@ -15104,5 +15104,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "dd6080839cc741abf4a760e8a90b12f570764922"
+ "content_hash": "100d02e59ac64d61cd9f26e0c04c1cc14ca39f85"
 }

@@ -1,6 +1,6 @@
 # World Cup 2026: match predictions
 
-Generated Fri 3 Jul 2026, 4:51pm AEST. Results included through 2026-07-02. 85 of 104 matches played. 10,000 tournament simulations.
+Generated Sat 4 Jul 2026, 2:39am AEST. Results included through 2026-07-02. 85 of 104 matches played. 10,000 tournament simulations.
 
 Every probability below is a model estimate built only from match results and public squad news, not from betting odds or published predictions. A favourite can be 75% to win while its most likely exact score sits near 12 to 15%; goals spread across many scorelines, so read the two numbers separately.
 
@@ -299,7 +299,7 @@ Until the groups finish, knockout pairings show the most frequent matchup across
 - M85, Thu 02 Jul, Vancouver: Winner Group B v Third place Group E/F/G/I/J. **Played: Switzerland 2-0 Algeria.** Model said Switzerland to win 40% (draw 30%, Algeria win 30%); most likely Switzerland 1-0 (10%); result hit, score miss
 - M86, Fri 03 Jul, Miami Gardens: Winner Group J v Runner-up Group H. **Argentina to win 91%** (draw 8%, Cape Verde win 2%); most likely Argentina 3-0 (14%); **Argentina to advance 97%**
 - M87, Fri 03 Jul, Kansas City: Winner Group K v Third place Group D/E/I/J/L. **Colombia to win 79%** (draw 15%, Ghana win 6%); most likely Colombia 2-0 (14%); **Colombia to advance 91%**
-- M88, Fri 03 Jul, Arlington: Runner-up Group D v Runner-up Group G. **Egypt to win 36%** (draw 31%, Australia win 33%); most likely Egypt 1-0 (9%); **Egypt to advance 52%**
+- M88, Fri 03 Jul, Arlington: Runner-up Group D v Runner-up Group G. **Egypt to win 38%** (draw 30%, Australia win 31%); most likely Egypt 1-0 (9%); **Egypt to advance 54%**
 
 ### Round of 16
 
