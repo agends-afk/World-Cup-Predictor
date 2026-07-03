@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-04T03:19:26+10:00",
- "generated_aest": "Sat 4 Jul 2026, 3:19am AEST",
+ "generated": "2026-07-04T06:42:24+10:00",
+ "generated_aest": "Sat 4 Jul 2026, 6:42am AEST",
  "data_through": "2026-07-02",
  "sim_runs": 10000,
  "params": {
@@ -12561,11 +12561,11 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 3.422,
-    "lam_b": 0.443,
-    "p_win": 0.9067,
-    "p_draw": 0.0753,
-    "p_loss": 0.018,
+    "lam_a": 3.411,
+    "lam_b": 0.444,
+    "p_win": 0.9057,
+    "p_draw": 0.0761,
+    "p_loss": 0.0183,
     "top_scores": [
      {
       "score": "3-0",
@@ -12573,19 +12573,19 @@
      },
      {
       "score": "2-0",
-      "p": 0.1229
+      "p": 0.1233
      },
      {
       "score": "4-0",
-      "p": 0.1199
+      "p": 0.1195
      },
      {
       "score": "5-0",
-      "p": 0.0821
+      "p": 0.0815
      },
      {
       "score": "1-0",
-      "p": 0.0677
+      "p": 0.0681
      }
     ],
     "outcome_scores": {
@@ -12595,19 +12595,19 @@
      },
      "draw": {
       "score": "1-1",
-      "p": 0.0359
+      "p": 0.0363
      },
      "team2": {
       "score": "1-2",
-      "p": 0.007
+      "p": 0.0071
      }
     },
     "modal_score": "3-0",
     "modal_p": 0.1402,
-    "p_advance": 0.971,
-    "p_et_win": 0.0427,
-    "p_pens": 0.0295,
-    "pen_edge": 0.735
+    "p_advance": 0.9706,
+    "p_et_win": 0.043,
+    "p_pens": 0.0298,
+    "pen_edge": 0.734
    },
    "prediction_base": {
     "lam_a": 3.432,
@@ -12660,9 +12660,9 @@
    },
    "lineup": {
     "team1": {
-     "elo": -1.6,
+     "elo": -3.3,
      "delta_ovr": -0.22,
-     "status": "projected",
+     "status": "confirmed",
      "xi_mean": 84.6,
      "baseline_mean": 84.8,
      "coverage": 0.91,
@@ -15104,5 +15104,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "06a33c8355672cd44864cf0a00fd3fdfbe877be3"
+ "content_hash": "759d8302f77082d9c3c5505594adcf8e06bce0f6"
 }

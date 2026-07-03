@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-07-03T17:19:00Z",
+ "fetched_utc": "2026-07-03T20:42:00Z",
  "matches": {
   "88": {
    "team1": {
@@ -37,7 +37,7 @@
   },
   "86": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Emiliano Martinez",
      "Facundo Medina",
@@ -53,7 +53,7 @@
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Vozinha",
      "Sidny Lopes Cabral",
@@ -61,11 +61,11 @@
      "Pico",
      "Steven Moreira",
      "Kevin Pina",
-     "Willy Semedo",
+     "Nuno",
+     "Laros Duarte",
      "Deroy Duarte",
-     "Jamiro Monteiro",
      "Ryan Mendes",
-     "Dailon Livramento"
+     "Jovane Cabral"
     ]
    }
   },
@@ -143,7 +143,7 @@
     "xi": [
      "Orlando Gill",
      "Junior Alonso",
-     "Victor Gustavo Velazquez",
+     "Gustavo Velazquez",
      "Gustavo Gomez",
      "Jose Canale",
      "Juan Jose Caceres",
