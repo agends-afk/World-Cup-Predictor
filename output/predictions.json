@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-03T11:03:15+10:00",
- "generated_aest": "Fri 3 Jul 2026, 11:03am AEST",
+ "generated": "2026-07-03T11:44:49+10:00",
+ "generated_aest": "Fri 3 Jul 2026, 11:44am AEST",
  "data_through": "2026-07-02",
  "sim_runs": 10000,
  "params": {
@@ -12389,53 +12389,53 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.372,
-    "lam_b": 1.104,
-    "p_win": 0.4132,
-    "p_draw": 0.3017,
-    "p_loss": 0.2851,
+    "lam_a": 1.346,
+    "lam_b": 1.126,
+    "p_win": 0.401,
+    "p_draw": 0.3031,
+    "p_loss": 0.2959,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1439
+      "p": 0.1446
      },
      {
       "score": "0-0",
-      "p": 0.1006
+      "p": 0.1011
      },
      {
       "score": "1-0",
-      "p": 0.0988
+      "p": 0.097
      },
      {
       "score": "2-1",
-      "p": 0.0874
+      "p": 0.0861
      },
      {
-      "score": "2-0",
-      "p": 0.0792
+      "score": "0-1",
+      "p": 0.0785
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1439
+      "p": 0.1446
      },
      "team1": {
       "score": "1-0",
-      "p": 0.0988
+      "p": 0.097
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0762
+      "p": 0.0785
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1439,
-    "p_advance": 0.5772,
-    "p_et_win": 0.0723,
-    "p_pens": 0.1739,
-    "pen_edge": 0.527
+    "modal_p": 0.1446,
+    "p_advance": 0.5634,
+    "p_et_win": 0.071,
+    "p_pens": 0.175,
+    "pen_edge": 0.522
    },
    "prediction_base": {
     "lam_a": 1.407,
@@ -12488,20 +12488,20 @@
    },
    "lineup": {
     "team1": {
-     "elo": -13.0,
-     "delta_ovr": -1.73,
-     "status": "projected",
-     "xi_mean": 77.6,
+     "elo": -23.2,
+     "delta_ovr": -1.55,
+     "status": "confirmed",
+     "xi_mean": 77.8,
      "baseline_mean": 79.4,
      "coverage": 1.0,
      "missing": [
       {
-       "name": "Denis Zakaria",
-       "ovr": 79
-      },
-      {
        "name": "Noah Okafor",
        "ovr": 78
+      },
+      {
+       "name": "Silvan Widmer",
+       "ovr": 74
       },
       {
        "name": "Zeki Amdouni",
@@ -12511,12 +12511,16 @@
     },
     "team2": {
      "elo": 0.0,
-     "delta_ovr": 0.69,
-     "status": "projected",
-     "xi_mean": 76.8,
+     "delta_ovr": 0.35,
+     "status": "confirmed",
+     "xi_mean": 76.4,
      "baseline_mean": 76.1,
      "coverage": 0.82,
      "missing": [
+      {
+       "name": "Amine Gouiri",
+       "ovr": 78
+      },
       {
        "name": "Hicham Boudaoui",
        "ovr": 76
@@ -12528,10 +12532,6 @@
       {
        "name": "Jaouen Hadjam",
        "ovr": 68
-      },
-      {
-       "name": "Anis Hadj-Moussa",
-       "ovr": 67
       }
      ]
     }
@@ -13611,8 +13611,7 @@
    "slot1": "Winner Match 83",
    "slot2": "Winner Match 84",
    "status": "scheduled",
-   "projected": true,
-   "p_pairing": 1.0,
+   "projected": false,
    "prediction": {
     "lam_a": 0.982,
     "lam_b": 1.543,
@@ -15005,5 +15004,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "545bf2d1c973755bb48afaf27a2ceeae73de2f3a"
+ "content_hash": "3bb6fe1d717f1df8624ed296a07ba7b580c299e8"
 }

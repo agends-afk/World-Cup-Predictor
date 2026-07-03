@@ -1,6 +1,6 @@
 # World Cup 2026: match predictions
 
-Generated Fri 3 Jul 2026, 11:03am AEST. Results included through 2026-07-02. 84 of 104 matches played. 10,000 tournament simulations.
+Generated Fri 3 Jul 2026, 11:44am AEST. Results included through 2026-07-02. 84 of 104 matches played. 10,000 tournament simulations.
 
 Every probability below is a model estimate built only from match results and public squad news, not from betting odds or published predictions. A favourite can be 75% to win while its most likely exact score sits near 12 to 15%; goals spread across many scorelines, so read the two numbers separately.
 
@@ -296,7 +296,7 @@ Until the groups finish, knockout pairings show the most frequent matchup across
 - M82, Wed 01 Jul, Seattle: Winner Group G v Third place Group A/E/H/I/J. **Played: Belgium 3-2 Senegal aet.** Model said Belgium to win 46% (draw 29%, Senegal win 25%); most likely Belgium 1-0 (10%); result hit, score miss
 - M83, Thu 02 Jul, Toronto: Runner-up Group K v Runner-up Group L. **Played: Portugal 2-1 Croatia.** Model said Portugal to win 47% (draw 29%, Croatia win 24%); most likely Portugal 1-0 (11%); result hit, score miss
 - M84, Thu 02 Jul, Inglewood: Winner Group H v Runner-up Group J. **Played: Spain 3-0 Austria.** Model said Spain to win 68% (draw 22%, Austria win 11%); most likely Spain 2-0 (13%); result hit, score miss
-- M85, Thu 02 Jul, Vancouver: Winner Group B v Third place Group E/F/G/I/J. **Switzerland to win 41%** (draw 30%, Algeria win 29%); most likely Switzerland 1-0 (10%); **Switzerland to advance 58%**
+- M85, Thu 02 Jul, Vancouver: Winner Group B v Third place Group E/F/G/I/J. **Switzerland to win 40%** (draw 30%, Algeria win 30%); most likely Switzerland 1-0 (10%); **Switzerland to advance 56%**
 - M86, Fri 03 Jul, Miami Gardens: Winner Group J v Runner-up Group H. **Argentina to win 91%** (draw 8%, Cape Verde win 2%); most likely Argentina 3-0 (14%); **Argentina to advance 97%**
 - M87, Fri 03 Jul, Kansas City: Winner Group K v Third place Group D/E/I/J/L. **Colombia to win 79%** (draw 15%, Ghana win 6%); most likely Colombia 2-0 (14%); **Colombia to advance 91%**
 - M88, Fri 03 Jul, Arlington: Runner-up Group D v Runner-up Group G. **Egypt to win 36%** (draw 31%, Australia win 33%); most likely Egypt 1-0 (9%); **Egypt to advance 52%**
@@ -307,7 +307,7 @@ Until the groups finish, knockout pairings show the most frequent matchup across
 - M90, Sat 04 Jul, Houston: Winner Match 73 v Winner Match 75. **Morocco to win 59%** (draw 25%, Canada win 15%); most likely Morocco 2-0 (12%); **Morocco to advance 76%**
 - M91, Sun 05 Jul, East Rutherford: Winner Match 76 v Winner Match 78. **Brazil to win 47%** (draw 29%, Norway win 24%); most likely Brazil 1-0 (11%); **Brazil to advance 64%**
 - M92, Sun 05 Jul, Mexico City: Winner Match 79 v Winner Match 80. **Mexico to win 43%** (draw 30%, England win 27%); most likely Mexico 1-0 (10%); **Mexico to advance 60%**
-- M93, Mon 06 Jul, Arlington: Winner Match 83 v Winner Match 84. Most likely pairing (100% of simulations): **Spain to win 49%** (draw 29%, Portugal win 23%); most likely Spain 1-0 (11%); **Spain to advance 66%**
+- M93, Mon 06 Jul, Arlington: Winner Match 83 v Winner Match 84. **Spain to win 49%** (draw 29%, Portugal win 23%); most likely Spain 1-0 (11%); **Spain to advance 66%**
 - M94, Mon 06 Jul, Seattle: Winner Match 81 v Winner Match 82. **Belgium to win 39%** (draw 30%, United States win 31%); most likely Belgium 1-0 (10%); **Belgium to advance 55%**
 - M95, Tue 07 Jul, Atlanta: Winner Match 86 v Winner Match 88. Most likely pairing (50% of simulations): **Argentina to win 75%** (draw 18%, Australia win 7%); most likely Argentina 2-0 (14%); **Argentina to advance 88%**
 - M96, Tue 07 Jul, Vancouver: Winner Match 85 v Winner Match 87. Most likely pairing (56% of simulations): **Colombia to win 47%** (draw 29%, Switzerland win 24%); most likely Colombia 1-0 (11%); **Colombia to advance 64%**

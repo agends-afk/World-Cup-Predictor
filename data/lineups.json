@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-07-03T01:03:00Z",
+ "fetched_utc": "2026-07-03T01:44:00Z",
  "matches": {
   "84": {
    "team1": {
@@ -71,35 +71,35 @@
   },
   "85": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Gregor Kobel",
      "Ricardo Rodriguez",
      "Nico Elvedi",
      "Manuel Akanji",
-     "Silvan Widmer",
+     "Denis Zakaria",
      "Remo Freuler",
      "Granit Xhaka",
      "Ruben Vargas",
      "Johan Manzambi",
-     "Djibril Sow",
+     "Dan Ndoye",
      "Breel Embolo"
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Luca Zidane",
      "Rayan Ait-Nouri",
      "Ramy Bensebaini",
      "Aissa Mandi",
      "Rafik Belghali",
-     "Fares Chaibi",
+     "Ramiz Zerrouki",
      "Nabil Bentaleb",
      "Houssem Aouar",
      "Ibrahim Maza",
      "Riyad Mahrez",
-     "Amine Gouiri"
+     "Fares Chaibi"
     ]
    }
   },
@@ -108,15 +108,15 @@
     "status": "projected",
     "xi": [
      "Patrick Beach",
-     "Harry Souttar",
-     "Alessandro Circati",
      "Lucas Herrington",
+     "Alessandro Circati",
+     "Harry Souttar",
      "Aziz Behich",
      "Jackson Irvine",
      "Aiden O'Neill",
      "Jordan Bos",
-     "Conor Metcalfe",
      "Cristian Volpato",
+     "Conor Metcalfe",
      "Nestory Irankunda"
     ]
    },
@@ -125,8 +125,8 @@
     "xi": [
      "Mostafa Shobeir",
      "Karim Hafez",
-     "Yasser Ibrahim",
      "Ramy Rabia",
+     "Yasser Ibrahim",
      "Mohamed Hany",
      "Hamdy Fathy",
      "Marwan Ateya",
@@ -193,8 +193,8 @@
     "xi": [
      "Benjamin Asare",
      "Gideon Mensah",
-     "Jonas Adjetey",
      "Derrick Luckassen",
+     "Jonas Adjetey",
      "Marvin Senaya",
      "Thomas Partey",
      "Antoine Semenyo",
@@ -215,8 +215,8 @@
      "Moise Bombito",
      "Alistair Johnston",
      "Liam Millar",
-     "Stephen Eustaquio",
      "Nathan Saliba",
+     "Stephen Eustaquio",
      "Tajon Buchanan",
      "Jonathan David",
      "Tani Oluwaseyi"
@@ -245,12 +245,12 @@
     "xi": [
      "Orlando Gill",
      "Junior Alonso",
-     "Gustavo Gomez",
      "Jose Canale",
+     "Gustavo Gomez",
      "Juan Jose Caceres",
      "Matias Galarza",
-     "Andres Cubas",
      "Diego Gomez",
+     "Andres Cubas",
      "Miguel Almiron",
      "Julio Enciso",
      "Gabriel Avalos"
@@ -299,8 +299,8 @@
      "Kristoffer Ajer",
      "Marcus Pedersen",
      "Sander Berge",
-     "Patrick Berg",
      "Martin Odegaard",
+     "Patrick Berg",
      "Antonio Nusa",
      "Alexander Sorloth",
      "Erling Haaland"
@@ -317,8 +317,8 @@
      "Cesar Montes",
      "Jorge Eduardo Sanchez",
      "Luis Romo",
-     "Gilberto Mora",
      "Erik Lira",
+     "Gilberto Mora",
      "Julian Quinones",
      "Roberto Alvarado",
      "Raul Jimenez"
