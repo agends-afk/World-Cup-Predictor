@@ -1,135 +1,33 @@
 {
- "fetched_utc": "2026-07-04T06:37:00Z",
+ "fetched_utc": "2026-07-04T15:44:00Z",
  "matches": {
-  "88": {
-   "team1": {
-    "status": "confirmed",
-    "xi": [
-     "Patrick Beach",
-     "Lucas Herrington",
-     "Alessandro Circati",
-     "Harry Souttar",
-     "Aziz Behich",
-     "Jackson Irvine",
-     "Aiden O'Neill",
-     "Jordan Bos",
-     "Conor Metcalfe",
-     "Cristian Volpato",
-     "Nestory Irankunda"
-    ]
-   },
-   "team2": {
-    "status": "confirmed",
-    "xi": [
-     "Mostafa Shobeir",
-     "Karim Hafez",
-     "Ramy Rabia",
-     "Yasser Ibrahim",
-     "Mohamed Hany",
-     "Hamdy Fathy",
-     "Marwan Ateya",
-     "Emam Ashour",
-     "Mohamed Salah",
-     "Mostafa Ziko",
-     "Omar Marmoush"
-    ]
-   }
-  },
-  "86": {
-   "team1": {
-    "status": "confirmed",
-    "xi": [
-     "Emiliano Martinez",
-     "Facundo Medina",
-     "Cristian Romero",
-     "Lisandro Martinez",
-     "Nahuel Molina",
-     "Thiago Almada",
-     "Enzo Fernandez",
-     "Alexis Mac Allister",
-     "Rodrigo De Paul",
-     "Lionel Messi",
-     "Lautaro Martinez"
-    ]
-   },
-   "team2": {
-    "status": "confirmed",
-    "xi": [
-     "Vozinha",
-     "Sidny Lopes Cabral",
-     "Diney",
-     "Pico",
-     "Steven Moreira",
-     "Kevin Pina",
-     "Nuno",
-     "Laros Duarte",
-     "Deroy Duarte",
-     "Ryan Mendes",
-     "Jovane Cabral"
-    ]
-   }
-  },
-  "87": {
-   "team1": {
-    "status": "confirmed",
-    "xi": [
-     "Camilo Vargas",
-     "Johan Mojica",
-     "Davinson Sanchez",
-     "Jhon Lucumi",
-     "Daniel Munoz",
-     "Gustavo Puerta",
-     "Jefferson Lerma",
-     "Jhon Arias",
-     "James Rodriguez",
-     "Luis Diaz",
-     "Jhon Cordoba"
-    ]
-   },
-   "team2": {
-    "status": "confirmed",
-    "xi": [
-     "Lawrence Ati-Zigi",
-     "Gideon Mensah",
-     "Jerome Opoku",
-     "Derrick Luckassen",
-     "Marvin Senaya",
-     "Thomas Partey",
-     "Antoine Semenyo",
-     "Kwasi Sibo",
-     "Caleb Yirenkyi",
-     "Inaki Williams",
-     "Jordan Ayew"
-    ]
-   }
-  },
   "90": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Maxime Crepeau",
      "Richie Laryea",
-     "Derek Cornelius",
      "Moise Bombito",
+     "Luc De Fougerolles",
      "Alistair Johnston",
-     "Liam Millar",
+     "Ali Ahmed",
      "Stephen Eustaquio",
-     "Nathan Saliba",
+     "Niko Sigur",
      "Tajon Buchanan",
      "Jonathan David",
      "Tani Oluwaseyi"
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Bono",
      "Noussair Mazraoui",
-     "Chadi Riad",
+     "Redouane Halhal",
      "Issa Diop",
      "Achraf Hakimi",
-     "Neil El Aynaoui",
      "Ayyoub Bouaddi",
+     "Neil El Aynaoui",
      "Bilal El Khannouss",
      "Azzedine Ounahi",
      "Brahim Diaz",
@@ -150,8 +48,8 @@
      "Diego Gomez",
      "Matias Galarza",
      "Andres Cubas",
-     "Julio Enciso",
-     "Miguel Almiron"
+     "Miguel Almiron",
+     "Julio Enciso"
     ]
    },
    "team2": {
@@ -230,8 +128,8 @@
      "Ezri Konsa",
      "Marc Guehi",
      "Djed Spence",
-     "Elliot Anderson",
      "Declan Rice",
+     "Elliot Anderson",
      "Marcus Rashford",
      "Jude Bellingham",
      "Noni Madueke",
@@ -261,8 +159,8 @@
     "xi": [
      "Unai Simon",
      "Marc Cucurella",
-     "Pau Cubarsi",
      "Aymeric Laporte",
+     "Pau Cubarsi",
      "Pedro Porro",
      "Rodri",
      "Pedri",
@@ -283,8 +181,8 @@
      "Tim Ream",
      "Alex Freeman",
      "Malik Tillman",
-     "Weston McKennie",
      "Tyler Adams",
+     "Weston McKennie",
      "Christian Pulisic",
      "Sergino Dest",
      "Ricardo Pepi"
@@ -295,8 +193,8 @@
     "xi": [
      "Thibaut Courtois",
      "Maxim De Cuyper",
-     "Brandon Mechele",
      "Arthur Theate",
+     "Brandon Mechele",
      "Timothy Castagne",
      "Hans Vanaken",
      "Youri Tielemans",
@@ -332,12 +230,12 @@
      "Yasser Ibrahim",
      "Ramy Rabia",
      "Mohamed Hany",
-     "Omar Marmoush",
-     "Hamdy Fathy",
+     "Mohanad Lasheen",
      "Marwan Ateya",
-     "Emam Ashour",
+     "Mostafa Ziko",
      "Mohamed Salah",
-     "Mostafa Ziko"
+     "Emam Ashour",
+     "Omar Marmoush"
     ]
    }
   },
@@ -347,8 +245,8 @@
     "xi": [
      "Gregor Kobel",
      "Ricardo Rodriguez",
-     "Nico Elvedi",
      "Manuel Akanji",
+     "Nico Elvedi",
      "Denis Zakaria",
      "Remo Freuler",
      "Granit Xhaka",
