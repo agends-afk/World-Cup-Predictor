@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-07-04T15:44:00Z",
+ "fetched_utc": "2026-07-04T18:12:00Z",
  "matches": {
   "90": {
    "team1": {
@@ -81,9 +81,9 @@
      "Casemiro",
      "Bruno Guimaraes",
      "Vinicius Junior",
+     "Gabriel Martinelli",
      "Rayan",
-     "Matheus Cunha",
-     "Raphinha"
+     "Matheus Cunha"
     ]
    },
    "team2": {
@@ -95,8 +95,8 @@
      "Kristoffer Ajer",
      "Marcus Pedersen",
      "Sander Berge",
-     "Patrick Berg",
      "Martin Odegaard",
+     "Patrick Berg",
      "Antonio Nusa",
      "Alexander Sorloth",
      "Erling Haaland"
@@ -146,8 +146,8 @@
      "Renato Veiga",
      "Ruben Dias",
      "Joao Cancelo",
-     "Joao Neves",
      "Vitinha",
+     "Joao Neves",
      "Rafael Leao",
      "Bruno Fernandes",
      "Pedro Neto",
@@ -162,8 +162,8 @@
      "Aymeric Laporte",
      "Pau Cubarsi",
      "Pedro Porro",
-     "Rodri",
      "Pedri",
+     "Rodri",
      "Alex Baena",
      "Dani Olmo",
      "Lamine Yamal",
@@ -181,8 +181,8 @@
      "Tim Ream",
      "Alex Freeman",
      "Malik Tillman",
-     "Tyler Adams",
      "Weston McKennie",
+     "Tyler Adams",
      "Christian Pulisic",
      "Sergino Dest",
      "Ricardo Pepi"
@@ -264,9 +264,9 @@
      "Jhon Lucumi",
      "Davinson Sanchez",
      "Daniel Munoz",
-     "Gustavo Puerta",
-     "Jhon Arias",
      "Jefferson Lerma",
+     "Jhon Arias",
+     "Gustavo Puerta",
      "Luis Diaz",
      "James Rodriguez",
      "Luis Suarez"

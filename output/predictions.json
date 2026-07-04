@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-05T01:44:40+10:00",
- "generated_aest": "Sun 5 Jul 2026, 1:44am AEST",
+ "generated": "2026-07-05T04:12:46+10:00",
+ "generated_aest": "Sun 5 Jul 2026, 4:12am AEST",
  "data_through": "2026-07-03",
  "sim_runs": 10000,
  "params": {
@@ -13421,12 +13421,16 @@
    "lineup": {
     "team1": {
      "elo": 0.0,
-     "delta_ovr": 0.47,
+     "delta_ovr": 0.36,
      "status": "projected",
-     "xi_mean": 85.1,
+     "xi_mean": 85,
      "baseline_mean": 84.6,
      "coverage": 0.82,
      "missing": [
+      {
+       "name": "Raphinha",
+       "ovr": 84
+      },
       {
        "name": "Lucas Paquetá",
        "ovr": 82
@@ -15253,5 +15257,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "ff54eee9c46f504f9ca9cd01f92ba8c813411197"
+ "content_hash": "6757d4eeed454de41caa622df7bd11606e89320d"
 }
