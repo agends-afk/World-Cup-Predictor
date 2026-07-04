@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-07-04T04:08:00Z",
+ "fetched_utc": "2026-07-04T06:37:00Z",
  "matches": {
   "88": {
    "team1": {
@@ -304,6 +304,74 @@
      "Kevin De Bruyne",
      "Leandro Trossard",
      "Charles De Ketelaere"
+    ]
+   }
+  },
+  "95": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Emiliano Martinez",
+     "Facundo Medina",
+     "Lisandro Martinez",
+     "Cristian Romero",
+     "Nahuel Molina",
+     "Thiago Almada",
+     "Enzo Fernandez",
+     "Alexis Mac Allister",
+     "Rodrigo De Paul",
+     "Lautaro Martinez",
+     "Lionel Messi"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Mostafa Shobeir",
+     "Ahmed El Fotouh",
+     "Yasser Ibrahim",
+     "Ramy Rabia",
+     "Mohamed Hany",
+     "Omar Marmoush",
+     "Hamdy Fathy",
+     "Marwan Ateya",
+     "Emam Ashour",
+     "Mohamed Salah",
+     "Mostafa Ziko"
+    ]
+   }
+  },
+  "96": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Gregor Kobel",
+     "Ricardo Rodriguez",
+     "Nico Elvedi",
+     "Manuel Akanji",
+     "Denis Zakaria",
+     "Remo Freuler",
+     "Granit Xhaka",
+     "Ruben Vargas",
+     "Johan Manzambi",
+     "Dan Ndoye",
+     "Breel Embolo"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Camilo Vargas",
+     "Johan Mojica",
+     "Jhon Lucumi",
+     "Davinson Sanchez",
+     "Daniel Munoz",
+     "Gustavo Puerta",
+     "Jhon Arias",
+     "Jefferson Lerma",
+     "Luis Diaz",
+     "James Rodriguez",
+     "Luis Suarez"
     ]
    }
   }

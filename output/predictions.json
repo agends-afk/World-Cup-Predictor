@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-04T14:08:06+10:00",
- "generated_aest": "Sat 4 Jul 2026, 2:08pm AEST",
+ "generated": "2026-07-04T16:37:03+10:00",
+ "generated_aest": "Sat 4 Jul 2026, 4:37pm AEST",
  "data_through": "2026-07-03",
  "sim_runs": 10000,
  "params": {
@@ -13969,6 +13969,55 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
+    "lam_a": 2.394,
+    "lam_b": 0.633,
+    "p_win": 0.7559,
+    "p_draw": 0.174,
+    "p_loss": 0.0701,
+    "top_scores": [
+     {
+      "score": "2-0",
+      "p": 0.1389
+     },
+     {
+      "score": "3-0",
+      "p": 0.1108
+     },
+     {
+      "score": "1-0",
+      "p": 0.1065
+     },
+     {
+      "score": "2-1",
+      "p": 0.0879
+     },
+     {
+      "score": "1-1",
+      "p": 0.083
+     }
+    ],
+    "outcome_scores": {
+     "team1": {
+      "score": "2-0",
+      "p": 0.1389
+     },
+     "draw": {
+      "score": "1-1",
+      "p": 0.083
+     },
+     "team2": {
+      "score": "1-2",
+      "p": 0.0232
+     }
+    },
+    "modal_score": "2-0",
+    "modal_p": 0.1389,
+    "p_advance": 0.8865,
+    "p_et_win": 0.0738,
+    "p_pens": 0.086,
+    "pen_edge": 0.66
+   },
+   "prediction_base": {
     "lam_a": 2.401,
     "lam_b": 0.631,
     "p_win": 0.7576,
@@ -14016,6 +14065,31 @@
     "p_et_win": 0.0736,
     "p_pens": 0.0854,
     "pen_edge": 0.661
+   },
+   "lineup": {
+    "team1": {
+     "elo": -1.6,
+     "delta_ovr": -0.22,
+     "status": "projected",
+     "xi_mean": 84.6,
+     "baseline_mean": 84.8,
+     "coverage": 0.91,
+     "missing": [
+      {
+       "name": "Exequiel Palacios",
+       "ovr": 84
+      },
+      {
+       "name": "Julián Álvarez",
+       "ovr": 84
+      },
+      {
+       "name": "Nicolás Otamendi",
+       "ovr": 81
+      }
+     ]
+    },
+    "team2": null
    }
   },
   {
@@ -14034,6 +14108,55 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
+    "lam_a": 1.127,
+    "lam_b": 1.345,
+    "p_win": 0.2963,
+    "p_draw": 0.3032,
+    "p_loss": 0.4005,
+    "top_scores": [
+     {
+      "score": "1-1",
+      "p": 0.1446
+     },
+     {
+      "score": "0-0",
+      "p": 0.1011
+     },
+     {
+      "score": "0-1",
+      "p": 0.097
+     },
+     {
+      "score": "1-2",
+      "p": 0.086
+     },
+     {
+      "score": "1-0",
+      "p": 0.0785
+     }
+    ],
+    "outcome_scores": {
+     "draw": {
+      "score": "1-1",
+      "p": 0.1446
+     },
+     "team2": {
+      "score": "0-1",
+      "p": 0.097
+     },
+     "team1": {
+      "score": "1-0",
+      "p": 0.0785
+     }
+    },
+    "modal_score": "1-1",
+    "modal_p": 0.1446,
+    "p_advance": 0.4371,
+    "p_et_win": 0.0572,
+    "p_pens": 0.175,
+    "pen_edge": 0.478
+   },
+   "prediction_base": {
     "lam_a": 1.092,
     "lam_b": 1.388,
     "p_win": 0.2791,
@@ -14081,6 +14204,52 @@
     "p_et_win": 0.0545,
     "p_pens": 0.1732,
     "pen_edge": 0.47
+   },
+   "lineup": {
+    "team1": {
+     "elo": -11.6,
+     "delta_ovr": -1.55,
+     "status": "projected",
+     "xi_mean": 77.8,
+     "baseline_mean": 79.4,
+     "coverage": 1.0,
+     "missing": [
+      {
+       "name": "Noah Okafor",
+       "ovr": 78
+      },
+      {
+       "name": "Silvan Widmer",
+       "ovr": 74
+      },
+      {
+       "name": "Zeki Amdouni",
+       "ovr": 73
+      }
+     ]
+    },
+    "team2": {
+     "elo": -28.0,
+     "delta_ovr": -3.73,
+     "status": "projected",
+     "xi_mean": 74.5,
+     "baseline_mean": 78.2,
+     "coverage": 1.0,
+     "missing": [
+      {
+       "name": "David Ospina",
+       "ovr": 77
+      },
+      {
+       "name": "Juan Fernando Quintero",
+       "ovr": 77
+      },
+      {
+       "name": "Jaminton Campaz",
+       "ovr": 76
+      }
+     ]
+    }
    }
   },
   {
@@ -15109,5 +15278,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "250d6f0ac8a99750a76daa4d696fe1d551c180b4"
+ "content_hash": "895ee55dc84cdf39fab969fc2cf04b8a9ec67ce7"
 }
