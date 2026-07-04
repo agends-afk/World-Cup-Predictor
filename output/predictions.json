@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-05T05:17:55+10:00",
- "generated_aest": "Sun 5 Jul 2026, 5:17am AEST",
+ "generated": "2026-07-05T05:47:21+10:00",
+ "generated_aest": "Sun 5 Jul 2026, 5:47am AEST",
  "data_through": "2026-07-04",
  "sim_runs": 10000,
  "params": {
@@ -13010,53 +13010,53 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 0.681,
-    "lam_b": 2.223,
-    "p_win": 0.0883,
-    "p_draw": 0.1966,
-    "p_loss": 0.7151,
+    "lam_a": 0.677,
+    "lam_b": 2.238,
+    "p_win": 0.0866,
+    "p_draw": 0.1946,
+    "p_loss": 0.7189,
     "top_scores": [
      {
       "score": "0-2",
-      "p": 0.1354
+      "p": 0.1358
      },
      {
       "score": "0-1",
-      "p": 0.111
+      "p": 0.1107
      },
      {
       "score": "0-3",
-      "p": 0.1003
+      "p": 0.1013
      },
      {
       "score": "1-1",
-      "p": 0.0938
+      "p": 0.0928
      },
      {
       "score": "1-2",
-      "p": 0.0922
+      "p": 0.0919
      }
     ],
     "outcome_scores": {
      "team2": {
       "score": "0-2",
-      "p": 0.1354
+      "p": 0.1358
      },
      "draw": {
       "score": "1-1",
-      "p": 0.0938
+      "p": 0.0928
      },
      "team1": {
       "score": "2-1",
-      "p": 0.0283
+      "p": 0.0278
      }
     },
     "modal_score": "0-2",
-    "modal_p": 0.1354,
-    "p_advance": 0.1423,
-    "p_et_win": 0.0181,
-    "p_pens": 0.1005,
-    "pen_edge": 0.357
+    "modal_p": 0.1358,
+    "p_advance": 0.1395,
+    "p_et_win": 0.0177,
+    "p_pens": 0.0992,
+    "pen_edge": 0.355
    },
    "prediction_base": {
     "lam_a": 0.7,
@@ -13109,20 +13109,16 @@
    },
    "lineup": {
     "team1": {
-     "elo": -29.0,
-     "delta_ovr": -3.87,
-     "status": "projected",
-     "xi_mean": 70.2,
+     "elo": -47.9,
+     "delta_ovr": -3.19,
+     "status": "confirmed",
+     "xi_mean": 70.9,
      "baseline_mean": 74.1,
-     "coverage": 0.82,
+     "coverage": 0.91,
      "missing": [
       {
        "name": "Kaku",
        "ovr": 79
-      },
-      {
-       "name": "Omar Alderete",
-       "ovr": 77
       },
       {
        "name": "Antonio Sanabria",
@@ -13131,13 +13127,17 @@
       {
        "name": "Ramón Sosa",
        "ovr": 75
+      },
+      {
+       "name": "Gabriel Ávalos",
+       "ovr": 74
       }
      ]
     },
     "team2": {
-     "elo": -15.3,
+     "elo": -30.7,
      "delta_ovr": -2.05,
-     "status": "projected",
+     "status": "confirmed",
      "xi_mean": 83.5,
      "baseline_mean": 85.5,
      "coverage": 0.91,
@@ -15258,5 +15258,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "c5c78964ecb229e36ce303692555835599e69652"
+ "content_hash": "b3ecae601157569da0bfdbccc777ecbc004e4414"
 }

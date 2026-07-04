@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-07-04T19:17:00Z",
+ "fetched_utc": "2026-07-04T19:47:00Z",
  "matches": {
   "90": {
    "team1": {
@@ -37,28 +37,28 @@
   },
   "89": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Orlando Gill",
      "Junior Alonso",
-     "Gustavo Velazquez",
      "Gustavo Gomez",
-     "Jose Canale",
+     "Gustavo Velazquez",
+     "Omar Alderete",
      "Juan Jose Caceres",
-     "Diego Gomez",
-     "Matias Galarza",
-     "Andres Cubas",
      "Miguel Almiron",
+     "Andres Cubas",
+     "Matias Galarza",
+     "Diego Gomez",
      "Julio Enciso"
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Mike Maignan",
      "Lucas Digne",
-     "William Saliba",
      "Dayot Upamecano",
+     "William Saliba",
      "Jules Kounde",
      "Manu Kone",
      "Adrien Rabiot",
@@ -95,8 +95,8 @@
      "Kristoffer Ajer",
      "Marcus Pedersen",
      "Sander Berge",
-     "Martin Odegaard",
      "Patrick Berg",
+     "Martin Odegaard",
      "Antonio Nusa",
      "Alexander Sorloth",
      "Erling Haaland"
@@ -109,8 +109,8 @@
     "xi": [
      "Jose Rangel",
      "Jesus Gallardo",
-     "Johan Vasquez",
      "Cesar Montes",
+     "Johan Vasquez",
      "Jorge Eduardo Sanchez",
      "Luis Romo",
      "Erik Lira",
@@ -128,8 +128,8 @@
      "Ezri Konsa",
      "Marc Guehi",
      "Djed Spence",
-     "Declan Rice",
      "Elliot Anderson",
+     "Declan Rice",
      "Marcus Rashford",
      "Jude Bellingham",
      "Noni Madueke",
@@ -162,8 +162,8 @@
      "Aymeric Laporte",
      "Pau Cubarsi",
      "Pedro Porro",
-     "Pedri",
      "Rodri",
+     "Pedri",
      "Alex Baena",
      "Dani Olmo",
      "Lamine Yamal",
@@ -211,12 +211,12 @@
     "xi": [
      "Emiliano Martinez",
      "Facundo Medina",
-     "Lisandro Martinez",
      "Cristian Romero",
+     "Lisandro Martinez",
      "Nahuel Molina",
      "Thiago Almada",
-     "Enzo Fernandez",
      "Alexis Mac Allister",
+     "Enzo Fernandez",
      "Rodrigo De Paul",
      "Lautaro Martinez",
      "Lionel Messi"
@@ -261,12 +261,12 @@
     "xi": [
      "Camilo Vargas",
      "Johan Mojica",
-     "Jhon Lucumi",
      "Davinson Sanchez",
+     "Jhon Lucumi",
      "Daniel Munoz",
+     "Gustavo Puerta",
      "Jefferson Lerma",
      "Jhon Arias",
-     "Gustavo Puerta",
      "Luis Diaz",
      "James Rodriguez",
      "Luis Suarez"
