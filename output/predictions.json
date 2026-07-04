@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-04T07:16:41+10:00",
- "generated_aest": "Sat 4 Jul 2026, 7:16am AEST",
+ "generated": "2026-07-04T10:15:06+10:00",
+ "generated_aest": "Sat 4 Jul 2026, 10:15am AEST",
  "data_through": "2026-07-03",
  "sim_runs": 10000,
  "params": {
@@ -12700,53 +12700,53 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 2.574,
-    "lam_b": 0.588,
-    "p_win": 0.7931,
-    "p_draw": 0.1519,
-    "p_loss": 0.055,
+    "lam_a": 2.436,
+    "lam_b": 0.622,
+    "p_win": 0.7651,
+    "p_draw": 0.1687,
+    "p_loss": 0.0663,
     "top_scores": [
      {
       "score": "2-0",
-      "p": 0.1402
+      "p": 0.1394
      },
      {
       "score": "3-0",
-      "p": 0.1203
+      "p": 0.1132
      },
      {
       "score": "1-0",
-      "p": 0.1006
+      "p": 0.1052
      },
      {
       "score": "2-1",
-      "p": 0.0825
+      "p": 0.0867
      },
      {
-      "score": "4-0",
-      "p": 0.0774
+      "score": "1-1",
+      "p": 0.0804
      }
     ],
     "outcome_scores": {
      "team1": {
       "score": "2-0",
-      "p": 0.1402
+      "p": 0.1394
      },
      "draw": {
       "score": "1-1",
-      "p": 0.0724
+      "p": 0.0804
      },
      "team2": {
       "score": "1-2",
-      "p": 0.0189
+      "p": 0.0221
      }
     },
     "modal_score": "2-0",
-    "modal_p": 0.1402,
-    "p_advance": 0.9106,
-    "p_et_win": 0.0687,
-    "p_pens": 0.0723,
-    "pen_edge": 0.676
+    "modal_p": 0.1394,
+    "p_advance": 0.8927,
+    "p_et_win": 0.0727,
+    "p_pens": 0.0826,
+    "pen_edge": 0.664
    },
    "prediction_base": {
     "lam_a": 2.716,
@@ -12799,13 +12799,17 @@
    },
    "lineup": {
     "team1": {
-     "elo": -28.0,
-     "delta_ovr": -3.73,
-     "status": "projected",
-     "xi_mean": 74.5,
+     "elo": -56.7,
+     "delta_ovr": -3.78,
+     "status": "confirmed",
+     "xi_mean": 74.4,
      "baseline_mean": 78.2,
-     "coverage": 1.0,
+     "coverage": 0.91,
      "missing": [
+      {
+       "name": "Cucho Hernández",
+       "ovr": 78
+      },
       {
        "name": "David Ospina",
        "ovr": 77
@@ -15105,5 +15109,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "67b0b6fe1b16286f05474a6cd0369fce748be32f"
+ "content_hash": "8a79c3ff6bdc5488db4dc03d0f26761941598711"
 }

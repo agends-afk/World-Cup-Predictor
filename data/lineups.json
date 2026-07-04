@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-07-03T21:16:00Z",
+ "fetched_utc": "2026-07-04T00:15:00Z",
  "matches": {
   "88": {
    "team1": {
@@ -71,34 +71,34 @@
   },
   "87": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Camilo Vargas",
      "Johan Mojica",
-     "Jhon Lucumi",
      "Davinson Sanchez",
+     "Jhon Lucumi",
      "Daniel Munoz",
      "Gustavo Puerta",
      "Jefferson Lerma",
      "Jhon Arias",
-     "Luis Diaz",
      "James Rodriguez",
-     "Luis Suarez"
+     "Luis Diaz",
+     "Jhon Cordoba"
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
-     "Benjamin Asare",
+     "Lawrence Ati-Zigi",
      "Gideon Mensah",
-     "Jonas Adjetey",
+     "Jerome Opoku",
      "Derrick Luckassen",
      "Marvin Senaya",
      "Thomas Partey",
      "Antoine Semenyo",
-     "Elisha Owusu",
      "Kwasi Sibo",
-     "Kamaldeen Sulemana",
+     "Caleb Yirenkyi",
+     "Inaki Williams",
      "Jordan Ayew"
     ]
    }
@@ -113,8 +113,8 @@
      "Moise Bombito",
      "Alistair Johnston",
      "Liam Millar",
-     "Nathan Saliba",
      "Stephen Eustaquio",
+     "Nathan Saliba",
      "Tajon Buchanan",
      "Jonathan David",
      "Tani Oluwaseyi"
@@ -150,8 +150,8 @@
      "Matias Galarza",
      "Diego Gomez",
      "Andres Cubas",
-     "Miguel Almiron",
-     "Julio Enciso"
+     "Julio Enciso",
+     "Miguel Almiron"
     ]
    },
    "team2": {
@@ -159,8 +159,8 @@
     "xi": [
      "Mike Maignan",
      "Lucas Digne",
-     "Dayot Upamecano",
      "William Saliba",
+     "Dayot Upamecano",
      "Jules Kounde",
      "Aurelien Tchouameni",
      "Adrien Rabiot",
@@ -283,8 +283,8 @@
      "Tim Ream",
      "Alex Freeman",
      "Malik Tillman",
-     "Tyler Adams",
      "Weston McKennie",
+     "Tyler Adams",
      "Christian Pulisic",
      "Sergino Dest",
      "Ricardo Pepi"
