@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-05T17:32:40+10:00",
- "generated_aest": "Sun 5 Jul 2026, 5:32pm AEST",
+ "generated": "2026-07-06T00:21:50+10:00",
+ "generated_aest": "Mon 6 Jul 2026, 12:21am AEST",
  "data_through": "2026-07-04",
  "sim_runs": 10000,
  "params": {
@@ -13964,53 +13964,53 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 2.394,
-    "lam_b": 0.633,
-    "p_win": 0.7559,
-    "p_draw": 0.174,
-    "p_loss": 0.0701,
+    "lam_a": 2.351,
+    "lam_b": 0.644,
+    "p_win": 0.7463,
+    "p_draw": 0.1794,
+    "p_loss": 0.0742,
     "top_scores": [
      {
       "score": "2-0",
-      "p": 0.1389
+      "p": 0.1383
      },
      {
       "score": "3-0",
-      "p": 0.1108
+      "p": 0.1084
      },
      {
       "score": "1-0",
-      "p": 0.1065
+      "p": 0.1077
      },
      {
       "score": "2-1",
-      "p": 0.0879
+      "p": 0.0891
      },
      {
       "score": "1-1",
-      "p": 0.083
+      "p": 0.0856
      }
     ],
     "outcome_scores": {
      "team1": {
       "score": "2-0",
-      "p": 0.1389
+      "p": 0.1383
      },
      "draw": {
       "score": "1-1",
-      "p": 0.083
+      "p": 0.0856
      },
      "team2": {
       "score": "1-2",
-      "p": 0.0232
+      "p": 0.0244
      }
     },
     "modal_score": "2-0",
-    "modal_p": 0.1389,
-    "p_advance": 0.8865,
-    "p_et_win": 0.0738,
-    "p_pens": 0.086,
-    "pen_edge": 0.66
+    "modal_p": 0.1383,
+    "p_advance": 0.88,
+    "p_et_win": 0.075,
+    "p_pens": 0.0895,
+    "pen_edge": 0.656
    },
    "prediction_base": {
     "lam_a": 2.401,
@@ -14063,19 +14063,15 @@
    },
    "lineup": {
     "team1": {
-     "elo": -1.6,
-     "delta_ovr": -0.22,
+     "elo": -10.9,
+     "delta_ovr": -1.45,
      "status": "projected",
-     "xi_mean": 84.6,
+     "xi_mean": 83.4,
      "baseline_mean": 84.8,
-     "coverage": 0.91,
+     "coverage": 1.0,
      "missing": [
       {
        "name": "Exequiel Palacios",
-       "ovr": 84
-      },
-      {
-       "name": "Julián Álvarez",
        "ovr": 84
       },
       {
@@ -15361,5 +15357,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "d257a2aed2dc7c7facd03d7fbad50aab885aeb31"
+ "content_hash": "6fcd5eddaefa1096bc3c5d3301c3fc00ddb5ee45"
 }
