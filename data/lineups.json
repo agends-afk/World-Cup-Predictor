@@ -1,9 +1,9 @@
 {
- "fetched_utc": "2026-07-05T17:32:00Z",
+ "fetched_utc": "2026-07-05T18:58:00Z",
  "matches": {
   "91": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Alisson",
      "Douglas",
@@ -19,15 +19,15 @@
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Orjan Nyland",
      "David Moller Wolfe",
      "Torbjorn Heggem",
      "Kristoffer Ajer",
-     "Marcus Pedersen",
-     "Martin Odegaard",
+     "Julian Ryerson",
      "Sander Berge",
+     "Martin Odegaard",
      "Patrick Berg",
      "Antonio Nusa",
      "Alexander Sorloth",

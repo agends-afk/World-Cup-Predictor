@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-06T03:32:26+10:00",
- "generated_aest": "Mon 6 Jul 2026, 3:32am AEST",
+ "generated": "2026-07-06T04:58:06+10:00",
+ "generated_aest": "Mon 6 Jul 2026, 4:58am AEST",
  "data_through": "2026-07-04",
  "sim_runs": 10000,
  "params": {
@@ -13337,53 +13337,53 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.495,
-    "lam_b": 1.013,
-    "p_win": 0.4675,
-    "p_draw": 0.2921,
-    "p_loss": 0.2404,
+    "lam_a": 1.562,
+    "lam_b": 0.97,
+    "p_win": 0.4956,
+    "p_draw": 0.2853,
+    "p_loss": 0.219,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1394
+      "p": 0.1361
      },
      {
       "score": "1-0",
-      "p": 0.1057
-     },
-     {
-      "score": "0-0",
-      "p": 0.0974
-     },
-     {
-      "score": "2-1",
-      "p": 0.0922
+      "p": 0.1086
      },
      {
       "score": "2-0",
-      "p": 0.091
+      "p": 0.097
+     },
+     {
+      "score": "0-0",
+      "p": 0.0952
+     },
+     {
+      "score": "2-1",
+      "p": 0.0941
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1394
+      "p": 0.1361
      },
      "team1": {
       "score": "1-0",
-      "p": 0.1057
+      "p": 0.1086
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0665
+      "p": 0.0614
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1394,
-    "p_advance": 0.6362,
-    "p_et_win": 0.0772,
-    "p_pens": 0.1669,
-    "pen_edge": 0.548
+    "modal_p": 0.1361,
+    "p_advance": 0.6654,
+    "p_et_win": 0.0792,
+    "p_pens": 0.162,
+    "pen_edge": 0.559
    },
    "prediction_base": {
     "lam_a": 1.404,
@@ -13438,7 +13438,7 @@
     "team1": {
      "elo": 0.0,
      "delta_ovr": 0.36,
-     "status": "projected",
+     "status": "confirmed",
      "xi_mean": 85,
      "baseline_mean": 84.6,
      "coverage": 0.82,
@@ -13458,10 +13458,10 @@
      ]
     },
     "team2": {
-     "elo": -32.7,
-     "delta_ovr": -4.36,
-     "status": "projected",
-     "xi_mean": 75,
+     "elo": -55.5,
+     "delta_ovr": -3.7,
+     "status": "confirmed",
+     "xi_mean": 75.7,
      "baseline_mean": 79.4,
      "coverage": 0.82,
      "missing": [
@@ -13478,8 +13478,8 @@
        "ovr": 80
       },
       {
-       "name": "Julian Ryerson",
-       "ovr": 79
+       "name": "Jørgen Strand Larsen",
+       "ovr": 75
       }
      ]
     }
@@ -15357,5 +15357,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "29958078bf613e8f611c95c561839e64e1e0556f"
+ "content_hash": "9b0be9379bab928c3bb234b0646b179b8ee9348e"
 }
