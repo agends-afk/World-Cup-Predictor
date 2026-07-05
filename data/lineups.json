@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-07-05T16:57:00Z",
+ "fetched_utc": "2026-07-05T17:32:00Z",
  "matches": {
   "91": {
    "team1": {
@@ -59,7 +59,7 @@
      "Nico O'Reilly",
      "Ezri Konsa",
      "Marc Guehi",
-     "Djed Spence",
+     "Jarell Quansah",
      "Elliot Anderson",
      "Declan Rice",
      "Marcus Rashford",
@@ -91,11 +91,11 @@
     "xi": [
      "Unai Simon",
      "Marc Cucurella",
-     "Pau Cubarsi",
      "Aymeric Laporte",
+     "Pau Cubarsi",
      "Pedro Porro",
-     "Rodri",
      "Pedri",
+     "Rodri",
      "Alex Baena",
      "Dani Olmo",
      "Lamine Yamal",
@@ -150,8 +150,8 @@
      "Leandro Paredes",
      "Enzo Fernandez",
      "Rodrigo De Paul",
-     "Lionel Messi",
-     "Julian Alvarez"
+     "Julian Alvarez",
+     "Lionel Messi"
     ]
    },
    "team2": {
@@ -177,8 +177,8 @@
     "xi": [
      "Gregor Kobel",
      "Ricardo Rodriguez",
-     "Nico Elvedi",
      "Manuel Akanji",
+     "Nico Elvedi",
      "Denis Zakaria",
      "Remo Freuler",
      "Granit Xhaka",
@@ -211,8 +211,8 @@
     "xi": [
      "Mike Maignan",
      "Lucas Digne",
-     "Dayot Upamecano",
      "William Saliba",
+     "Dayot Upamecano",
      "Jules Kounde",
      "Aurelien Tchouameni",
      "Adrien Rabiot",
