@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-05T09:11:58+10:00",
- "generated_aest": "Sun 5 Jul 2026, 9:11am AEST",
+ "generated": "2026-07-05T16:13:44+10:00",
+ "generated_aest": "Sun 5 Jul 2026, 4:13pm AEST",
  "data_through": "2026-07-04",
  "sim_runs": 10000,
  "params": {
@@ -14263,6 +14263,55 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
+    "lam_a": 1.546,
+    "lam_b": 0.98,
+    "p_win": 0.4891,
+    "p_draw": 0.287,
+    "p_loss": 0.2239,
+    "top_scores": [
+     {
+      "score": "1-1",
+      "p": 0.1369
+     },
+     {
+      "score": "1-0",
+      "p": 0.1079
+     },
+     {
+      "score": "0-0",
+      "p": 0.0957
+     },
+     {
+      "score": "2-0",
+      "p": 0.0956
+     },
+     {
+      "score": "2-1",
+      "p": 0.0937
+     }
+    ],
+    "outcome_scores": {
+     "draw": {
+      "score": "1-1",
+      "p": 0.1369
+     },
+     "team1": {
+      "score": "1-0",
+      "p": 0.1079
+     },
+     "team2": {
+      "score": "0-1",
+      "p": 0.0626
+     }
+    },
+    "modal_score": "1-1",
+    "modal_p": 0.1369,
+    "p_advance": 0.6587,
+    "p_et_win": 0.0788,
+    "p_pens": 0.1632,
+    "pen_edge": 0.557
+   },
+   "prediction_base": {
     "lam_a": 1.592,
     "lam_b": 0.951,
     "p_win": 0.508,
@@ -14310,6 +14359,60 @@
     "p_et_win": 0.0799,
     "p_pens": 0.1595,
     "pen_edge": 0.564
+   },
+   "lineup": {
+    "team1": {
+     "elo": -15.3,
+     "delta_ovr": -2.05,
+     "status": "projected",
+     "xi_mean": 83.5,
+     "baseline_mean": 85.5,
+     "coverage": 0.91,
+     "missing": [
+      {
+       "name": "Theo Hernández",
+       "ovr": 87
+      },
+      {
+       "name": "N'Golo Kanté",
+       "ovr": 85
+      },
+      {
+       "name": "Aurélien Tchouaméni",
+       "ovr": 85
+      },
+      {
+       "name": "Lucas Hernández",
+       "ovr": 83
+      }
+     ]
+    },
+    "team2": {
+     "elo": 0.0,
+     "delta_ovr": 0.23,
+     "status": "projected",
+     "xi_mean": 77.8,
+     "baseline_mean": 77.5,
+     "coverage": 0.82,
+     "missing": [
+      {
+       "name": "Yassine Bounou",
+       "ovr": 84
+      },
+      {
+       "name": "Sofyan Amrabat",
+       "ovr": 78
+      },
+      {
+       "name": "Ayoub El Kaabi",
+       "ovr": 78
+      },
+      {
+       "name": "Zakaria El Ouahdi",
+       "ovr": 71
+      }
+     ]
+    }
    }
   },
   {
@@ -15258,5 +15361,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "7f5ba4c83fbf2be1a336cbbae78c1b1351d6eb17"
+ "content_hash": "abbe222899af853f7e392e2064f5ba5661bd40ab"
 }

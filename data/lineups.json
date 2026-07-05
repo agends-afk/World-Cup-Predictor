@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-07-04T23:11:00Z",
+ "fetched_utc": "2026-07-05T06:13:00Z",
  "matches": {
   "90": {
    "team1": {
@@ -270,6 +270,40 @@
      "Luis Diaz",
      "James Rodriguez",
      "Luis Suarez"
+    ]
+   }
+  },
+  "97": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Mike Maignan",
+     "Lucas Digne",
+     "William Saliba",
+     "Dayot Upamecano",
+     "Jules Kounde",
+     "Manu Kone",
+     "Adrien Rabiot",
+     "Bradley Barcola",
+     "Michael Olise",
+     "Ousmane Dembele",
+     "Kylian Mbappe"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Bono",
+     "Noussair Mazraoui",
+     "Issa Diop",
+     "Chadi Riad",
+     "Achraf Hakimi",
+     "Neil El Aynaoui",
+     "Ayyoub Bouaddi",
+     "Bilal El Khannouss",
+     "Azzedine Ounahi",
+     "Brahim Diaz",
+     "Soufiane Rahimi"
     ]
    }
   }
