@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-07-05T22:12:00Z",
+ "fetched_utc": "2026-07-05T22:40:00Z",
  "matches": {
   "91": {
    "team1": {
@@ -37,7 +37,7 @@
   },
   "92": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Jose Rangel",
      "Jesus Gallardo",
@@ -53,18 +53,18 @@
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Jordan Pickford",
      "Nico O'Reilly",
-     "Ezri Konsa",
      "Marc Guehi",
+     "Ezri Konsa",
      "Jarell Quansah",
      "Elliot Anderson",
      "Declan Rice",
      "Anthony Gordon",
      "Jude Bellingham",
-     "Noni Madueke",
+     "Bukayo Saka",
      "Harry Kane"
     ]
    }
@@ -91,11 +91,11 @@
     "xi": [
      "Unai Simon",
      "Marc Cucurella",
-     "Pau Cubarsi",
      "Aymeric Laporte",
+     "Pau Cubarsi",
      "Pedro Porro",
-     "Rodri",
      "Pedri",
+     "Rodri",
      "Alex Baena",
      "Dani Olmo",
      "Lamine Yamal",
@@ -193,8 +193,8 @@
     "xi": [
      "Camilo Vargas",
      "Johan Mojica",
-     "Davinson Sanchez",
      "Jhon Lucumi",
+     "Davinson Sanchez",
      "Daniel Munoz",
      "Gustavo Puerta",
      "Jhon Arias",

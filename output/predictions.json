@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-06T08:12:08+10:00",
- "generated_aest": "Mon 6 Jul 2026, 8:12am AEST",
+ "generated": "2026-07-06T08:40:39+10:00",
+ "generated_aest": "Mon 6 Jul 2026, 8:40am AEST",
  "data_through": "2026-07-05",
  "sim_runs": 10000,
  "params": {
@@ -13509,53 +13509,53 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.409,
-    "lam_b": 1.075,
-    "p_win": 0.4297,
-    "p_draw": 0.2993,
-    "p_loss": 0.271,
+    "lam_a": 1.423,
+    "lam_b": 1.064,
+    "p_win": 0.4362,
+    "p_draw": 0.2982,
+    "p_loss": 0.2656,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1428
+      "p": 0.1423
      },
      {
       "score": "1-0",
-      "p": 0.1011
+      "p": 0.1019
      },
      {
       "score": "0-0",
-      "p": 0.0998
+      "p": 0.0995
      },
      {
       "score": "2-1",
-      "p": 0.089
+      "p": 0.0896
      },
      {
       "score": "2-0",
-      "p": 0.0828
+      "p": 0.0842
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1428
+      "p": 0.1423
      },
      "team1": {
       "score": "1-0",
-      "p": 0.1011
+      "p": 0.1019
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0733
+      "p": 0.0721
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1428,
-    "p_advance": 0.5955,
-    "p_et_win": 0.074,
-    "p_pens": 0.1722,
-    "pen_edge": 0.534
+    "modal_p": 0.1423,
+    "p_advance": 0.6027,
+    "p_et_win": 0.0746,
+    "p_pens": 0.1714,
+    "pen_edge": 0.536
    },
    "prediction_base": {
     "lam_a": 1.358,
@@ -13609,17 +13609,13 @@
    "lineup": {
     "team1": null,
     "team2": {
-     "elo": -19.0,
-     "delta_ovr": -2.53,
-     "status": "projected",
-     "xi_mean": 82.2,
+     "elo": -24.4,
+     "delta_ovr": -1.63,
+     "status": "confirmed",
+     "xi_mean": 83.1,
      "baseline_mean": 84.7,
      "coverage": 0.91,
      "missing": [
-      {
-       "name": "Bukayo Saka",
-       "ovr": 87
-      },
       {
        "name": "John Stones",
        "ovr": 85
@@ -13631,6 +13627,10 @@
       {
        "name": "Reece James",
        "ovr": 82
+      },
+      {
+       "name": "Eberechi Eze",
+       "ovr": 81
       }
      ]
     }
@@ -15358,5 +15358,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "f1d16b2c27cd7856c5c6fc153a1fc646ee4d7ef7"
+ "content_hash": "be984d9492f2bdf64a0472850b4cb1f88055530a"
 }
