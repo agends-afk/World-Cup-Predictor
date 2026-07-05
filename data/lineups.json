@@ -1,74 +1,6 @@
 {
- "fetched_utc": "2026-07-05T06:13:00Z",
+ "fetched_utc": "2026-07-05T07:32:00Z",
  "matches": {
-  "90": {
-   "team1": {
-    "status": "confirmed",
-    "xi": [
-     "Maxime Crepeau",
-     "Richie Laryea",
-     "Moise Bombito",
-     "Luc De Fougerolles",
-     "Alistair Johnston",
-     "Ali Ahmed",
-     "Stephen Eustaquio",
-     "Niko Sigur",
-     "Tajon Buchanan",
-     "Jonathan David",
-     "Tani Oluwaseyi"
-    ]
-   },
-   "team2": {
-    "status": "confirmed",
-    "xi": [
-     "Bono",
-     "Noussair Mazraoui",
-     "Redouane Halhal",
-     "Issa Diop",
-     "Achraf Hakimi",
-     "Ayyoub Bouaddi",
-     "Neil El Aynaoui",
-     "Bilal El Khannouss",
-     "Azzedine Ounahi",
-     "Brahim Diaz",
-     "Ismael Saibari"
-    ]
-   }
-  },
-  "89": {
-   "team1": {
-    "status": "confirmed",
-    "xi": [
-     "Orlando Gill",
-     "Junior Alonso",
-     "Gustavo Gomez",
-     "Gustavo Velazquez",
-     "Omar Alderete",
-     "Juan Jose Caceres",
-     "Miguel Almiron",
-     "Andres Cubas",
-     "Matias Galarza",
-     "Diego Gomez",
-     "Julio Enciso"
-    ]
-   },
-   "team2": {
-    "status": "confirmed",
-    "xi": [
-     "Mike Maignan",
-     "Lucas Digne",
-     "Dayot Upamecano",
-     "William Saliba",
-     "Jules Kounde",
-     "Manu Kone",
-     "Adrien Rabiot",
-     "Bradley Barcola",
-     "Michael Olise",
-     "Ousmane Dembele",
-     "Kylian Mbappe"
-    ]
-   }
-  },
   "91": {
    "team1": {
     "status": "projected",
@@ -94,9 +26,9 @@
      "Torbjorn Heggem",
      "Kristoffer Ajer",
      "Marcus Pedersen",
+     "Martin Odegaard",
      "Sander Berge",
      "Patrick Berg",
-     "Martin Odegaard",
      "Antonio Nusa",
      "Alexander Sorloth",
      "Erling Haaland"
@@ -109,8 +41,8 @@
     "xi": [
      "Jose Rangel",
      "Jesus Gallardo",
-     "Cesar Montes",
      "Johan Vasquez",
+     "Cesar Montes",
      "Jorge Eduardo Sanchez",
      "Luis Romo",
      "Erik Lira",
@@ -128,8 +60,8 @@
      "Ezri Konsa",
      "Marc Guehi",
      "Djed Spence",
-     "Declan Rice",
      "Elliot Anderson",
+     "Declan Rice",
      "Marcus Rashford",
      "Jude Bellingham",
      "Noni Madueke",
@@ -146,8 +78,8 @@
      "Renato Veiga",
      "Ruben Dias",
      "Joao Cancelo",
-     "Vitinha",
      "Joao Neves",
+     "Vitinha",
      "Rafael Leao",
      "Bruno Fernandes",
      "Pedro Neto",
@@ -159,8 +91,8 @@
     "xi": [
      "Unai Simon",
      "Marc Cucurella",
-     "Aymeric Laporte",
      "Pau Cubarsi",
+     "Aymeric Laporte",
      "Pedro Porro",
      "Rodri",
      "Pedri",
@@ -211,8 +143,8 @@
     "xi": [
      "Emiliano Martinez",
      "Facundo Medina",
-     "Cristian Romero",
      "Lisandro Martinez",
+     "Cristian Romero",
      "Nahuel Molina",
      "Thiago Almada",
      "Enzo Fernandez",
@@ -261,12 +193,12 @@
     "xi": [
      "Camilo Vargas",
      "Johan Mojica",
-     "Davinson Sanchez",
      "Jhon Lucumi",
+     "Davinson Sanchez",
      "Daniel Munoz",
      "Gustavo Puerta",
-     "Jefferson Lerma",
      "Jhon Arias",
+     "Jefferson Lerma",
      "Luis Diaz",
      "James Rodriguez",
      "Luis Suarez"
@@ -282,7 +214,7 @@
      "William Saliba",
      "Dayot Upamecano",
      "Jules Kounde",
-     "Manu Kone",
+     "Aurelien Tchouameni",
      "Adrien Rabiot",
      "Bradley Barcola",
      "Michael Olise",
@@ -295,8 +227,8 @@
     "xi": [
      "Bono",
      "Noussair Mazraoui",
-     "Issa Diop",
      "Chadi Riad",
+     "Issa Diop",
      "Achraf Hakimi",
      "Neil El Aynaoui",
      "Ayyoub Bouaddi",
