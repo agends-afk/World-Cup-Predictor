@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-06T00:21:50+10:00",
- "generated_aest": "Mon 6 Jul 2026, 12:21am AEST",
+ "generated": "2026-07-06T02:57:33+10:00",
+ "generated_aest": "Mon 6 Jul 2026, 2:57am AEST",
  "data_through": "2026-07-04",
  "sim_runs": 10000,
  "params": {
@@ -13808,53 +13808,53 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.149,
-    "lam_b": 1.319,
-    "p_win": 0.3072,
-    "p_draw": 0.3043,
-    "p_loss": 0.3885,
+    "lam_a": 1.155,
+    "lam_b": 1.312,
+    "p_win": 0.3101,
+    "p_draw": 0.3046,
+    "p_loss": 0.3853,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1452
+      "p": 0.1453
      },
      {
       "score": "0-0",
-      "p": 0.1015
+      "p": 0.1016
      },
      {
       "score": "0-1",
-      "p": 0.0951
+      "p": 0.0946
      },
      {
       "score": "1-2",
-      "p": 0.0847
+      "p": 0.0843
      },
      {
       "score": "1-0",
-      "p": 0.0807
+      "p": 0.0813
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1452
+      "p": 0.1453
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0951
+      "p": 0.0946
      },
      "team1": {
       "score": "1-0",
-      "p": 0.0807
+      "p": 0.0813
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1452,
-    "p_advance": 0.4509,
-    "p_et_win": 0.0588,
-    "p_pens": 0.1759,
-    "pen_edge": 0.483
+    "modal_p": 0.1453,
+    "p_advance": 0.4546,
+    "p_et_win": 0.0593,
+    "p_pens": 0.1761,
+    "pen_edge": 0.484
    },
    "prediction_base": {
     "lam_a": 1.187,
@@ -13907,17 +13907,13 @@
    },
    "lineup": {
     "team1": {
-     "elo": -22.5,
-     "delta_ovr": -3,
+     "elo": -19.8,
+     "delta_ovr": -2.64,
      "status": "projected",
-     "xi_mean": 74,
+     "xi_mean": 74.4,
      "baseline_mean": 77,
      "coverage": 1.0,
      "missing": [
-      {
-       "name": "Folarin Balogun",
-       "ovr": 77
-      },
       {
        "name": "Matt Turner",
        "ovr": 74
@@ -13925,6 +13921,10 @@
       {
        "name": "Mark McKenzie",
        "ovr": 74
+      },
+      {
+       "name": "Ricardo Pepi",
+       "ovr": 73
       }
      ]
     },
@@ -15357,5 +15357,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "6fcd5eddaefa1096bc3c5d3301c3fc00ddb5ee45"
+ "content_hash": "4a22247cd80967da5beac54c2ed734f1c521075c"
 }
