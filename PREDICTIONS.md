@@ -1,6 +1,6 @@
 # World Cup 2026: match predictions
 
-Generated Mon 6 Jul 2026, 6:05pm AEST. Results included through 2026-07-05. 92 of 104 matches played. 10,000 tournament simulations.
+Generated Tue 7 Jul 2026, 3:30am AEST. Results included through 2026-07-05. 92 of 104 matches played. 10,000 tournament simulations.
 
 Every probability below is a model estimate built only from match results and public squad news, not from betting odds or published predictions. A favourite can be 75% to win while its most likely exact score sits near 12 to 15%; goals spread across many scorelines, so read the two numbers separately.
 
@@ -307,7 +307,7 @@ Until the groups finish, knockout pairings show the most frequent matchup across
 - M90, Sat 04 Jul, Houston: Winner Match 73 v Winner Match 75. **Played: Canada 0-3 Morocco.** Model said Morocco to win 64% (draw 23%, Canada win 13%); most likely Morocco 2-0 (12%); result hit, score miss
 - M91, Sun 05 Jul, East Rutherford: Winner Match 76 v Winner Match 78. **Played: Brazil 1-2 Norway.** Model said Brazil to win 50% (draw 29%, Norway win 22%); most likely Brazil 1-0 (11%); result miss, score miss
 - M92, Sun 05 Jul, Mexico City: Winner Match 79 v Winner Match 80. **Played: Mexico 2-3 England.** Model said Mexico to win 44% (draw 30%, England win 27%); most likely Mexico 1-0 (10%); result miss, score miss
-- M93, Mon 06 Jul, Arlington: Winner Match 83 v Winner Match 84. **Spain to win 50%** (draw 28%, Portugal win 21%); most likely Spain 1-0 (11%); **Spain to advance 67%**
+- M93, Mon 06 Jul, Arlington: Winner Match 83 v Winner Match 84. **Spain to win 50%** (draw 28%, Portugal win 22%); most likely Spain 1-0 (11%); **Spain to advance 67%**
 - M94, Mon 06 Jul, Seattle: Winner Match 81 v Winner Match 82. **Belgium to win 39%** (draw 30%, United States win 31%); most likely Belgium 1-0 (9%); **Belgium to advance 55%**
 - M95, Tue 07 Jul, Atlanta: Winner Match 86 v Winner Match 88. **Argentina to win 75%** (draw 18%, Egypt win 7%); most likely Argentina 2-0 (14%); **Argentina to advance 88%**
 - M96, Tue 07 Jul, Vancouver: Winner Match 85 v Winner Match 87. **Colombia to win 40%** (draw 30%, Switzerland win 30%); most likely Colombia 1-0 (10%); **Colombia to advance 56%**
