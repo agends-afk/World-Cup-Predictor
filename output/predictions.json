@@ -1,7 +1,7 @@
 {
- "generated": "2026-07-07T04:19:55+10:00",
- "generated_aest": "Tue 7 Jul 2026, 4:19am AEST",
- "data_through": "2026-07-05",
+ "generated": "2026-07-07T07:10:44+10:00",
+ "generated_aest": "Tue 7 Jul 2026, 7:10am AEST",
+ "data_through": "2026-07-06",
  "sim_runs": 10000,
  "params": {
   "alpha_wc": 0.2076,
@@ -177,10 +177,10 @@
    "adjust_note": "",
    "p_r32": 1.0,
    "p_r16": 1.0,
-   "p_qf": 0.418,
-   "p_sf": 0.1174,
-   "p_final": 0.0461,
-   "p_champion": 0.0157,
+   "p_qf": 0.4129,
+   "p_sf": 0.1197,
+   "p_final": 0.046,
+   "p_champion": 0.0154,
    "p_third_q": 0.0,
    "exp_points": 7.0,
    "pos_probs": [
@@ -247,9 +247,9 @@
    "p_r32": 1.0,
    "p_r16": 1.0,
    "p_qf": 1.0,
-   "p_sf": 0.3214,
-   "p_final": 0.152,
-   "p_champion": 0.0606,
+   "p_sf": 0.3266,
+   "p_final": 0.1251,
+   "p_champion": 0.0499,
    "p_third_q": 0.0,
    "exp_points": 7.0,
    "pos_probs": [
@@ -260,7 +260,7 @@
    ],
    "fifa_rank": 7,
    "fifa_points": 1755.1,
-   "model_rank": 7
+   "model_rank": 6
   },
   "Scotland": {
    "group": "C",
@@ -361,10 +361,10 @@
    "adjust_note": "Cardoso (ankle) and Agyemang (Achilles) ruled out",
    "p_r32": 1.0,
    "p_r16": 1.0,
-   "p_qf": 0.4796,
-   "p_sf": 0.1322,
-   "p_final": 0.0298,
-   "p_champion": 0.009,
+   "p_qf": 0.4651,
+   "p_sf": 0.0987,
+   "p_final": 0.0284,
+   "p_champion": 0.0084,
    "p_third_q": 0.0,
    "exp_points": 6.0,
    "pos_probs": [
@@ -568,10 +568,10 @@
    "adjust_note": "",
    "p_r32": 1.0,
    "p_r16": 1.0,
-   "p_qf": 0.5204,
-   "p_sf": 0.1565,
-   "p_final": 0.0481,
-   "p_champion": 0.0138,
+   "p_qf": 0.5349,
+   "p_sf": 0.1193,
+   "p_final": 0.033,
+   "p_champion": 0.0092,
    "p_third_q": 0.0,
    "exp_points": 5.0,
    "pos_probs": [
@@ -591,10 +591,10 @@
    "adjust_note": "",
    "p_r32": 1.0,
    "p_r16": 1.0,
-   "p_qf": 0.1068,
-   "p_sf": 0.0301,
-   "p_final": 0.0061,
-   "p_champion": 0.0012,
+   "p_qf": 0.1072,
+   "p_sf": 0.0275,
+   "p_final": 0.006,
+   "p_champion": 0.0009,
    "p_third_q": 0.0,
    "exp_points": 5.0,
    "pos_probs": [
@@ -701,15 +701,15 @@
   },
   "Spain": {
    "group": "H",
-   "rating": 2212.0,
+   "rating": 2235.4,
    "adjust": -20,
    "adjust_note": "Fermin Lopez (metatarsal, 13 goals and 17 assists in 2025-26) ruled out",
    "p_r32": 1.0,
    "p_r16": 1.0,
-   "p_qf": 0.6587,
-   "p_sf": 0.5041,
-   "p_final": 0.2695,
-   "p_champion": 0.1411,
+   "p_qf": 1.0,
+   "p_sf": 0.782,
+   "p_final": 0.4347,
+   "p_champion": 0.2499,
    "p_third_q": 0.0,
    "exp_points": 7.0,
    "pos_probs": [
@@ -720,7 +720,7 @@
    ],
    "fifa_rank": 2,
    "fifa_points": 1874.71,
-   "model_rank": 3
+   "model_rank": 2
   },
   "Uruguay": {
    "group": "H",
@@ -753,9 +753,9 @@
    "p_r32": 1.0,
    "p_r16": 1.0,
    "p_qf": 1.0,
-   "p_sf": 0.6786,
-   "p_final": 0.4269,
-   "p_champion": 0.2471,
+   "p_sf": 0.6734,
+   "p_final": 0.3788,
+   "p_champion": 0.215,
    "p_third_q": 0.0,
    "exp_points": 9.0,
    "pos_probs": [
@@ -766,7 +766,7 @@
    ],
    "fifa_rank": 3,
    "fifa_points": 1870.7,
-   "model_rank": 2
+   "model_rank": 3
   },
   "Iraq": {
    "group": "I",
@@ -799,9 +799,9 @@
    "p_r32": 1.0,
    "p_r16": 1.0,
    "p_qf": 1.0,
-   "p_sf": 0.3859,
-   "p_final": 0.1385,
-   "p_champion": 0.0514,
+   "p_sf": 0.3808,
+   "p_final": 0.1427,
+   "p_champion": 0.048,
    "p_third_q": 0.0,
    "exp_points": 6.0,
    "pos_probs": [
@@ -812,7 +812,7 @@
    ],
    "fifa_rank": 31,
    "fifa_points": 1557.44,
-   "model_rank": 8
+   "model_rank": 7
   },
   "Senegal": {
    "group": "I",
@@ -867,10 +867,10 @@
    "adjust_note": "",
    "p_r32": 1.0,
    "p_r16": 1.0,
-   "p_qf": 0.8932,
-   "p_sf": 0.6455,
-   "p_final": 0.4252,
-   "p_champion": 0.2523,
+   "p_qf": 0.8928,
+   "p_sf": 0.6433,
+   "p_final": 0.4137,
+   "p_champion": 0.2323,
    "p_third_q": 0.0,
    "exp_points": 9.0,
    "pos_probs": [
@@ -936,10 +936,10 @@
    "adjust_note": "",
    "p_r32": 1.0,
    "p_r16": 1.0,
-   "p_qf": 0.582,
-   "p_sf": 0.207,
-   "p_final": 0.0982,
-   "p_champion": 0.0381,
+   "p_qf": 0.5871,
+   "p_sf": 0.2095,
+   "p_final": 0.0958,
+   "p_champion": 0.0353,
    "p_third_q": 0.0,
    "exp_points": 7.0,
    "pos_probs": [
@@ -977,15 +977,15 @@
   },
   "Portugal": {
    "group": "K",
-   "rating": 2094.6,
+   "rating": 2071.2,
    "adjust": 0,
    "adjust_note": "",
    "p_r32": 1.0,
    "p_r16": 1.0,
-   "p_qf": 0.3413,
-   "p_sf": 0.2072,
-   "p_final": 0.0737,
-   "p_champion": 0.0271,
+   "p_qf": 0.0,
+   "p_sf": 0.0,
+   "p_final": 0.0,
+   "p_champion": 0.0,
    "p_third_q": 0.0,
    "exp_points": 5.0,
    "pos_probs": [
@@ -996,7 +996,7 @@
    ],
    "fifa_rank": 5,
    "fifa_points": 1767.85,
-   "model_rank": 6
+   "model_rank": 8
   },
   "Uzbekistan": {
    "group": "K",
@@ -1052,9 +1052,9 @@
    "p_r32": 1.0,
    "p_r16": 1.0,
    "p_qf": 1.0,
-   "p_sf": 0.6141,
-   "p_final": 0.2859,
-   "p_champion": 0.1426,
+   "p_sf": 0.6192,
+   "p_final": 0.2958,
+   "p_champion": 0.1357,
    "p_third_q": 0.0,
    "exp_points": 7.0,
    "pos_probs": [
@@ -13657,7 +13657,7 @@
    "team2": "Spain",
    "slot1": "Winner Match 83",
    "slot2": "Winner Match 84",
-   "status": "scheduled",
+   "status": "played",
    "projected": false,
    "prediction": {
     "lam_a": 0.923,
@@ -13708,6 +13708,7 @@
     "p_pens": 0.1553,
     "pen_edge": 0.429
    },
+   "retrospective": false,
    "prediction_base": {
     "lam_a": 0.982,
     "lam_b": 1.543,
@@ -13806,6 +13807,13 @@
       }
      ]
     }
+   },
+   "actual": {
+    "score1": 0,
+    "score2": 1,
+    "aet": false,
+    "pens": null,
+    "outcome": "team2"
    }
   },
   {
@@ -14442,25 +14450,25 @@
    "slot2": "Winner Match 94",
    "status": "scheduled",
    "projected": true,
-   "p_pairing": 0.342,
+   "p_pairing": 0.535,
    "prediction": {
-    "lam_a": 1.785,
-    "lam_b": 0.849,
-    "p_win": 0.5813,
-    "p_draw": 0.2578,
-    "p_loss": 0.1609,
+    "lam_a": 1.867,
+    "lam_b": 0.811,
+    "p_win": 0.6098,
+    "p_draw": 0.2465,
+    "p_loss": 0.1437,
     "top_scores": [
      {
-      "score": "1-1",
-      "p": 0.1229
+      "score": "2-0",
+      "p": 0.1197
      },
      {
-      "score": "2-0",
-      "p": 0.1144
+      "score": "1-1",
+      "p": 0.1176
      },
      {
       "score": "1-0",
-      "p": 0.1141
+      "p": 0.1147
      },
      {
       "score": "2-1",
@@ -14468,29 +14476,29 @@
      },
      {
       "score": "0-0",
-      "p": 0.086
+      "p": 0.0822
      }
     ],
     "outcome_scores": {
-     "draw": {
-      "score": "1-1",
-      "p": 0.1229
-     },
      "team1": {
       "score": "2-0",
-      "p": 0.1144
+      "p": 0.1197
+     },
+     "draw": {
+      "score": "1-1",
+      "p": 0.1176
      },
      "team2": {
-      "score": "0-1",
-      "p": 0.0468
+      "score": "1-2",
+      "p": 0.0422
      }
     },
-    "modal_score": "1-1",
-    "modal_p": 0.1229,
-    "p_advance": 0.7479,
-    "p_et_win": 0.0825,
-    "p_pens": 0.1422,
-    "pen_edge": 0.592
+    "modal_score": "2-0",
+    "modal_p": 0.1197,
+    "p_advance": 0.7733,
+    "p_et_win": 0.0826,
+    "p_pens": 0.1343,
+    "pen_edge": 0.602
    }
   },
   {
@@ -14676,7 +14684,7 @@
    "slot2": "Winner Match 96",
    "status": "scheduled",
    "projected": true,
-   "p_pairing": 0.52,
+   "p_pairing": 0.522,
    "prediction": {
     "lam_a": 1.617,
     "lam_b": 0.937,
@@ -14742,55 +14750,55 @@
    "slot2": "Winner Match 98",
    "status": "scheduled",
    "projected": true,
-   "p_pairing": 0.343,
+   "p_pairing": 0.526,
    "prediction": {
-    "lam_a": 1.269,
-    "lam_b": 1.194,
-    "p_win": 0.3652,
-    "p_draw": 0.3058,
-    "p_loss": 0.329,
+    "lam_a": 1.213,
+    "lam_b": 1.248,
+    "p_win": 0.3385,
+    "p_draw": 0.306,
+    "p_loss": 0.3554,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1458
+      "p": 0.146
      },
      {
       "score": "0-0",
-      "p": 0.102
-     },
-     {
-      "score": "1-0",
-      "p": 0.0914
+      "p": 0.1021
      },
      {
       "score": "0-1",
-      "p": 0.0849
+      "p": 0.0897
      },
      {
-      "score": "2-1",
-      "p": 0.0819
+      "score": "1-0",
+      "p": 0.0867
+     },
+     {
+      "score": "1-2",
+      "p": 0.0806
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1458
-     },
-     "team1": {
-      "score": "1-0",
-      "p": 0.0914
+      "p": 0.146
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0849
+      "p": 0.0897
+     },
+     "team1": {
+      "score": "1-0",
+      "p": 0.0867
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1458,
-    "p_advance": 0.5219,
-    "p_et_win": 0.0668,
-    "p_pens": 0.1769,
-    "pen_edge": 0.508
+    "modal_p": 0.146,
+    "p_advance": 0.4898,
+    "p_et_win": 0.0633,
+    "p_pens": 0.1771,
+    "pen_edge": 0.496
    }
   },
   {
@@ -14808,7 +14816,7 @@
    "slot2": "Winner Match 100",
    "status": "scheduled",
    "projected": true,
-   "p_pairing": 0.391,
+   "p_pairing": 0.4,
    "prediction": {
     "lam_a": 1.059,
     "lam_b": 1.431,
@@ -14868,61 +14876,61 @@
    "stadium": "Hard Rock Stadium",
    "country": "United States",
    "kickoff_utc": "2026-07-18T21:00:00Z",
-   "team1": "France",
+   "team1": "Spain",
    "team2": "England",
    "slot1": "Loser Match 101",
    "slot2": "Loser Match 102",
    "status": "scheduled",
    "projected": true,
-   "p_pairing": 0.085,
+   "p_pairing": 0.114,
    "prediction": {
-    "lam_a": 1.375,
-    "lam_b": 1.101,
-    "p_win": 0.4146,
-    "p_draw": 0.3015,
-    "p_loss": 0.2839,
+    "lam_a": 1.395,
+    "lam_b": 1.086,
+    "p_win": 0.4236,
+    "p_draw": 0.3002,
+    "p_loss": 0.2762,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1438
-     },
-     {
-      "score": "0-0",
-      "p": 0.1006
+      "p": 0.1432
      },
      {
       "score": "1-0",
-      "p": 0.099
+      "p": 0.1003
+     },
+     {
+      "score": "0-0",
+      "p": 0.1001
      },
      {
       "score": "2-1",
-      "p": 0.0875
+      "p": 0.0884
      },
      {
       "score": "2-0",
-      "p": 0.0795
+      "p": 0.0814
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1438
+      "p": 0.1432
      },
      "team1": {
       "score": "1-0",
-      "p": 0.099
+      "p": 0.1003
      },
      "team2": {
       "score": "0-1",
-      "p": 0.076
+      "p": 0.0744
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1438,
-    "p_advance": 0.5788,
-    "p_et_win": 0.0725,
-    "p_pens": 0.1738,
-    "pen_edge": 0.528
+    "modal_p": 0.1432,
+    "p_advance": 0.5888,
+    "p_et_win": 0.0734,
+    "p_pens": 0.1729,
+    "pen_edge": 0.531
    }
   },
   {
@@ -14934,61 +14942,61 @@
    "stadium": "MetLife Stadium",
    "country": "United States",
    "kickoff_utc": "2026-07-19T19:00:00Z",
-   "team1": "France",
+   "team1": "Spain",
    "team2": "Argentina",
    "slot1": "Winner Match 101",
    "slot2": "Winner Match 102",
    "status": "scheduled",
    "projected": true,
-   "p_pairing": 0.183,
+   "p_pairing": 0.182,
    "prediction": {
-    "lam_a": 1.183,
-    "lam_b": 1.28,
-    "p_win": 0.324,
-    "p_draw": 0.3055,
-    "p_loss": 0.3705,
+    "lam_a": 1.2,
+    "lam_b": 1.262,
+    "p_win": 0.3323,
+    "p_draw": 0.3059,
+    "p_loss": 0.3619,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1457
+      "p": 0.1459
      },
      {
       "score": "0-0",
-      "p": 0.1019
+      "p": 0.102
      },
      {
       "score": "0-1",
-      "p": 0.0922
+      "p": 0.0908
      },
      {
       "score": "1-0",
-      "p": 0.084
+      "p": 0.0855
      },
      {
       "score": "1-2",
-      "p": 0.0826
+      "p": 0.0815
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1457
+      "p": 0.1459
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0922
+      "p": 0.0908
      },
      "team1": {
       "score": "1-0",
-      "p": 0.084
+      "p": 0.0855
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1457,
-    "p_advance": 0.4719,
-    "p_et_win": 0.0613,
-    "p_pens": 0.1768,
-    "pen_edge": 0.49
+    "modal_p": 0.1459,
+    "p_advance": 0.4821,
+    "p_et_win": 0.0625,
+    "p_pens": 0.177,
+    "pen_edge": 0.494
    }
   }
  ],
@@ -15224,21 +15232,14 @@
      "Spain",
      "Belgium"
     ],
-    "p": 0.342
+    "p": 0.535
    },
    {
     "pair": [
      "Spain",
      "United States"
     ],
-    "p": 0.317
-   },
-   {
-    "pair": [
-     "Portugal",
-     "Belgium"
-    ],
-    "p": 0.179
+    "p": 0.465
    }
   ],
   "99": [
@@ -15256,21 +15257,21 @@
      "Argentina",
      "Colombia"
     ],
-    "p": 0.52
+    "p": 0.522
    },
    {
     "pair": [
      "Argentina",
      "Switzerland"
     ],
-    "p": 0.373
+    "p": 0.371
    },
    {
     "pair": [
      "Egypt",
      "Colombia"
     ],
-    "p": 0.062
+    "p": 0.065
    }
   ],
   "101": [
@@ -15279,21 +15280,21 @@
      "France",
      "Spain"
     ],
-    "p": 0.343
+    "p": 0.526
    },
    {
     "pair": [
      "Morocco",
      "Spain"
     ],
-    "p": 0.162
+    "p": 0.256
    },
    {
     "pair": [
      "France",
-     "Portugal"
+     "Belgium"
     ],
-    "p": 0.141
+    "p": 0.08
    }
   ],
   "102": [
@@ -15302,67 +15303,67 @@
      "England",
      "Argentina"
     ],
-    "p": 0.391
+    "p": 0.4
    },
    {
     "pair": [
      "Norway",
      "Argentina"
     ],
-    "p": 0.255
+    "p": 0.243
    },
    {
     "pair": [
      "England",
      "Colombia"
     ],
-    "p": 0.132
+    "p": 0.129
    }
   ],
   "103": [
    {
     "pair": [
+     "Spain",
+     "England"
+    ],
+    "p": 0.114
+   },
+   {
+    "pair": [
      "France",
      "England"
     ],
-    "p": 0.085
+    "p": 0.096
    },
    {
     "pair": [
      "Spain",
-     "England"
+     "Argentina"
     ],
-    "p": 0.079
-   },
-   {
-    "pair": [
-     "France",
-     "Norway"
-    ],
-    "p": 0.06
+    "p": 0.082
    }
   ],
   "104": [
    {
     "pair": [
-     "France",
+     "Spain",
      "Argentina"
     ],
-    "p": 0.183
+    "p": 0.182
    },
    {
     "pair": [
      "France",
-     "England"
+     "Argentina"
     ],
-    "p": 0.123
+    "p": 0.157
    },
    {
     "pair": [
      "Spain",
-     "Argentina"
+     "England"
     ],
-    "p": 0.116
+    "p": 0.128
    }
   ]
  },
@@ -15461,5 +15462,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "12d229cd87bad056098b9704272c45fc8053c925"
+ "content_hash": "695de10e958b02fdec709af74f94ddad54d7a959"
 }
