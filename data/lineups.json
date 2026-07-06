@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-07-06T21:10:00Z",
+ "fetched_utc": "2026-07-06T22:57:00Z",
  "matches": {
   "93": {
    "team1": {
@@ -37,7 +37,7 @@
   },
   "94": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Matt Freese",
      "Antonee Robinson",
@@ -53,17 +53,17 @@
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Thibaut Courtois",
      "Maxim De Cuyper",
-     "Arthur Theate",
+     "Nathan Ngoy",
      "Brandon Mechele",
      "Timothy Castagne",
-     "Hans Vanaken",
      "Youri Tielemans",
-     "Jeremy Doku",
-     "Kevin De Bruyne",
+     "Amadou Onana",
+     "Dodi Lukebakio",
+     "Nicolas Raskin",
      "Leandro Trossard",
      "Charles De Ketelaere"
     ]
@@ -91,15 +91,15 @@
     "xi": [
      "Mostafa Shobeir",
      "Karim Hafez",
-     "Ramy Rabia",
      "Yasser Ibrahim",
+     "Hamdy Fathy",
      "Mohamed Hany",
      "Mohanad Lasheen",
      "Marwan Ateya",
-     "Mostafa Ziko",
-     "Mohamed Salah",
      "Emam Ashour",
-     "Omar Marmoush"
+     "Mohamed Salah",
+     "Haissem Hassan",
+     "Mostafa Ziko"
     ]
    }
   },

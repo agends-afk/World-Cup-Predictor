@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-07T07:10:44+10:00",
- "generated_aest": "Tue 7 Jul 2026, 7:10am AEST",
+ "generated": "2026-07-07T08:57:53+10:00",
+ "generated_aest": "Tue 7 Jul 2026, 8:57am AEST",
  "data_through": "2026-07-06",
  "sim_runs": 10000,
  "params": {
@@ -13832,53 +13832,53 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.155,
-    "lam_b": 1.312,
-    "p_win": 0.3101,
-    "p_draw": 0.3046,
-    "p_loss": 0.3853,
+    "lam_a": 1.209,
+    "lam_b": 1.253,
+    "p_win": 0.3365,
+    "p_draw": 0.306,
+    "p_loss": 0.3575,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1453
+      "p": 0.146
      },
      {
       "score": "0-0",
-      "p": 0.1016
+      "p": 0.1021
      },
      {
       "score": "0-1",
-      "p": 0.0946
-     },
-     {
-      "score": "1-2",
-      "p": 0.0843
+      "p": 0.09
      },
      {
       "score": "1-0",
-      "p": 0.0813
+      "p": 0.0863
+     },
+     {
+      "score": "1-2",
+      "p": 0.0809
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1453
+      "p": 0.146
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0946
+      "p": 0.09
      },
      "team1": {
       "score": "1-0",
-      "p": 0.0813
+      "p": 0.0863
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1453,
-    "p_advance": 0.4546,
-    "p_et_win": 0.0593,
-    "p_pens": 0.1761,
-    "pen_edge": 0.484
+    "modal_p": 0.146,
+    "p_advance": 0.4873,
+    "p_et_win": 0.063,
+    "p_pens": 0.1771,
+    "pen_edge": 0.496
    },
    "prediction_base": {
     "lam_a": 1.187,
@@ -13931,9 +13931,9 @@
    },
    "lineup": {
     "team1": {
-     "elo": -19.8,
+     "elo": -39.5,
      "delta_ovr": -2.64,
-     "status": "projected",
+     "status": "confirmed",
      "xi_mean": 74.4,
      "baseline_mean": 77,
      "coverage": 1.0,
@@ -13953,19 +13953,27 @@
      ]
     },
     "team2": {
-     "elo": -5.5,
-     "delta_ovr": -0.73,
-     "status": "projected",
-     "xi_mean": 80.6,
+     "elo": -49.1,
+     "delta_ovr": -3.27,
+     "status": "confirmed",
+     "xi_mean": 78.1,
      "baseline_mean": 81.4,
      "coverage": 1.0,
      "missing": [
+      {
+       "name": "Kevin De Bruyne",
+       "ovr": 90
+      },
       {
        "name": "Romelu Lukaku",
        "ovr": 82
       },
       {
        "name": "Axel Witsel",
+       "ovr": 80
+      },
+      {
+       "name": "Hans Vanaken",
        "ovr": 80
       }
      ]
@@ -15462,5 +15470,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "695de10e958b02fdec709af74f94ddad54d7a959"
+ "content_hash": "6a214ae9747be4f878d71a77d8d49f3f8a9fe8dd"
 }
