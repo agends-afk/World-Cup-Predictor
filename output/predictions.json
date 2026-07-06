@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-06T16:25:40+10:00",
- "generated_aest": "Mon 6 Jul 2026, 4:25pm AEST",
+ "generated": "2026-07-06T18:05:18+10:00",
+ "generated_aest": "Mon 6 Jul 2026, 6:05pm AEST",
  "data_through": "2026-07-05",
  "sim_runs": 10000,
  "params": {
@@ -14275,53 +14275,53 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.566,
-    "lam_b": 0.967,
-    "p_win": 0.4973,
-    "p_draw": 0.2849,
-    "p_loss": 0.2178,
+    "lam_a": 1.546,
+    "lam_b": 0.98,
+    "p_win": 0.4891,
+    "p_draw": 0.287,
+    "p_loss": 0.2239,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1359
+      "p": 0.1369
      },
      {
       "score": "1-0",
-      "p": 0.1087
-     },
-     {
-      "score": "2-0",
-      "p": 0.0974
+      "p": 0.1079
      },
      {
       "score": "0-0",
-      "p": 0.095
+      "p": 0.0957
+     },
+     {
+      "score": "2-0",
+      "p": 0.0956
      },
      {
       "score": "2-1",
-      "p": 0.0942
+      "p": 0.0937
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1359
+      "p": 0.1369
      },
      "team1": {
       "score": "1-0",
-      "p": 0.1087
+      "p": 0.1079
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0611
+      "p": 0.0626
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1359,
-    "p_advance": 0.6672,
-    "p_et_win": 0.0793,
-    "p_pens": 0.1616,
-    "pen_edge": 0.56
+    "modal_p": 0.1369,
+    "p_advance": 0.6587,
+    "p_et_win": 0.0788,
+    "p_pens": 0.1632,
+    "pen_edge": 0.557
    },
    "prediction_base": {
     "lam_a": 1.592,
@@ -14374,10 +14374,10 @@
    },
    "lineup": {
     "team1": {
-     "elo": -8.6,
-     "delta_ovr": -1.15,
+     "elo": -15.3,
+     "delta_ovr": -2.05,
      "status": "projected",
-     "xi_mean": 84.4,
+     "xi_mean": 83.5,
      "baseline_mean": 85.5,
      "coverage": 0.91,
      "missing": [
@@ -14390,11 +14390,11 @@
        "ovr": 85
       },
       {
-       "name": "Lucas Hernández",
-       "ovr": 83
+       "name": "Aurélien Tchouaméni",
+       "ovr": 85
       },
       {
-       "name": "Marcus Thuram",
+       "name": "Lucas Hernández",
        "ovr": 83
       }
      ]
@@ -15461,5 +15461,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "ef01197aa3d934073f61923176794af58afe7460"
+ "content_hash": "2b930ea515173bfcd5294c3df0da271d16e6e25d"
 }

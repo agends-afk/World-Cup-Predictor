@@ -1,74 +1,6 @@
 {
- "fetched_utc": "2026-07-06T06:25:00Z",
+ "fetched_utc": "2026-07-06T08:05:00Z",
  "matches": {
-  "91": {
-   "team1": {
-    "status": "confirmed",
-    "xi": [
-     "Alisson",
-     "Douglas",
-     "Gabriel",
-     "Marquinhos",
-     "Danilo",
-     "Casemiro",
-     "Bruno Guimaraes",
-     "Vinicius Junior",
-     "Gabriel Martinelli",
-     "Rayan",
-     "Matheus Cunha"
-    ]
-   },
-   "team2": {
-    "status": "confirmed",
-    "xi": [
-     "Orjan Nyland",
-     "David Moller Wolfe",
-     "Torbjorn Heggem",
-     "Kristoffer Ajer",
-     "Julian Ryerson",
-     "Sander Berge",
-     "Martin Odegaard",
-     "Patrick Berg",
-     "Antonio Nusa",
-     "Alexander Sorloth",
-     "Erling Haaland"
-    ]
-   }
-  },
-  "92": {
-   "team1": {
-    "status": "confirmed",
-    "xi": [
-     "Jose Rangel",
-     "Jesus Gallardo",
-     "Johan Vasquez",
-     "Cesar Montes",
-     "Jorge Eduardo Sanchez",
-     "Luis Romo",
-     "Erik Lira",
-     "Gilberto Mora",
-     "Julian Quinones",
-     "Roberto Alvarado",
-     "Raul Jimenez"
-    ]
-   },
-   "team2": {
-    "status": "confirmed",
-    "xi": [
-     "Jordan Pickford",
-     "Nico O'Reilly",
-     "Marc Guehi",
-     "Ezri Konsa",
-     "Jarell Quansah",
-     "Elliot Anderson",
-     "Declan Rice",
-     "Anthony Gordon",
-     "Jude Bellingham",
-     "Bukayo Saka",
-     "Harry Kane"
-    ]
-   }
-  },
   "93": {
    "team1": {
     "status": "projected",
@@ -94,8 +26,8 @@
      "Aymeric Laporte",
      "Pau Cubarsi",
      "Pedro Porro",
-     "Pedri",
      "Rodri",
+     "Pedri",
      "Alex Baena",
      "Dani Olmo",
      "Lamine Yamal",
@@ -113,8 +45,8 @@
      "Tim Ream",
      "Alex Freeman",
      "Malik Tillman",
-     "Weston McKennie",
      "Tyler Adams",
+     "Weston McKennie",
      "Christian Pulisic",
      "Sergino Dest",
      "Folarin Balogun"
@@ -150,8 +82,8 @@
      "Leandro Paredes",
      "Enzo Fernandez",
      "Rodrigo De Paul",
-     "Julian Alvarez",
-     "Lionel Messi"
+     "Lionel Messi",
+     "Julian Alvarez"
     ]
    },
    "team2": {
@@ -177,8 +109,8 @@
     "xi": [
      "Gregor Kobel",
      "Ricardo Rodriguez",
-     "Manuel Akanji",
      "Nico Elvedi",
+     "Manuel Akanji",
      "Denis Zakaria",
      "Remo Freuler",
      "Granit Xhaka",
@@ -211,10 +143,10 @@
     "xi": [
      "Mike Maignan",
      "Lucas Digne",
-     "William Saliba",
      "Dayot Upamecano",
+     "William Saliba",
      "Jules Kounde",
-     "Aurelien Tchouameni",
+     "Manu Kone",
      "Adrien Rabiot",
      "Bradley Barcola",
      "Michael Olise",
@@ -249,8 +181,8 @@
      "Kristoffer Ajer",
      "Julian Ryerson",
      "Sander Berge",
-     "Patrick Berg",
      "Martin Odegaard",
+     "Patrick Berg",
      "Antonio Nusa",
      "Alexander Sorloth",
      "Erling Haaland"
@@ -264,8 +196,8 @@
      "Ezri Konsa",
      "Marc Guehi",
      "Djed Spence",
-     "Elliot Anderson",
      "Declan Rice",
+     "Elliot Anderson",
      "Anthony Gordon",
      "Jude Bellingham",
      "Bukayo Saka",
