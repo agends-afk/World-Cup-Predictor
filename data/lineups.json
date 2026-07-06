@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-07-06T03:19:00Z",
+ "fetched_utc": "2026-07-06T06:25:00Z",
  "matches": {
   "91": {
    "team1": {
@@ -236,6 +236,40 @@
      "Azzedine Ounahi",
      "Brahim Diaz",
      "Soufiane Rahimi"
+    ]
+   }
+  },
+  "99": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Orjan Nyland",
+     "David Moller Wolfe",
+     "Torbjorn Heggem",
+     "Kristoffer Ajer",
+     "Julian Ryerson",
+     "Sander Berge",
+     "Patrick Berg",
+     "Martin Odegaard",
+     "Antonio Nusa",
+     "Alexander Sorloth",
+     "Erling Haaland"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Jordan Pickford",
+     "Nico O'Reilly",
+     "Ezri Konsa",
+     "Marc Guehi",
+     "Djed Spence",
+     "Elliot Anderson",
+     "Declan Rice",
+     "Anthony Gordon",
+     "Jude Bellingham",
+     "Bukayo Saka",
+     "Harry Kane"
     ]
    }
   }
