@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-07-07T18:19:00Z",
+ "fetched_utc": "2026-07-07T19:47:00Z",
  "matches": {
   "95": {
    "team1": {
@@ -37,7 +37,7 @@
   },
   "96": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Gregor Kobel",
      "Ricardo Rodriguez",
@@ -46,14 +46,14 @@
      "Denis Zakaria",
      "Remo Freuler",
      "Granit Xhaka",
-     "Ruben Vargas",
+     "Ardon Jashari",
      "Fabian Rieder",
      "Dan Ndoye",
      "Breel Embolo"
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Camilo Vargas",
      "Johan Mojica",
@@ -125,8 +125,8 @@
     "xi": [
      "Thibaut Courtois",
      "Maxim De Cuyper",
-     "Nathan Ngoy",
      "Brandon Mechele",
+     "Nathan Ngoy",
      "Timothy Castagne",
      "Hans Vanaken",
      "Youri Tielemans",
