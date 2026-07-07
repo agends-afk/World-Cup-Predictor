@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-07-07T02:49:00Z",
+ "fetched_utc": "2026-07-07T04:15:00Z",
  "matches": {
   "93": {
    "team1": {
@@ -171,6 +171,40 @@
     ]
    }
   },
+  "98": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Unai Simon",
+     "Marc Cucurella",
+     "Aymeric Laporte",
+     "Pau Cubarsi",
+     "Pedro Porro",
+     "Rodri",
+     "Pedri",
+     "Alex Baena",
+     "Dani Olmo",
+     "Lamine Yamal",
+     "Mikel Oyarzabal"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Thibaut Courtois",
+     "Maxim De Cuyper",
+     "Nathan Ngoy",
+     "Brandon Mechele",
+     "Timothy Castagne",
+     "Nicolas Raskin",
+     "Hans Vanaken",
+     "Leandro Trossard",
+     "Youri Tielemans",
+     "Jeremy Doku",
+     "Charles De Ketelaere"
+    ]
+   }
+  },
   "99": {
    "team1": {
     "status": "projected",
@@ -193,11 +227,11 @@
     "xi": [
      "Jordan Pickford",
      "Nico O'Reilly",
-     "Ezri Konsa",
      "Marc Guehi",
+     "Ezri Konsa",
      "Djed Spence",
-     "Declan Rice",
      "Elliot Anderson",
+     "Declan Rice",
      "Anthony Gordon",
      "Jude Bellingham",
      "Bukayo Saka",
