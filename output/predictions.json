@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-08T13:58:31+10:00",
- "generated_aest": "Wed 8 Jul 2026, 1:58pm AEST",
+ "generated": "2026-07-09T09:32:11+10:00",
+ "generated_aest": "Thu 9 Jul 2026, 9:32am AEST",
  "data_through": "2026-07-07",
  "sim_runs": 10000,
  "params": {
@@ -14315,53 +14315,53 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.546,
-    "lam_b": 0.98,
-    "p_win": 0.4891,
-    "p_draw": 0.287,
-    "p_loss": 0.2239,
+    "lam_a": 1.537,
+    "lam_b": 0.985,
+    "p_win": 0.4853,
+    "p_draw": 0.288,
+    "p_loss": 0.2267,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1369
+      "p": 0.1374
      },
      {
       "score": "1-0",
-      "p": 0.1079
+      "p": 0.1076
      },
      {
       "score": "0-0",
-      "p": 0.0957
+      "p": 0.096
      },
      {
       "score": "2-0",
-      "p": 0.0956
+      "p": 0.0948
      },
      {
       "score": "2-1",
-      "p": 0.0937
+      "p": 0.0934
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1369
+      "p": 0.1374
      },
      "team1": {
       "score": "1-0",
-      "p": 0.1079
+      "p": 0.1076
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0626
+      "p": 0.0633
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1369,
-    "p_advance": 0.6587,
-    "p_et_win": 0.0788,
-    "p_pens": 0.1632,
-    "pen_edge": 0.557
+    "modal_p": 0.1374,
+    "p_advance": 0.6549,
+    "p_et_win": 0.0785,
+    "p_pens": 0.1639,
+    "pen_edge": 0.555
    },
    "prediction_base": {
     "lam_a": 1.592,
@@ -14414,10 +14414,10 @@
    },
    "lineup": {
     "team1": {
-     "elo": -15.3,
-     "delta_ovr": -2.05,
+     "elo": -18.3,
+     "delta_ovr": -2.45,
      "status": "projected",
-     "xi_mean": 83.5,
+     "xi_mean": 83.1,
      "baseline_mean": 85.5,
      "coverage": 0.91,
      "missing": [
@@ -15661,5 +15661,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "629773bdf17713b0f7a8d7c741ae0c481a2c3310"
+ "content_hash": "b172d368ea636556dbb521a0ba949d1dd6fa3d6c"
 }

@@ -1,6 +1,6 @@
 # World Cup 2026: match predictions
 
-Generated Wed 8 Jul 2026, 1:58pm AEST. Results included through 2026-07-07. 96 of 104 matches played. 10,000 tournament simulations.
+Generated Thu 9 Jul 2026, 9:32am AEST. Results included through 2026-07-07. 96 of 104 matches played. 10,000 tournament simulations.
 
 Every probability below is a model estimate built only from match results and public squad news, not from betting odds or published predictions. A favourite can be 75% to win while its most likely exact score sits near 12 to 15%; goals spread across many scorelines, so read the two numbers separately.
 
@@ -314,7 +314,7 @@ Until the groups finish, knockout pairings show the most frequent matchup across
 
 ### Quarterfinals
 
-- M97, Thu 09 Jul, Foxborough: Winner Match 89 v Winner Match 90. **France to win 49%** (draw 29%, Morocco win 22%); most likely France 1-0 (11%); **France to advance 66%**
+- M97, Thu 09 Jul, Foxborough: Winner Match 89 v Winner Match 90. **France to win 49%** (draw 29%, Morocco win 23%); most likely France 1-0 (11%); **France to advance 65%**
 - M98, Fri 10 Jul, Inglewood: Winner Match 93 v Winner Match 94. **Spain to win 54%** (draw 27%, Belgium win 19%); most likely Spain 1-0 (11%); **Spain to advance 71%**
 - M99, Sat 11 Jul, Miami Gardens: Winner Match 91 v Winner Match 92. **England to win 47%** (draw 29%, Norway win 24%); most likely England 1-0 (11%); **England to advance 64%**
 - M100, Sat 11 Jul, Kansas City: Winner Match 95 v Winner Match 96. **Argentina to win 59%** (draw 26%, Switzerland win 16%); most likely Argentina 2-0 (12%); **Argentina to advance 75%**

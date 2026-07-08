@@ -1,86 +1,18 @@
 {
- "fetched_utc": "2026-07-08T03:58:00Z",
+ "fetched_utc": "2026-07-08T23:32:00Z",
  "matches": {
-  "95": {
-   "team1": {
-    "status": "confirmed",
-    "xi": [
-     "Emiliano Martinez",
-     "Nicolas Tagliafico",
-     "Cristian Romero",
-     "Lisandro Martinez",
-     "Nahuel Molina",
-     "Alexis Mac Allister",
-     "Leandro Paredes",
-     "Enzo Fernandez",
-     "Rodrigo De Paul",
-     "Julian Alvarez",
-     "Lionel Messi"
-    ]
-   },
-   "team2": {
-    "status": "confirmed",
-    "xi": [
-     "Mostafa Shobeir",
-     "Karim Hafez",
-     "Ramy Rabia",
-     "Yasser Ibrahim",
-     "Mohamed Hany",
-     "Haissem Hassan",
-     "Mohanad Lasheen",
-     "Marwan Ateya",
-     "Emam Ashour",
-     "Mohamed Salah",
-     "Mostafa Ziko"
-    ]
-   }
-  },
-  "96": {
-   "team1": {
-    "status": "confirmed",
-    "xi": [
-     "Gregor Kobel",
-     "Ricardo Rodriguez",
-     "Manuel Akanji",
-     "Nico Elvedi",
-     "Denis Zakaria",
-     "Remo Freuler",
-     "Granit Xhaka",
-     "Ardon Jashari",
-     "Fabian Rieder",
-     "Dan Ndoye",
-     "Breel Embolo"
-    ]
-   },
-   "team2": {
-    "status": "confirmed",
-    "xi": [
-     "Camilo Vargas",
-     "Johan Mojica",
-     "Jhon Lucumi",
-     "Davinson Sanchez",
-     "Daniel Munoz",
-     "Gustavo Puerta",
-     "Jhon Arias",
-     "Jefferson Lerma",
-     "Luis Diaz",
-     "James Rodriguez",
-     "Luis Suarez"
-    ]
-   }
-  },
   "97": {
    "team1": {
     "status": "projected",
     "xi": [
      "Mike Maignan",
      "Lucas Digne",
-     "Dayot Upamecano",
      "William Saliba",
+     "Dayot Upamecano",
      "Jules Kounde",
      "Manu Kone",
      "Adrien Rabiot",
-     "Bradley Barcola",
+     "Desire Doue",
      "Michael Olise",
      "Ousmane Dembele",
      "Kylian Mbappe"
@@ -125,8 +57,8 @@
     "xi": [
      "Thibaut Courtois",
      "Maxim De Cuyper",
-     "Brandon Mechele",
      "Nathan Ngoy",
+     "Brandon Mechele",
      "Timothy Castagne",
      "Hans Vanaken",
      "Youri Tielemans",
@@ -146,9 +78,9 @@
      "Torbjorn Heggem",
      "Kristoffer Ajer",
      "Julian Ryerson",
-     "Sander Berge",
      "Martin Odegaard",
      "Patrick Berg",
+     "Sander Berge",
      "Antonio Nusa",
      "Alexander Sorloth",
      "Erling Haaland"
@@ -159,8 +91,8 @@
     "xi": [
      "Jordan Pickford",
      "Nico O'Reilly",
-     "Ezri Konsa",
      "Marc Guehi",
+     "Ezri Konsa",
      "Djed Spence",
      "Elliot Anderson",
      "Declan Rice",
@@ -182,8 +114,8 @@
      "Nahuel Molina",
      "Leandro Paredes",
      "Rodrigo De Paul",
-     "Alexis Mac Allister",
      "Enzo Fernandez",
+     "Alexis Mac Allister",
      "Julian Alvarez",
      "Lionel Messi"
     ]
