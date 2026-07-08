@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-08T09:13:07+10:00",
- "generated_aest": "Wed 8 Jul 2026, 9:13am AEST",
+ "generated": "2026-07-08T13:58:31+10:00",
+ "generated_aest": "Wed 8 Jul 2026, 1:58pm AEST",
  "data_through": "2026-07-07",
  "sim_runs": 10000,
  "params": {
@@ -14815,6 +14815,55 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
+    "lam_a": 1.796,
+    "lam_b": 0.844,
+    "p_win": 0.5852,
+    "p_draw": 0.2563,
+    "p_loss": 0.1586,
+    "top_scores": [
+     {
+      "score": "1-1",
+      "p": 0.1222
+     },
+     {
+      "score": "2-0",
+      "p": 0.1151
+     },
+     {
+      "score": "1-0",
+      "p": 0.1142
+     },
+     {
+      "score": "2-1",
+      "p": 0.0971
+     },
+     {
+      "score": "0-0",
+      "p": 0.0855
+     }
+    ],
+    "outcome_scores": {
+     "draw": {
+      "score": "1-1",
+      "p": 0.1222
+     },
+     "team1": {
+      "score": "2-0",
+      "p": 0.1151
+     },
+     "team2": {
+      "score": "0-1",
+      "p": 0.0462
+     }
+    },
+    "modal_score": "1-1",
+    "modal_p": 0.1222,
+    "p_advance": 0.7514,
+    "p_et_win": 0.0825,
+    "p_pens": 0.1412,
+    "pen_edge": 0.593
+   },
+   "prediction_base": {
     "lam_a": 1.831,
     "lam_b": 0.827,
     "p_win": 0.5976,
@@ -14862,6 +14911,48 @@
     "p_et_win": 0.0826,
     "p_pens": 0.1377,
     "pen_edge": 0.598
+   },
+   "lineup": {
+    "team1": {
+     "elo": -10.9,
+     "delta_ovr": -1.45,
+     "status": "projected",
+     "xi_mean": 83.4,
+     "baseline_mean": 84.8,
+     "coverage": 1.0,
+     "missing": [
+      {
+       "name": "Exequiel Palacios",
+       "ovr": 84
+      },
+      {
+       "name": "Nicolás Otamendi",
+       "ovr": 81
+      }
+     ]
+    },
+    "team2": {
+     "elo": -0.7,
+     "delta_ovr": -0.09,
+     "status": "projected",
+     "xi_mean": 79.3,
+     "baseline_mean": 79.4,
+     "coverage": 1.0,
+     "missing": [
+      {
+       "name": "Noah Okafor",
+       "ovr": 78
+      },
+      {
+       "name": "Silvan Widmer",
+       "ovr": 74
+      },
+      {
+       "name": "Zeki Amdouni",
+       "ovr": 73
+      }
+     ]
+    }
    }
   },
   {
@@ -15570,5 +15661,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "5cbca6626fa9a717338f63fe208a651839e7fdeb"
+ "content_hash": "629773bdf17713b0f7a8d7c741ae0c481a2c3310"
 }

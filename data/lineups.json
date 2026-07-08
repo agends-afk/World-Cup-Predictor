@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-07-07T23:13:00Z",
+ "fetched_utc": "2026-07-08T03:58:00Z",
  "matches": {
   "95": {
    "team1": {
@@ -168,6 +168,40 @@
      "Jude Bellingham",
      "Bukayo Saka",
      "Harry Kane"
+    ]
+   }
+  },
+  "100": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Emiliano Martinez",
+     "Nicolas Tagliafico",
+     "Cristian Romero",
+     "Lisandro Martinez",
+     "Nahuel Molina",
+     "Leandro Paredes",
+     "Rodrigo De Paul",
+     "Alexis Mac Allister",
+     "Enzo Fernandez",
+     "Julian Alvarez",
+     "Lionel Messi"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Gregor Kobel",
+     "Ricardo Rodriguez",
+     "Manuel Akanji",
+     "Nico Elvedi",
+     "Denis Zakaria",
+     "Remo Freuler",
+     "Granit Xhaka",
+     "Ruben Vargas",
+     "Fabian Rieder",
+     "Dan Ndoye",
+     "Breel Embolo"
     ]
    }
   }
