@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-10T06:12:00+10:00",
- "generated_aest": "Fri 10 Jul 2026, 6:12am AEST",
+ "generated": "2026-07-10T07:49:16+10:00",
+ "generated_aest": "Fri 10 Jul 2026, 7:49am AEST",
  "data_through": "2026-07-07",
  "sim_runs": 10000,
  "params": {
@@ -14790,19 +14790,19 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.812,
-    "lam_b": 0.836,
-    "p_win": 0.591,
-    "p_draw": 0.254,
-    "p_loss": 0.155,
+    "lam_a": 1.807,
+    "lam_b": 0.838,
+    "p_win": 0.5893,
+    "p_draw": 0.2547,
+    "p_loss": 0.156,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1212
+      "p": 0.1215
      },
      {
       "score": "2-0",
-      "p": 0.1162
+      "p": 0.1159
      },
      {
       "score": "1-0",
@@ -14814,28 +14814,28 @@
      },
      {
       "score": "0-0",
-      "p": 0.0847
+      "p": 0.085
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1212
+      "p": 0.1215
      },
      "team1": {
       "score": "2-0",
-      "p": 0.1162
+      "p": 0.1159
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0452
+      "p": 0.0455
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1212,
-    "p_advance": 0.7567,
-    "p_et_win": 0.0826,
-    "p_pens": 0.1396,
+    "modal_p": 0.1215,
+    "p_advance": 0.7551,
+    "p_et_win": 0.0825,
+    "p_pens": 0.14,
     "pen_edge": 0.595
    },
    "prediction_base": {
@@ -14889,10 +14889,10 @@
    },
    "lineup": {
     "team1": {
-     "elo": -6.1,
-     "delta_ovr": -0.82,
+     "elo": -7.5,
+     "delta_ovr": -1.0,
      "status": "projected",
-     "xi_mean": 84,
+     "xi_mean": 83.8,
      "baseline_mean": 84.8,
      "coverage": 1.0,
      "missing": [
@@ -15640,5 +15640,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "c31782f2b2db5f6f285f3f236c7e74d5e655e322"
+ "content_hash": "4bca6875dbbdbd6151b3687413564fc70a01d33f"
 }
