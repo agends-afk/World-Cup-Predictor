@@ -1,9 +1,9 @@
 {
- "fetched_utc": "2026-07-09T07:54:00Z",
+ "fetched_utc": "2026-07-09T20:11:00Z",
  "matches": {
   "97": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Mike Maignan",
      "Lucas Digne",
@@ -19,19 +19,19 @@
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Bono",
-     "Noussair Mazraoui",
-     "Chadi Riad",
+     "Anass Salah-Eddine",
      "Issa Diop",
+     "Noussair Mazraoui",
      "Achraf Hakimi",
-     "Neil El Aynaoui",
      "Ayyoub Bouaddi",
-     "Bilal El Khannouss",
+     "Neil El Aynaoui",
+     "Chemsdine Talbi",
      "Azzedine Ounahi",
      "Brahim Diaz",
-     "Soufiane Rahimi"
+     "Bilal El Khannouss"
     ]
    }
   },
@@ -41,8 +41,8 @@
     "xi": [
      "Unai Simon",
      "Marc Cucurella",
-     "Pau Cubarsi",
      "Aymeric Laporte",
+     "Pau Cubarsi",
      "Pedro Porro",
      "Rodri",
      "Pedri",
@@ -78,9 +78,9 @@
      "Torbjorn Heggem",
      "Kristoffer Ajer",
      "Julian Ryerson",
-     "Martin Odegaard",
-     "Patrick Berg",
      "Sander Berge",
+     "Patrick Berg",
+     "Martin Odegaard",
      "Antonio Nusa",
      "Alexander Sorloth",
      "Erling Haaland"
@@ -109,8 +109,8 @@
     "xi": [
      "Emiliano Martinez",
      "Facundo Medina",
-     "Cristian Romero",
      "Lisandro Martinez",
+     "Cristian Romero",
      "Nahuel Molina",
      "Leandro Paredes",
      "Rodrigo De Paul",

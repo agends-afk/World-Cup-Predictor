@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-09T17:54:57+10:00",
- "generated_aest": "Thu 9 Jul 2026, 5:54pm AEST",
+ "generated": "2026-07-10T06:12:00+10:00",
+ "generated_aest": "Fri 10 Jul 2026, 6:12am AEST",
  "data_through": "2026-07-07",
  "sim_runs": 10000,
  "params": {
@@ -14315,53 +14315,53 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.537,
-    "lam_b": 0.985,
-    "p_win": 0.4853,
-    "p_draw": 0.288,
-    "p_loss": 0.2267,
+    "lam_a": 1.484,
+    "lam_b": 1.021,
+    "p_win": 0.4627,
+    "p_draw": 0.2932,
+    "p_loss": 0.2442,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1374
+      "p": 0.1398
      },
      {
       "score": "1-0",
-      "p": 0.1076
+      "p": 0.1051
      },
      {
       "score": "0-0",
-      "p": 0.096
-     },
-     {
-      "score": "2-0",
-      "p": 0.0948
+      "p": 0.0978
      },
      {
       "score": "2-1",
-      "p": 0.0934
+      "p": 0.0918
+     },
+     {
+      "score": "2-0",
+      "p": 0.09
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1374
+      "p": 0.1398
      },
      "team1": {
       "score": "1-0",
-      "p": 0.1076
+      "p": 0.1051
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0633
+      "p": 0.0673
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1374,
-    "p_advance": 0.6549,
-    "p_et_win": 0.0785,
-    "p_pens": 0.1639,
-    "pen_edge": 0.555
+    "modal_p": 0.1398,
+    "p_advance": 0.6312,
+    "p_et_win": 0.0769,
+    "p_pens": 0.1677,
+    "pen_edge": 0.547
    },
    "prediction_base": {
     "lam_a": 1.592,
@@ -14414,9 +14414,9 @@
    },
    "lineup": {
     "team1": {
-     "elo": -18.3,
+     "elo": -36.7,
      "delta_ovr": -2.45,
-     "status": "projected",
+     "status": "confirmed",
      "xi_mean": 83.1,
      "baseline_mean": 85.5,
      "coverage": 0.91,
@@ -14439,32 +14439,7 @@
       }
      ]
     },
-    "team2": {
-     "elo": 0.0,
-     "delta_ovr": 0.23,
-     "status": "projected",
-     "xi_mean": 77.8,
-     "baseline_mean": 77.5,
-     "coverage": 0.82,
-     "missing": [
-      {
-       "name": "Yassine Bounou",
-       "ovr": 84
-      },
-      {
-       "name": "Sofyan Amrabat",
-       "ovr": 78
-      },
-      {
-       "name": "Ayoub El Kaabi",
-       "ovr": 78
-      },
-      {
-       "name": "Zakaria El Ouahdi",
-       "ovr": 71
-      }
-     ]
-    }
+    "team2": null
    }
   },
   {
@@ -15665,5 +15640,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "6cffb38e207cd7c8173a5b9219639b7a31c5d14b"
+ "content_hash": "c31782f2b2db5f6f285f3f236c7e74d5e655e322"
 }
