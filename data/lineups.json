@@ -1,51 +1,17 @@
 {
- "fetched_utc": "2026-07-10T04:27:00Z",
+ "fetched_utc": "2026-07-10T17:30:00Z",
  "matches": {
-  "97": {
-   "team1": {
-    "status": "confirmed",
-    "xi": [
-     "Mike Maignan",
-     "Lucas Digne",
-     "William Saliba",
-     "Dayot Upamecano",
-     "Jules Kounde",
-     "Manu Kone",
-     "Adrien Rabiot",
-     "Desire Doue",
-     "Michael Olise",
-     "Ousmane Dembele",
-     "Kylian Mbappe"
-    ]
-   },
-   "team2": {
-    "status": "confirmed",
-    "xi": [
-     "Bono",
-     "Anass Salah-Eddine",
-     "Issa Diop",
-     "Noussair Mazraoui",
-     "Achraf Hakimi",
-     "Ayyoub Bouaddi",
-     "Neil El Aynaoui",
-     "Chemsdine Talbi",
-     "Azzedine Ounahi",
-     "Brahim Diaz",
-     "Bilal El Khannouss"
-    ]
-   }
-  },
   "98": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Unai Simon",
      "Marc Cucurella",
-     "Aymeric Laporte",
      "Pau Cubarsi",
+     "Aymeric Laporte",
      "Pedro Porro",
+     "Fabian Ruiz",
      "Rodri",
-     "Pedri",
      "Alex Baena",
      "Dani Olmo",
      "Lamine Yamal",
@@ -57,8 +23,8 @@
     "xi": [
      "Thibaut Courtois",
      "Maxim De Cuyper",
-     "Nathan Ngoy",
      "Brandon Mechele",
+     "Nathan Ngoy",
      "Timothy Castagne",
      "Hans Vanaken",
      "Youri Tielemans",
@@ -79,8 +45,8 @@
      "Kristoffer Ajer",
      "Julian Ryerson",
      "Sander Berge",
-     "Patrick Berg",
      "Martin Odegaard",
+     "Patrick Berg",
      "Antonio Nusa",
      "Alexander Sorloth",
      "Erling Haaland"
@@ -113,9 +79,9 @@
      "Lisandro Martinez",
      "Nahuel Molina",
      "Leandro Paredes",
-     "Rodrigo De Paul",
-     "Alexis Mac Allister",
      "Enzo Fernandez",
+     "Alexis Mac Allister",
+     "Rodrigo De Paul",
      "Lautaro Martinez",
      "Lionel Messi"
     ]
@@ -125,8 +91,8 @@
     "xi": [
      "Gregor Kobel",
      "Ricardo Rodriguez",
-     "Manuel Akanji",
      "Nico Elvedi",
+     "Manuel Akanji",
      "Denis Zakaria",
      "Remo Freuler",
      "Granit Xhaka",
