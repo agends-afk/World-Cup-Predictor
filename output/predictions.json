@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-11T03:30:26+10:00",
- "generated_aest": "Sat 11 Jul 2026, 3:30am AEST",
+ "generated": "2026-07-11T05:06:23+10:00",
+ "generated_aest": "Sat 11 Jul 2026, 5:06am AEST",
  "data_through": "2026-07-09",
  "sim_runs": 10000,
  "params": {
@@ -14466,53 +14466,53 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.658,
-    "lam_b": 0.914,
-    "p_win": 0.534,
-    "p_draw": 0.2742,
-    "p_loss": 0.1918,
+    "lam_a": 1.724,
+    "lam_b": 0.878,
+    "p_win": 0.5593,
+    "p_draw": 0.2658,
+    "p_loss": 0.1749,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1308
+      "p": 0.1268
      },
      {
       "score": "1-0",
-      "p": 0.1116
+      "p": 0.1131
      },
      {
       "score": "2-0",
-      "p": 0.105
+      "p": 0.1101
      },
      {
       "score": "2-1",
-      "p": 0.096
+      "p": 0.0967
      },
      {
       "score": "0-0",
-      "p": 0.0915
+      "p": 0.0887
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1308
+      "p": 0.1268
      },
      "team1": {
       "score": "1-0",
-      "p": 0.1116
+      "p": 0.1131
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0548
+      "p": 0.0505
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1308,
-    "p_advance": 0.7035,
-    "p_et_win": 0.0812,
-    "p_pens": 0.1539,
-    "pen_edge": 0.574
+    "modal_p": 0.1268,
+    "p_advance": 0.7276,
+    "p_et_win": 0.082,
+    "p_pens": 0.1479,
+    "pen_edge": 0.583
    },
    "prediction_base": {
     "lam_a": 1.648,
@@ -14591,16 +14591,20 @@
      ]
     },
     "team2": {
-     "elo": -12.3,
-     "delta_ovr": -1.64,
-     "status": "projected",
-     "xi_mean": 79.7,
+     "elo": -32.7,
+     "delta_ovr": -2.18,
+     "status": "confirmed",
+     "xi_mean": 79.2,
      "baseline_mean": 81.4,
      "coverage": 1.0,
      "missing": [
       {
        "name": "Romelu Lukaku",
        "ovr": 82
+      },
+      {
+       "name": "Youri Tielemans",
+       "ovr": 81
       },
       {
        "name": "Axel Witsel",
@@ -15641,5 +15645,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "f7f648c8af497bd45e8990d7d8337d8c714f207f"
+ "content_hash": "fcc9347e6a0222213f5bdb823ae7ba8357e77522"
 }
