@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-11T07:44:11+10:00",
- "generated_aest": "Sat 11 Jul 2026, 7:44am AEST",
+ "generated": "2026-07-12T01:05:40+10:00",
+ "generated_aest": "Sun 12 Jul 2026, 1:05am AEST",
  "data_through": "2026-07-10",
  "sim_runs": 10000,
  "params": {
@@ -14970,6 +14970,55 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
+    "lam_a": 1.222,
+    "lam_b": 1.239,
+    "p_win": 0.3429,
+    "p_draw": 0.3061,
+    "p_loss": 0.351,
+    "top_scores": [
+     {
+      "score": "1-1",
+      "p": 0.146
+     },
+     {
+      "score": "0-0",
+      "p": 0.1021
+     },
+     {
+      "score": "0-1",
+      "p": 0.0889
+     },
+     {
+      "score": "1-0",
+      "p": 0.0875
+     },
+     {
+      "score": "1-2",
+      "p": 0.0801
+     }
+    ],
+    "outcome_scores": {
+     "draw": {
+      "score": "1-1",
+      "p": 0.146
+     },
+     "team2": {
+      "score": "0-1",
+      "p": 0.0889
+     },
+     "team1": {
+      "score": "1-0",
+      "p": 0.0875
+     }
+    },
+    "modal_score": "1-1",
+    "modal_p": 0.146,
+    "p_advance": 0.4951,
+    "p_et_win": 0.0639,
+    "p_pens": 0.1772,
+    "pen_edge": 0.498
+   },
+   "prediction_base": {
     "lam_a": 1.246,
     "lam_b": 1.216,
     "p_win": 0.3543,
@@ -15017,6 +15066,60 @@
     "p_et_win": 0.0654,
     "p_pens": 0.1772,
     "pen_edge": 0.503
+   },
+   "lineup": {
+    "team1": {
+     "elo": -11.6,
+     "delta_ovr": -1.55,
+     "status": "projected",
+     "xi_mean": 84,
+     "baseline_mean": 85.5,
+     "coverage": 0.91,
+     "missing": [
+      {
+       "name": "Theo Hernández",
+       "ovr": 87
+      },
+      {
+       "name": "N'Golo Kanté",
+       "ovr": 85
+      },
+      {
+       "name": "Lucas Hernández",
+       "ovr": 83
+      },
+      {
+       "name": "Marcus Thuram",
+       "ovr": 83
+      }
+     ]
+    },
+    "team2": {
+     "elo": -1.6,
+     "delta_ovr": -0.21,
+     "status": "projected",
+     "xi_mean": 82.7,
+     "baseline_mean": 82.9,
+     "coverage": 0.91,
+     "missing": [
+      {
+       "name": "Mikel Merino",
+       "ovr": 85
+      },
+      {
+       "name": "Nico Williams",
+       "ovr": 85
+      },
+      {
+       "name": "Ferran Torres",
+       "ovr": 80
+      },
+      {
+       "name": "Eric García",
+       "ovr": 78
+      }
+     ]
+    }
    }
   },
   {
@@ -15645,5 +15748,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "e0301ecd9aabc5ec8e800c7db0185662f97f6f00"
+ "content_hash": "5797560e55ea84f45c2974419d69a7816559c926"
 }

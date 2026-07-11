@@ -1,40 +1,6 @@
 {
- "fetched_utc": "2026-07-10T21:44:00Z",
+ "fetched_utc": "2026-07-11T15:05:00Z",
  "matches": {
-  "98": {
-   "team1": {
-    "status": "confirmed",
-    "xi": [
-     "Unai Simon",
-     "Marc Cucurella",
-     "Aymeric Laporte",
-     "Pau Cubarsi",
-     "Pedro Porro",
-     "Fabian Ruiz",
-     "Rodri",
-     "Alex Baena",
-     "Dani Olmo",
-     "Lamine Yamal",
-     "Mikel Oyarzabal"
-    ]
-   },
-   "team2": {
-    "status": "confirmed",
-    "xi": [
-     "Thibaut Courtois",
-     "Maxim De Cuyper",
-     "Brandon Mechele",
-     "Nathan Ngoy",
-     "Timothy Castagne",
-     "Nicolas Raskin",
-     "Hans Vanaken",
-     "Jeremy Doku",
-     "Kevin De Bruyne",
-     "Leandro Trossard",
-     "Charles De Ketelaere"
-    ]
-   }
-  },
   "99": {
    "team1": {
     "status": "projected",
@@ -44,8 +10,8 @@
      "Torbjorn Heggem",
      "Kristoffer Ajer",
      "Julian Ryerson",
-     "Sander Berge",
      "Martin Odegaard",
+     "Sander Berge",
      "Patrick Berg",
      "Antonio Nusa",
      "Alexander Sorloth",
@@ -80,8 +46,8 @@
      "Nahuel Molina",
      "Leandro Paredes",
      "Rodrigo De Paul",
-     "Alexis Mac Allister",
      "Enzo Fernandez",
+     "Alexis Mac Allister",
      "Lautaro Martinez",
      "Lionel Messi"
     ]
@@ -100,6 +66,40 @@
      "Fabian Rieder",
      "Dan Ndoye",
      "Breel Embolo"
+    ]
+   }
+  },
+  "101": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Mike Maignan",
+     "Lucas Digne",
+     "Dayot Upamecano",
+     "William Saliba",
+     "Jules Kounde",
+     "Aurelien Tchouameni",
+     "Adrien Rabiot",
+     "Desire Doue",
+     "Michael Olise",
+     "Ousmane Dembele",
+     "Kylian Mbappe"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Unai Simon",
+     "Marc Cucurella",
+     "Pau Cubarsi",
+     "Aymeric Laporte",
+     "Pedro Porro",
+     "Rodri",
+     "Pedri",
+     "Alex Baena",
+     "Dani Olmo",
+     "Lamine Yamal",
+     "Mikel Oyarzabal"
     ]
    }
   }
