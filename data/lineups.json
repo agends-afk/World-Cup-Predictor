@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-07-11T15:05:00Z",
+ "fetched_utc": "2026-07-11T19:34:00Z",
  "matches": {
   "99": {
    "team1": {
@@ -11,26 +11,26 @@
      "Kristoffer Ajer",
      "Julian Ryerson",
      "Martin Odegaard",
-     "Sander Berge",
      "Patrick Berg",
-     "Antonio Nusa",
+     "Sander Berge",
+     "Andreas Schjelderup",
      "Alexander Sorloth",
      "Erling Haaland"
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Jordan Pickford",
      "Nico O'Reilly",
      "John Stones",
+     "Marc Guehi",
      "Ezri Konsa",
-     "Djed Spence",
      "Elliot Anderson",
      "Declan Rice",
      "Anthony Gordon",
      "Jude Bellingham",
-     "Bukayo Saka",
+     "Noni Madueke",
      "Harry Kane"
     ]
    }
@@ -46,8 +46,8 @@
      "Nahuel Molina",
      "Leandro Paredes",
      "Rodrigo De Paul",
-     "Enzo Fernandez",
      "Alexis Mac Allister",
+     "Enzo Fernandez",
      "Lautaro Martinez",
      "Lionel Messi"
     ]
@@ -94,8 +94,8 @@
      "Pau Cubarsi",
      "Aymeric Laporte",
      "Pedro Porro",
-     "Rodri",
      "Pedri",
+     "Rodri",
      "Alex Baena",
      "Dani Olmo",
      "Lamine Yamal",
