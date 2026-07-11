@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-12T05:34:58+10:00",
- "generated_aest": "Sun 12 Jul 2026, 5:34am AEST",
+ "generated": "2026-07-12T06:25:31+10:00",
+ "generated_aest": "Sun 12 Jul 2026, 6:25am AEST",
  "data_through": "2026-07-10",
  "sim_runs": 10000,
  "params": {
@@ -14642,53 +14642,53 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.029,
-    "lam_b": 1.472,
-    "p_win": 0.2483,
-    "p_draw": 0.2943,
-    "p_loss": 0.4575,
+    "lam_a": 0.976,
+    "lam_b": 1.553,
+    "p_win": 0.2219,
+    "p_draw": 0.2863,
+    "p_loss": 0.4918,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1404
+      "p": 0.1366
      },
      {
       "score": "0-1",
-      "p": 0.1046
-     },
-     {
-      "score": "0-0",
-      "p": 0.0981
-     },
-     {
-      "score": "1-2",
-      "p": 0.0914
+      "p": 0.1082
      },
      {
       "score": "0-2",
-      "p": 0.0888
+      "p": 0.0962
+     },
+     {
+      "score": "0-0",
+      "p": 0.0955
+     },
+     {
+      "score": "1-2",
+      "p": 0.0938
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1404
+      "p": 0.1366
      },
      "team2": {
       "score": "0-1",
-      "p": 0.1046
+      "p": 0.1082
      },
      "team1": {
       "score": "1-0",
-      "p": 0.0682
+      "p": 0.0621
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1404,
-    "p_advance": 0.3743,
-    "p_et_win": 0.0493,
-    "p_pens": 0.1685,
-    "pen_edge": 0.455
+    "modal_p": 0.1366,
+    "p_advance": 0.3385,
+    "p_et_win": 0.0447,
+    "p_pens": 0.1627,
+    "pen_edge": 0.442
    },
    "prediction_base": {
     "lam_a": 1.039,
@@ -14741,9 +14741,9 @@
    },
    "lineup": {
     "team1": {
-     "elo": -27.7,
+     "elo": -55.5,
      "delta_ovr": -3.7,
-     "status": "projected",
+     "status": "confirmed",
      "xi_mean": 75.7,
      "baseline_mean": 79.4,
      "coverage": 0.82,
@@ -15748,5 +15748,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "1d6cc89fcaea2fd4553d4e3fb79e7e62a946417b"
+ "content_hash": "b47eca80f33d92c530f15a3c409e0e934bc390c6"
 }
