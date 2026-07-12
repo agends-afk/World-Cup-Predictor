@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-07-11T20:25:00Z",
+ "fetched_utc": "2026-07-12T01:07:00Z",
  "matches": {
   "99": {
    "team1": {
@@ -37,7 +37,7 @@
   },
   "100": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Emiliano Martinez",
      "Nicolas Tagliafico",
@@ -46,14 +46,14 @@
      "Nahuel Molina",
      "Leandro Paredes",
      "Rodrigo De Paul",
-     "Alexis Mac Allister",
      "Enzo Fernandez",
-     "Lautaro Martinez",
+     "Alexis Mac Allister",
+     "Julian Alvarez",
      "Lionel Messi"
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Gregor Kobel",
      "Ricardo Rodriguez",
@@ -62,9 +62,9 @@
      "Denis Zakaria",
      "Remo Freuler",
      "Granit Xhaka",
-     "Ruben Vargas",
-     "Fabian Rieder",
      "Dan Ndoye",
+     "Djibril Sow",
+     "Fabian Rieder",
      "Breel Embolo"
     ]
    }
@@ -94,8 +94,8 @@
      "Pau Cubarsi",
      "Aymeric Laporte",
      "Pedro Porro",
-     "Pedri",
      "Rodri",
+     "Pedri",
      "Alex Baena",
      "Dani Olmo",
      "Lamine Yamal",
