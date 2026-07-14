@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-15T01:00:17+10:00",
- "generated_aest": "Wed 15 Jul 2026, 1:00am AEST",
+ "generated": "2026-07-15T03:43:22+10:00",
+ "generated_aest": "Wed 15 Jul 2026, 3:43am AEST",
  "data_through": "2026-07-11",
  "sim_runs": 10000,
  "params": {
@@ -14982,11 +14982,11 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.229,
-    "lam_b": 1.232,
-    "p_win": 0.3463,
+    "lam_a": 1.227,
+    "lam_b": 1.235,
+    "p_win": 0.345,
     "p_draw": 0.3061,
-    "p_loss": 0.3476,
+    "p_loss": 0.3488,
     "top_scores": [
      {
       "score": "1-1",
@@ -14998,15 +14998,15 @@
      },
      {
       "score": "0-1",
-      "p": 0.0883
+      "p": 0.0885
      },
      {
       "score": "1-0",
-      "p": 0.0881
+      "p": 0.0879
      },
      {
       "score": "1-2",
-      "p": 0.0796
+      "p": 0.0798
      }
     ],
     "outcome_scores": {
@@ -15016,19 +15016,19 @@
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0883
+      "p": 0.0885
      },
      "team1": {
       "score": "1-0",
-      "p": 0.0881
+      "p": 0.0879
      }
     },
     "modal_score": "1-1",
     "modal_p": 0.146,
-    "p_advance": 0.4992,
-    "p_et_win": 0.0644,
+    "p_advance": 0.4977,
+    "p_et_win": 0.0642,
     "p_pens": 0.1772,
-    "pen_edge": 0.5
+    "pen_edge": 0.499
    },
    "prediction_base": {
     "lam_a": 1.246,
@@ -15081,9 +15081,9 @@
    },
    "lineup": {
     "team1": {
-     "elo": -8.6,
+     "elo": -17.2,
      "delta_ovr": -1.15,
-     "status": "projected",
+     "status": "confirmed",
      "xi_mean": 84.4,
      "baseline_mean": 85.5,
      "coverage": 0.91,
@@ -15107,10 +15107,10 @@
      ]
     },
     "team2": {
-     "elo": -1.6,
-     "delta_ovr": -0.21,
-     "status": "projected",
-     "xi_mean": 82.7,
+     "elo": -9.1,
+     "delta_ovr": -0.61,
+     "status": "confirmed",
+     "xi_mean": 82.3,
      "baseline_mean": 82.9,
      "coverage": 0.91,
      "missing": [
@@ -15836,5 +15836,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "5ae84a1e0645c87eb038b69879bb901a9f430a23"
+ "content_hash": "f8a501894b53f1705687f5ed6240fdf3d967ffb7"
 }
