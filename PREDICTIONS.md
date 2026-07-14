@@ -1,6 +1,6 @@
 # World Cup 2026: match predictions
 
-Generated Wed 15 Jul 2026, 3:43am AEST. Results included through 2026-07-11. 100 of 104 matches played. 10,000 tournament simulations.
+Generated Wed 15 Jul 2026, 7:08am AEST. Results included through 2026-07-14. 101 of 104 matches played. 10,000 tournament simulations.
 
 Every probability below is a model estimate built only from match results and public squad news, not from betting odds or published predictions. A favourite can be 75% to win while its most likely exact score sits near 12 to 15%; goals spread across many scorelines, so read the two numbers separately.
 
@@ -10,10 +10,9 @@ Refresh after new results with: `python3 update.py` (regenerates this document).
 
 | Team | Group | Rating | Last 32 | Quarterfinal | Semifinal | Final | Champion |
 | - | - | - | - | - | - | - | - |
-| Argentina | J | 2284 | 100% | 100% | 100% | 62% | **32.8%** |
-| France | I | 2262 | 100% | 100% | 100% | 51% | **26.1%** |
-| Spain | H | 2256 | 100% | 100% | 100% | 49% | **25.2%** |
-| England | L | 2198 | 100% | 100% | 100% | 38% | **15.8%** |
+| Spain | H | 2311 | 100% | 100% | 100% | 100% | **58.8%** |
+| Argentina | J | 2284 | 100% | 100% | 100% | 62% | **28.8%** |
+| England | L | 2198 | 100% | 100% | 100% | 38% | **12.3%** |
 | Czech Republic | A | 1756 | 0% | 0% | 0% | 0% | **0.0%** |
 | Mexico | A | 2035 | 100% | 0% | 0% | 0% | **0.0%** |
 | South Africa | A | 1706 | 100% | 0% | 0% | 0% | **0.0%** |
@@ -26,8 +25,9 @@ Refresh after new results with: `python3 update.py` (regenerates this document).
 | Haiti | C | 1669 | 0% | 0% | 0% | 0% | **0.0%** |
 | Morocco | C | 2060 | 100% | 100% | 0% | 0% | **0.0%** |
 | Scotland | C | 1810 | 0% | 0% | 0% | 0% | **0.0%** |
+| Australia | D | 1902 | 100% | 0% | 0% | 0% | **0.0%** |
 
-Model record so far: 65/100 correct results, 12/100 exact scorelines.
+Model record so far: 66/101 correct results, 12/101 exact scorelines.
 
 ## Ratings cross-check (model vs FIFA)
 
@@ -35,9 +35,9 @@ A read-only comparison of the model's own rating order against the FIFA/Coca-Col
 
 | Model # | Team | Model rating | FIFA # | FIFA pts | vs FIFA |
 | - | - | - | - | - | - |
-| 1 | Argentina | 2284 | 1 | 1877.27 | +0 |
-| 2 | France | 2262 | 3 | 1870.7 | +1 |
-| 3 | Spain | 2256 | 2 | 1874.71 | -1 |
+| 1 | Spain | 2311 | 2 | 1874.71 | +1 |
+| 2 | Argentina | 2284 | 1 | 1877.27 | -1 |
+| 3 | France | 2206 | 3 | 1870.7 | +0 |
 | 4 | England | 2198 | 4 | 1828.02 | +0 |
 | 5 | Colombia | 2100 | 13 | 1698.35 | +8 |
 | 6 | Portugal | 2071 | 5 | 1767.85 | -1 |
@@ -321,16 +321,16 @@ Until the groups finish, knockout pairings show the most frequent matchup across
 
 ### Semifinals
 
-- M101, Tue 14 Jul, Arlington: Winner Match 97 v Winner Match 98. **Spain to win 35%** (draw 31%, France win 34%); most likely Spain 1-0 (9%); **Spain to advance 50%**
+- M101, Tue 14 Jul, Arlington: Winner Match 97 v Winner Match 98. **Played: France 0-2 Spain.** Model said Spain to win 35% (draw 31%, France win 34%); most likely Spain 1-0 (9%); result hit, score miss
 - M102, Wed 15 Jul, Atlanta: Winner Match 99 v Winner Match 100. **Argentina to win 44%** (draw 30%, England win 26%); most likely Argentina 1-0 (10%); **Argentina to advance 61%**
 
 ### Third place playoff
 
-- M103, Sat 18 Jul, Miami Gardens: Loser Match 101 v Loser Match 102. Most likely pairing (31% of simulations): **Spain to win 41%** (draw 30%, England win 28%); most likely Spain 1-0 (10%); **Spain to advance 58%**
+- M103, Sat 18 Jul, Miami Gardens: Loser Match 101 v Loser Match 102. Most likely pairing (62% of simulations): **France to win 36%** (draw 31%, England win 34%); most likely France 1-0 (9%); **France to advance 51%**
 
 ### Final
 
-- M104, Sun 19 Jul, East Rutherford: Winner Match 101 v Winner Match 102. Most likely pairing (31% of simulations): **Argentina to win 37%** (draw 31%, France win 32%); most likely Argentina 1-0 (9%); **Argentina to advance 53%**
+- M104, Sun 19 Jul, East Rutherford: Winner Match 101 v Winner Match 102. Most likely pairing (62% of simulations): **Spain to win 38%** (draw 30%, Argentina win 32%); most likely Spain 1-0 (9%); **Spain to advance 54%**
 
 ## Method in brief
 
