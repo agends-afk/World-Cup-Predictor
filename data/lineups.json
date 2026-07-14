@@ -1,74 +1,6 @@
 {
- "fetched_utc": "2026-07-12T04:42:00Z",
+ "fetched_utc": "2026-07-14T15:00:00Z",
  "matches": {
-  "99": {
-   "team1": {
-    "status": "confirmed",
-    "xi": [
-     "Orjan Nyland",
-     "David Moller Wolfe",
-     "Torbjorn Heggem",
-     "Kristoffer Ajer",
-     "Julian Ryerson",
-     "Martin Odegaard",
-     "Patrick Berg",
-     "Sander Berge",
-     "Andreas Schjelderup",
-     "Alexander Sorloth",
-     "Erling Haaland"
-    ]
-   },
-   "team2": {
-    "status": "confirmed",
-    "xi": [
-     "Jordan Pickford",
-     "Nico O'Reilly",
-     "John Stones",
-     "Marc Guehi",
-     "Ezri Konsa",
-     "Elliot Anderson",
-     "Declan Rice",
-     "Anthony Gordon",
-     "Jude Bellingham",
-     "Noni Madueke",
-     "Harry Kane"
-    ]
-   }
-  },
-  "100": {
-   "team1": {
-    "status": "confirmed",
-    "xi": [
-     "Emiliano Martinez",
-     "Nicolas Tagliafico",
-     "Cristian Romero",
-     "Lisandro Martinez",
-     "Nahuel Molina",
-     "Leandro Paredes",
-     "Rodrigo De Paul",
-     "Enzo Fernandez",
-     "Alexis Mac Allister",
-     "Julian Alvarez",
-     "Lionel Messi"
-    ]
-   },
-   "team2": {
-    "status": "confirmed",
-    "xi": [
-     "Gregor Kobel",
-     "Ricardo Rodriguez",
-     "Manuel Akanji",
-     "Nico Elvedi",
-     "Denis Zakaria",
-     "Remo Freuler",
-     "Granit Xhaka",
-     "Dan Ndoye",
-     "Djibril Sow",
-     "Fabian Rieder",
-     "Breel Embolo"
-    ]
-   }
-  },
   "101": {
    "team1": {
     "status": "projected",
@@ -80,7 +12,7 @@
      "Jules Kounde",
      "Aurelien Tchouameni",
      "Adrien Rabiot",
-     "Desire Doue",
+     "Bradley Barcola",
      "Michael Olise",
      "Ousmane Dembele",
      "Kylian Mbappe"
@@ -109,8 +41,8 @@
     "xi": [
      "Jordan Pickford",
      "Nico O'Reilly",
-     "John Stones",
      "Marc Guehi",
+     "John Stones",
      "Ezri Konsa",
      "Declan Rice",
      "Elliot Anderson",
@@ -129,9 +61,9 @@
      "Lisandro Martinez",
      "Nahuel Molina",
      "Leandro Paredes",
-     "Enzo Fernandez",
      "Rodrigo De Paul",
      "Alexis Mac Allister",
+     "Enzo Fernandez",
      "Julian Alvarez",
      "Lionel Messi"
     ]
