@@ -1,6 +1,6 @@
 # World Cup 2026: match predictions
 
-Generated Thu 16 Jul 2026, 4:15am AEST. Results included through 2026-07-14. 101 of 104 matches played. 10,000 tournament simulations.
+Generated Thu 16 Jul 2026, 7:41am AEST. Results included through 2026-07-15. 102 of 104 matches played. 10,000 tournament simulations.
 
 Every probability below is a model estimate built only from match results and public squad news, not from betting odds or published predictions. A favourite can be 75% to win while its most likely exact score sits near 12 to 15%; goals spread across many scorelines, so read the two numbers separately.
 
@@ -10,9 +10,8 @@ Refresh after new results with: `python3 update.py` (regenerates this document).
 
 | Team | Group | Rating | Last 32 | Quarterfinal | Semifinal | Final | Champion |
 | - | - | - | - | - | - | - | - |
-| Spain | H | 2311 | 100% | 100% | 100% | 100% | **58.8%** |
-| Argentina | J | 2284 | 100% | 100% | 100% | 62% | **28.8%** |
-| England | L | 2198 | 100% | 100% | 100% | 38% | **12.3%** |
+| Argentina | J | 2312 | 100% | 100% | 100% | 100% | **51.1%** |
+| Spain | H | 2311 | 100% | 100% | 100% | 100% | **48.9%** |
 | Czech Republic | A | 1756 | 0% | 0% | 0% | 0% | **0.0%** |
 | Mexico | A | 2035 | 100% | 0% | 0% | 0% | **0.0%** |
 | South Africa | A | 1706 | 100% | 0% | 0% | 0% | **0.0%** |
@@ -26,8 +25,9 @@ Refresh after new results with: `python3 update.py` (regenerates this document).
 | Morocco | C | 2060 | 100% | 100% | 0% | 0% | **0.0%** |
 | Scotland | C | 1810 | 0% | 0% | 0% | 0% | **0.0%** |
 | Australia | D | 1902 | 100% | 0% | 0% | 0% | **0.0%** |
+| Paraguay | D | 1912 | 100% | 0% | 0% | 0% | **0.0%** |
 
-Model record so far: 66/101 correct results, 12/101 exact scorelines.
+Model record so far: 67/102 correct results, 12/102 exact scorelines.
 
 ## Ratings cross-check (model vs FIFA)
 
@@ -35,10 +35,10 @@ A read-only comparison of the model's own rating order against the FIFA/Coca-Col
 
 | Model # | Team | Model rating | FIFA # | FIFA pts | vs FIFA |
 | - | - | - | - | - | - |
-| 1 | Spain | 2311 | 2 | 1874.71 | +1 |
-| 2 | Argentina | 2284 | 1 | 1877.27 | -1 |
+| 1 | Argentina | 2312 | 1 | 1877.27 | +0 |
+| 2 | Spain | 2311 | 2 | 1874.71 | +0 |
 | 3 | France | 2206 | 3 | 1870.7 | +0 |
-| 4 | England | 2198 | 4 | 1828.02 | +0 |
+| 4 | England | 2170 | 4 | 1828.02 | +0 |
 | 5 | Colombia | 2100 | 13 | 1698.35 | +8 |
 | 6 | Portugal | 2071 | 5 | 1767.85 | -1 |
 | 7 | Belgium | 2063 | 9 | 1742.24 | +2 |
@@ -322,15 +322,15 @@ Until the groups finish, knockout pairings show the most frequent matchup across
 ### Semifinals
 
 - M101, Tue 14 Jul, Arlington: Winner Match 97 v Winner Match 98. **Played: France 0-2 Spain.** Model said Spain to win 35% (draw 31%, France win 34%); most likely Spain 1-0 (9%); result hit, score miss
-- M102, Wed 15 Jul, Atlanta: Winner Match 99 v Winner Match 100. **Argentina to win 45%** (draw 30%, England win 25%); most likely Argentina 1-0 (10%); **Argentina to advance 62%**
+- M102, Wed 15 Jul, Atlanta: Winner Match 99 v Winner Match 100. **Played: England 1-2 Argentina.** Model said Argentina to win 45% (draw 30%, England win 25%); most likely Argentina 1-0 (10%); result hit, score miss
 
 ### Third place playoff
 
-- M103, Sat 18 Jul, Miami Gardens: Loser Match 101 v Loser Match 102. Most likely pairing (62% of simulations): **France to win 36%** (draw 31%, England win 34%); most likely France 1-0 (9%); **France to advance 51%**
+- M103, Sat 18 Jul, Miami Gardens: Loser Match 101 v Loser Match 102. **France to win 39%** (draw 30%, England win 31%); most likely France 1-0 (10%); **France to advance 55%**
 
 ### Final
 
-- M104, Sun 19 Jul, East Rutherford: Winner Match 101 v Winner Match 102. Most likely pairing (62% of simulations): **Spain to win 38%** (draw 30%, Argentina win 32%); most likely Spain 1-0 (9%); **Spain to advance 54%**
+- M104, Sun 19 Jul, East Rutherford: Winner Match 101 v Winner Match 102. **Argentina to win 35%** (draw 31%, Spain win 35%); most likely Argentina 1-0 (9%); **Argentina to advance 50%**
 
 ## Method in brief
 
