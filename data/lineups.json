@@ -1,54 +1,20 @@
 {
- "fetched_utc": "2026-07-14T21:08:00Z",
+ "fetched_utc": "2026-07-15T16:57:00Z",
  "matches": {
-  "101": {
-   "team1": {
-    "status": "confirmed",
-    "xi": [
-     "Mike Maignan",
-     "Lucas Digne",
-     "Dayot Upamecano",
-     "William Saliba",
-     "Jules Kounde",
-     "Aurelien Tchouameni",
-     "Adrien Rabiot",
-     "Bradley Barcola",
-     "Michael Olise",
-     "Ousmane Dembele",
-     "Kylian Mbappe"
-    ]
-   },
-   "team2": {
-    "status": "confirmed",
-    "xi": [
-     "Unai Simon",
-     "Marc Cucurella",
-     "Aymeric Laporte",
-     "Pau Cubarsi",
-     "Pedro Porro",
-     "Rodri",
-     "Fabian Ruiz",
-     "Alex Baena",
-     "Dani Olmo",
-     "Lamine Yamal",
-     "Mikel Oyarzabal"
-    ]
-   }
-  },
   "102": {
    "team1": {
     "status": "projected",
     "xi": [
      "Jordan Pickford",
      "Nico O'Reilly",
-     "Marc Guehi",
      "John Stones",
+     "Marc Guehi",
      "Ezri Konsa",
-     "Declan Rice",
      "Elliot Anderson",
+     "Declan Rice",
      "Anthony Gordon",
      "Jude Bellingham",
-     "Bukayo Saka",
+     "Morgan Rogers",
      "Harry Kane"
     ]
    },
@@ -57,15 +23,15 @@
     "xi": [
      "Emiliano Martinez",
      "Nicolas Tagliafico",
-     "Cristian Romero",
      "Lisandro Martinez",
+     "Cristian Romero",
      "Nahuel Molina",
+     "Nicolas Gonzalez",
      "Leandro Paredes",
-     "Rodrigo De Paul",
-     "Alexis Mac Allister",
      "Enzo Fernandez",
-     "Julian Alvarez",
-     "Lionel Messi"
+     "Alexis Mac Allister",
+     "Lionel Messi",
+     "Julian Alvarez"
     ]
    }
   }

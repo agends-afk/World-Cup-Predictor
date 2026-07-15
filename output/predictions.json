@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-15T07:08:36+10:00",
- "generated_aest": "Wed 15 Jul 2026, 7:08am AEST",
+ "generated": "2026-07-16T02:57:21+10:00",
+ "generated_aest": "Thu 16 Jul 2026, 2:57am AEST",
  "data_through": "2026-07-14",
  "sim_runs": 10000,
  "params": {
@@ -15158,53 +15158,53 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.057,
-    "lam_b": 1.433,
-    "p_win": 0.2621,
-    "p_draw": 0.2975,
-    "p_loss": 0.4404,
+    "lam_a": 1.044,
+    "lam_b": 1.45,
+    "p_win": 0.2558,
+    "p_draw": 0.2961,
+    "p_loss": 0.4481,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1419
+      "p": 0.1412
      },
      {
       "score": "0-1",
-      "p": 0.1025
+      "p": 0.1034
      },
      {
       "score": "0-0",
-      "p": 0.0992
+      "p": 0.0988
      },
      {
       "score": "1-2",
-      "p": 0.09
+      "p": 0.0906
      },
      {
       "score": "0-2",
-      "p": 0.0851
+      "p": 0.0868
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1419
+      "p": 0.1412
      },
      "team2": {
       "score": "0-1",
-      "p": 0.1025
+      "p": 0.1034
      },
      "team1": {
       "score": "1-0",
-      "p": 0.0713
+      "p": 0.0699
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1419,
-    "p_advance": 0.3927,
-    "p_et_win": 0.0517,
-    "p_pens": 0.1709,
-    "pen_edge": 0.462
+    "modal_p": 0.1412,
+    "p_advance": 0.3844,
+    "p_et_win": 0.0506,
+    "p_pens": 0.1698,
+    "pen_edge": 0.459
    },
    "prediction_base": {
     "lam_a": 1.045,
@@ -15257,13 +15257,17 @@
    },
    "lineup": {
     "team1": {
-     "elo": -4.7,
-     "delta_ovr": -0.63,
+     "elo": -13.7,
+     "delta_ovr": -1.83,
      "status": "projected",
-     "xi_mean": 84.1,
+     "xi_mean": 82.9,
      "baseline_mean": 84.7,
      "coverage": 0.91,
      "missing": [
+      {
+       "name": "Bukayo Saka",
+       "ovr": 87
+      },
       {
        "name": "Ollie Watkins",
        "ovr": 85
@@ -15279,13 +15283,17 @@
      ]
     },
     "team2": {
-     "elo": -10.9,
-     "delta_ovr": -1.45,
+     "elo": -13.6,
+     "delta_ovr": -1.82,
      "status": "projected",
-     "xi_mean": 83.4,
+     "xi_mean": 83,
      "baseline_mean": 84.8,
      "coverage": 1.0,
      "missing": [
+      {
+       "name": "Rodrigo De Paul",
+       "ovr": 84
+      },
       {
        "name": "Exequiel Palacios",
        "ovr": 84
@@ -15830,5 +15838,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "fa29db1ce9eeb0bb61b6262fa9b960e530e0c35c"
+ "content_hash": "9524aecaf6be9072f39b0114d26a67d770f2e2e5"
 }
