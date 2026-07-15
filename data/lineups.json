@@ -1,17 +1,17 @@
 {
- "fetched_utc": "2026-07-15T16:57:00Z",
+ "fetched_utc": "2026-07-15T18:15:00Z",
  "matches": {
   "102": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Jordan Pickford",
-     "Nico O'Reilly",
-     "John Stones",
+     "Djed Spence",
      "Marc Guehi",
-     "Ezri Konsa",
-     "Elliot Anderson",
+     "John Stones",
+     "Reece James",
      "Declan Rice",
+     "Elliot Anderson",
      "Anthony Gordon",
      "Jude Bellingham",
      "Morgan Rogers",
@@ -19,19 +19,19 @@
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Emiliano Martinez",
      "Nicolas Tagliafico",
-     "Lisandro Martinez",
      "Cristian Romero",
+     "Lisandro Martinez",
      "Nahuel Molina",
-     "Nicolas Gonzalez",
+     "Alexis Mac Allister",
      "Leandro Paredes",
      "Enzo Fernandez",
-     "Alexis Mac Allister",
-     "Lionel Messi",
-     "Julian Alvarez"
+     "Julian Alvarez",
+     "Giuliano Simeone",
+     "Lionel Messi"
     ]
    }
   }

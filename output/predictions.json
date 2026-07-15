@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-16T02:57:21+10:00",
- "generated_aest": "Thu 16 Jul 2026, 2:57am AEST",
+ "generated": "2026-07-16T04:15:20+10:00",
+ "generated_aest": "Thu 16 Jul 2026, 4:15am AEST",
  "data_through": "2026-07-14",
  "sim_runs": 10000,
  "params": {
@@ -15158,53 +15158,53 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.044,
-    "lam_b": 1.45,
-    "p_win": 0.2558,
-    "p_draw": 0.2961,
-    "p_loss": 0.4481,
+    "lam_a": 1.039,
+    "lam_b": 1.458,
+    "p_win": 0.2532,
+    "p_draw": 0.2955,
+    "p_loss": 0.4513,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1412
+      "p": 0.141
      },
      {
       "score": "0-1",
-      "p": 0.1034
+      "p": 0.1038
      },
      {
       "score": "0-0",
-      "p": 0.0988
+      "p": 0.0986
      },
      {
       "score": "1-2",
-      "p": 0.0906
+      "p": 0.0909
      },
      {
       "score": "0-2",
-      "p": 0.0868
+      "p": 0.0875
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1412
+      "p": 0.141
      },
      "team2": {
       "score": "0-1",
-      "p": 0.1034
+      "p": 0.1038
      },
      "team1": {
       "score": "1-0",
-      "p": 0.0699
+      "p": 0.0694
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1412,
-    "p_advance": 0.3844,
-    "p_et_win": 0.0506,
-    "p_pens": 0.1698,
-    "pen_edge": 0.459
+    "modal_p": 0.141,
+    "p_advance": 0.381,
+    "p_et_win": 0.0502,
+    "p_pens": 0.1694,
+    "pen_edge": 0.458
    },
    "prediction_base": {
     "lam_a": 1.045,
@@ -15257,12 +15257,12 @@
    },
    "lineup": {
     "team1": {
-     "elo": -13.7,
-     "delta_ovr": -1.83,
-     "status": "projected",
-     "xi_mean": 82.9,
+     "elo": -40.9,
+     "delta_ovr": -2.73,
+     "status": "confirmed",
+     "xi_mean": 82,
      "baseline_mean": 84.7,
-     "coverage": 0.91,
+     "coverage": 1.0,
      "missing": [
       {
        "name": "Bukayo Saka",
@@ -15273,8 +15273,8 @@
        "ovr": 85
       },
       {
-       "name": "Reece James",
-       "ovr": 82
+       "name": "Ezri Konsa",
+       "ovr": 81
       },
       {
        "name": "Eberechi Eze",
@@ -15283,10 +15283,10 @@
      ]
     },
     "team2": {
-     "elo": -13.6,
-     "delta_ovr": -1.82,
-     "status": "projected",
-     "xi_mean": 83,
+     "elo": -38.2,
+     "delta_ovr": -2.55,
+     "status": "confirmed",
+     "xi_mean": 82.3,
      "baseline_mean": 84.8,
      "coverage": 1.0,
      "missing": [
@@ -15838,5 +15838,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "9524aecaf6be9072f39b0114d26a67d770f2e2e5"
+ "content_hash": "334b9e342b0389bb3ca83937d8ca55684c5895ca"
 }
