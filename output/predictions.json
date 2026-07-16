@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-16T19:22:38+10:00",
- "generated_aest": "Thu 16 Jul 2026, 7:22pm AEST",
+ "generated": "2026-07-17T01:09:39+10:00",
+ "generated_aest": "Fri 17 Jul 2026, 1:09am AEST",
  "data_through": "2026-07-15",
  "sim_runs": 10000,
  "params": {
@@ -15330,53 +15330,53 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.328,
-    "lam_b": 1.141,
-    "p_win": 0.3928,
-    "p_draw": 0.304,
-    "p_loss": 0.3032,
+    "lam_a": 1.361,
+    "lam_b": 1.113,
+    "p_win": 0.4079,
+    "p_draw": 0.3023,
+    "p_loss": 0.2897,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.145
+      "p": 0.1442
      },
      {
       "score": "0-0",
-      "p": 0.1014
+      "p": 0.1008
      },
      {
       "score": "1-0",
-      "p": 0.0958
+      "p": 0.0981
      },
      {
       "score": "2-1",
-      "p": 0.0852
+      "p": 0.0868
      },
      {
-      "score": "0-1",
-      "p": 0.0799
+      "score": "2-0",
+      "p": 0.078
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.145
+      "p": 0.1442
      },
      "team1": {
       "score": "1-0",
-      "p": 0.0958
+      "p": 0.0981
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0799
+      "p": 0.0772
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.145,
-    "p_advance": 0.5541,
-    "p_et_win": 0.0701,
-    "p_pens": 0.1756,
-    "pen_edge": 0.519
+    "modal_p": 0.1442,
+    "p_advance": 0.5713,
+    "p_et_win": 0.0718,
+    "p_pens": 0.1744,
+    "pen_edge": 0.525
    },
    "prediction_base": {
     "lam_a": 1.321,
@@ -15455,28 +15455,28 @@
      ]
     },
     "team2": {
-     "elo": -23.5,
-     "delta_ovr": -3.13,
+     "elo": -36.2,
+     "delta_ovr": -4.83,
      "status": "projected",
-     "xi_mean": 81.6,
+     "xi_mean": 79.9,
      "baseline_mean": 84.7,
      "coverage": 0.91,
      "missing": [
+      {
+       "name": "Jude Bellingham",
+       "ovr": 90
+      },
       {
        "name": "Declan Rice",
        "ovr": 87
       },
       {
+       "name": "Bukayo Saka",
+       "ovr": 87
+      },
+      {
        "name": "John Stones",
        "ovr": 85
-      },
-      {
-       "name": "Ollie Watkins",
-       "ovr": 85
-      },
-      {
-       "name": "Reece James",
-       "ovr": 82
       }
      ]
     }
@@ -15498,15 +15498,15 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.271,
-    "lam_b": 1.192,
-    "p_win": 0.3662,
-    "p_draw": 0.3057,
-    "p_loss": 0.3281,
+    "lam_a": 1.264,
+    "lam_b": 1.199,
+    "p_win": 0.3627,
+    "p_draw": 0.3059,
+    "p_loss": 0.3314,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1458
+      "p": 0.1459
      },
      {
       "score": "0-0",
@@ -15514,37 +15514,37 @@
      },
      {
       "score": "1-0",
-      "p": 0.0915
+      "p": 0.0909
      },
      {
       "score": "0-1",
-      "p": 0.0847
+      "p": 0.0854
      },
      {
       "score": "2-1",
-      "p": 0.082
+      "p": 0.0816
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1458
+      "p": 0.1459
      },
      "team1": {
       "score": "1-0",
-      "p": 0.0915
+      "p": 0.0909
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0847
+      "p": 0.0854
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1458,
-    "p_advance": 0.523,
-    "p_et_win": 0.0669,
-    "p_pens": 0.1769,
-    "pen_edge": 0.508
+    "modal_p": 0.1459,
+    "p_advance": 0.5189,
+    "p_et_win": 0.0665,
+    "p_pens": 0.177,
+    "pen_edge": 0.507
    },
    "prediction_base": {
     "lam_a": 1.229,
@@ -15597,10 +15597,10 @@
    },
    "lineup": {
     "team1": {
-     "elo": -1.6,
-     "delta_ovr": -0.21,
+     "elo": -4.6,
+     "delta_ovr": -0.61,
      "status": "projected",
-     "xi_mean": 82.7,
+     "xi_mean": 82.3,
      "baseline_mean": 82.9,
      "coverage": 0.91,
      "missing": [
@@ -16032,5 +16032,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "aa1c07ac9515724ed80007846a186079bb1add22"
+ "content_hash": "64f8c00da742c87dbdc413b0cae203ede70fa1cd"
 }
