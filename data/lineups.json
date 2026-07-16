@@ -1,5 +1,5 @@
 {
- "fetched_utc": "2026-07-15T21:41:00Z",
+ "fetched_utc": "2026-07-16T04:27:00Z",
  "matches": {
   "102": {
    "team1": {
@@ -31,6 +31,74 @@
      "Enzo Fernandez",
      "Julian Alvarez",
      "Giuliano Simeone",
+     "Lionel Messi"
+    ]
+   }
+  },
+  "103": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Mike Maignan",
+     "Lucas Digne",
+     "Dayot Upamecano",
+     "Ibrahima Konate",
+     "Jules Kounde",
+     "Aurelien Tchouameni",
+     "Adrien Rabiot",
+     "Desire Doue",
+     "Michael Olise",
+     "Ousmane Dembele",
+     "Kylian Mbappe"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Jordan Pickford",
+     "Nico O'Reilly",
+     "Marc Guehi",
+     "Ezri Konsa",
+     "Djed Spence",
+     "Jude Bellingham",
+     "Elliot Anderson",
+     "Anthony Gordon",
+     "Morgan Rogers",
+     "Bukayo Saka",
+     "Harry Kane"
+    ]
+   }
+  },
+  "104": {
+   "team1": {
+    "status": "projected",
+    "xi": [
+     "Unai Simon",
+     "Marc Cucurella",
+     "Pau Cubarsi",
+     "Aymeric Laporte",
+     "Pedro Porro",
+     "Pedri",
+     "Rodri",
+     "Alex Baena",
+     "Dani Olmo",
+     "Lamine Yamal",
+     "Mikel Oyarzabal"
+    ]
+   },
+   "team2": {
+    "status": "projected",
+    "xi": [
+     "Emiliano Martinez",
+     "Nicolas Tagliafico",
+     "Cristian Romero",
+     "Lisandro Martinez",
+     "Nahuel Molina",
+     "Leandro Paredes",
+     "Enzo Fernandez",
+     "Alexis Mac Allister",
+     "Giuliano Simeone",
+     "Julian Alvarez",
      "Lionel Messi"
     ]
    }
