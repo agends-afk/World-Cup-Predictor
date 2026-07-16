@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-16T14:27:42+10:00",
- "generated_aest": "Thu 16 Jul 2026, 2:27pm AEST",
+ "generated": "2026-07-16T19:22:38+10:00",
+ "generated_aest": "Thu 16 Jul 2026, 7:22pm AEST",
  "data_through": "2026-07-15",
  "sim_runs": 10000,
  "params": {
@@ -15330,53 +15330,53 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.343,
-    "lam_b": 1.128,
-    "p_win": 0.3999,
-    "p_draw": 0.3032,
-    "p_loss": 0.2968,
+    "lam_a": 1.328,
+    "lam_b": 1.141,
+    "p_win": 0.3928,
+    "p_draw": 0.304,
+    "p_loss": 0.3032,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1446
+      "p": 0.145
      },
      {
       "score": "0-0",
-      "p": 0.1011
+      "p": 0.1014
      },
      {
       "score": "1-0",
-      "p": 0.0969
+      "p": 0.0958
      },
      {
       "score": "2-1",
-      "p": 0.086
+      "p": 0.0852
      },
      {
       "score": "0-1",
-      "p": 0.0786
+      "p": 0.0799
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1446
+      "p": 0.145
      },
      "team1": {
       "score": "1-0",
-      "p": 0.0969
+      "p": 0.0958
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0786
+      "p": 0.0799
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1446,
-    "p_advance": 0.5622,
-    "p_et_win": 0.0709,
-    "p_pens": 0.1751,
-    "pen_edge": 0.522
+    "modal_p": 0.145,
+    "p_advance": 0.5541,
+    "p_et_win": 0.0701,
+    "p_pens": 0.1756,
+    "pen_edge": 0.519
    },
    "prediction_base": {
     "lam_a": 1.321,
@@ -15429,10 +15429,10 @@
    },
    "lineup": {
     "team1": {
-     "elo": -14.6,
-     "delta_ovr": -1.95,
+     "elo": -20.6,
+     "delta_ovr": -2.75,
      "status": "projected",
-     "xi_mean": 83.6,
+     "xi_mean": 82.8,
      "baseline_mean": 85.5,
      "coverage": 0.91,
      "missing": [
@@ -15441,16 +15441,16 @@
        "ovr": 87
       },
       {
-       "name": "Theo Hernández",
-       "ovr": 87
+       "name": "Ousmane Dembélé",
+       "ovr": 86
       },
       {
-       "name": "N'Golo Kanté",
+       "name": "Jules Koundé",
        "ovr": 85
       },
       {
-       "name": "Lucas Hernández",
-       "ovr": 83
+       "name": "Aurélien Tchouaméni",
+       "ovr": 85
       }
      ]
     },
@@ -16032,5 +16032,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "153aa035dc1ca70567cb4d39309333c4ac7f8f06"
+ "content_hash": "aa1c07ac9515724ed80007846a186079bb1add22"
 }
