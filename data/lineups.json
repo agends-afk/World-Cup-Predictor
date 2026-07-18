@@ -1,37 +1,37 @@
 {
- "fetched_utc": "2026-07-17T12:17:00Z",
+ "fetched_utc": "2026-07-18T20:24:00Z",
  "matches": {
   "103": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Mike Maignan",
-     "Lucas Hernandez",
-     "Maxence Lacroix",
+     "Theo Hernandez",
      "Ibrahima Konate",
+     "Maxence Lacroix",
      "Malo Gusto",
-     "N'Golo Kante",
+     "Adrien Rabiot",
      "Warren Zaire-Emery",
-     "Bradley Barcola",
+     "Desire Doue",
      "Rayan Cherki",
-     "Ousmane Dembele",
+     "Michael Olise",
      "Kylian Mbappe"
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
-     "Jordan Pickford",
-     "Nico O'Reilly",
+     "Dean Henderson",
+     "Djed Spence",
      "Ezri Konsa",
      "Marc Guehi",
-     "Djed Spence",
-     "Kobbie Mainoo",
+     "Jarell Quansah",
      "Eberechi Eze",
+     "Declan Rice",
      "Marcus Rashford",
      "Morgan Rogers",
-     "Noni Madueke",
-     "Harry Kane"
+     "Bukayo Saka",
+     "Ivan Toney"
     ]
    }
   },
