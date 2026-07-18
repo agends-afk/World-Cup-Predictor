@@ -1,7 +1,7 @@
 {
- "generated": "2026-07-19T06:24:31+10:00",
- "generated_aest": "Sun 19 Jul 2026, 6:24am AEST",
- "data_through": "2026-07-15",
+ "generated": "2026-07-19T09:31:33+10:00",
+ "generated_aest": "Sun 19 Jul 2026, 9:31am AEST",
+ "data_through": "2026-07-18",
  "sim_runs": 10000,
  "params": {
   "alpha_wc": 0.2076,
@@ -709,7 +709,7 @@
    "p_qf": 1.0,
    "p_sf": 1.0,
    "p_final": 1.0,
-   "p_champion": 0.4892,
+   "p_champion": 0.4956,
    "p_third_q": 0.0,
    "exp_points": 7.0,
    "pos_probs": [
@@ -747,7 +747,7 @@
   },
   "France": {
    "group": "I",
-   "rating": 2206.5,
+   "rating": 2142.8,
    "adjust": -10,
    "adjust_note": "Ekitike (Achilles, rotation striker) ruled out",
    "p_r32": 1.0,
@@ -766,7 +766,7 @@
    ],
    "fifa_rank": 3,
    "fifa_points": 1870.7,
-   "model_rank": 3
+   "model_rank": 4
   },
   "Iraq": {
    "group": "I",
@@ -870,7 +870,7 @@
    "p_qf": 1.0,
    "p_sf": 1.0,
    "p_final": 1.0,
-   "p_champion": 0.5108,
+   "p_champion": 0.5044,
    "p_third_q": 0.0,
    "exp_points": 9.0,
    "pos_probs": [
@@ -1046,7 +1046,7 @@
   },
   "England": {
    "group": "L",
-   "rating": 2169.9,
+   "rating": 2233.6,
    "adjust": 0,
    "adjust_note": "",
    "p_r32": 1.0,
@@ -1065,7 +1065,7 @@
    ],
    "fifa_rank": 4,
    "fifa_points": 1828.02,
-   "model_rank": 4
+   "model_rank": 3
   },
   "Ghana": {
    "group": "L",
@@ -15327,7 +15327,7 @@
    "team2": "England",
    "slot1": "Loser Match 101",
    "slot2": "Loser Match 102",
-   "status": "scheduled",
+   "status": "played",
    "projected": false,
    "prediction": {
     "lam_a": 1.358,
@@ -15378,6 +15378,7 @@
     "p_pens": 0.1745,
     "pen_edge": 0.525
    },
+   "retrospective": false,
    "prediction_base": {
     "lam_a": 1.321,
     "lam_b": 1.147,
@@ -15480,6 +15481,13 @@
       }
      ]
     }
+   },
+   "actual": {
+    "score1": 4,
+    "score2": 6,
+    "aet": false,
+    "pens": null,
+    "outcome": "team2"
    }
   },
   {
@@ -16032,5 +16040,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "ac8eb7fe577825620f1e7a4eb66a39ffa96d61d9"
+ "content_hash": "95756de25b054692764d1db8343f998b90ff9c95"
 }

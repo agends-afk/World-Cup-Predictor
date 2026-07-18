@@ -1,6 +1,6 @@
 # World Cup 2026: match predictions
 
-Generated Sun 19 Jul 2026, 6:24am AEST. Results included through 2026-07-15. 102 of 104 matches played. 10,000 tournament simulations.
+Generated Sun 19 Jul 2026, 9:31am AEST. Results included through 2026-07-18. 103 of 104 matches played. 10,000 tournament simulations.
 
 Every probability below is a model estimate built only from match results and public squad news, not from betting odds or published predictions. A favourite can be 75% to win while its most likely exact score sits near 12 to 15%; goals spread across many scorelines, so read the two numbers separately.
 
@@ -10,8 +10,8 @@ Refresh after new results with: `python3 update.py` (regenerates this document).
 
 | Team | Group | Rating | Last 32 | Quarterfinal | Semifinal | Final | Champion |
 | - | - | - | - | - | - | - | - |
-| Argentina | J | 2312 | 100% | 100% | 100% | 100% | **51.1%** |
-| Spain | H | 2311 | 100% | 100% | 100% | 100% | **48.9%** |
+| Argentina | J | 2312 | 100% | 100% | 100% | 100% | **50.4%** |
+| Spain | H | 2311 | 100% | 100% | 100% | 100% | **49.6%** |
 | Czech Republic | A | 1756 | 0% | 0% | 0% | 0% | **0.0%** |
 | Mexico | A | 2035 | 100% | 0% | 0% | 0% | **0.0%** |
 | South Africa | A | 1706 | 100% | 0% | 0% | 0% | **0.0%** |
@@ -27,7 +27,7 @@ Refresh after new results with: `python3 update.py` (regenerates this document).
 | Australia | D | 1902 | 100% | 0% | 0% | 0% | **0.0%** |
 | Paraguay | D | 1912 | 100% | 0% | 0% | 0% | **0.0%** |
 
-Model record so far: 67/102 correct results, 12/102 exact scorelines.
+Model record so far: 67/103 correct results, 12/103 exact scorelines.
 
 ## Ratings cross-check (model vs FIFA)
 
@@ -37,8 +37,8 @@ A read-only comparison of the model's own rating order against the FIFA/Coca-Col
 | - | - | - | - | - | - |
 | 1 | Argentina | 2312 | 1 | 1877.27 | +0 |
 | 2 | Spain | 2311 | 2 | 1874.71 | +0 |
-| 3 | France | 2206 | 3 | 1870.7 | +0 |
-| 4 | England | 2170 | 4 | 1828.02 | +0 |
+| 3 | England | 2234 | 4 | 1828.02 | +1 |
+| 4 | France | 2143 | 3 | 1870.7 | -1 |
 | 5 | Colombia | 2100 | 13 | 1698.35 | +8 |
 | 6 | Portugal | 2071 | 5 | 1767.85 | -1 |
 | 7 | Belgium | 2063 | 9 | 1742.24 | +2 |
@@ -326,7 +326,7 @@ Until the groups finish, knockout pairings show the most frequent matchup across
 
 ### Third place playoff
 
-- M103, Sat 18 Jul, Miami Gardens: Loser Match 101 v Loser Match 102. **France to win 41%** (draw 30%, England win 29%); most likely France 1-0 (10%); **France to advance 57%**
+- M103, Sat 18 Jul, Miami Gardens: Loser Match 101 v Loser Match 102. **Played: France 4-6 England.** Model said France to win 41% (draw 30%, England win 29%); most likely France 1-0 (10%); result miss, score miss
 
 ### Final
 
