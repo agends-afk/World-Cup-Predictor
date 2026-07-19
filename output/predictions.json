@@ -1,7 +1,7 @@
 {
- "generated": "2026-07-20T03:26:49+10:00",
- "generated_aest": "Mon 20 Jul 2026, 3:26am AEST",
- "data_through": "2026-07-18",
+ "generated": "2026-07-20T08:28:30+10:00",
+ "generated_aest": "Mon 20 Jul 2026, 8:28am AEST",
+ "data_through": "2026-07-19",
  "sim_runs": 10000,
  "params": {
   "alpha_wc": 0.2076,
@@ -701,7 +701,7 @@
   },
   "Spain": {
    "group": "H",
-   "rating": 2311.4,
+   "rating": 2346.8,
    "adjust": -20,
    "adjust_note": "Fermin Lopez (metatarsal, 13 goals and 17 assists in 2025-26) ruled out",
    "p_r32": 1.0,
@@ -709,7 +709,7 @@
    "p_qf": 1.0,
    "p_sf": 1.0,
    "p_final": 1.0,
-   "p_champion": 0.4956,
+   "p_champion": 1.0,
    "p_third_q": 0.0,
    "exp_points": 7.0,
    "pos_probs": [
@@ -720,7 +720,7 @@
    ],
    "fifa_rank": 2,
    "fifa_points": 1874.71,
-   "model_rank": 2
+   "model_rank": 1
   },
   "Uruguay": {
    "group": "H",
@@ -862,7 +862,7 @@
   },
   "Argentina": {
    "group": "J",
-   "rating": 2312.1,
+   "rating": 2276.7,
    "adjust": 0,
    "adjust_note": "",
    "p_r32": 1.0,
@@ -870,7 +870,7 @@
    "p_qf": 1.0,
    "p_sf": 1.0,
    "p_final": 1.0,
-   "p_champion": 0.5044,
+   "p_champion": 0.0,
    "p_third_q": 0.0,
    "exp_points": 9.0,
    "pos_probs": [
@@ -881,7 +881,7 @@
    ],
    "fifa_rank": 1,
    "fifa_points": 1877.27,
-   "model_rank": 1
+   "model_rank": 2
   },
   "Austria": {
    "group": "J",
@@ -15503,7 +15503,7 @@
    "team2": "Argentina",
    "slot1": "Winner Match 101",
    "slot2": "Winner Match 102",
-   "status": "scheduled",
+   "status": "played",
    "projected": false,
    "prediction": {
     "lam_a": 1.273,
@@ -15554,6 +15554,7 @@
     "p_pens": 0.1769,
     "pen_edge": 0.508
    },
+   "retrospective": false,
    "prediction_base": {
     "lam_a": 1.229,
     "lam_b": 1.232,
@@ -15652,6 +15653,13 @@
       }
      ]
     }
+   },
+   "actual": {
+    "score1": 1,
+    "score2": 0,
+    "aet": true,
+    "pens": null,
+    "outcome": "team1"
    }
   }
  ],
@@ -16040,5 +16048,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "9e40e8b0f60080e9c397aea2577b7e4097b23ee3"
+ "content_hash": "84da1bcaead5c176dd5456d79ad484086461b1ac"
 }
