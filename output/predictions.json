@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-19T09:31:33+10:00",
- "generated_aest": "Sun 19 Jul 2026, 9:31am AEST",
+ "generated": "2026-07-20T01:17:58+10:00",
+ "generated_aest": "Mon 20 Jul 2026, 1:17am AEST",
  "data_through": "2026-07-18",
  "sim_runs": 10000,
  "params": {
@@ -15506,15 +15506,15 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.264,
-    "lam_b": 1.199,
-    "p_win": 0.3627,
-    "p_draw": 0.3059,
-    "p_loss": 0.3314,
+    "lam_a": 1.274,
+    "lam_b": 1.189,
+    "p_win": 0.3675,
+    "p_draw": 0.3057,
+    "p_loss": 0.3268,
     "top_scores": [
      {
       "score": "1-1",
-      "p": 0.1459
+      "p": 0.1458
      },
      {
       "score": "0-0",
@@ -15522,37 +15522,37 @@
      },
      {
       "score": "1-0",
-      "p": 0.0909
+      "p": 0.0917
      },
      {
       "score": "0-1",
-      "p": 0.0854
+      "p": 0.0845
      },
      {
       "score": "2-1",
-      "p": 0.0816
+      "p": 0.0822
      }
     ],
     "outcome_scores": {
      "draw": {
       "score": "1-1",
-      "p": 0.1459
+      "p": 0.1458
      },
      "team1": {
       "score": "1-0",
-      "p": 0.0909
+      "p": 0.0917
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0854
+      "p": 0.0845
      }
     },
     "modal_score": "1-1",
-    "modal_p": 0.1459,
-    "p_advance": 0.5189,
-    "p_et_win": 0.0665,
-    "p_pens": 0.177,
-    "pen_edge": 0.507
+    "modal_p": 0.1458,
+    "p_advance": 0.5246,
+    "p_et_win": 0.0671,
+    "p_pens": 0.1769,
+    "pen_edge": 0.509
    },
    "prediction_base": {
     "lam_a": 1.229,
@@ -15631,10 +15631,10 @@
      ]
     },
     "team2": {
-     "elo": -19.1,
-     "delta_ovr": -2.55,
+     "elo": -23.2,
+     "delta_ovr": -3.09,
      "status": "projected",
-     "xi_mean": 82.3,
+     "xi_mean": 81.7,
      "baseline_mean": 84.8,
      "coverage": 1.0,
      "missing": [
@@ -15645,6 +15645,10 @@
       {
        "name": "Exequiel Palacios",
        "ovr": 84
+      },
+      {
+       "name": "Nahuel Molina",
+       "ovr": 82
       },
       {
        "name": "Nicolás Otamendi",
@@ -16040,5 +16044,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "95756de25b054692764d1db8343f998b90ff9c95"
+ "content_hash": "e80da0c61cde3b6c6c2dda51717c40482056f09f"
 }

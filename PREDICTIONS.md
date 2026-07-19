@@ -1,6 +1,6 @@
 # World Cup 2026: match predictions
 
-Generated Sun 19 Jul 2026, 9:31am AEST. Results included through 2026-07-18. 103 of 104 matches played. 10,000 tournament simulations.
+Generated Mon 20 Jul 2026, 1:17am AEST. Results included through 2026-07-18. 103 of 104 matches played. 10,000 tournament simulations.
 
 Every probability below is a model estimate built only from match results and public squad news, not from betting odds or published predictions. A favourite can be 75% to win while its most likely exact score sits near 12 to 15%; goals spread across many scorelines, so read the two numbers separately.
 
@@ -330,7 +330,7 @@ Until the groups finish, knockout pairings show the most frequent matchup across
 
 ### Final
 
-- M104, Sun 19 Jul, East Rutherford: Winner Match 101 v Winner Match 102. **Spain to win 36%** (draw 31%, Argentina win 33%); most likely Spain 1-0 (9%); **Spain to advance 52%**
+- M104, Sun 19 Jul, East Rutherford: Winner Match 101 v Winner Match 102. **Spain to win 37%** (draw 31%, Argentina win 33%); most likely Spain 1-0 (9%); **Spain to advance 52%**
 
 ## Method in brief
 
