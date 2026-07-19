@@ -1,6 +1,6 @@
 {
- "generated": "2026-07-20T01:17:58+10:00",
- "generated_aest": "Mon 20 Jul 2026, 1:17am AEST",
+ "generated": "2026-07-20T03:26:49+10:00",
+ "generated_aest": "Mon 20 Jul 2026, 3:26am AEST",
  "data_through": "2026-07-18",
  "sim_runs": 10000,
  "params": {
@@ -15506,11 +15506,11 @@
    "status": "scheduled",
    "projected": false,
    "prediction": {
-    "lam_a": 1.274,
-    "lam_b": 1.189,
-    "p_win": 0.3675,
+    "lam_a": 1.273,
+    "lam_b": 1.19,
+    "p_win": 0.367,
     "p_draw": 0.3057,
-    "p_loss": 0.3268,
+    "p_loss": 0.3273,
     "top_scores": [
      {
       "score": "1-1",
@@ -15526,11 +15526,11 @@
      },
      {
       "score": "0-1",
-      "p": 0.0845
+      "p": 0.0846
      },
      {
       "score": "2-1",
-      "p": 0.0822
+      "p": 0.0821
      }
     ],
     "outcome_scores": {
@@ -15544,15 +15544,15 @@
      },
      "team2": {
       "score": "0-1",
-      "p": 0.0845
+      "p": 0.0846
      }
     },
     "modal_score": "1-1",
     "modal_p": 0.1458,
-    "p_advance": 0.5246,
+    "p_advance": 0.524,
     "p_et_win": 0.0671,
     "p_pens": 0.1769,
-    "pen_edge": 0.509
+    "pen_edge": 0.508
    },
    "prediction_base": {
     "lam_a": 1.229,
@@ -15605,9 +15605,9 @@
    },
    "lineup": {
     "team1": {
-     "elo": -4.6,
+     "elo": -9.1,
      "delta_ovr": -0.61,
-     "status": "projected",
+     "status": "confirmed",
      "xi_mean": 82.3,
      "baseline_mean": 82.9,
      "coverage": 0.91,
@@ -15631,17 +15631,13 @@
      ]
     },
     "team2": {
-     "elo": -23.2,
-     "delta_ovr": -3.09,
-     "status": "projected",
-     "xi_mean": 81.7,
+     "elo": -27.3,
+     "delta_ovr": -1.82,
+     "status": "confirmed",
+     "xi_mean": 83,
      "baseline_mean": 84.8,
      "coverage": 1.0,
      "missing": [
-      {
-       "name": "Rodrigo De Paul",
-       "ovr": 84
-      },
       {
        "name": "Exequiel Palacios",
        "ovr": 84
@@ -16044,5 +16040,5 @@
   "next_fifa_update": "2026-07-20",
   "note": "Read-only cross-check. NOT an input to the model's predictions."
  },
- "content_hash": "e80da0c61cde3b6c6c2dda51717c40482056f09f"
+ "content_hash": "9e40e8b0f60080e9c397aea2577b7e4097b23ee3"
 }

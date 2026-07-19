@@ -1,9 +1,9 @@
 {
- "fetched_utc": "2026-07-19T15:17:00Z",
+ "fetched_utc": "2026-07-19T17:26:00Z",
  "matches": {
   "104": {
    "team1": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Unai Simon",
      "Marc Cucurella",
@@ -19,19 +19,19 @@
     ]
    },
    "team2": {
-    "status": "projected",
+    "status": "confirmed",
     "xi": [
      "Emiliano Martinez",
      "Nicolas Tagliafico",
      "Cristian Romero",
      "Lisandro Martinez",
      "Gonzalo Montiel",
-     "Enzo Fernandez",
+     "Nicolas Gonzalez",
      "Alexis Mac Allister",
-     "Leandro Paredes",
-     "Julian Alvarez",
-     "Giuliano Simeone",
-     "Lionel Messi"
+     "Enzo Fernandez",
+     "Rodrigo De Paul",
+     "Lionel Messi",
+     "Julian Alvarez"
     ]
    }
   }
